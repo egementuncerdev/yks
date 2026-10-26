@@ -1,0 +1,806 @@
+# İçerik kontrol listesi — Netlik
+
+Yanlış ya da doğal olmayan bir şey görürsen not et.
+
+## Konular
+
+“Sık” = son yıllarda düzenli soru gelen konu (yayınevi analizleri; resmi değil). Hacim: 1 küçük, 2 orta, 3 büyük.
+
+### TYT Türkçe
+
+- Sözcükte Anlam (2) · **Sık**
+- Cümlede Anlam (2) · **Sık**
+- Paragraf (3) · **Sık**
+- Ses Bilgisi (1)
+- Yazım Kuralları (2) · **Sık**
+- Noktalama İşaretleri (2) · **Sık**
+- Sözcükte Yapı ve Ekler (2)
+- İsim, Sıfat ve Zamir (2)
+- Zarf, Edat, Bağlaç, Ünlem (2)
+- Fiil, Ek Fiil ve Fiilimsi (2)
+- Fiilde Çatı (1)
+- Cümlenin Ögeleri (2)
+- Cümle Türleri (1)
+- Anlatım Bozuklukları (2)
+
+### TYT Matematik
+
+- Temel Kavramlar (2)
+- Sayı Basamakları (1) · **Sık**
+- Bölme ve Bölünebilme (2) · **Sık**
+- EBOB – EKOK (1)
+- Rasyonel Sayılar (1) · **Sık**
+- Basit Eşitsizlikler (1)
+- Mutlak Değer (1) · **Sık**
+- Üslü Sayılar (2) · **Sık**
+- Köklü Sayılar (2) · **Sık**
+- Çarpanlara Ayırma (2)
+- Oran – Orantı (1)
+- Denklem Çözme (1)
+- Sayı ve Kesir Problemleri (2) · **Sık**
+- Yaş Problemleri (1) · **Sık**
+- Hareket Problemleri (2) · **Sık**
+- İşçi ve Havuz Problemleri (1) · **Sık**
+- Yüzde, Kâr – Zarar Problemleri (2) · **Sık**
+- Karışım Problemleri (1) · **Sık**
+- Grafik ve Tablo Problemleri (1) · **Sık**
+- Kümeler ve Kartezyen Çarpım (2)
+- Mantık (1) · **Sık**
+- Fonksiyonlar (2)
+- Polinomlar (2)
+- İkinci Dereceden Denklemler (2)
+- Permütasyon ve Kombinasyon (2)
+- Olasılık (2) · **Sık**
+- Veri ve İstatistik (1) · **Sık**
+- Geometri · Doğruda ve Üçgende Açılar (2) · **Sık**
+- Geometri · Dik ve Özel Üçgenler (2) · **Sık**
+- Geometri · Açıortay ve Kenarortay (1)
+- Geometri · Üçgende Alan (2) · **Sık**
+- Geometri · Üçgende Benzerlik (2) · **Sık**
+- Geometri · Çokgenler ve Dörtgenler (3) · **Sık**
+- Geometri · Çember ve Daire (2)
+- Geometri · Noktanın ve Doğrunun Analitiği (2)
+- Geometri · Katı Cisimler (2) · **Sık**
+
+### TYT Fizik
+
+- Fizik Bilimine Giriş (1)
+- Madde ve Özellikleri (1)
+- Basınç ve Kaldırma Kuvveti (2)
+- Isı, Sıcaklık ve Genleşme (2) · **Sık**
+- Hareket ve Kuvvet (2) · **Sık**
+- İş, Güç ve Enerji (2)
+- Elektrostatik (1)
+- Elektrik Akımı ve Devreler (2) · **Sık**
+- Manyetizma (1)
+- Dalgalar (2)
+- Optik (2) · **Sık**
+
+### TYT Kimya
+
+- Kimya Bilimi (1) · **Sık**
+- Atom ve Periyodik Sistem (2)
+- Kimyasal Türler Arası Etkileşimler (2) · **Sık**
+- Maddenin Halleri (2) · **Sık**
+- Doğa ve Kimya (1)
+- Kimyanın Temel Kanunları (1)
+- Mol Kavramı ve Kimyasal Hesaplamalar (2)
+- Kimyasal Tepkimeler (1)
+- Karışımlar (2) · **Sık**
+- Asitler, Bazlar ve Tuzlar (2) · **Sık**
+- Kimya Her Yerde (1)
+
+### TYT Biyoloji
+
+- Canlıların Ortak Özellikleri (1)
+- Canlıların Temel Bileşenleri (2)
+- Hücre ve Organeller (2) · **Sık**
+- Hücre Zarından Madde Geçişi (1)
+- Canlıların Sınıflandırılması (2) · **Sık**
+- Hücre Bölünmeleri (2) · **Sık**
+- Eşeysiz ve Eşeyli Üreme (1)
+- Kalıtım (2) · **Sık**
+- Ekosistem Ekolojisi (2) · **Sık**
+- Güncel Çevre Sorunları (1)
+
+### TYT Tarih
+
+- Tarih ve Zaman (1)
+- İnsanlığın İlk Dönemleri (1)
+- Orta Çağ’da Dünya (1)
+- İlk ve Orta Çağlarda Türk Dünyası (2) · **Sık**
+- İslam Medeniyetinin Doğuşu (1)
+- İlk Türk-İslam Devletleri (1) · **Sık**
+- Selçuklu Türkiyesi (1)
+- Beylikten Devlete Osmanlı (2)
+- Dünya Gücü Osmanlı (2)
+- Değişim Çağında Osmanlı ve Avrupa (2)
+- Milli Mücadele (2) · **Sık**
+- Atatürkçülük ve Türk İnkılabı (2) · **Sık**
+
+### TYT Coğrafya
+
+- Doğa ve İnsan (1)
+- Dünya’nın Şekli ve Hareketleri (1)
+- Coğrafi Konum (1)
+- Harita Bilgisi (2) · **Sık**
+- Atmosfer ve İklim (2) · **Sık**
+- İklim Tipleri (1) · **Sık**
+- Yerin Şekillenmesi (2)
+- Su, Toprak ve Bitki (1)
+- Nüfus ve Göç (2) · **Sık**
+- Yerleşme (1) · **Sık**
+- Türkiye’nin Yer Şekilleri ve İklimi (2)
+- Ekonomik Faaliyetler (1)
+- Bölgeler ve Ulaşım (1)
+- Doğal Afetler (1) · **Sık**
+
+### TYT Felsefe
+
+- Felsefeye Giriş (1) · **Sık**
+- Bilgi Felsefesi (2) · **Sık**
+- Varlık Felsefesi (1) · **Sık**
+- Ahlak Felsefesi (1) · **Sık**
+- Sanat Felsefesi (1)
+- Din Felsefesi (1)
+- Siyaset Felsefesi (1)
+- Bilim Felsefesi (1)
+
+### TYT Din Kültürü
+
+- Bilgi ve İnanç (1)
+- İslam ve İbadet (1)
+- Ahlak ve Değerler (1)
+- Allah ve İnsan İlişkisi (1)
+- Hz. Muhammed ve Gençlik (1)
+- Vahiy ve Akıl (1)
+- İslam Düşüncesinde Yorumlar (1)
+
+### AYT Matematik
+
+- Fonksiyonlar (İleri) (2) · **Sık**
+- Polinomlar ve Denklemler (2) · **Sık**
+- İkinci Dereceden Denklemler ve Eşitsizlikler (2) · **Sık**
+- Parabol (2)
+- Karmaşık Sayılar (1)
+- Permütasyon, Kombinasyon, Binom (2) · **Sık**
+- Olasılık (2) · **Sık**
+- Trigonometri (3) · **Sık**
+- Üstel ve Logaritmik Fonksiyonlar (2) · **Sık**
+- Diziler (2) · **Sık**
+- Limit ve Süreklilik (2) · **Sık**
+- Türev (3) · **Sık**
+- İntegral (3) · **Sık**
+- Geometri · Çokgenler ve Dörtgenler (Tekrar) (2)
+- Geometri · Çember ve Daire (2) · **Sık**
+- Geometri · Doğrunun Analitiği (2) · **Sık**
+- Geometri · Çemberin Analitiği (1) · **Sık**
+- Geometri · Dönüşüm Geometrisi (1)
+- Geometri · Katı Cisimler (2) · **Sık**
+
+### AYT Fizik
+
+- Vektörler ve Bağıl Hareket (2)
+- Newton’un Hareket Yasaları (2) · **Sık**
+- Bir Boyutta Sabit İvmeli Hareket (2)
+- Atışlar (2)
+- İş, Enerji ve Güç (1) · **Sık**
+- İtme ve Momentum (2) · **Sık**
+- Tork, Denge ve Kütle Merkezi (2)
+- Basit Makineler (1)
+- Elektriksel Kuvvet, Alan ve Potansiyel (2) · **Sık**
+- Paralel Levhalar ve Sığa (1)
+- Manyetizma ve Elektromanyetik İndükleme (2) · **Sık**
+- Alternatif Akım ve Transformatörler (1)
+- Çembersel Hareket (2)
+- Basit Harmonik Hareket (1) · **Sık**
+- Dalga Mekaniği (2) · **Sık**
+- Atom Fiziği ve Radyoaktivite (1)
+- Modern Fizik ve Uygulamaları (2) · **Sık**
+
+### AYT Kimya
+
+- Modern Atom Teorisi (2) · **Sık**
+- Gazlar (2) · **Sık**
+- Sıvı Çözeltiler ve Çözünürlük (2) · **Sık**
+- Kimyasal Tepkimelerde Enerji (1) · **Sık**
+- Tepkime Hızları (1) · **Sık**
+- Kimyasal Denge (2) · **Sık**
+- Asit-Baz Dengesi (2)
+- Çözünürlük Dengesi (1)
+- Kimya ve Elektrik (2) · **Sık**
+- Karbon Kimyasına Giriş (1)
+- Organik Bileşikler (3) · **Sık**
+- Enerji Kaynakları ve Bilimsel Gelişmeler (1)
+
+### AYT Biyoloji
+
+- Sinir Sistemi (2)
+- Endokrin Sistem (1) · **Sık**
+- Duyu Organları (1)
+- Destek ve Hareket Sistemi (1)
+- Sindirim Sistemi (1)
+- Dolaşım ve Bağışıklık Sistemi (2) · **Sık**
+- Solunum Sistemi (1) · **Sık**
+- Boşaltım Sistemi (1)
+- Üreme Sistemi ve Embriyonik Gelişim (1)
+- Komünite ve Popülasyon Ekolojisi (1) · **Sık**
+- Genden Proteine (3) · **Sık**
+- Canlılık ve Enerji (3) · **Sık**
+- Bitki Biyolojisi (2) · **Sık**
+- Canlılar ve Çevre (1)
+
+### AYT Türk Dili ve Edebiyatı
+
+- Anlam Bilgisi (2) · **Sık**
+- Şiir Bilgisi: Ölçü, Kafiye, Nazım Biçimleri (2) · **Sık**
+- Söz Sanatları (2) · **Sık**
+- Edebi Türler: Hikâye, Roman, Tiyatro (2)
+- Öğretici Metinler (1)
+- İslamiyet Öncesi ve Geçiş Dönemi Türk Edebiyatı (1)
+- Halk Edebiyatı (2) · **Sık**
+- Divan Edebiyatı (3) · **Sık**
+- Tanzimat Edebiyatı (2)
+- Servet-i Fünun ve Fecr-i Âti (2)
+- Milli Edebiyat (2)
+- Cumhuriyet Dönemi Şiiri (3) · **Sık**
+- Cumhuriyet Dönemi Roman ve Hikâyesi (3) · **Sık**
+- Edebi Akımlar ve Dünya Edebiyatı (1)
+
+### AYT Tarih
+
+- Tarih Bilimi ve İlk Çağ (1)
+- İlk ve Orta Çağlarda Türk Dünyası (2) · **Sık**
+- İslam Tarihi ve Türk-İslam Devletleri (2) · **Sık**
+- Selçuklu Türkiyesi (1)
+- Osmanlı Kuruluş ve Yükselme (2) · **Sık**
+- Osmanlı Kültür ve Medeniyeti (2)
+- Değişen Dünya Dengeleri ve Osmanlı (2)
+- XIX. Yüzyılda Osmanlı ve Islahatlar (2)
+- XX. Yüzyıl Başlarında Osmanlı (2)
+- Milli Mücadele (2) · **Sık**
+- Atatürkçülük ve İnkılaplar (2) · **Sık**
+- İki Savaş Arası Dönem ve II. Dünya Savaşı (2)
+- Soğuk Savaş ve Yumuşama Dönemi (2)
+- Küreselleşen Dünya (1)
+
+### AYT Coğrafya
+
+- Ekosistemler ve Madde Döngüleri (1) · **Sık**
+- Nüfus Politikaları (1)
+- Türkiye’de Nüfus ve Yerleşme (2) · **Sık**
+- Ekonomik Faaliyetler ve Doğal Kaynaklar (2) · **Sık**
+- Türkiye Ekonomisi (2) · **Sık**
+- Türkiye’de Ulaşım, Ticaret ve Turizm (1)
+- Bölgesel Kalkınma Projeleri (1)
+- Kültür Bölgeleri ve Küresel Ortam (2)
+- Ülkeler ve Bölgeler (1)
+- Çevre ve Toplum (1) · **Sık**
+
+### AYT Felsefe Grubu
+
+- Psikoloji (2)
+- Sosyoloji (2)
+- Mantık (2)
+- Felsefe Tarihi (2)
+
+### AYT Din Kültürü
+
+- Dünya ve Ahiret (1)
+- Kur’an’da Bazı Kavramlar (1)
+- İslam ve Bilim (1)
+- Anadolu’da İslam ve Tasavvufi Yorumlar (1)
+- Yaşayan Dinler (1)
+- Güncel Dini Meseleler (1)
+
+### YDT İngilizce
+
+- Kelime Bilgisi (3)
+- Tenses (2)
+- Modals (1)
+- Passive Voice (1)
+- Conditionals ve Wish (1)
+- Relative Clauses (1)
+- Noun Clauses (1)
+- Adverbial Clauses ve Bağlaçlar (2)
+- Gerund ve Infinitive (1)
+- Prepositions ve Phrasal Verbs (2)
+- Cloze Test (2)
+- Cümle Tamamlama (2)
+- Çeviri (İngilizce–Türkçe) (2)
+- Okuma Parçası (3)
+- Diyalog ve Durum (1)
+- Paragraf Tamamlama ve Anlam Bütünlüğü (2)
+
+## Elle yazılmış sorular
+
+Doğru cevap kalın.
+
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki sözcüklerden hangisinin yazımı yanlıştır?
+  - **herkez** · yalnız · yanlış · şoför · kirpik
+  - Çözüm: Doğrusu “herkes”tir.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki sözcüklerden hangisinin yazımı yanlıştır?
+  - **eşgal** · egzoz · kılavuz · orijinal · sürpriz
+  - Çözüm: Doğrusu “eşkâl”dir.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki sayılardan hangisinin yazımı yanlıştır?
+  - **altıyüz** · on beş · dört yüz elli · bin dokuz yüz · yirmi üç
+  - Çözüm: Sayılar ayrı yazılır: “altı yüz”.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki cümlelerin hangisinde “de” bağlacının yazımı yanlıştır?
+  - **Sende mi bize gelmiyorsun?** · Ben de seninle geliyorum. · Evde kimse yok. · Kardeşim de sınava hazırlanıyor. · Okulda yeni bir kütüphane açıldı.
+  - Çözüm: “de” bağlacı ayrı yazılır: “Sen de mi bize gelmiyorsun?” Diğer cümlelerdeki “-de” ekleri (evde, okulda) bitişik yazılır.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki cümlelerin hangisinde “ki”nin yazımı yanlıştır?
+  - **Öyleki herkes şaşırdı.** · Bahçedeki ağaçlar çiçek açtı. · Sanki yıllardır tanışıyorlardı. · Belki yarın gelir. · Dünkü maçı izledin mi?
+  - Çözüm: “ki” bağlacı ayrı yazılır: “öyle ki”. “Sanki, belki” kalıplaşmış, “-ki” eki (bahçedeki, dünkü) bitişiktir.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki cümlelerin hangisinde soru ekinin yazımı yanlıştır?
+  - **Bu akşam bize gelirmisin?** · Bu kitabı okudun mu? · Yarın okul var mı? · Hava güzel mi? · Sen de gelir misin?
+  - Çözüm: Soru eki “mı, mi, mu, mü” ayrı yazılır: “gelir misin?”
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki cümlelerin hangisinde büyük harf kullanımıyla ilgili bir yanlışlık vardır?
+  - **Geçen yaz ankara’ya gittik.** · Türkçe dersini çok seviyorum. · Atatürk 1881’de Selanik’te doğdu. · Annem bana bir kitap aldı. · Tatilde Antalya’ya gideceğiz.
+  - Çözüm: Şehir adları büyük harfle başlar: “Ankara’ya”.
+- **tyt-tr · Noktalama İşaretleri** — Aşağıdaki cümlelerin hangisinde kesme işareti yanlış kullanılmıştır?
+  - **Okul’a erken gittim.** · Ankara’da yaşıyorum. · Ahmet’in kitabı masada. · TBMM’nin açılış tarihi 1920’dir. · Türkiye’nin başkenti Ankara’dır.
+  - Çözüm: Kesme işareti özel adlara gelen ekleri ayırır. “Okul” cins isimdir: “Okula erken gittim.”
+- **tyt-tr · Noktalama İşaretleri** — “Şunu unutma___ çalışmadan başarı olmaz.” cümlesinde boş bırakılan yere hangi noktalama işareti getirilmelidir?
+  - **İki nokta (:)** · Noktalı virgül (;) · Virgül (,) · Nokta (.) · Üç nokta (…)
+  - Çözüm: Kendisinden sonra açıklama yapılacak cümlenin sonuna iki nokta konur.
+- **tyt-tr · Noktalama İşaretleri** — Aşağıdakilerden hangisi doğrudan bir soru cümlesinin sonuna konur?
+  - **Soru işareti (?)** · Nokta (.) · Ünlem (!) · Üç nokta (…) · Noktalı virgül (;)
+  - Çözüm: Soru bildiren cümlelerin sonuna soru işareti konur.
+- **tyt-tr · Ses Bilgisi** — Aşağıdaki sözcüklerin hangisinde ünsüz benzeşmesi (sertleşme) vardır?
+  - **kitapçı** · kalemci · evde · yağmurlu · arabada
+  - Çözüm: Sert ünsüzle (p) biten “kitap”a gelen “-cı” eki “-çı” olur: kitapçı.
+- **tyt-tr · Ses Bilgisi** — Aşağıdaki sözcüklerin hangisinde ünsüz yumuşaması vardır?
+  - **kitabı** · kitapçı · saati · taşta · sepette
+  - Çözüm: Ünlüyle başlayan ek gelince “p” “b”ye döner: kitap → kitabı. “Saat” sözcüğü ise yumuşamaya uğramaz (saati).
+- **tyt-tr · Ses Bilgisi** — Aşağıdaki sözcüklerin hangisinde ünlü düşmesi vardır?
+  - **oğlu** · kalemi · evi · kitabı · yolu
+  - Çözüm: “Oğul” sözcüğü ünlüyle başlayan ek alınca ikinci hecedeki ünlüyü düşürür: oğul → oğlu.
+- **tyt-kim · Atom ve Periyodik Sistem** — Periyodik sistemde aynı grupta yukarıdan aşağıya inildikçe atom yarıçapı genellikle nasıl değişir?
+  - **Artar** · Azalır · Değişmez · Önce azalır sonra artar · Yalnız soygazlarda artar
+  - Çözüm: Aşağı inildikçe katman (enerji düzeyi) sayısı arttığı için atom yarıçapı artar.
+- **tyt-kim · Asitler, Bazlar ve Tuzlar** — Oda koşullarında sulu çözeltisinin pH değeri 7’den küçük olan madde hangi sınıftadır?
+  - **Asit** · Baz · Nötr tuz · Saf su · Soygaz
+  - Çözüm: 25 °C’de pH < 7 asidik, pH = 7 nötr, pH > 7 bazik çözeltidir.
+- **tyt-kim · Asitler, Bazlar ve Tuzlar** — Mavi turnusol kâğıdını kırmızıya çeviren çözelti hangisidir?
+  - **Asidik çözelti** · Bazik çözelti · Saf su · Şekerli su · Alkollü su
+  - Çözüm: Asitler mavi turnusolü kırmızıya, bazlar kırmızı turnusolü maviye çevirir.
+- **tyt-kim · Karışımlar** — Aşağıdakilerden hangisi homojen bir karışımdır?
+  - **Tuzlu su** · Zeytinyağı – su · Toprak · Kum – su · Granit
+  - Çözüm: Homojen karışımın her yeri aynı özelliktedir; tuz suda tamamen çözünür. Diğerleri heterojendir.
+- **tyt-bio · Hücre ve Organeller** — Hücrede protein sentezinin gerçekleştiği yapı hangisidir?
+  - **Ribozom** · Lizozom · Koful · Golgi cisimciği · Sentrozom
+  - Çözüm: Proteinler ribozomlarda amino asitlerin birleşmesiyle sentezlenir.
+- **tyt-bio · Hücre ve Organeller** — Oksijenli solunumla ATP üretiminin büyük kısmının gerçekleştiği organel hangisidir?
+  - **Mitokondri** · Kloroplast · Ribozom · Lizozom · Koful
+  - Çözüm: Oksijenli solunumun büyük bölümü mitokondride gerçekleşir.
+- **tyt-bio · Hücre ve Organeller** — Aşağıdakilerden hangisi bitki hücresinde bulunup hayvan hücresinde bulunmaz?
+  - **Hücre duvarı** · Ribozom · Mitokondri · Hücre zarı · Çekirdek
+  - Çözüm: Selülozdan yapılmış hücre duvarı bitki hücresinde vardır; hayvan hücresinde yoktur.
+- **tyt-bio · Canlıların Temel Bileşenleri** — Aşağıdakilerden hangisi organik bir moleküldür?
+  - **Glikoz** · Su · Karbondioksit · Sodyum klorür · Oksijen gazı
+  - Çözüm: Glikoz karbon, hidrojen ve oksijenden oluşan bir karbonhidrattır; diğerleri inorganiktir.
+- **tyt-bio · Canlıların Temel Bileşenleri** — Enzimlerin büyük çoğunluğu yapıca hangi organik moleküldür?
+  - **Protein** · Karbonhidrat · Yağ · Vitamin · Mineral
+  - Çözüm: Enzimlerin büyük çoğunluğu proteindir; bu yüzden sıcaklık ve pH değişiminden etkilenirler.
+- **tyt-bio · Canlıların Sınıflandırılması** — Sınıflandırmada en küçük ve temel birim hangisidir?
+  - **Tür** · Cins · Takım · Familya · Sınıf
+  - Çözüm: Birbiriyle çiftleşip verimli yavru verebilen bireyler aynı türdendir; tür temel birimdir.
+- **tyt-bio · Ekosistem Ekolojisi** — Bir besin zincirinde bir basamaktan diğerine aktarılan enerji miktarı için hangisi doğrudur?
+  - **Her basamakta azalır** · Her basamakta artar · Bütün basamaklarda aynıdır · Yalnız tüketicilerde artar · Ayrıştırıcılarda sıfırlanır
+  - Çözüm: Enerjinin bir kısmı her basamakta solunum ve ısı olarak kaybolur; üst basamaklara giden enerji azalır.
+- **tyt-tar · İlk ve Orta Çağlarda Türk Dünyası** — “Türk” adıyla kurulan ilk Türk devleti hangisidir?
+  - **Göktürkler** · Asya Hun Devleti · Uygurlar · Karluklar · Hazarlar
+  - Çözüm: Türk adını devlet adı olarak ilk kullanan devlet Göktürklerdir (552).
+- **tyt-tar · İlk ve Orta Çağlarda Türk Dünyası** — Yerleşik hayata geçen ilk Türk devleti hangisidir?
+  - **Uygurlar** · Göktürkler · Asya Hun Devleti · Avarlar · Kırgızlar
+  - Çözüm: Uygurlar şehirler kurup tarım ve ticaretle uğraşarak yerleşik hayata geçmiştir.
+- **tyt-tar · İlk Türk-İslam Devletleri** — “Kutadgu Bilig” adlı eserin yazarı kimdir?
+  - **Yusuf Has Hacib** · Kaşgarlı Mahmud · Edip Ahmet Yükneki · Ahmet Yesevi · Nizamülmülk
+  - Çözüm: Kutadgu Bilig, Karahanlılar döneminde Yusuf Has Hacib tarafından yazılmıştır.
+- **tyt-tar · İlk Türk-İslam Devletleri** — “Divanü Lügati’t-Türk” adlı eserin yazarı kimdir?
+  - **Kaşgarlı Mahmud** · Yusuf Has Hacib · Farabi · Biruni · Ahmet Yesevi
+  - Çözüm: Divanü Lügati’t-Türk, Kaşgarlı Mahmud’un Türkçeyi Araplara öğretmek amacıyla yazdığı sözlüktür.
+- **tyt-tar · Milli Mücadele** — Manda ve himayenin ilk kez kesin olarak reddedildiği kongre hangisidir?
+  - **Erzurum Kongresi** · Sivas Kongresi · Balıkesir Kongresi · Alaşehir Kongresi · Havza Genelgesi
+  - Çözüm: Erzurum Kongresi’nde (1919) manda ve himaye kabul edilmez kararı alınmıştır.
+- **tyt-tar · Milli Mücadele** — Türkiye Büyük Millet Meclisi hangi tarihte açılmıştır?
+  - **23 Nisan 1920** · 29 Ekim 1923 · 19 Mayıs 1919 · 30 Ağustos 1922 · 24 Temmuz 1923
+  - Çözüm: TBMM 23 Nisan 1920’de Ankara’da açılmıştır.
+- **tyt-tar · Milli Mücadele** — Amasya Genelgesi’ndeki “Milletin istiklalini yine milletin azim ve kararı kurtaracaktır.” ifadesi neyi gösterir?
+  - **Milli iradeye dayalı bir kurtuluş anlayışını** · Manda ve himayenin kabul edildiğini · İstanbul Hükûmeti’ne bağlılığı · Saltanatın kaldırıldığını · Düzenli ordunun kurulduğunu
+  - Çözüm: İfade, kurtuluşun milletin kendi gücü ve kararıyla olacağını, yani milli egemenlik anlayışını yansıtır.
+- **tyt-tar · Milli Mücadele** — Sakarya Meydan Muharebesi’nden sonra TBMM tarafından Mustafa Kemal’e verilen rütbe ve unvan hangisidir?
+  - **Mareşal rütbesi ve Gazi unvanı** · Başkomutanlık · Atatürk soyadı · Paşa unvanı · Cumhurbaşkanlığı
+  - Çözüm: Sakarya zaferinden sonra (1921) Mustafa Kemal’e Mareşal rütbesi ve Gazi unvanı verilmiştir.
+- **tyt-tar · Milli Mücadele** — Lozan Barış Antlaşması hangi tarihte imzalanmıştır?
+  - **24 Temmuz 1923** · 11 Ekim 1922 · 29 Ekim 1923 · 10 Ağustos 1920 · 3 Mart 1924
+  - Çözüm: Lozan Barış Antlaşması 24 Temmuz 1923’te imzalanmıştır.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Saltanat hangi yıl kaldırılmıştır?
+  - **1922** · 1923 · 1924 · 1920 · 1926
+  - Çözüm: Saltanat 1 Kasım 1922’de kaldırılmıştır.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Halifeliğin kaldırılması ve Tevhid-i Tedrisat Kanunu’nun kabulü hangi tarihte gerçekleşmiştir?
+  - **3 Mart 1924** · 29 Ekim 1923 · 1 Kasım 1922 · 17 Şubat 1926 · 1 Kasım 1928
+  - Çözüm: Halifeliğin kaldırılması ve Tevhid-i Tedrisat Kanunu 3 Mart 1924’te kabul edilmiştir.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Türk kadınına milletvekili seçme ve seçilme hakkı hangi yıl tanınmıştır?
+  - **1934** · 1930 · 1926 · 1923 · 1946
+  - Çözüm: Kadınlara milletvekili seçme ve seçilme hakkı 5 Aralık 1934’te tanınmıştır.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Yeni Türk harfleri hangi yıl kabul edilmiştir?
+  - **1928** · 1924 · 1926 · 1932 · 1934
+  - Çözüm: Harf İnkılabı 1 Kasım 1928’de kabul edilmiştir.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Halifeliğin kaldırılması en çok hangi Atatürk ilkesiyle ilgilidir?
+  - **Laiklik** · Devletçilik · Halkçılık · Milliyetçilik · İnkılapçılık
+  - Çözüm: Halifeliğin kaldırılmasıyla din ve devlet işleri birbirinden ayrılmıştır; bu laiklikle ilgilidir.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Devletçilik ilkesi en çok hangi alanla ilgilidir?
+  - **Ekonomi** · Eğitim · Hukuk · Dış politika · Sanat
+  - Çözüm: Devletçilik, özel girişimin yetersiz kaldığı alanlarda devletin ekonomiye yatırımcı olarak girmesidir.
+- **tyt-cog · Dünya’nın Şekli ve Hareketleri** — 21 Haziran’da Kuzey Yarım Küre’de aşağıdakilerden hangisi yaşanır?
+  - **Yılın en uzun gündüzü** · Yılın en uzun gecesi · Gece ve gündüzün eşit olması · Güneş ışınlarının Oğlak Dönencesi’ne dik gelmesi · Kış mevsiminin başlaması
+  - Çözüm: 21 Haziran’da Güneş ışınları Yengeç Dönencesi’ne dik gelir; Kuzey Yarım Küre’de en uzun gündüz yaşanır ve yaz başlar.
+- **tyt-cog · Dünya’nın Şekli ve Hareketleri** — Ekvator üzerinde gece ve gündüz süreleri yıl boyunca nasıldır?
+  - **Her zaman eşittir** · Yazın gündüz uzundur · Kışın gece uzundur · Yalnız ekinoks günlerinde eşittir · Altı ay gündüz, altı ay gecedir
+  - Çözüm: Ekvator’da gece ve gündüz yıl boyunca 12’şer saattir.
+- **tyt-cog · Dünya’nın Şekli ve Hareketleri** — Mevsimlerin oluşmasının temel nedeni hangisidir?
+  - **Dünya’nın eksen eğikliği ve Güneş etrafındaki dolanımı** · Dünya’nın kendi ekseni etrafında dönmesi · Ay’ın Dünya etrafında dolanması · Dünya’nın şeklinin geoit olması · Okyanus akıntıları
+  - Çözüm: Eksen eğikliği ile yıllık hareket birleşince Güneş ışınlarının geliş açısı yıl içinde değişir ve mevsimler oluşur. Gece-gündüz ise günlük hareketin sonucudur.
+- **tyt-cog · Coğrafi Konum** — Türkiye hangi paraleller arasında yer alır?
+  - **36° – 42° Kuzey** · 26° – 45° Kuzey · 36° – 42° Güney · 30° – 36° Kuzey · 42° – 48° Kuzey
+  - Çözüm: Türkiye 36°–42° kuzey paralelleri ile 26°–45° doğu meridyenleri arasındadır.
+- **tyt-cog · Atmosfer ve İklim** — Aşağıdakilerden hangisi bir iklim elemanı değildir?
+  - **Yükselti** · Sıcaklık · Basınç · Nem · Rüzgâr
+  - Çözüm: Yükselti iklimi etkileyen bir faktördür; sıcaklık, basınç, nem, rüzgâr ve yağış iklim elemanlarıdır.
+- **tyt-cog · Türkiye’nin Yer Şekilleri ve İklimi** — Türkiye’de yıllık yağış miktarının en fazla olduğu bölge hangisidir?
+  - **Karadeniz Bölgesi** · İç Anadolu Bölgesi · Güneydoğu Anadolu Bölgesi · Ege Bölgesi · Doğu Anadolu Bölgesi
+  - Çözüm: Nemli hava kütlelerinin dağlara çarpıp yükselmesiyle en çok yağış Doğu Karadeniz kıyılarında düşer.
+- **tyt-fel · Felsefeye Giriş** — Varlık felsefesinin diğer adı hangisidir?
+  - **Ontoloji** · Epistemoloji · Etik · Estetik · Mantık
+  - Çözüm: Varlığı inceleyen felsefe dalı ontolojidir. Epistemoloji bilgi, etik ahlak, estetik sanat felsefesidir.
+- **tyt-fel · Bilgi Felsefesi** — Bilginin kaynağının akıl olduğunu savunan görüş hangisidir?
+  - **Rasyonalizm** · Empirizm · Pragmatizm · Septisizm · Pozitivizm
+  - Çözüm: Rasyonalizm (akılcılık) doğru bilginin kaynağını akıl olarak görür.
+- **tyt-fel · Bilgi Felsefesi** — İnsan zihninin doğuştan boş bir levha (tabula rasa) olduğunu savunan filozof kimdir?
+  - **John Locke** · Descartes · Platon · Kant · Leibniz
+  - Çözüm: Empirist John Locke’a göre bilgiler deneyimle edinilir; zihin doğuştan boş bir levhadır.
+- **tyt-fel · Bilgi Felsefesi** — “Düşünüyorum, öyleyse varım.” sözü hangi filozofa aittir?
+  - **Descartes** · Locke · Hume · Sokrates · Nietzsche
+  - Çözüm: Bu söz rasyonalist filozof René Descartes’a aittir.
+- **tyt-fel · Ahlak Felsefesi** — “En çok sayıda insana en çok mutluluğu sağlayan eylem doğrudur.” görüşü hangi ahlak anlayışına aittir?
+  - **Faydacılık** · Ödev ahlakı · Egoizm · Hazcılık (Epikuros) · Varoluşçuluk
+  - Çözüm: Bu ilke Bentham ve Mill’in faydacılık (utilitarizm) anlayışıdır.
+- **tyt-din · İslam ve İbadet** — Aşağıdakilerden hangisi İslam’ın beş şartından biri değildir?
+  - **Kurban kesmek** · Namaz kılmak · Oruç tutmak · Zekât vermek · Hacca gitmek
+  - Çözüm: İslam’ın şartları kelime-i şehadet, namaz, oruç, zekât ve hacdır.
+- **tyt-din · Hz. Muhammed ve Gençlik** — Hz. Muhammed’e ilk vahiy nerede gelmiştir?
+  - **Hira Mağarası** · Sevr Mağarası · Kâbe · Medine · Taif
+  - Çözüm: İlk vahiy Hira Mağarası’nda Alak suresinin ilk ayetleriyle gelmiştir.
+- **ayt-edb · Halk Edebiyatı** — Halk edebiyatında şiirlerde en çok hangi ölçü kullanılmıştır?
+  - **Hece ölçüsü** · Aruz ölçüsü · Serbest ölçü · Ölçüsüzlük · Vezn-i âher
+  - Çözüm: Halk şiirinde hece ölçüsü, Divan şiirinde aruz ölçüsü kullanılır.
+- **ayt-edb · Divan Edebiyatı** — Aşağıdakilerden hangisi Divan edebiyatına ait bir nazım biçimidir?
+  - **Gazel** · Koşma · Mani · Türkü · Semai
+  - Çözüm: Gazel ve kaside Divan edebiyatının; koşma, mani ve semai Halk edebiyatının nazım biçimleridir.
+- **ayt-edb · Divan Edebiyatı** — “Leylâ vü Mecnûn” mesnevisinin yazarı kimdir?
+  - **Fuzuli** · Baki · Nedim · Şeyh Galip · Nefi
+  - Çözüm: Leylâ vü Mecnûn, Fuzuli’nin en tanınmış mesnevisidir.
+- **ayt-edb · Divan Edebiyatı** — “Hüsn ü Aşk” mesnevisinin yazarı kimdir?
+  - **Şeyh Galip** · Fuzuli · Baki · Nedim · Nabi
+  - Çözüm: Hüsn ü Aşk, Şeyh Galip’in mesnevisidir.
+- **ayt-edb · Söz Sanatları** — İnsan dışındaki varlıklara insan özelliği verme sanatı hangisidir?
+  - **Teşhis (kişileştirme)** · Teşbih (benzetme) · Mübalağa (abartma) · Tezat (karşıtlık) · Tecahül-i arif
+  - Çözüm: Teşhis, insan dışındaki varlıklara insana ait özellikler yüklemektir.
+- **ayt-edb · Söz Sanatları** — Bir olayı gerçek nedeni dışında güzel bir nedene bağlama sanatı hangisidir?
+  - **Hüsn-i talil** · Mübalağa · Teşbih · İstiare · Kinaye
+  - Çözüm: Hüsn-i talil (güzel nedene bağlama), bir olayın gerçek nedenini bir yana bırakıp hoş bir neden göstermektir.
+- **ayt-edb · Tanzimat Edebiyatı** — Türk edebiyatında tiyatro türündeki ilk yerli eser hangisidir?
+  - **Şair Evlenmesi** · Vatan yahut Silistre · Taaşşuk-ı Talat ve Fitnat · Zavallı Çocuk · Mai ve Siyah
+  - Çözüm: Şinasi’nin “Şair Evlenmesi” (1860) ilk yerli tiyatro eseri kabul edilir.
+- **ayt-edb · Tanzimat Edebiyatı** — İlk yerli roman kabul edilen “Taaşşuk-ı Talat ve Fitnat”ın yazarı kimdir?
+  - **Şemsettin Sami** · Namık Kemal · Ahmet Mithat Efendi · Şinasi · Ziya Paşa
+  - Çözüm: Taaşşuk-ı Talat ve Fitnat (1872) Şemsettin Sami’nin eseridir.
+- **ayt-edb · Servet-i Fünun ve Fecr-i Âti** — “Aşk-ı Memnu” ve “Mai ve Siyah” romanlarının yazarı kimdir?
+  - **Halit Ziya Uşaklıgil** · Mehmet Rauf · Tevfik Fikret · Hüseyin Rahmi Gürpınar · Reşat Nuri Güntekin
+  - Çözüm: Halit Ziya, Servet-i Fünun döneminin en önemli romancısıdır.
+- **ayt-edb · Cumhuriyet Dönemi Şiiri** — Aşağıdakilerden hangisi Garip akımının kurucularındandır?
+  - **Orhan Veli Kanık** · Necip Fazıl Kısakürek · Cemal Süreya · Nazım Hikmet · Yahya Kemal Beyatlı
+  - Çözüm: Garip akımını Orhan Veli, Melih Cevdet ve Oktay Rifat başlatmıştır. Cemal Süreya İkinci Yeni şairidir.
+- **ayt-edb · Cumhuriyet Dönemi Roman ve Hikâyesi** — “İnce Memed” romanının yazarı kimdir?
+  - **Yaşar Kemal** · Orhan Kemal · Kemal Tahir · Sabahattin Ali · Fakir Baykurt
+  - Çözüm: İnce Memed, Yaşar Kemal’in romanıdır.
+- **ayt-edb · Cumhuriyet Dönemi Roman ve Hikâyesi** — “Kürk Mantolu Madonna” romanının yazarı kimdir?
+  - **Sabahattin Ali** · Yaşar Kemal · Ahmet Hamdi Tanpınar · Peyami Safa · Oğuz Atay
+  - Çözüm: Kürk Mantolu Madonna, Sabahattin Ali’nin romanıdır.
+- **ydt-ing · Conditionals ve Wish** — If I ---- rich, I would buy a house by the sea.
+  - **were** · am · will be · have been · be
+  - Çözüm: İkinci tip koşul (şimdiki zamanda gerçek dışı): If + past simple, would + V1. “To be” için tüm kişilerde “were” kullanılabilir.
+- **ydt-ing · Tenses** — She has lived in Izmir ---- 2015.
+  - **since** · for · ago · during · while
+  - Çözüm: Present perfect ile başlangıç noktası “since”, süre “for” ile verilir.
+- **ydt-ing · Tenses** — When I arrived at the station, the train ---- already ----.
+  - **had / left** · has / left · was / leaving · is / leaving · will / leave
+  - Çözüm: Geçmişteki bir olaydan (arrived) daha önce tamamlanan olay past perfect ile anlatılır.
+- **ydt-ing · Passive Voice** — This novel ---- into more than forty languages so far.
+  - **has been translated** · translated · is translating · has translated · was translating
+  - Çözüm: “So far” present perfect ister; roman çevrilen nesne olduğu için edilgen: has been translated.
+- **ydt-ing · Relative Clauses** — The scientist ---- discovery changed medicine was awarded a prize.
+  - **whose** · who · which · whom · where
+  - Çözüm: İyelik bildiren ilgi zamiri “whose”dur: bilim insanının keşfi.
+- **ydt-ing · Gerund ve Infinitive** — He decided ---- a new language this year.
+  - **to learn** · learning · learn · learned · to learning
+  - Çözüm: “Decide” fiilinden sonra “to + V1” gelir.
+- **ydt-ing · Modals** — You ---- wear a seat belt; it is the law.
+  - **must** · might · could · would · may
+  - Çözüm: Kural ve zorunluluk “must” ile anlatılır.
+- **ydt-ing · Adverbial Clauses ve Bağlaçlar** — ---- it was raining heavily, they continued the match.
+  - **Although** · Because · Unless · So that · In case
+  - Çözüm: Zıtlık bildiren “although”: yağmura rağmen maça devam ettiler.
+
+## Üretilen sorulardan örnekler
+
+Her üreticiden bir örnek; sayılar her testte değişir, cevap kodla hesaplanır.
+
+- **tyt-mat:temel-kavramlar** — a, b, c ardışık çift sayılar ve a < b < c olmak üzere a + b + c = 108 ise c kaçtır?
+  - **A) 38** · B) 40 · C) 36 · D) 39 · E) 34
+  - Çözüm: Ortadaki sayı b = 108 ÷ 3 = 36. Ardışık çift sayılarda c = b + 2 = 38.
+- **tyt-mat:temel-kavramlar** — x ve y pozitif tam sayılar ve x · y = 48 ise x + y toplamı en az kaçtır?
+  - A) 49 · B) 15 · C) 13 · D) 16 · **E) 14**
+  - Çözüm: Toplamın en küçük olması için çarpanlar birbirine en yakın seçilir: 6 · 8 = 48, toplam 14.
+- **tyt-mat:sayi-basamaklari** — AB ve BA iki basamaklı sayılardır. AB − BA = 36 ise A − B kaçtır?
+  - **A) 4** · B) 36 · C) 44 · D) 5 · E) 3
+  - Çözüm: AB − BA = (10A + B) − (10B + A) = 9(A − B) = 36 → A − B = 4. (Örnek: 73 − 37)
+- **tyt-mat:sayi-basamaklari** — AB ve BA iki basamaklı sayılardır. AB + BA = 88 ise A + B kaçtır?
+  - A) 88 · B) 16 · C) 7 · D) 9 · **E) 8**
+  - Çözüm: AB + BA = 11(A + B) = 88 → A + B = 8.
+- **tyt-mat:bolme-ve-bolunebilme** — x sayısı 8 ile bölündüğünde kalan 4 oluyor. 6x + 6 sayısı 8 ile bölündüğünde kalan kaç olur?
+  - A) 4 · B) 30 · **C) 6** · D) 7 · E) 5
+  - Çözüm: Kalanlarla işlem yapılır: 6 · 4 + 6 = 30; 30 sayısının 8 ile bölümünden kalan 6.
+- **tyt-mat:bolme-ve-bolunebilme** — Dört basamaklı 3A05 sayısı 9 ile tam bölünebiliyorsa A rakamı kaçtır? (A ≠ 9)
+  - A) 2 · B) 4 · C) 8 · **D) 1** · E) 6
+  - Çözüm: 9 ile bölünebilme için rakamlar toplamı 9’un katı olmalı: 3 + A + 0 + 5 = 8 + A → A = 1.
+- **tyt-mat:ebob-ekok** — Bir duraktan A otobüsü 15 dakikada bir, B otobüsü 16 dakikada bir kalkıyor. İkisi saat 08.00’de birlikte kalktıktan en az kaç dakika sonra yeniden birlikte kalkarlar?
+  - **A) 240** · B) 1 · C) 252 · D) 120 · E) 31
+  - Çözüm: Birlikte kalkış için iki sürenin ortak katı gerekir: EKOK(15, 16) = 240 dakika.
+- **tyt-mat:ebob-ekok** — Kenarları 16 cm ve 40 cm olan dikdörtgen biçimindeki bir kâğıt, hiç artmayacak şekilde eş karelere bölünecektir. Karenin bir kenarı en çok kaç cm olabilir?
+  - A) 4 · B) 80 · C) 24 · **D) 8** · E) 10
+  - Çözüm: Karenin kenarı iki kenarı da tam bölmeli ve en büyük olmalı: EBOB(16, 40) = 8.
+- **tyt-mat:rasyonel-sayilar** — ({3/4} + {4/5}) ÷ {1/2} işleminin sonucu kaçtır?
+  - A) {14/9} · B) {41/10} · C) {31/40} · D) {47/20} · **E) {31/10}**
+  - Çözüm: {3/4} + {4/5} = {31/20}; bölme işleminde ikinci kesir ters çevrilip çarpılır: {31/20} · 2 = {31/10}.
+- **tyt-mat:basit-esitsizlikler** — −3 < x < 6 olmak üzere x bir tam sayıdır. 3x − 5 ifadesinin alabileceği en büyük değer ile en küçük değerin toplamı kaçtır?
+  - A) 21 · B) 10 · **C) −1** · D) −11 · E) 0
+  - Çözüm: x tam sayı: en büyük x = 5, en küçük x = −2. En büyük değer 10, en küçük değer −11; toplam −1.
+- **tyt-mat:mutlak-deger** — |x − 5| = 6 denklemini sağlayan x değerlerinin toplamı kaçtır?
+  - **A) 10** · B) 5 · C) 11 · D) 6 · E) 12
+  - Çözüm: x − 5 = 6 → x = 11; x − 5 = −6 → x = −1. Toplam 10.
+- **tyt-mat:mutlak-deger** — |x − 2| ≤ 1 eşitsizliğini sağlayan kaç tane x tam sayısı vardır?
+  - A) 2 · B) 1 · **C) 3** · D) 5 · E) 4
+  - Çözüm: −1 ≤ x − 2 ≤ 1 → 1 ≤ x ≤ 3. Bu aralıkta 3 tam sayı var.
+- **tyt-mat:uslu-sayilar** — {2^{5} · 8^{3}/4^{4}} ifadesi 2’nin kaçıncı kuvvetine eşittir?
+  - A) 13 · **B) 6** · C) 4 · D) 37 · E) 22
+  - Çözüm: 8 = 2^{3}, 4 = 2^{2}: 2^{5} · 2^{9} ÷ 2^{8} = 2^{5 + 9 − 8} = 2^{6}.
+- **tyt-mat:koklu-sayilar** — √{27} + √{27} + √{48} toplamı kaçtır?
+  - A) 30 · B) 11√{3} · **C) 10√{3}** · D) √{102} · E) 9√{3}
+  - Çözüm: √{27} = 3√{3}, √{27} = 3√{3}, √{48} = 4√{3}. Toplam 10√{3}.
+- **tyt-mat:carpanlara-ayirma** — a + b = 10 ve a · b = 25 ise a² + b² kaçtır?
+  - **A) 50** · B) 100 · C) −5 · D) 150 · E) 75
+  - Çözüm: a² + b² = (a + b)² − 2ab = 100 − 50 = 50.
+- **tyt-mat:carpanlara-ayirma** — x² − y² = 63 ve x − y = 7 ise x + y kaçtır?
+  - A) 56 · B) 11 · **C) 9** · D) 14 · E) 8
+  - Çözüm: x² − y² = (x − y)(x + y) → 63 = 7 · (x + y) → x + y = 9.
+- **tyt-mat:oran-oranti** — {a/b} = {4/7} ve a + b = 66 ise b kaçtır?
+  - A) 18 · **B) 42** · C) 24 · D) 49 · E) 62
+  - Çözüm: a = 4k, b = 7k → 11k = 66 → k = 6, b = 42.
+- **tyt-mat:oran-oranti** — Aynı hızda çalışan 5 işçi bir işi 6 günde bitiriyor. Aynı işi 15 işçi kaç günde bitirir?
+  - A) −4 · B) 18 · C) 4 · **D) 2** · E) 16
+  - Çözüm: İşçi sayısı ile süre ters orantılıdır: 5 · 6 = 15 · t → t = 2.
+- **tyt-mat:denklem-cozme** — 5(x − 4) + 6 = 4x − 7 denkleminin çözümü kaçtır?
+  - A) 11 · B) −7 · C) 8 · **D) 7** · E) 6
+  - Çözüm: 5x − 20 + 6 = 4x − 7 → x = 7 → x = 7.
+- **tyt-mat:sayi-ve-kesir-problemleri** — x sayısının {2/4} ile çarpımının 14 fazlası 32 ise x kaçtır?
+  - A) 50 · B) 18 · **C) 36** · D) 64 · E) 32
+  - Çözüm: {2/4} · x + 14 = 32 → {2/4}x = 18 → x = 36.
+- **tyt-mat:yas-problemleri** — Bir annenin yaşı çocuğunun yaşının 3 katıdır. 8 yıl sonra annenin yaşı çocuğunun yaşının 2 katı olacaktır. Anne bugün kaç yaşındadır?
+  - A) 16 · **B) 24** · C) 25 · D) 8 · E) 32
+  - Çözüm: Çocuk x, anne 3x: 3x + 8 = 2(x + 8) → x = 8 → x = 8; anne 24.
+- **tyt-mat:hareket-problemleri** — Aralarında 440 km olan iki araç birbirine doğru aynı anda 60 km/sa ve 50 km/sa hızlarla yola çıkıyor. Kaç saat sonra karşılaşırlar?
+  - A) 44 · **B) 4** · C) 7,33 · D) 3 · E) 5
+  - Çözüm: Birbirine doğru hareket eden araçların yaklaşma hızı 60 + 50 = 110 km/sa. Süre = 440 ÷ 110 = 4 saat.
+- **tyt-mat:isci-ve-havuz-problemleri** — Ali bir işi tek başına 12 günde, Berk aynı işi tek başına 24 günde bitiriyor. İkisi birlikte bu işi kaç günde bitirir?
+  - **A) 8** · B) 12 · C) 18 · D) 11 · E) 36
+  - Çözüm: Bir günde yapılan iş: {1/12} + {1/24} = {36/288}. Süre = {288/36} = 8 gün.
+- **tyt-mat:yuzde-kar-zarar-problemleri** — Maliyeti 500 TL olan bir ürün %30 kârla satılıyor. Satış fiyatı kaç TL’dir?
+  - **A) 650** · B) 530 · C) 700 · D) 350 · E) 150
+  - Çözüm: Kâr = 500 · {30/100} = 150 TL. Satış fiyatı 500 + 150 = 650 TL.
+- **tyt-mat:yuzde-kar-zarar-problemleri** — Etiket fiyatı 500 TL olan bir ürüne önce %10, sonra kalan fiyat üzerinden %20 indirim yapılıyor. Ürünün son fiyatı kaç TL’dir?
+  - A) 450 · B) 350 · C) 150 · **D) 360** · E) 370
+  - Çözüm: İlk indirimden sonra 500 · {90/100} = 450 TL; ikinci indirimden sonra 450 · {80/100} = 360 TL. İndirimler toplanmaz.
+- **tyt-mat:karisim-problemleri** — Tuz oranı %30 olan 300 gram tuzlu su ile tuz oranı %25 olan 200 gram tuzlu su karıştırılıyor. Yeni karışımın tuz oranı yüzde kaçtır?
+  - A) 30 · B) 27,5 · **C) 28** · D) 55 · E) 33
+  - Çözüm: Tuz miktarları: 300 · {30/100} = 90 g ve 200 · {25/100} = 50 g. Toplam 140 g tuz, 500 g karışım → %28.
+- **tyt-mat:kumeler-ve-kartezyen-carpim** — s(A) = 9, s(B) = 10 ve s(A ∩ B) = 4 ise s(A ∪ B) kaçtır?
+  - A) 90 · **B) 15** · C) 19 · D) 23 · E) 11
+  - Çözüm: s(A ∪ B) = s(A) + s(B) − s(A ∩ B) = 9 + 10 − 4 = 15.
+- **tyt-mat:kumeler-ve-kartezyen-carpim** — 4 elemanlı bir kümenin kaç tane alt kümesi vardır?
+  - A) 8 · B) 18 · C) 17 · D) 15 · **E) 16**
+  - Çözüm: n elemanlı kümenin alt küme sayısı 2^{n}: 2^{4} = 16. (Boş küme ve kümenin kendisi de sayılır.)
+- **tyt-mat:fonksiyonlar** — f doğrusal bir fonksiyondur. f(2) = 9 ve f(5) = 21 ise f(12) kaçtır?
+  - A) 61 · B) 33 · C) 48 · **D) 49** · E) 47
+  - Çözüm: f(x) = ax + b: a = (21 − 9) ÷ (5 − 2) = 4, b = 1. f(12) = 4 · 12 + 1 = 49.
+- **tyt-mat:fonksiyonlar** — f(x) = 2x + 1 ve g(x) = 2x + 4 ise (f ∘ g)(1) kaçtır?
+  - A) 15 · B) 4 · C) 10 · D) 9 · **E) 13**
+  - Çözüm: Önce g(1) = 6, sonra f(6) = 2 · 6 + 1 = 13.
+- **tyt-mat:polinomlar** — P(x) = x³ + 0x² + ax + 1 polinomunun x − 2 ile bölümünden kalan 15 ise a kaçtır?
+  - A) 14 · B) 4 · **C) 3** · D) −3 · E) 1
+  - Çözüm: x − 2 ile bölümden kalan P(2) değeridir: 8 + 0 + 2a + 1 = 15 → a = 3.
+- **tyt-mat:ikinci-dereceden-denklemler** — x² − 8x + 16 = 0 denkleminin kökleri x₁ ve x₂ ise {1/x₁} + {1/x₂} kaçtır?
+  - **A) {1/2}** · B) 2 · C) {1/4} · D) 24 · E) {1/8}
+  - Çözüm: {1/x₁} + {1/x₂} = {x₁ + x₂/x₁ · x₂}. Kökler toplamı 8, çarpımı 16 → {1/2}.
+- **tyt-mat:permutasyon-ve-kombinasyon** — 7 kişilik bir sınıftan 3 kişilik bir temsilci grubu kaç farklı şekilde seçilebilir?
+  - **A) 35** · B) 210 · C) 36 · D) 21 · E) 70
+  - Çözüm: Sıra önemli değil: C(7, 3) = {210/6} = 35.
+- **tyt-mat:permutasyon-ve-kombinasyon** — 4 farklı kitap bir rafa yan yana dizilecektir. Belirli iki kitabın yan yana olduğu kaç farklı dizilim vardır?
+  - A) 24 · B) 13 · C) 4 · D) 6 · **E) 12**
+  - Çözüm: İki kitabı tek kitap gibi düşün: 3 nesne 3! = 6 şekilde dizilir; ikisi kendi arasında 2 şekilde yer değiştirir: 2 · 6 = 12.
+- **tyt-mat:olasilik** — Bir torbada 5 kırmızı ve 5 mavi top vardır. Torbadan rastgele çekilen bir topun kırmızı olma olasılığı kaçtır?
+  - **A) {1/2}** · B) 1 · C) {7/12} · D) {1/10} · E) {6/11}
+  - Çözüm: İstenen durum 5, bütün durumlar 10: olasılık {1/2}.
+- **tyt-mat:olasilik** — Bir torbada 4 kırmızı ve 2 mavi top vardır. Torbadan art arda, geri atılmadan iki top çekiliyor. İkisinin de kırmızı olma olasılığı kaçtır?
+  - A) {4/9} · B) {4/3} · **C) {2/5}** · D) {3/5} · E) {2/3}
+  - Çözüm: İlk çekişte {4/6}, ikincide {3/5}: çarpım {2/5}.
+- **tyt-mat:veri-ve-istatistik** — 11, 12, 13, 13, 21 veri grubunun aritmetik ortalaması ile açıklığının toplamı kaçtır?
+  - A) 14 · B) 70 · C) 27 · **D) 24** · E) 23
+  - Çözüm: Ortalama 70 ÷ 5 = 14; açıklık en büyük − en küçük = 21 − 11 = 10. Toplam 24.
+- **tyt-mat:dogruda-ve-ucgende-acilar** — Bir üçgenin iç açılarının ölçüleri 3x, 4x ve 5x’tir. En büyük açının ölçüsü kaç derecedir?
+  - A) 90 · **B) 75** · C) 15 · D) 105 · E) 45
+  - Çözüm: 3x + 4x + 5x = 180° → x = 15°. En büyük açı 5 · 15 = 75°.
+- **tyt-mat:dik-ve-ozel-ucgenler** — Dik kenarları 14 cm ve 48 cm olan dik üçgenin hipotenüsü kaç cm’dir?
+  - **A) 50** · B) 62 · C) 48 · D) 51 · E) 49
+  - Çözüm: Pisagor: 14² + 48² = 2500 = 50² → hipotenüs 50 cm.
+- **tyt-mat:ucgende-alan** — Bir kenarı 10 cm ve bu kenara ait yüksekliği 12 cm olan üçgenin alanı kaç cm²’dir?
+  - **A) 60** · B) 120 · C) 44 · D) 22 · E) 30
+  - Çözüm: Alan = {taban · yükseklik/2} = {10 · 12/2} = 60 cm².
+- **tyt-mat:ucgende-benzerlik** — Benzerlik oranı {2/4} olan iki üçgenden küçüğünün alanı 20 cm² ise büyüğünün alanı kaç cm²’dir?
+  - A) 76 · **B) 80** · C) 40 · D) 84 · E) 36
+  - Çözüm: Benzer üçgenlerde alanlar oranı benzerlik oranının karesidir: {4/16}. 20 · {16/4} = 80 cm².
+- **tyt-mat:cokgenler-ve-dortgenler** — Düzgün bir 9-genin bir iç açısı kaç derecedir?
+  - **A) 140** · B) 120 · C) 40 · D) 180 · E) 1260
+  - Çözüm: İç açılar toplamı (n − 2) · 180° = 1260°. Düzgün çokgende bir iç açı 1260 ÷ 9 = 140°.
+- **tyt-mat:cokgenler-ve-dortgenler** — 7 kenarlı bir çokgenin kaç köşegeni vardır?
+  - A) 28 · B) 7 · C) 21 · D) 4 · **E) 14**
+  - Çözüm: Köşegen sayısı {n(n − 3)/2} = {7 · 4/2} = 14.
+- **tyt-mat:cember-ve-daire** — Yarıçapı 6 cm olan bir dairenin alanı kaç cm²’dir? (π = 3 alınız)
+  - **A) 108** · B) 216 · C) 36 · D) 54 · E) 18
+  - Çözüm: Alan = πr² = 3 · 6² = 108 cm². (Çevre 2πr = 36 cm olurdu.)
+- **tyt-mat:noktanin-ve-dogrunun-analitigi** — A(0, 1) ve B(5, 13) noktaları arasındaki uzaklık kaç birimdir?
+  - A) 14 · **B) 13** · C) 17 · D) 20 · E) 169
+  - Çözüm: |AB| = √{(5)² + (12)²} = √{169} = 13.
+- **tyt-mat:noktanin-ve-dogrunun-analitigi** — A(−1, −3) ve B(3, 1) noktalarından geçen doğrunun eğimi kaçtır?
+  - A) 2 · B) −1 · C) 4 · D) 0 · **E) 1**
+  - Çözüm: Eğim = {y₂ − y₁/x₂ − x₁} = {4/4} = 1.
+- **tyt-mat:kati-cisimler** — Ayrıt uzunlukları 6 cm, 6 cm ve 6 cm olan dikdörtgenler prizmasının yüzey alanı kaç cm²’dir?
+  - A) 227 · **B) 216** · C) 108 · D) 432 · E) 72
+  - Çözüm: Yüzey alanı = 2(ab + ac + bc) = 2(36 + 36 + 36) = 216 cm². (Hacim 216 cm³ olurdu.)
+- **tyt-mat:kati-cisimler** — Bir ayrıtı 4 cm olan küpün hacmi kaç cm³’tür?
+  - A) 96 · B) 12 · C) 48 · D) 16 · **E) 64**
+  - Çözüm: Küpün hacmi a³ = 4³ = 64 cm³.
+- **ayt-mat:ustel-ve-logaritmik-fonksiyonlar** — log₂ 16 + log₃ 27 toplamı kaçtır?
+  - **A) 7** · B) 12 · C) 1 · D) 43 · E) 8
+  - Çözüm: log₂ 16 = 4 çünkü 2^{4} = 16; log₃ 27 = 3. Toplam 7.
+- **ayt-mat:ustel-ve-logaritmik-fonksiyonlar** — log x + log 10 = log 30 eşitliğini sağlayan x kaçtır?
+  - A) 30 · B) 7 · C) 300 · D) 13 · **E) 3**
+  - Çözüm: log a + log b = log(a · b): log(10x) = log(30) → 10x = 30 → x = 3.
+- **ayt-mat:diziler** — İlk terimi 2 ve ortak farkı 4 olan aritmetik dizinin 15. terimi kaçtır?
+  - A) 54 · **B) 58** · C) 62 · D) 56 · E) 30
+  - Çözüm: aₙ = a₁ + (n − 1)d = 2 + 14 · 4 = 58.
+- **ayt-mat:diziler** — İlk terimi 2, ortak farkı 1 olan aritmetik dizinin ilk 9 teriminin toplamı kaçtır?
+  - A) 90 · B) 10 · C) 55 · **D) 54** · E) 52
+  - Çözüm: Sₙ = {n · (a₁ + aₙ)/2}; aₙ = 10. S = {9 · 12/2} = 54.
+- **ayt-mat:limit-ve-sureklilik** — lim_{x → 5} {x² − 25/x − 5} değeri kaçtır?
+  - **A) 10** · B) 0 · C) 5 · D) 11 · E) 25
+  - Çözüm: Pay (x − 5)(x + 5) diye çarpanlara ayrılır, sadeleşince x + 5 kalır. x → 5 için 10.
+- **ayt-mat:turev** — f(x) = 3x³ + 0x² + x + 7 ise f′(1) kaçtır?
+  - A) 9 · B) 11 · **C) 10** · D) 17 · E) 12
+  - Çözüm: f′(x) = 9x² + 0x + 1. f′(1) = 9 + 0 + 1 = 10.
+- **ayt-mat:integral** — ∫_{0}^{3} (6x + 1) dx integralinin değeri kaçtır?
+  - A) 31 · **B) 30** · C) 19 · D) 27 · E) 57
+  - Çözüm: İlkel: 3x² + x. x = 3 ve x = 0 için farkı: 27 + 3 = 30.
+- **ayt-mat:trigonometri** — cos 0° − sin 30° ifadesinin değeri kaçtır?
+  - **A) {1/2}** · B) {3/2} · C) 1 · D) {3/4} · E) 0
+  - Çözüm: cos 0° = 1, sin 30° = {1/2}; fark {1/2}.
+- **ayt-mat:permutasyon-kombinasyon-binom** — (x + y)^{7} ifadesinin açılımında kaç terim vardır?
+  - **A) 8** · B) 6 · C) 7 · D) 128 · E) 14
+  - Çözüm: (x + y)^{n} açılımında n + 1 terim vardır: 8.
+- **ayt-mat:permutasyon-kombinasyon-binom** — (x + 1)^{4} açılımındaki katsayılar toplamı kaçtır?
+  - A) 8 · B) 2 · C) 1 · **D) 16** · E) 17
+  - Çözüm: Katsayılar toplamı için x = 1 yazılır: (1 + 1)^{4} = 16.
+- **ayt-mat:karmasik-sayilar** — i² = −1 olmak üzere i^{53} kaçtır?
+  - **A) i** · B) −i · C) 1 · D) 0 · E) −1
+  - Çözüm: iⁿ 4’lük döngüdedir. 53 = 4 · 13 + 1 → i^{53} = i^{1} = i.
+- **ayt-mat:fonksiyonlar-ileri** — f doğrusal bir fonksiyondur. f(2) = 9 ve f(5) = 21 ise f(12) kaçtır?
+  - A) 61 · B) 33 · C) 48 · **D) 49** · E) 47
+  - Çözüm: f(x) = ax + b: a = (21 − 9) ÷ (5 − 2) = 4, b = 1. f(12) = 4 · 12 + 1 = 49.
+- **ayt-mat:fonksiyonlar-ileri** — f(x) = 2x + 1 ve g(x) = 2x + 4 ise (f ∘ g)(1) kaçtır?
+  - A) 15 · B) 4 · C) 10 · D) 9 · **E) 13**
+  - Çözüm: Önce g(1) = 6, sonra f(6) = 2 · 6 + 1 = 13.
+- **ayt-mat:polinomlar-ve-denklemler** — P(x) = x³ + 0x² + ax + 1 polinomunun x − 2 ile bölümünden kalan 15 ise a kaçtır?
+  - A) 14 · B) 4 · **C) 3** · D) −3 · E) 1
+  - Çözüm: x − 2 ile bölümden kalan P(2) değeridir: 8 + 0 + 2a + 1 = 15 → a = 3.
+- **ayt-mat:ikinci-dereceden-denklemler-ve-esitsizlikler** — x² − 8x + 16 = 0 denkleminin kökleri x₁ ve x₂ ise {1/x₁} + {1/x₂} kaçtır?
+  - **A) {1/2}** · B) 2 · C) {1/4} · D) 24 · E) {1/8}
+  - Çözüm: {1/x₁} + {1/x₂} = {x₁ + x₂/x₁ · x₂}. Kökler toplamı 8, çarpımı 16 → {1/2}.
+- **ayt-mat:olasilik** — Bir torbada 5 kırmızı ve 5 mavi top vardır. Torbadan rastgele çekilen bir topun kırmızı olma olasılığı kaçtır?
+  - **A) {1/2}** · B) 1 · C) {7/12} · D) {1/10} · E) {6/11}
+  - Çözüm: İstenen durum 5, bütün durumlar 10: olasılık {1/2}.
+- **ayt-mat:olasilik** — Bir torbada 4 kırmızı ve 2 mavi top vardır. Torbadan art arda, geri atılmadan iki top çekiliyor. İkisinin de kırmızı olma olasılığı kaçtır?
+  - A) {4/9} · B) {4/3} · **C) {2/5}** · D) {3/5} · E) {2/3}
+  - Çözüm: İlk çekişte {4/6}, ikincide {3/5}: çarpım {2/5}.
+- **ayt-mat:cember-ve-daire** — Yarıçapı 6 cm olan bir dairenin alanı kaç cm²’dir? (π = 3 alınız)
+  - **A) 108** · B) 216 · C) 36 · D) 54 · E) 18
+  - Çözüm: Alan = πr² = 3 · 6² = 108 cm². (Çevre 2πr = 36 cm olurdu.)
+- **ayt-mat:dogrunun-analitigi** — A(0, 1) ve B(5, 13) noktaları arasındaki uzaklık kaç birimdir?
+  - A) 14 · **B) 13** · C) 17 · D) 20 · E) 169
+  - Çözüm: |AB| = √{(5)² + (12)²} = √{169} = 13.
+- **ayt-mat:dogrunun-analitigi** — A(−1, −3) ve B(3, 1) noktalarından geçen doğrunun eğimi kaçtır?
+  - A) 2 · B) −1 · C) 4 · D) 0 · **E) 1**
+  - Çözüm: Eğim = {y₂ − y₁/x₂ − x₁} = {4/4} = 1.
+- **ayt-mat:kati-cisimler** — Ayrıt uzunlukları 6 cm, 6 cm ve 6 cm olan dikdörtgenler prizmasının yüzey alanı kaç cm²’dir?
+  - A) 227 · **B) 216** · C) 108 · D) 432 · E) 72
+  - Çözüm: Yüzey alanı = 2(ab + ac + bc) = 2(36 + 36 + 36) = 216 cm². (Hacim 216 cm³ olurdu.)
+- **ayt-mat:kati-cisimler** — Bir ayrıtı 4 cm olan küpün hacmi kaç cm³’tür?
+  - A) 96 · B) 12 · C) 48 · D) 16 · **E) 64**
+  - Çözüm: Küpün hacmi a³ = 4³ = 64 cm³.
+- **ayt-mat:cokgenler-ve-dortgenler-tekrar** — Düzgün bir 9-genin bir iç açısı kaç derecedir?
+  - **A) 140** · B) 120 · C) 40 · D) 180 · E) 1260
+  - Çözüm: İç açılar toplamı (n − 2) · 180° = 1260°. Düzgün çokgende bir iç açı 1260 ÷ 9 = 140°.
+- **ayt-mat:cokgenler-ve-dortgenler-tekrar** — 7 kenarlı bir çokgenin kaç köşegeni vardır?
+  - A) 28 · B) 7 · C) 21 · D) 4 · **E) 14**
+  - Çözüm: Köşegen sayısı {n(n − 3)/2} = {7 · 4/2} = 14.
+- **tyt-fiz:madde-ve-ozellikleri** — Hacmi 40 cm³ olan bir cismin özkütlesi 2,5 g/cm³ ise kütlesi kaç gramdır?
+  - **A) 100** · B) 16 · C) 40 · D) 42,5 · E) 200
+  - Çözüm: m = d · V = 2,5 · 40 = 100 g.
+- **tyt-fiz:basinc-ve-kaldirma-kuvveti** — 100 N ağırlığındaki bir cisim, yere temas alanı 5 m² olan yüzeyiyle duruyor. Yere uyguladığı basınç kaç Pa’dır?
+  - **A) 20** · B) 500 · C) 95 · D) 105 · E) 10
+  - Çözüm: P = {F/A} = {100/5} = 20 Pa.
+- **tyt-fiz:basinc-ve-kaldirma-kuvveti** — Özkütlesi 1000 kg/m³ olan bir sıvının 7 m derinliğindeki sıvı basıncı kaç Pa’dır? (g = 10 N/kg)
+  - A) 7000 · B) 35000 · **C) 70000** · D) 700000 · E) 70
+  - Çözüm: P = h · d · g = 7 · 1000 · 10 = 70000 Pa.
+- **tyt-fiz:isi-sicaklik-ve-genlesme** — 250 g suyun sıcaklığını 30 °C artırmak için kaç kalori ısı gerekir? (c_{su} = 1 cal/g°C)
+  - **A) 7500** · B) 280 · C) 750 · D) 8,33 · E) 15000
+  - Çözüm: Q = m · c · ΔT = 250 · 1 · 30 = 7500 cal.
+- **tyt-fiz:hareket-ve-kuvvet** — Sabit 15 m/s hızla giden bir araç 8 saniyede kaç metre yol alır?
+  - **A) 120** · B) 23 · C) 60 · D) 1,88 · E) 240
+  - Çözüm: x = v · t = 15 · 8 = 120 m.
+- **tyt-fiz:hareket-ve-kuvvet** — Sürtünmesiz yatay düzlemde 4 kg kütleli cisme 8 N’luk net kuvvet uygulanıyor. Cismin ivmesi kaç m/s²’dir?
+  - A) 32 · B) 8 · **C) 2** · D) 3 · E) 4
+  - Çözüm: F = m · a → a = {8/4} = 2 m/s².
+- **tyt-fiz:is-guc-ve-enerji** — 5 kg kütleli bir cisim yerden 10 m yüksekliğe çıkarılıyor. Cismin kazandığı potansiyel enerji kaç J’dür? (g = 10 m/s²)
+  - **A) 500** · B) 50 · C) 5000 · D) 60 · E) 250
+  - Çözüm: E_{p} = m · g · h = 5 · 10 · 10 = 500 J.
+- **tyt-fiz:is-guc-ve-enerji** — 4 kg kütleli bir cisim 2 m/s hızla hareket ediyor. Kinetik enerjisi kaç J’dür?
+  - A) 16 · B) 9 · **C) 8** · D) 6 · E) 4
+  - Çözüm: E_{k} = {1/2} m v² = {1/2} · 4 · 4 = 8 J.
+- **tyt-fiz:elektrik-akimi-ve-devreler** — 6 Ω’luk bir dirençten 3 A akım geçiyor. Direncin uçları arasındaki potansiyel farkı kaç V’tur?
+  - **A) 18** · B) 2 · C) 3 · D) 9 · E) 36
+  - Çözüm: Ohm yasası: V = I · R = 3 · 6 = 18 V.
+- **tyt-fiz:elektrik-akimi-ve-devreler** — 4 Ω ve 4 Ω’luk iki direnç paralel bağlanıyor. Eşdeğer direnç kaç Ω’dur?
+  - A) 8 · B) 16 · C) 1 · D) 4 · **E) 2**
+  - Çözüm: Paralelde {1/R} = {1/4} + {1/4} → R = {4 · 4/4 + 4} = 2 Ω. (Seri bağlansaydı 8 Ω olurdu.)
+- **ayt-fiz:is-enerji-ve-guc** — 5 kg kütleli bir cisim yerden 10 m yüksekliğe çıkarılıyor. Cismin kazandığı potansiyel enerji kaç J’dür? (g = 10 m/s²)
+  - **A) 500** · B) 50 · C) 5000 · D) 60 · E) 250
+  - Çözüm: E_{p} = m · g · h = 5 · 10 · 10 = 500 J.
+- **ayt-fiz:is-enerji-ve-guc** — 4 kg kütleli bir cisim 2 m/s hızla hareket ediyor. Kinetik enerjisi kaç J’dür?
+  - A) 16 · B) 9 · **C) 8** · D) 6 · E) 4
+  - Çözüm: E_{k} = {1/2} m v² = {1/2} · 4 · 4 = 8 J.
+- **tyt-kim:mol-kavrami-ve-kimyasal-hesaplamalar** — 64 gram O₂ kaç moldür? (H: 1, C: 12, N: 14, O: 16, Na: 23, Mg: 24, Ca: 40)
+  - **A) 2** · B) 64 · C) 1 · D) 4 · E) 32
+  - Çözüm: O₂ için mol kütlesi 2 · 16 = 32 g/mol. n = {m/M} = {64/32} = 2 mol.
+- **tyt-kim:atom-ve-periyodik-sistem** — Atom numarası 19, kütle numarası 39 olan K atomunun çekirdeğinde kaç nötron vardır?
+  - **A) 20** · B) 58 · C) 19 · D) 21 · E) 39
+  - Çözüm: Nötron sayısı = kütle numarası − proton sayısı = 39 − 19 = 20.
+- **tyt-bio:hucre-bolunmeleri** — Vücut hücrelerinde 24 kromozom bulunan bir canlıda mayozla oluşan üreme hücrelerinin her birinde kaç kromozom bulunur?
+  - **A) 12** · B) 24 · C) 13 · D) 48 · E) 6
+  - Çözüm: Mayozda kromozom sayısı yarıya iner: 2n = 24 → n = 12.
+- **tyt-bio:kalitim** — AA × aa çaprazlamasında oluşan bir yavrunun Aa olma olasılığı kaçtır? (A, a’ya baskın; genler bağımsız)
+  - **A) 1** · B) {3/4} · C) {1/4} · D) {1/8} · E) {1/2}
+  - Çözüm: AA × aa → bütün yavrular Aa.
+- **tyt-cog:harita-bilgisi** — 1/250.000 ölçekli bir haritada iki şehir arası 7 cm ise gerçek uzaklık kaç km’dir?
+  - **A) 17,5** · B) 175 · C) 18,5 · D) 1,75 · E) 1750
+  - Çözüm: Gerçek uzaklık = 7 · 250.000 cm = 1.750.000 cm = 17,5 km (1 km = 100 000 cm).

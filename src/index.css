@@ -1,0 +1,100 @@
+@import "tailwindcss";
+@import "@fontsource-variable/geist";
+@import "@fontsource-variable/geist-mono";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* --------------------------------------------------------------------------
+   Tasarım dili: sakin ve düzenli. Tek yazı tipi (Geist), tek vurgu rengi (mürekkep mavisi),
+   ince çizgiler, gölge ve süs yok. Dikkat yalnız sıradaki işe gitsin. Koyu temada yalnız değerler değişir.
+   -------------------------------------------------------------------------- */
+:root {
+  --paper: #f6f6f2;
+  --surface: #ffffff;
+  --sunken: #ededE6;
+  --ink: #15161a;
+  --ink-2: #3c3e45;
+  --muted: #64676f;      /* zeminde 5,3:1 */
+  --line: #e1e1da;
+  --line-2: #c9c9c0;
+  --primary: #2a43cf;    /* beyaz yazıyla 6,9:1 */
+  --primary-ink: #2236ad;
+  --primary-soft: #e4e8fc;
+  --on-primary: #ffffff;
+  --mark: #ffe15c;       /* fosforlu kalem */
+  --mark-ink: #15161a;
+  --good: #1f7145;
+  --good-soft: #dcefe3;
+  --warn: #8a5200;
+  --warn-soft: #fbefd6;
+  --bad: #b42318;
+  --bad-soft: #fbe3e0;
+  color-scheme: light;
+}
+.dark {
+  --paper: #111216;
+  --surface: #18191e;
+  --sunken: #212329;
+  --ink: #ececef;
+  --ink-2: #c5c7cd;
+  --muted: #9a9ca5;
+  --line: #2a2c33;
+  --line-2: #3c3f47;
+  --primary: #8fa3ff;
+  --primary-ink: #aab9ff;
+  --primary-soft: #1d244d;
+  --on-primary: #0b1030;
+  --mark: #e6c53a;
+  --mark-ink: #15161a;
+  --good: #7ccf9d;
+  --good-soft: #17301f;
+  --warn: #f0b860;
+  --warn-soft: #34270f;
+  --bad: #f19a90;
+  --bad-soft: #3a1d1a;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --font-sans: "Geist Variable", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "Geist Mono Variable", ui-monospace, monospace;
+
+  --color-paper: var(--paper);
+  --color-surface: var(--surface);
+  --color-sunken: var(--sunken);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-line-2: var(--line-2);
+  --color-primary: var(--primary);
+  --color-primary-ink: var(--primary-ink);
+  --color-primary-soft: var(--primary-soft);
+  --color-on-primary: var(--on-primary);
+  --color-mark: var(--mark);
+  --color-mark-ink: var(--mark-ink);
+  --color-good: var(--good);
+  --color-good-soft: var(--good-soft);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+}
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; }
+  body { @apply bg-paper font-sans text-ink antialiased; font-size: 15.5px; }
+  h1, h2, h3 { text-wrap: balance; }
+  :focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
+  ::selection { background: var(--mark); color: var(--mark-ink); }
+}
+
+@layer components {
+  .display { font-weight: 600; letter-spacing: -0.022em; }
+  .eyebrow { @apply font-mono text-[11.5px] font-medium uppercase tracking-[0.08em] text-muted; }
+  .num { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}

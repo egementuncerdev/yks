@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Netlik — Ücretsiz YKS Çalışma Programı</title>
+    <meta name="description" content="Birkaç soruya cevap ver, sana özel YKS çalışma programın hazır olsun. TYT, AYT ve YDT konuları, deneme günleri ve haftalık tekrarlar. Ücretsiz, hesap gerektirmez." />
+    <meta name="theme-color" content="#f6f6f2" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#111216" media="(prefers-color-scheme: dark)" />
+    <link rel="canonical" href="https://yks.egementuncer.dev/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Netlik — Ücretsiz YKS Çalışma Programı" />
+    <meta property="og:description" content="Birkaç soruya cevap ver, sana özel YKS çalışma programın hazır olsun. Ücretsiz, hesap gerektirmez." />
+    <meta property="og:url" content="https://yks.egementuncer.dev/" />
+    <meta property="og:image" content="https://yks.egementuncer.dev/og.png" />
+    <meta property="og:locale" content="tr_TR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script>
+      try {
+        var t = localStorage.getItem('theme') || 'system';
+        var dark = t === 'dark' || (t === 'system' && matchMedia('(prefers-color-scheme: dark)').matches);
+        if (dark) document.documentElement.classList.add('dark');
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
