@@ -1,12 +1,13 @@
 import { useEffect } from 'react';
 import { Link, NavLink, Outlet, useLocation } from 'react-router';
-import { CalendarDays, CalendarRange, CircleHelp, ListChecks, Settings } from 'lucide-react';
+import { BookOpen, CalendarDays, CalendarRange, CircleHelp, ListChecks, Settings } from 'lucide-react';
 import { useProfile, useToday, daysLeft } from './data';
 
 const NAV = [
   { to: '/', label: 'Bugün', icon: CalendarDays },
   { to: '/hafta', label: 'Hafta', icon: CalendarRange },
   { to: '/konular', label: 'Konular', icon: ListChecks },
+  { to: '/anlatim', label: 'Anlatım', icon: BookOpen },
   { to: '/testler', label: 'Testler', icon: CircleHelp },
   { to: '/ayarlar', label: 'Ayarlar', icon: Settings }
 ];
@@ -42,6 +43,15 @@ export function Layout() {
               ))}
             </nav>
           )}
+          {!app && pathname !== '/kurulum' && (
+            <nav aria-label="Ana menü" className="flex items-center gap-1 text-[14.5px]">
+              {[['/anlatim', 'Konu anlatımları', 'Anlatımlar'], ['/testler', 'Testler', 'Testler']].map(([to, long, short]) => (
+                <NavLink key={to} to={to!} className={({ isActive }) => `rounded-lg px-2.5 py-2 sm:px-3 ${isActive ? 'bg-sunken font-semibold text-ink' : 'text-ink-2 hover:bg-sunken/60'}`}>
+                  <span className="hidden sm:inline">{long}</span><span className="sm:hidden">{short}</span>
+                </NavLink>
+              ))}
+            </nav>
+          )}
           {profile && (
             <p className="num rounded-full border border-line-2 px-3 py-1 text-[13px]" title={profile.examDateCustom ? 'Sınav tarihi' : 'Tahmini sınav tarihi'}>
               <span className="font-semibold">{daysLeft(profile.examDate, today)}</span> gün{!profile.examDateCustom && <span className="text-muted"> · tahmini</span>}
@@ -55,7 +65,7 @@ export function Layout() {
       </main>
 
       {app && (
-        <nav aria-label="Ana menü" className="fixed inset-x-0 bottom-0 z-30 grid grid-cols-5 border-t border-line bg-paper/95 pb-[env(safe-area-inset-bottom)] backdrop-blur md:hidden">
+        <nav aria-label="Ana menü" className="fixed inset-x-0 bottom-0 z-30 grid grid-cols-6 border-t border-line bg-paper/95 pb-[env(safe-area-inset-bottom)] backdrop-blur md:hidden">
           {NAV.map(({ to, label, icon: Icon }) => (
             <NavLink key={to} to={to} end={to === '/'} className={({ isActive }) => `flex min-h-16 flex-col items-center justify-center gap-1 text-[11.5px] font-medium ${isActive ? 'text-ink' : 'text-muted'}`}>
               {({ isActive }) => (<><Icon className={`size-5 ${isActive ? 'text-primary' : ''}`} strokeWidth={1.9} aria-hidden="true" />{label}</>)}

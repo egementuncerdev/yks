@@ -1,7 +1,7 @@
 /* Bugün: önce sıradaki görev, altında günün geri kalanı. Ek bilgi en aza indirildi. */
 import { useState } from 'react';
 import { Link } from 'react-router';
-import { Check, RefreshCcw } from 'lucide-react';
+import { BookOpen, Check, RefreshCcw } from 'lucide-react';
 import { usePlan, useProfile, useTopicStates, useToday } from '@/app/data';
 import { Button, ButtonLink, Empty, Progress, SubjectTag } from '@/components/ui';
 import { TaskRow } from './TaskRow';
@@ -11,6 +11,7 @@ import { TOPIC_BY_ID } from '@/content/subjects';
 import { subjectsFor } from '@/lib/planner';
 import { hasQuestions } from '@/content/questions';
 import { testPath } from './tests/Tests';
+import { lessonPath } from '@/content/lessons';
 
 export default function Today() {
   const profile = useProfile();
@@ -74,6 +75,7 @@ export default function Today() {
           {nextNames.length > 0 && <p className="mt-2 text-[14.5px] text-ink-2">{nextNames.join(' · ')}</p>}
           <div className="mt-5 flex flex-wrap gap-2">
             <Button onClick={() => void toggleTask(today, next.id, true)}><Check className="size-4" /> Bitirdim</Button>
+            {nextTopic && <ButtonLink to={lessonPath(nextTopic.id)} variant="secondary"><BookOpen className="size-4" /> Konu anlatımı</ButtonLink>}
             {nextTopic && hasQuestions(nextTopic.id) && <ButtonLink to={testPath(nextTopic.id)} variant="secondary">Bu konudan 10 soru</ButtonLink>}
           </div>
         </section>

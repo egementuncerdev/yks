@@ -1,4 +1,4 @@
-/* Soru metnindeki işaretleri çizer: {a/b} kesir, ^{…} üs, _{…} alt simge, √{…} kök.
+/* Soru metnindeki işaretleri çizer: {a/b} kesir, ^{…} üs, _{…} alt simge, √{…} kök, **…** kalın.
    İç içe kullanılabilir: {2^{3} · 8/4^{2}} */
 import type { ReactNode } from 'react';
 
@@ -30,6 +30,15 @@ function parse(s: string, key = 'k'): ReactNode[] {
   for (let i = 0; i < s.length; i++) {
     const c = s[i]!;
     const next = s[i + 1];
+    if (c === '*' && next === '*') {
+      const end = s.indexOf('**', i + 2);
+      if (end > i + 2) {
+        flush();
+        out.push(<strong key={`${key}-${n++}`} className="font-semibold text-ink">{parse(s.slice(i + 2, end), `${key}${n}b`)}</strong>);
+        i = end + 1;
+        continue;
+      }
+    }
     if ((c === '^' || c === '_' || c === '√') && next === '{') {
       const end = close(s, i + 1);
       if (end < 0) { buf += c; continue; }

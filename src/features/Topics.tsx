@@ -9,6 +9,7 @@ import type { TopicStatus } from '@/types';
 import { Link } from 'react-router';
 import { hasQuestions } from '@/content/questions';
 import { testPath } from './tests/Tests';
+import { lessonPath } from '@/content/lessons';
 
 const STATUS: { v: TopicStatus; t: string }[] = [
   { v: 'todo', t: 'Yapılacak' }, { v: 'doing', t: 'Çalışıyorum' }, { v: 'weak', t: 'Zorlandım' }, { v: 'done', t: 'Bitti' }
@@ -34,7 +35,7 @@ export default function Topics() {
     <div className="mx-auto max-w-2xl">
       <header className="mb-6">
         <h1 className="display text-[1.75rem] leading-tight">Konular</h1>
-        <p className="mt-1 text-ink-2">Bildiğin konuyu “Bitti” yap, zorlandığını “Zorlandım”. Program buna göre düzenlenir.</p>
+        <p className="mt-1 text-ink-2">Bildiğin konuyu “Bitti” yap, zorlandığını “Zorlandım”. Program buna göre düzenlenir. Konunun adına dokunursan anlatımı açılır.</p>
       </header>
 
       {outdated && (
@@ -75,7 +76,7 @@ export default function Topics() {
               {header && <p className="bg-sunken px-4 py-1.5 text-[12.5px] font-medium text-muted">{header}</p>}
               <div className="flex flex-wrap items-center justify-between gap-3 px-4 py-3">
                 <span className="flex min-w-0 items-center gap-2">
-                  <span className={st?.status === 'done' ? 'text-muted line-through' : ''}>{t.name}</span>
+                  <Link to={lessonPath(t.id)} className={`hover:underline hover:decoration-line-2 hover:underline-offset-4 ${st?.status === 'done' ? 'text-muted line-through' : ''}`}>{t.name}</Link>
                   {t.frequent && <span className="rounded border border-line-2 px-1.5 text-[11px] font-medium text-ink-2" title="Son yıllarda düzenli soru gelen konu">Sık</span>}
                 </span>
                 <span className="flex items-center gap-2">

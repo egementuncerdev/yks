@@ -7,7 +7,7 @@ import { ButtonLink, Empty } from '@/components/ui';
 import { subjectsFor } from '@/lib/planner';
 import { db } from '@/lib/storage';
 import { questionCount, topicsWithQuestions } from '@/content/questions';
-import { RESOURCES } from '@/content/subjects';
+import { RESOURCES, SUBJECTS } from '@/content/subjects';
 
 export const testPath = (source: string) => `/testler/${encodeURIComponent(source)}`;
 
@@ -17,9 +17,10 @@ export default function Tests() {
   const navigate = useNavigate();
   const attempts = useLiveQuery(() => db.attempts.toArray(), [], []);
   const wrongCount = useLiveQuery(() => db.wrongs.count(), [], 0);
-  const subjects = useMemo(() => (profile ? subjectsFor(profile).filter((s) => topicsWithQuestions(s.id).length) : []), [profile]);
+  /* Program kurulmamışsa bütün dersler; kurulmuşsa önce öğrencinin dersleri */
+  const subjects = useMemo(() => (profile ? subjectsFor(profile) : SUBJECTS).filter((s) => topicsWithQuestions(s.id).length), [profile]);
   const [sid, setSid] = useState('');
-  if (!profile) return null;
+  if (profile === undefined) return null;
   if (!subjects.length) return <Empty title="Henüz soru yok" text="Puan türündeki dersler için sorular hazırlanıyor." />;
 
   const s = subjects.find((x) => x.id === sid) ?? subjects[0]!;
@@ -72,7 +73,11 @@ export default function Tests() {
       <p className="mt-6 text-sm text-ink-2">Gerçek sınav soruları için MEB’in çıkmış soru arşivleri:{' '}
         {RESOURCES.map((r, i) => <span key={r.url}>{i > 0 && ' · '}<a className="text-primary-ink underline decoration-line-2 underline-offset-4" href={r.url} target="_blank" rel="noopener">{r.name}<span className="sr-only"> (yeni sekmede açılır)</span></a></span>)}
       </p>
-      <p className="mt-2 text-sm text-muted"><Link to="/konular" className="underline decoration-line-2 underline-offset-4">Konular</Link> sayfasında hangi konunun bittiğini işaretleyebilirsin; karışık test önce biten konulardan soru seçer.</p>
+      {profile ? (
+        <p className="mt-2 text-sm text-muted"><Link to="/konular" className="underline decoration-line-2 underline-offset-4">Konular</Link> sayfasında hangi konunun bittiğini işaretleyebilirsin; karışık test önce biten konulardan soru seçer.</p>
+      ) : (
+        <p className="mt-2 text-sm text-muted">Gün gün çalışma programı için <Link to="/kurulum" className="underline decoration-line-2 underline-offset-4">birkaç soruya cevap ver</Link>; testler programındaki konulara göre sıralanır.</p>
+      )}
     </div>
   );
 }

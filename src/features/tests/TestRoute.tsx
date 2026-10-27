@@ -4,6 +4,8 @@ import { useNavigate, useParams } from 'react-router';
 import { ArrowLeft } from 'lucide-react';
 import { Link } from 'react-router';
 import { Empty, ButtonLink } from '@/components/ui';
+import { TOPIC_BY_ID } from '@/content/subjects';
+import { lessonPath } from '@/content/lessons';
 import { questionById, questionsFor, topicsWithQuestions, type Question } from '@/content/questions';
 import { db } from '@/lib/storage';
 import { Runner } from './Runner';
@@ -41,7 +43,10 @@ export default function TestRoute() {
 
   return (
     <div className="mx-auto max-w-2xl">
-      <Link to="/testler" className="mb-6 inline-flex items-center gap-1.5 text-sm text-muted hover:text-ink"><ArrowLeft className="size-4" /> Testler</Link>
+      <div className="mb-6 flex items-center justify-between gap-3">
+        <Link to="/testler" className="inline-flex items-center gap-1.5 text-sm text-muted hover:text-ink"><ArrowLeft className="size-4" /> Testler</Link>
+        {TOPIC_BY_ID[source] && <Link to={lessonPath(source)} className="text-sm text-primary-ink underline decoration-line-2 underline-offset-4">Konu anlatımı</Link>}
+      </div>
       {qs === null ? <p className="py-16 text-center text-muted" role="status">Sorular hazırlanıyor…</p>
         : qs.length === 0 ? <Empty title={source === 'wrongs' ? 'Yanlış listen boş' : 'Bu konu için soru yok'} text={source === 'wrongs' ? 'Testlerde yanlış yaptığın ya da boş bıraktığın sorular burada birikir.' : undefined} action={<ButtonLink to="/testler">Testlere dön</ButtonLink>} />
         : <Runner key={run} questions={qs} source={source} onDone={() => navigate('/testler')} onRestart={() => setRun((r) => r + 1)} />}

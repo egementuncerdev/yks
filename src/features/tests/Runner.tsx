@@ -6,6 +6,8 @@ import { Button, Progress } from '@/components/ui';
 import { MathText } from '@/components/MathText';
 import { LETTERS } from '@/content/questions/core';
 import { topicName, type Question } from '@/content/questions';
+import { lessonPath } from '@/content/lessons';
+import { Link } from 'react-router';
 import { saveAttempt, type AnswerRecord } from '@/lib/storage';
 
 type Rec = AnswerRecord & { picked: number | null; q: Question };
@@ -67,7 +69,10 @@ export function Runner({ questions, source, onDone, onRestart }: { questions: Qu
             <ol className="divide-y divide-line rounded-2xl border border-line bg-surface">
               {missed.map((r) => (
                 <li key={r.qid} className="px-4 py-4">
-                  <p className="text-sm text-muted">{topicName(r.topicId)} · {r.result === 'empty' ? 'boş' : `senin cevabın ${LETTERS[r.picked!]}`}</p>
+                  <p className="flex flex-wrap items-baseline justify-between gap-x-3 text-sm text-muted">
+                    <span>{topicName(r.topicId)} · {r.result === 'empty' ? 'boş' : `senin cevabın ${LETTERS[r.picked!]}`}</span>
+                    <Link to={lessonPath(r.topicId)} className="text-primary-ink underline decoration-line-2 underline-offset-4">Konuyu tekrar et<span className="sr-only">: {topicName(r.topicId)}</span></Link>
+                  </p>
                   <p className="mt-1 whitespace-pre-line"><MathText text={r.q.stem} /></p>
                   <p className="mt-2 text-[15px]"><span className="font-medium text-good">Doğru cevap {LETTERS[r.q.answer]}) </span><MathText text={r.q.options[r.q.answer]!} /></p>
                   <p className="mt-1 text-[14.5px] text-ink-2"><MathText text={r.q.solution} /></p>
