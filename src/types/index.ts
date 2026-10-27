@@ -71,3 +71,15 @@ export interface Attempt {
 }
 /** Yanlış yapılan ya da boş bırakılan soru: doğru çözülene kadar listede kalır */
 export interface WrongItem { qid: string; topicId: string; at: string; times: number }
+
+/** Dışarıda çözülen deneme sınavının sonucu (öğrenci girer) */
+export interface DenemeResult { c: number; w: number }
+export interface Deneme {
+  id?: number;
+  date: string;
+  exam: import('@/content/exam').ExamId;
+  /** yayınevi ya da deneme adı (isteğe bağlı) */
+  name: string;
+  results: Partial<Record<TestId, DenemeResult>>;
+  createdAt: string;
+}

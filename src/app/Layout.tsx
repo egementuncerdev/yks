@@ -37,7 +37,7 @@ export function Layout() {
           {app && (
             <nav aria-label="Ana menü" className="hidden items-center gap-1 md:flex">
               {NAV.map(({ to, label, icon: Icon }) => (
-                <NavLink key={to} to={to} end={to === '/'} className={({ isActive }) => `flex items-center gap-2 rounded-lg px-3 py-2 text-[14.5px] ${isActive ? 'bg-sunken font-semibold text-ink' : 'text-ink-2 hover:bg-sunken/60'}`}>
+                <NavLink key={to} to={to} end={to === '/'} className={({ isActive }) => `flex items-center gap-2 rounded-lg px-3 py-2 text-[14.5px] ${isActive || (to === '/testler' && pathname.startsWith('/denemeler')) ? 'bg-sunken font-semibold text-ink' : 'text-ink-2 hover:bg-sunken/60'}`}>
                   <Icon className="size-4" strokeWidth={1.9} aria-hidden="true" />{label}
                 </NavLink>
               ))}
@@ -45,8 +45,8 @@ export function Layout() {
           )}
           {!app && pathname !== '/kurulum' && (
             <nav aria-label="Ana menü" className="flex items-center gap-1 text-[14.5px]">
-              {[['/anlatim', 'Konu anlatımları', 'Anlatımlar'], ['/testler', 'Testler', 'Testler']].map(([to, long, short]) => (
-                <NavLink key={to} to={to!} className={({ isActive }) => `rounded-lg px-2.5 py-2 sm:px-3 ${isActive ? 'bg-sunken font-semibold text-ink' : 'text-ink-2 hover:bg-sunken/60'}`}>
+              {[['/anlatim', 'Konu anlatımları', 'Anlatımlar'], ['/testler', 'Testler ve denemeler', 'Testler']].map(([to, long, short]) => (
+                <NavLink key={to} to={to!} className={({ isActive }) => `rounded-lg px-2.5 py-2 sm:px-3 ${isActive || (to === '/testler' && pathname.startsWith('/denemeler')) ? 'bg-sunken font-semibold text-ink' : 'text-ink-2 hover:bg-sunken/60'}`}>
                   <span className="hidden sm:inline">{long}</span><span className="sm:hidden">{short}</span>
                 </NavLink>
               ))}
@@ -67,8 +67,8 @@ export function Layout() {
       {app && (
         <nav aria-label="Ana menü" className="fixed inset-x-0 bottom-0 z-30 grid grid-cols-6 border-t border-line bg-paper/95 pb-[env(safe-area-inset-bottom)] backdrop-blur md:hidden">
           {NAV.map(({ to, label, icon: Icon }) => (
-            <NavLink key={to} to={to} end={to === '/'} className={({ isActive }) => `flex min-h-16 flex-col items-center justify-center gap-1 text-[11.5px] font-medium ${isActive ? 'text-ink' : 'text-muted'}`}>
-              {({ isActive }) => (<><Icon className={`size-5 ${isActive ? 'text-primary' : ''}`} strokeWidth={1.9} aria-hidden="true" />{label}</>)}
+            <NavLink key={to} to={to} end={to === '/'} className={({ isActive }) => `flex min-h-16 flex-col items-center justify-center gap-1 text-[11.5px] font-medium ${isActive || (to === '/testler' && pathname.startsWith('/denemeler')) ? 'text-ink' : 'text-muted'}`}>
+              {({ isActive }) => (<><Icon className={`size-5 ${isActive || (to === '/testler' && pathname.startsWith('/denemeler')) ? 'text-primary' : ''}`} strokeWidth={1.9} aria-hidden="true" />{label}</>)}
             </NavLink>
           ))}
         </nav>

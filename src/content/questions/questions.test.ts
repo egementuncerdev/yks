@@ -71,3 +71,20 @@ describe('ipuçları', () => {
     });
   });
 });
+
+describe('mini deneme', () => {
+  it('her tür için soru sayısı, test etiketi ve süre tutarlı', async () => {
+    const { MINI_KINDS, buildMini, miniTests, miniMinutes } = await import('./mini');
+    for (const k of MINI_KINDS) {
+      const want = miniTests(k.id).reduce((a, t) => a + t.parts.reduce((b, p) => b + p.q, 0), 0);
+      for (const seed of [1, 2, 3]) {
+        const qs = buildMini(k.id, seed);
+        expect(qs.length, k.id).toBe(want);
+        expect(new Set(qs.map((q) => q.id)).size, k.id).toBe(qs.length);
+        expect(qs.every((q) => miniTests(k.id).some((t) => t.id === q.testId)), k.id).toBe(true);
+      }
+      expect(miniMinutes(k.id)).toBeGreaterThan(9);
+    }
+    expect(miniMinutes('tyt')).toBe(40);
+  });
+});

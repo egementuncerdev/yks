@@ -8,6 +8,7 @@ import { subjectsFor } from '@/lib/planner';
 import { db } from '@/lib/storage';
 import { questionCount, topicsWithQuestions } from '@/content/questions';
 import { RESOURCES, SUBJECTS } from '@/content/subjects';
+import { TestTabs } from './TestTabs';
 
 export const testPath = (source: string) => `/testler/${encodeURIComponent(source)}`;
 
@@ -29,6 +30,7 @@ export default function Tests() {
 
   return (
     <div className="mx-auto max-w-2xl">
+      <TestTabs />
       <header className="mb-6">
         <h1 className="display text-[1.75rem] leading-tight">Testler</h1>
         <p className="mt-1 text-ink-2">Konu konu kısa testler. Her sorunun çözümü var; yanlışların ayrı listede birikir.</p>

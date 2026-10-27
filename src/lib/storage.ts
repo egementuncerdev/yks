@@ -1,6 +1,7 @@
 /* IndexedDB (Dexie). Bileşenler yalnız bu dosyadaki fonksiyonları kullanır. */
 import Dexie, { type EntityTable } from 'dexie';
-import type { Attempt, Plan, Profile, Task, TopicState, TopicStatus, WrongItem } from '@/types';
+import type { Attempt, Deneme, Plan, Profile, Task, TopicState, TopicStatus, WrongItem } from '@/types';
+import { denemeNets } from './deneme';
 import { applyToggle, buildPlan } from './planner';
 import { dayKey } from './dates';
 
@@ -10,10 +11,12 @@ export class YksDB extends Dexie {
   plan!: EntityTable<Plan, 'id'>;
   attempts!: EntityTable<Attempt, 'id'>;
   wrongs!: EntityTable<WrongItem, 'qid'>;
+  denemeler!: EntityTable<Deneme, 'id'>;
   constructor(name = 'netlik') {
     super(name);
     this.version(1).stores({ profile: 'id', topics: 'topicId, status', plan: 'id' });
     this.version(2).stores({ attempts: '++id, source, date', wrongs: 'qid, topicId' });
+    this.version(3).stores({ denemeler: '++id, date, exam' });
   }
 }
 
@@ -78,7 +81,7 @@ export async function saveAttempt(source: string, answers: AnswerRecord[], d: Yk
         await d.wrongs.put({ qid: a.qid, topicId: a.topicId, at, times: (prev?.times ?? 0) + 1 });
       }
     }
-    if (!source.includes(':') || source.startsWith('mix:') || source === 'wrongs') return;
+    if (!source.includes(':') || source.startsWith('mix:') || source.startsWith('deneme:') || source === 'wrongs') return;
     const st = await d.topics.get(source);
     if (answers.length >= 5 && count('correct') / answers.length < 0.5 && st?.status !== 'done' && st?.status !== 'weak') {
       await d.topics.put({ topicId: source, status: 'weak', doneSessions: st?.doneSessions ?? 0, updatedAt: at });
@@ -88,11 +91,24 @@ export async function saveAttempt(source: string, answers: AnswerRecord[], d: Yk
   return { markedWeak };
 }
 
+/* ---- Denemeler ---- */
+export async function addDeneme(x: Omit<Deneme, 'id' | 'createdAt'>, d: YksDB = db) {
+  return d.denemeler.add({ ...x, createdAt: new Date().toISOString() });
+}
+export const deleteDeneme = (id: number, d: YksDB = db) => d.denemeler.delete(id);
+
+/** Denemenin netlerini profile yaz (planlamada derslerin ağırlığını etkiler) ve programı yeniden kur */
+export async function applyDenemeToProfile(x: Deneme, d: YksDB = db, on = today()) {
+  const p = await d.profile.get('me');
+  if (!p) return;
+  await saveProfile({ ...p, nets: { ...p.nets, ...denemeNets(x) } }, d, on);
+}
+
 /* ---- Yedek ---- */
-export interface Backup { app: 'netlik'; version: 1; exportedAt: string; profile: Profile | null; topics: TopicState[]; plan: Plan | null; attempts?: Attempt[]; wrongs?: WrongItem[] }
+export interface Backup { app: 'netlik'; version: 1; exportedAt: string; profile: Profile | null; topics: TopicState[]; plan: Plan | null; attempts?: Attempt[]; wrongs?: WrongItem[]; denemeler?: Deneme[] }
 
 export async function exportData(d: YksDB = db): Promise<Backup> {
-  return { app: 'netlik', version: 1, exportedAt: new Date().toISOString(), profile: (await d.profile.get('me')) ?? null, topics: await d.topics.toArray(), plan: (await d.plan.get('current')) ?? null, attempts: await d.attempts.toArray(), wrongs: await d.wrongs.toArray() };
+  return { app: 'netlik', version: 1, exportedAt: new Date().toISOString(), profile: (await d.profile.get('me')) ?? null, topics: await d.topics.toArray(), plan: (await d.plan.get('current')) ?? null, attempts: await d.attempts.toArray(), wrongs: await d.wrongs.toArray(), denemeler: await d.denemeler.toArray() };
 }
 
 export class BackupError extends Error {}
@@ -108,16 +124,17 @@ export function validateBackup(x: unknown): Backup {
 
 export async function importData(raw: unknown, d: YksDB = db) {
   const b = validateBackup(raw);
-  await d.transaction('rw', [d.profile, d.topics, d.plan, d.attempts, d.wrongs], async () => {
-    await Promise.all([d.profile.clear(), d.topics.clear(), d.plan.clear(), d.attempts.clear(), d.wrongs.clear()]);
+  await d.transaction('rw', [d.profile, d.topics, d.plan, d.attempts, d.wrongs, d.denemeler], async () => {
+    await Promise.all([d.profile.clear(), d.topics.clear(), d.plan.clear(), d.attempts.clear(), d.wrongs.clear(), d.denemeler.clear()]);
     if (b.profile) await d.profile.put(b.profile);
     await d.topics.bulkPut(b.topics);
     if (b.plan) await d.plan.put(b.plan);
     if (Array.isArray(b.attempts)) await d.attempts.bulkPut(b.attempts);
     if (Array.isArray(b.wrongs)) await d.wrongs.bulkPut(b.wrongs);
+    if (Array.isArray(b.denemeler)) await d.denemeler.bulkPut(b.denemeler.filter((x) => x && typeof x.date === 'string' && x.results && typeof x.results === 'object'));
   });
 }
 
 export async function resetAll(d: YksDB = db) {
-  await Promise.all([d.profile.clear(), d.topics.clear(), d.plan.clear(), d.attempts.clear(), d.wrongs.clear()]);
+  await Promise.all([d.profile.clear(), d.topics.clear(), d.plan.clear(), d.attempts.clear(), d.wrongs.clear(), d.denemeler.clear()]);
 }

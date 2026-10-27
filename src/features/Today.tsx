@@ -76,6 +76,8 @@ export default function Today() {
           <div className="mt-5 flex flex-wrap gap-2">
             <Button onClick={() => void toggleTask(today, next.id, true)}><Check className="size-4" /> Bitirdim</Button>
             {nextTopic && <ButtonLink to={lessonPath(nextTopic.id)} variant="secondary"><BookOpen className="size-4" /> Konu anlatımı</ButtonLink>}
+            {next.kind === 'exam' && <ButtonLink to={`/denemeler?ekle=${next.title.startsWith('AYT') ? 'ayt' : next.title.startsWith('YDT') ? 'ydt' : 'tyt'}`} variant="secondary">Sonucunu gir</ButtonLink>}
+            {next.kind === 'analysis' && <ButtonLink to="/denemeler" variant="secondary">Gelişimini gör</ButtonLink>}
             {nextTopic && hasQuestions(nextTopic.id) && <ButtonLink to={testPath(nextTopic.id)} variant="secondary">Bu konudan 10 soru</ButtonLink>}
           </div>
         </section>

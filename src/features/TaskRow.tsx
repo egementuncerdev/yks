@@ -1,5 +1,6 @@
 /* Program görevi satırı: işaretleme, konu bilgisi, "zorlandım" */
 import { Check, Flag } from 'lucide-react';
+import { Link } from 'react-router';
 import { SUBJECT_BY_ID, TOPIC_BY_ID } from '@/content/subjects';
 import { SubjectTag } from '@/components/ui';
 import { setTopicStatus, toggleTask } from '@/lib/storage';
@@ -29,6 +30,7 @@ export function TaskRow({ date, task, state, compact = false }: { date: string; 
             <span>{KIND[task.kind]}</span>
             {topic?.frequent && <span className="rounded border border-line-2 px-1.5 text-[11px] font-medium text-ink-2" title="Son yıllarda düzenli soru gelen konu">Sık</span>}
             {weak && <span className="text-warn">Zorlandım</span>}
+            {task.kind === 'exam' && <Link to={`/denemeler?ekle=${task.title.slice(0, 3).toLowerCase()}`} className="text-primary-ink underline decoration-line-2 underline-offset-4">Sonucu gir</Link>}
           </p>
         )}
         {!compact && names.length > 0 && <p className="mt-1 text-[13px] text-ink-2">{names.join(' · ')}</p>}

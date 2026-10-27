@@ -24,6 +24,8 @@ export const router = createBrowserRouter([
       { path: '/anlatim/:topicId', element: page(() => import('@/features/lessons/LessonPage')) },
       { path: '/testler', element: page(() => import('@/features/tests/Tests')) },
       { path: '/testler/:source', element: page(() => import('@/features/tests/TestRoute')) },
+      { path: '/denemeler', element: page(() => import('@/features/denemeler/Denemeler')) },
+      { path: '/denemeler/mini/:kind', element: page(() => import('@/features/denemeler/MiniRoute')) },
       { path: '/ayarlar', element: page(() => import('@/features/Settings')) },
       { path: '*', element: <NotFound /> }
     ]
