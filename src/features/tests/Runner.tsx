@@ -1,6 +1,7 @@
-/* Test çözücü: tek soru, 5 şık (A–E). Şık seç → Kontrol et → çözüm → Sonraki. Boş bırakılabilir. */
+/* Test çözücü: tek soru, 5 şık (A–E). Şık seç → Kontrol et → çözüm → Sonraki. Boş bırakılabilir.
+   Matematik dışındaki sorularda isteğe bağlı ipucu var; cevabı söylemez, yolu gösterir. */
 import { useEffect, useState } from 'react';
-import { Check, X } from 'lucide-react';
+import { Check, Lightbulb, X } from 'lucide-react';
 import { Button, Progress } from '@/components/ui';
 import { MathText } from '@/components/MathText';
 import { LETTERS } from '@/content/questions/core';
@@ -15,6 +16,8 @@ export function Runner({ questions, source, onDone, onRestart }: { questions: Qu
   const [checked, setChecked] = useState(false);
   const [recs, setRecs] = useState<Rec[]>([]);
   const [finished, setFinished] = useState<{ markedWeak: boolean } | null>(null);
+  const [hint, setHint] = useState(false);
+  const [hints, setHints] = useState(0);
   const q = questions[i];
 
   const check = (empty = false) => {
@@ -24,8 +27,9 @@ export function Runner({ questions, source, onDone, onRestart }: { questions: Qu
     const p = empty ? null : picked;
     setRecs((r) => [...r, { qid: q.id, topicId: q.topicId, picked: p, q, result: p === null ? 'empty' : p === q.answer ? 'correct' : 'wrong' }]);
   };
+  const showHint = () => { if (!hint) { setHint(true); setHints((n) => n + 1); } };
   const next = async () => {
-    if (i + 1 < questions.length) { setI(i + 1); setPicked(null); setChecked(false); window.scrollTo(0, 0); return; }
+    if (i + 1 < questions.length) { setI(i + 1); setPicked(null); setChecked(false); setHint(false); window.scrollTo(0, 0); return; }
     setFinished(await saveAttempt(source, recs));
   };
 
@@ -55,7 +59,7 @@ export function Runner({ questions, source, onDone, onRestart }: { questions: Qu
             <div key={k} className="bg-surface px-4 py-3"><dt className="text-sm text-muted">{k}</dt><dd className="num mt-0.5 text-2xl font-semibold">{v}</dd></div>
           ))}
         </dl>
-        <p className="mt-3 text-sm text-muted">Net = doğru − yanlış ÷ 4. Yanlış ve boş bıraktığın sorular “Yanlışlarım” listesine eklendi.</p>
+        <p className="mt-3 text-sm text-muted">Net = doğru − yanlış ÷ 4. Yanlış ve boş bıraktığın sorular “Yanlışlarım” listesine eklendi.{hints > 0 && ` ${hints} soruda ipucuna baktın.`}</p>
         {finished.markedWeak && <p className="mt-3 rounded-xl border border-line px-4 py-3 text-[14.5px] text-ink-2">Bu konuda başarın %50’nin altında kaldı; konu “zorlandım” olarak işaretlendi. Programı güncellediğinde tekrar oturumlarına girer.</p>}
         {missed.length > 0 && (
           <section className="mt-8">
@@ -107,6 +111,13 @@ export function Runner({ questions, source, onDone, onRestart }: { questions: Qu
         })}
       </div>
 
+      {hint && q.hint && (
+        <div className="mt-5 flex gap-3 rounded-xl border border-line bg-sunken px-4 py-3" role="note" aria-label="İpucu">
+          <Lightbulb className="mt-0.5 size-4 shrink-0 text-muted" aria-hidden />
+          <p className="text-[15px] text-ink-2"><MathText text={q.hint} /></p>
+        </div>
+      )}
+
       {checked && (
         <div className="mt-5 rounded-xl border border-line bg-surface px-4 py-3" role="status">
           <p className={`font-medium ${picked === q.answer ? 'text-good' : picked === null ? 'text-ink-2' : 'text-bad'}`}>
@@ -119,7 +130,10 @@ export function Runner({ questions, source, onDone, onRestart }: { questions: Qu
       <div className="mt-6 flex flex-wrap items-center justify-between gap-3">
         {!checked ? (
           <>
-            <Button variant="ghost" onClick={() => check(true)}>Boş bırak</Button>
+            <div className="flex flex-wrap gap-1">
+              <Button variant="ghost" onClick={() => check(true)}>Boş bırak</Button>
+              {q.hint && <Button variant="ghost" onClick={showHint} disabled={hint} aria-expanded={hint}><Lightbulb className="size-4" aria-hidden />İpucu</Button>}
+            </div>
             <Button onClick={() => check()} disabled={picked === null}>Kontrol et</Button>
           </>
         ) : (

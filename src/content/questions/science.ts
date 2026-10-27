@@ -2,9 +2,9 @@
    formüle dayalı soru üreticileri. Cevaplar kodla hesaplanır. */
 import { Frac, int, num, numChoices, choices, pick, type Generator, type Rnd } from './core';
 
-const g = (r: Rnd, stem: string, correct: number, wrong: number[], solution: string) => ({ stem, ...numChoices(r, correct, wrong), solution });
-const fracQ = (r: Rnd, stem: string, ans: Frac, wrong: Frac[], solution: string) =>
-  ({ stem, ...choices(r, ans.toString(), wrong.map(String), (i) => ans.add(new Frac(i, ans.d + 1)).toString()), solution });
+const g = (r: Rnd, stem: string, correct: number, wrong: number[], solution: string, hint?: string) => ({ stem, ...numChoices(r, correct, wrong), solution, hint });
+const fracQ = (r: Rnd, stem: string, ans: Frac, wrong: Frac[], solution: string, hint?: string) =>
+  ({ stem, ...choices(r, ans.toString(), wrong.map(String), (i) => ans.add(new Frac(i, ans.d + 1)).toString()), solution, hint });
 
 export const AYT_MAT: Record<string, Generator[]> = {
   'Üstel ve Logaritmik Fonksiyonlar': [
@@ -85,53 +85,53 @@ export const FIZIK: Record<string, Generator[]> = {
   'Madde ve Özellikleri': [
     (r) => {
       const d = pick(r, [0.8, 1, 2, 2.5, 4, 8]), V = pick(r, [10, 20, 25, 40, 50, 100]);
-      return g(r, `Hacmi ${V} cm³ olan bir cismin özkütlesi ${num(d)} g/cm³ ise kütlesi kaç gramdır?`, d * V, [V / d, d + V, d * V * 2, V], `m = d · V = ${num(d)} · ${V} = ${num(d * V)} g.`);
+      return g(r, `Hacmi ${V} cm³ olan bir cismin özkütlesi ${num(d)} g/cm³ ise kütlesi kaç gramdır?`, d * V, [V / d, d + V, d * V * 2, V], `m = d · V = ${num(d)} · ${V} = ${num(d * V)} g.`, `Verilenler: V = ${V} cm³, d = ${num(d)} g/cm³. Özkütle formülü d = {m/V}; m’yi yalnız bırak.`);
     }
   ],
   'Basınç ve Kaldırma Kuvveti': [
     (r) => {
       const F = pick(r, [20, 40, 60, 100, 120, 200]), A = pick(r, [2, 4, 5, 10]);
-      return g(r, `${F} N ağırlığındaki bir cisim, yere temas alanı ${A} m² olan yüzeyiyle duruyor. Yere uyguladığı basınç kaç Pa’dır?`, F / A, [F * A, F + A, F / A / 2, F - A], `P = {F/A} = {${F}/${A}} = ${num(F / A)} Pa.`);
+      return g(r, `${F} N ağırlığındaki bir cisim, yere temas alanı ${A} m² olan yüzeyiyle duruyor. Yere uyguladığı basınç kaç Pa’dır?`, F / A, [F * A, F + A, F / A / 2, F - A], `P = {F/A} = {${F}/${A}} = ${num(F / A)} Pa.`, `Basınç = {kuvvet/yüzey alanı}. Ağırlık (${F} N) kuvvettir, ${A} m² alandır.`);
     },
     (r) => {
       const h = int(r, 2, 20), d = pick(r, [1000, 800]);
-      return g(r, `Özkütlesi ${d} kg/m³ olan bir sıvının ${h} m derinliğindeki sıvı basıncı kaç Pa’dır? (g = 10 N/kg)`, h * d * 10, [h * d, h * 10, h * d * 100, (h * d * 10) / 2], `P = h · d · g = ${h} · ${d} · 10 = ${h * d * 10} Pa.`);
+      return g(r, `Özkütlesi ${d} kg/m³ olan bir sıvının ${h} m derinliğindeki sıvı basıncı kaç Pa’dır? (g = 10 N/kg)`, h * d * 10, [h * d, h * 10, h * d * 100, (h * d * 10) / 2], `P = h · d · g = ${h} · ${d} · 10 = ${h * d * 10} Pa.`, `Sıvı basıncı P = h · d · g. Derinlik ${h} m, özkütle ${d} kg/m³, g = 10.`);
     }
   ],
   'Isı, Sıcaklık ve Genleşme': [
     (r) => {
       const m = pick(r, [100, 200, 250, 500]), dT = pick(r, [10, 20, 30, 40]);
-      return g(r, `${m} g suyun sıcaklığını ${dT} °C artırmak için kaç kalori ısı gerekir? (c_{su} = 1 cal/g°C)`, m * dT, [m + dT, m / dT, m * dT * 2, m * dT / 10], `Q = m · c · ΔT = ${m} · 1 · ${dT} = ${m * dT} cal.`);
+      return g(r, `${m} g suyun sıcaklığını ${dT} °C artırmak için kaç kalori ısı gerekir? (c_{su} = 1 cal/g°C)`, m * dT, [m + dT, m / dT, m * dT * 2, m * dT / 10], `Q = m · c · ΔT = ${m} · 1 · ${dT} = ${m * dT} cal.`, `Isı formülü Q = m · c · ΔT. Burada m = ${m} g, c = 1, ΔT = ${dT} °C.`);
     }
   ],
   'Hareket ve Kuvvet': [
     (r) => {
       const v = pick(r, [5, 10, 15, 20, 25]), t = int(r, 3, 12);
-      return g(r, `Sabit ${v} m/s hızla giden bir araç ${t} saniyede kaç metre yol alır?`, v * t, [v + t, v / t, v * t * 2, v * t / 2], `x = v · t = ${v} · ${t} = ${v * t} m.`);
+      return g(r, `Sabit ${v} m/s hızla giden bir araç ${t} saniyede kaç metre yol alır?`, v * t, [v + t, v / t, v * t * 2, v * t / 2], `x = v · t = ${v} · ${t} = ${v * t} m.`, `Sabit hızda yol = hız · zaman.`);
     },
     (r) => {
       const m = pick(r, [2, 4, 5, 8, 10]), a = pick(r, [2, 3, 4, 5]);
-      return g(r, `Sürtünmesiz yatay düzlemde ${m} kg kütleli cisme ${m * a} N’luk net kuvvet uygulanıyor. Cismin ivmesi kaç m/s²’dir?`, a, [m * a * m, m, a + 1, m * a], `F = m · a → a = {${m * a}/${m}} = ${a} m/s².`);
+      return g(r, `Sürtünmesiz yatay düzlemde ${m} kg kütleli cisme ${m * a} N’luk net kuvvet uygulanıyor. Cismin ivmesi kaç m/s²’dir?`, a, [m * a * m, m, a + 1, m * a], `F = m · a → a = {${m * a}/${m}} = ${a} m/s².`, `Newton’un ikinci yasası: F = m · a. Kuvveti kütleye böl.`);
     }
   ],
   'İş, Güç ve Enerji': [
     (r) => {
       const m = pick(r, [2, 4, 5, 10]), h = pick(r, [3, 5, 10, 20]);
-      return g(r, `${m} kg kütleli bir cisim yerden ${h} m yüksekliğe çıkarılıyor. Cismin kazandığı potansiyel enerji kaç J’dür? (g = 10 m/s²)`, m * 10 * h, [m * h, m * 10 + h, (m * 10 * h) / 2, m * h * 100], `E_{p} = m · g · h = ${m} · 10 · ${h} = ${m * 10 * h} J.`);
+      return g(r, `${m} kg kütleli bir cisim yerden ${h} m yüksekliğe çıkarılıyor. Cismin kazandığı potansiyel enerji kaç J’dür? (g = 10 m/s²)`, m * 10 * h, [m * h, m * 10 + h, (m * 10 * h) / 2, m * h * 100], `E_{p} = m · g · h = ${m} · 10 · ${h} = ${m * 10 * h} J.`, `Potansiyel enerji E_{p} = m · g · h; g’yi 10 almayı unutma.`);
     },
     (r) => {
       const m = pick(r, [2, 4, 6, 8]), v = pick(r, [2, 4, 5, 10]);
-      return g(r, `${m} kg kütleli bir cisim ${v} m/s hızla hareket ediyor. Kinetik enerjisi kaç J’dür?`, (m * v * v) / 2, [m * v, m * v * v, (m * v) / 2, m + v], `E_{k} = {1/2} m v² = {1/2} · ${m} · ${v * v} = ${(m * v * v) / 2} J.`);
+      return g(r, `${m} kg kütleli bir cisim ${v} m/s hızla hareket ediyor. Kinetik enerjisi kaç J’dür?`, (m * v * v) / 2, [m * v, m * v * v, (m * v) / 2, m + v], `E_{k} = {1/2} m v² = {1/2} · ${m} · ${v * v} = ${(m * v * v) / 2} J.`, `Kinetik enerji E_{k} = {1/2} m v². Hızın karesini almayı unutma.`);
     }
   ],
   'Elektrik Akımı ve Devreler': [
     (r) => {
       const R = pick(r, [2, 4, 5, 6, 10, 12]), I = pick(r, [1, 2, 3, 4]);
-      return g(r, `${R} Ω’luk bir dirençten ${I} A akım geçiyor. Direncin uçları arasındaki potansiyel farkı kaç V’tur?`, R * I, [R / I, R + I, R * I * 2, I], `Ohm yasası: V = I · R = ${I} · ${R} = ${R * I} V.`);
+      return g(r, `${R} Ω’luk bir dirençten ${I} A akım geçiyor. Direncin uçları arasındaki potansiyel farkı kaç V’tur?`, R * I, [R / I, R + I, R * I * 2, I], `Ohm yasası: V = I · R = ${I} · ${R} = ${R * I} V.`, `Ohm yasası: V = I · R.`);
     },
     (r) => {
       const [a, b] = pick(r, [[3, 6], [4, 4], [6, 12], [10, 15], [2, 2], [12, 4]] as [number, number][]);
-      return g(r, `${a} Ω ve ${b} Ω’luk iki direnç paralel bağlanıyor. Eşdeğer direnç kaç Ω’dur?`, (a * b) / (a + b), [a + b, (a + b) / 2, Math.abs(a - b) || 1, a * b], `Paralelde {1/R} = {1/${a}} + {1/${b}} → R = {${a} · ${b}/${a} + ${b}} = ${num((a * b) / (a + b))} Ω. (Seri bağlansaydı ${a + b} Ω olurdu.)`);
+      return g(r, `${a} Ω ve ${b} Ω’luk iki direnç paralel bağlanıyor. Eşdeğer direnç kaç Ω’dur?`, (a * b) / (a + b), [a + b, (a + b) / 2, Math.abs(a - b) || 1, a * b], `Paralelde {1/R} = {1/${a}} + {1/${b}} → R = {${a} · ${b}/${a} + ${b}} = ${num((a * b) / (a + b))} Ω. (Seri bağlansaydı ${a + b} Ω olurdu.)`, `Paralel bağlı iki direnç için kısa yol: çarpım bölü toplam, R = {R₁ · R₂/R₁ + R₂}. Sonuç küçük dirençten bile küçük olmalı.`);
     }
   ]
 };
@@ -143,14 +143,14 @@ export const KIMYA: Record<string, Generator[]> = {
   'Mol Kavramı ve Kimyasal Hesaplamalar': [
     (r) => {
       const [f, M, how] = pick(r, MOL); const n = pick(r, [0.5, 1, 2, 3, 4]);
-      return g(r, `${num(n * M)} gram ${f} kaç moldür? (H: 1, C: 12, N: 14, O: 16, Na: 23, Mg: 24, Ca: 40)`, n, [n * M, n * 2, M, n / 2], `${f} için mol kütlesi ${how} = ${M} g/mol. n = {m/M} = {${num(n * M)}/${M}} = ${num(n)} mol.`);
+      return g(r, `${num(n * M)} gram ${f} kaç moldür? (H: 1, C: 12, N: 14, O: 16, Na: 23, Mg: 24, Ca: 40)`, n, [n * M, n * 2, M, n / 2], `${f} için mol kütlesi ${how} = ${M} g/mol. n = {m/M} = {${num(n * M)}/${M}} = ${num(n)} mol.`, `Önce ${f} için mol kütlesini hesapla (atom kütlelerini topla), sonra n = {m/M}.`);
     }
   ],
   'Atom ve Periyodik Sistem': [
     (r) => {
       const E = pick(r, [['Na', 11, 23], ['Mg', 12, 24], ['Al', 13, 27], ['Cl', 17, 35], ['K', 19, 39], ['Ca', 20, 40], ['O', 8, 16], ['C', 6, 12]] as [string, number, number][]);
       const [s, Z, A] = E;
-      return g(r, `Atom numarası ${Z}, kütle numarası ${A} olan ${s} atomunun çekirdeğinde kaç nötron vardır?`, A - Z, [Z, A, A + Z, A - Z + 1], `Nötron sayısı = kütle numarası − proton sayısı = ${A} − ${Z} = ${A - Z}.`);
+      return g(r, `Atom numarası ${Z}, kütle numarası ${A} olan ${s} atomunun çekirdeğinde kaç nötron vardır?`, A - Z, [Z, A, A + Z, A - Z + 1], `Nötron sayısı = kütle numarası − proton sayısı = ${A} − ${Z} = ${A - Z}.`, `Kütle numarası = proton + nötron; atom numarası proton sayısıdır.`);
     }
   ]
 };
@@ -161,8 +161,8 @@ export const BIYOLOJI: Record<string, Generator[]> = {
       const n2 = pick(r, [8, 14, 16, 24, 38, 46, 48]);
       const mitoz = r() < 0.5;
       return mitoz
-        ? g(r, `Vücut hücrelerinde ${n2} kromozom bulunan bir canlının vücut hücresi mitozla bölünüyor. Oluşan yavru hücrelerin her birinde kaç kromozom bulunur?`, n2, [n2 / 2, n2 * 2, n2 / 4, n2 + 2], `Mitozda kromozom sayısı korunur: 2n = ${n2} → yavru hücreler de 2n = ${n2}.`)
-        : g(r, `Vücut hücrelerinde ${n2} kromozom bulunan bir canlıda mayozla oluşan üreme hücrelerinin her birinde kaç kromozom bulunur?`, n2 / 2, [n2, n2 * 2, n2 / 4, n2 / 2 + 1], `Mayozda kromozom sayısı yarıya iner: 2n = ${n2} → n = ${n2 / 2}.`);
+        ? g(r, `Vücut hücrelerinde ${n2} kromozom bulunan bir canlının vücut hücresi mitozla bölünüyor. Oluşan yavru hücrelerin her birinde kaç kromozom bulunur?`, n2, [n2 / 2, n2 * 2, n2 / 4, n2 + 2], `Mitozda kromozom sayısı korunur: 2n = ${n2} → yavru hücreler de 2n = ${n2}.`, `Mitozda oluşan hücreler ana hücrenin kopyasıdır; kromozom sayısı değişir mi?`)
+        : g(r, `Vücut hücrelerinde ${n2} kromozom bulunan bir canlıda mayozla oluşan üreme hücrelerinin her birinde kaç kromozom bulunur?`, n2 / 2, [n2, n2 * 2, n2 / 4, n2 / 2 + 1], `Mayozda kromozom sayısı yarıya iner: 2n = ${n2} → n = ${n2 / 2}.`, `Mayozda kromozom sayısı yarıya iner (2n → n).`);
     }
   ],
   'Kalıtım': [
@@ -176,7 +176,7 @@ export const BIYOLOJI: Record<string, Generator[]> = {
         { p: 'AaBb × AaBb', q: 'aabb', v: new Frac(1, 16), s: 'Her gen için {1/4}: {1/4} · {1/4} = {1/16}.' }
       ];
       const c = pick(r, cases);
-      return fracQ(r, `${c.p} çaprazlamasında oluşan bir yavrunun ${c.q} olma olasılığı kaçtır? (A, a’ya baskın; genler bağımsız)`, c.v, [new Frac(1, 4), new Frac(1, 2), new Frac(3, 4), new Frac(1, 8), new Frac(1, 16)].filter((x) => !x.eq(c.v)), c.s);
+      return fracQ(r, `${c.p} çaprazlamasında oluşan bir yavrunun ${c.q} olma olasılığı kaçtır? (A, a’ya baskın; genler bağımsız)`, c.v, [new Frac(1, 4), new Frac(1, 2), new Frac(3, 4), new Frac(1, 8), new Frac(1, 16)].filter((x) => !x.eq(c.v)), c.s, `${c.p.includes('B') ? 'Her gen çiftini ayrı çaprazla (Aa × aa gibi), bulduğun olasılıkları çarp.' : 'Punnett karesi çiz: her ebeveynin verebileceği gametleri yaz, 4 kutuyu doldur.'}`);
     }
   ]
 };
@@ -186,7 +186,7 @@ export const COGRAFYA: Record<string, Generator[]> = {
     (r) => {
       const scale = pick(r, [100000, 200000, 250000, 500000, 1000000]), cm = int(r, 2, 12);
       const km = (cm * scale) / 100000;
-      return g(r, `1/${scale.toLocaleString('tr-TR')} ölçekli bir haritada iki şehir arası ${cm} cm ise gerçek uzaklık kaç km’dir?`, km, [km * 10, km / 10, cm * scale / 1000, km * 100], `Gerçek uzaklık = ${cm} · ${scale.toLocaleString('tr-TR')} cm = ${(cm * scale).toLocaleString('tr-TR')} cm = ${num(km)} km (1 km = 100 000 cm).`);
+      return g(r, `1/${scale.toLocaleString('tr-TR')} ölçekli bir haritada iki şehir arası ${cm} cm ise gerçek uzaklık kaç km’dir?`, km, [km * 10, km / 10, cm * scale / 1000, km * 100], `Gerçek uzaklık = ${cm} · ${scale.toLocaleString('tr-TR')} cm = ${(cm * scale).toLocaleString('tr-TR')} cm = ${num(km)} km (1 km = 100 000 cm).`, `Ölçek 1/${scale.toLocaleString('tr-TR')}: haritadaki 1 cm gerçekte ${scale.toLocaleString('tr-TR')} cm. Sonucu km’ye çevir (1 km = 100 000 cm).`);
     }
   ]
 };

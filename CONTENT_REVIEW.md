@@ -1788,249 +1788,332 @@ Her üreticiden bir örnek; sayılar her testte değişir, cevap kodla hesaplan�
 - **tyt-fiz:madde-ve-ozellikleri** — Kütlesi 60 g, hacmi 20 cm³ olan bir cismin özkütlesi kaç g/cm³’tür?
   - **A) 3** · B) 1200 · C) 6 · D) 0,33 · E) 40
   - Çözüm: d = {m/V} = {60/20} = 3 g/cm³.
+  - İpucu: Özkütle = {kütle/hacim}.
 - **tyt-fiz:madde-ve-ozellikleri** — Özkütlesi 1 g/cm³ olan 10 cm³ sıvı ile özkütlesi 4 g/cm³ olan 30 cm³ sıvı karıştırılıyor (hacim korunuyor). Karışımın özkütlesi kaç g/cm³’tür?
   - A) 65 · B) 2,5 · C) 5 · D) 4,25 · **E) 3,25**
   - Çözüm: d = {toplam kütle/toplam hacim} = {10 + 120/40} = 3,25 g/cm³.
+  - İpucu: Karışımın özkütlesi = {toplam kütle/toplam hacim}. Önce her sıvının kütlesini (d · V) bul.
 - **tyt-fiz:madde-ve-ozellikleri** — Hacmi 25 cm³ olan bir cismin özkütlesi 2,5 g/cm³ ise kütlesi kaç gramdır?
   - A) 10 · B) 27,5 · C) 125 · D) 25 · **E) 62,5**
   - Çözüm: m = d · V = 2,5 · 25 = 62,5 g.
+  - İpucu: Verilenler: V = 25 cm³, d = 2,5 g/cm³. Özkütle formülü d = {m/V}; m’yi yalnız bırak.
 - **tyt-fiz:basinc-ve-kaldirma-kuvveti** — Hacmi 10 litre olan bir cisim özkütlesi 800 kg/m³ olan sıvıya tamamen batırılıyor. Cisme etki eden kaldırma kuvveti kaç N’dur? (g = 10 m/s², 1 L = 10^{−3} m³)
   - **A) 80** · B) 8 · C) 100 · D) 800 · E) 40
   - Çözüm: F_{k} = V_{batan} · d_{sıvı} · g = 10 · 10^{−3} · 800 · 10 = 80 N.
+  - İpucu: Kaldırma kuvveti F_{k} = V_{batan} · d_{sıvı} · g. Hacmi önce m³’e çevir: 10 L = 10 · 10^{−3} m³.
 - **tyt-fiz:basinc-ve-kaldirma-kuvveti** — Bir su cenderesinde küçük pistonun kesit alanı 1 cm², büyük pistonunki 10 cm²’dir. Küçük pistona 10 N kuvvet uygulanırsa büyük pistonda kaç N kuvvet oluşur?
   - A) 20 · B) 1 · C) 50 · **D) 100** · E) 105
   - Çözüm: Basınç eşit iletilir: {F₁/A₁} = {F₂/A₂} → F₂ = 10 · {10/1} = 100 N.
+  - İpucu: Pascal ilkesi: basınç iki pistonda aynıdır, {F₁/A₁} = {F₂/A₂}. Alan kaç katına çıkıyorsa kuvvet de o kadar artar.
 - **tyt-fiz:basinc-ve-kaldirma-kuvveti** — 100 N ağırlığındaki bir cisim, yere temas alanı 4 m² olan yüzeyiyle duruyor. Yere uyguladığı basınç kaç Pa’dır?
   - A) 400 · B) 104 · C) 12,5 · D) 96 · **E) 25**
   - Çözüm: P = {F/A} = {100/4} = 25 Pa.
+  - İpucu: Basınç = {kuvvet/yüzey alanı}. Ağırlık (100 N) kuvvettir, 4 m² alandır.
 - **tyt-fiz:basinc-ve-kaldirma-kuvveti** — Özkütlesi 1000 kg/m³ olan bir sıvının 10 m derinliğindeki sıvı basıncı kaç Pa’dır? (g = 10 N/kg)
   - A) 1000000 · B) 50000 · **C) 100000** · D) 10000 · E) 100
   - Çözüm: P = h · d · g = 10 · 1000 · 10 = 100000 Pa.
+  - İpucu: Sıvı basıncı P = h · d · g. Derinlik 10 m, özkütle 1000 kg/m³, g = 10.
 - **tyt-fiz:isi-sicaklik-ve-genlesme** — 20 °C’deki 200 g su ile 80 °C’deki 200 g su karıştırılıyor. Isı alışverişi yalnız sular arasında olursa denge sıcaklığı kaç °C olur?
   - A) 100 · B) 60 · **C) 50** · D) 55 · E) 53
   - Çözüm: Alınan ısı = verilen ısı: 200(T − 20) = 200(80 − T) → T = {4000 + 16000/400} = 50 °C.
+  - İpucu: Alınan ısı = verilen ısı. Soğuk su ısınır (T − 20), sıcak su soğur (80 − T); c iki tarafta aynı olduğu için sadeleşir.
 - **tyt-fiz:isi-sicaklik-ve-genlesme** — 20 °C sıcaklık kaç kelvindir?
   - A) 5460 · B) 308 · C) 253 · D) 120 · **E) 293**
   - Çözüm: T(K) = t(°C) + 273 = 20 + 273 = 293 K.
+  - İpucu: Celsius’tan kelvine geçerken her değere aynı sabit sayı eklenir; bu sayı mutlak sıfırın Celsius değeriyle ilgilidir.
 - **tyt-fiz:isi-sicaklik-ve-genlesme** — 250 g suyun sıcaklığını 20 °C artırmak için kaç kalori ısı gerekir? (c_{su} = 1 cal/g°C)
   - A) 270 · B) 12,5 · C) 10000 · D) 500 · **E) 5000**
   - Çözüm: Q = m · c · ΔT = 250 · 1 · 20 = 5000 cal.
+  - İpucu: Isı formülü Q = m · c · ΔT. Burada m = 250 g, c = 1, ΔT = 20 °C.
 - **tyt-fiz:hareket-ve-kuvvet** — İlk hızı 4 m/s olan bir araç 3 m/s² sabit ivmeyle hızlanıyor. 6 saniye sonra hızı kaç m/s olur?
   - A) 112 · **B) 22** · C) 18 · D) 42 · E) 27
   - Çözüm: v = v₀ + a · t = 4 + 3 · 6 = 22 m/s.
+  - İpucu: Sabit ivmeli harekette hız: v = v₀ + a · t.
 - **tyt-fiz:hareket-ve-kuvvet** — Yatay düzlemde duran 4 kg kütleli cisme 40 N yatay kuvvet uygulanıyor. Sürtünme katsayısı 0,1 ise cismin ivmesi kaç m/s²’dir? (g = 10 m/s²)
   - A) 1 · B) 10 · C) 11 · **D) 9** · E) 8
   - Çözüm: Sürtünme kuvveti k · m · g = 4 N. Net kuvvet 40 − 4 = 36 N; a = {36/4} = 9 m/s².
+  - İpucu: Önce sürtünme kuvvetini bul: f = k · m · g. Net kuvvet = uygulanan − sürtünme; sonra a = {F_{net}/m}.
 - **tyt-fiz:hareket-ve-kuvvet** — Sabit 15 m/s hızla giden bir araç 6 saniyede kaç metre yol alır?
   - A) 21 · B) 2,5 · C) 180 · D) 45 · **E) 90**
   - Çözüm: x = v · t = 15 · 6 = 90 m.
+  - İpucu: Sabit hızda yol = hız · zaman.
 - **tyt-fiz:hareket-ve-kuvvet** — Sürtünmesiz yatay düzlemde 5 kg kütleli cisme 15 N’luk net kuvvet uygulanıyor. Cismin ivmesi kaç m/s²’dir?
   - A) 4 · B) 15 · **C) 3** · D) 75 · E) 5
   - Çözüm: F = m · a → a = {15/5} = 3 m/s².
+  - İpucu: Newton’un ikinci yasası: F = m · a. Kuvveti kütleye böl.
 - **tyt-fiz:is-guc-ve-enerji** — Bir cisme hareket yönünde 25 N’luk sabit kuvvet uygulanarak cisim 5 m yol alıyor. Kuvvetin yaptığı iş kaç J’dür?
   - **A) 125** · B) 30 · C) 250 · D) 5 · E) 62,5
   - Çözüm: W = F · x = 25 · 5 = 125 J.
+  - İpucu: İş = kuvvet · yol (kuvvet hareket yönündeyse).
 - **tyt-fiz:is-guc-ve-enerji** — Bir motor 1200 J’lük işi 10 saniyede yapıyor. Motorun gücü kaç W’tır?
   - A) 12000 · B) 240 · **C) 120** · D) 1190 · E) 0,01
   - Çözüm: P = {W/t} = {1200/10} = 120 W.
+  - İpucu: Güç = {iş/zaman}.
 - **tyt-fiz:is-guc-ve-enerji** — 5 kg kütleli bir cisim yerden 5 m yüksekliğe çıkarılıyor. Cismin kazandığı potansiyel enerji kaç J’dür? (g = 10 m/s²)
   - A) 25 · B) 55 · C) 125 · D) 2500 · **E) 250**
   - Çözüm: E_{p} = m · g · h = 5 · 10 · 5 = 250 J.
+  - İpucu: Potansiyel enerji E_{p} = m · g · h; g’yi 10 almayı unutma.
 - **tyt-fiz:is-guc-ve-enerji** — 4 kg kütleli bir cisim 4 m/s hızla hareket ediyor. Kinetik enerjisi kaç J’dür?
   - A) 8 · B) 33 · **C) 32** · D) 16 · E) 64
   - Çözüm: E_{k} = {1/2} m v² = {1/2} · 4 · 16 = 32 J.
+  - İpucu: Kinetik enerji E_{k} = {1/2} m v². Hızın karesini almayı unutma.
 - **tyt-fiz:elektrostatik** — Yükleri +6q ve −6q olan özdeş iki iletken küre birbirine dokundurulup ayrılıyor. Kürelerden birinin son yükü kaç q olur?
   - **A) 0** · B) 12 · C) −1 · D) 6 · E) 1
   - Çözüm: Özdeş kürelerde toplam yük eşit paylaşılır: {6 − 6/2} = 0 (q cinsinden).
+  - İpucu: Özdeş küreler dokununca toplam yük ikiye eşit bölünür. Önce yükleri işaretleriyle topla.
 - **tyt-fiz:elektrik-akimi-ve-devreler** — 3 Ω, 5 Ω, 2 Ω’luk üç direnç seri bağlanıyor. Eşdeğer direnç kaç Ω’dur?
   - A) 8 · **B) 10** · C) 30 · D) 3,33 · E) 5
   - Çözüm: Seride dirençler toplanır: 3 + 5 + 2 = 10 Ω.
+  - İpucu: Seri bağlı dirençlerde eşdeğer direnç nasıl bulunur: toplama mı, çarpım bölü toplam mı?
 - **tyt-fiz:elektrik-akimi-ve-devreler** — 24 V’luk gerilime bağlı 2 Ω’luk bir direncin harcadığı güç kaç W’tır?
   - A) 48 · B) 144 · **C) 288** · D) 6 · E) 12
   - Çözüm: I = {V/R} = 12 A; P = V · I = 24 · 12 = 288 W.
+  - İpucu: Önce akımı bul (I = {V/R}), sonra güç P = V · I. Ya da doğrudan P = {V²/R}.
 - **tyt-fiz:elektrik-akimi-ve-devreler** — Bir iletkenin kesitinden 5 saniyede 30 C yük geçiyor. Akım şiddeti kaç amperdir?
   - A) 150 · B) 0,17 · C) 25 · D) 12 · **E) 6**
   - Çözüm: I = {q/t} = {30/5} = 6 A.
+  - İpucu: Akım = {yük/zaman}: amper, bir saniyede geçen coulomb miktarıdır.
 - **tyt-fiz:elektrik-akimi-ve-devreler** — 5 Ω’luk bir dirençten 2 A akım geçiyor. Direncin uçları arasındaki potansiyel farkı kaç V’tur?
   - A) 20 · B) 2 · **C) 10** · D) 2,5 · E) 7
   - Çözüm: Ohm yasası: V = I · R = 2 · 5 = 10 V.
+  - İpucu: Ohm yasası: V = I · R.
 - **tyt-fiz:elektrik-akimi-ve-devreler** — 4 Ω ve 4 Ω’luk iki direnç paralel bağlanıyor. Eşdeğer direnç kaç Ω’dur?
   - A) 16 · **B) 2** · C) 1 · D) 8 · E) 4
   - Çözüm: Paralelde {1/R} = {1/4} + {1/4} → R = {4 · 4/4 + 4} = 2 Ω. (Seri bağlansaydı 8 Ω olurdu.)
+  - İpucu: Paralel bağlı iki direnç için kısa yol: çarpım bölü toplam, R = {R₁ · R₂/R₁ + R₂}. Sonuç küçük dirençten bile küçük olmalı.
 - **tyt-fiz:dalgalar** — Frekansı 5 Hz, dalga boyu 2 m olan bir dalganın yayılma hızı kaç m/s’dir?
   - **A) 10** · B) 2,5 · C) 20 · D) 0,4 · E) 7
   - Çözüm: v = λ · f = 2 · 5 = 10 m/s.
+  - İpucu: Dalga hızı = dalga boyu · frekans (v = λ · f).
 - **tyt-fiz:dalgalar** — Periyodu 0,2 s olan bir dalganın frekansı kaç Hz’dir?
   - A) 0,2 · B) 6 · C) 2 · D) 10 · **E) 5**
   - Çözüm: f = {1/T} = {1/0,2} = 5 Hz.
+  - İpucu: Frekans periyodun tersidir: f = {1/T}.
 - **tyt-fiz:optik** — Düz aynanın 9 cm önündeki bir cismin görüntüsü cisme kaç cm uzaklıktadır?
   - **A) 18** · B) 27 · C) 9 · D) 11 · E) 4,5
   - Çözüm: Düz aynada görüntü, aynanın arkasında cisimle aynı uzaklıktadır (9 cm). Cisim–görüntü arası 18 cm.
+  - İpucu: Düz aynada görüntü, aynanın arkasında cisimle aynı uzaklıktadır. Soru aynaya değil cisme uzaklığı soruyor.
 - **tyt-fiz:optik** — Bir ışın düz aynaya yüzeyle 34° açı yapacak şekilde geliyor. Yansıma açısı kaç derecedir?
   - A) 34 · B) 124 · C) 68 · D) 146 · **E) 56**
   - Çözüm: Açılar normalle ölçülür: gelme açısı 90 − 34 = 56°. Yansıma açısı gelme açısına eşittir: 56°.
+  - İpucu: Açılar yüzeyle değil, normalle (yüzeye dik çizgi) ölçülür. Normal ile yüzey arasında 90° var.
 - **ayt-fiz:vektorler-ve-bagil-hareket** — Büyüklükleri 5 N ve 12 N olan ve aralarında 90° açı bulunan iki kuvvetin bileşkesi kaç N’dur?
   - **A) 13** · B) 8,5 · C) 17 · D) 169 · E) 7
   - Çözüm: Dik vektörlerde R = √{5² + 12²} = √{169} = 13 N.
+  - İpucu: Dik iki vektörün bileşkesi Pisagor ile bulunur: R = √{a² + b²}.
 - **ayt-fiz:vektorler-ve-bagil-hareket** — Aynı doğrultuda zıt yönlerde 50 km/sa ve 20 km/sa hızla giden iki aracın birbirine göre hızlarının büyüklüğü kaç km/sa olur?
   - A) 35 · B) 30 · C) 50 · **D) 70** · E) 20
   - Çözüm: Zıt yönde bağıl hız toplamdır: 50 + 20 = 70 km/sa.
+  - İpucu: Aynı yönde giden araçlarda bağıl hız farktır, zıt yönde toplamdır.
 - **ayt-fiz:newton-un-hareket-yasalari** — Sürtünmesiz yatay düzlemde birbirine bağlı 2 kg ve 4 kg kütleli iki cisme 18 N’luk yatay kuvvet uygulanıyor. Sistemin ivmesi kaç m/s²’dir?
   - A) 6 · **B) 3** · C) 9 · D) 108 · E) 4,5
   - Çözüm: a = {F/toplam kütle} = {18/6} = 3 m/s².
+  - İpucu: Birbirine bağlı cisimler birlikte hareket eder: F = (m₁ + m₂) · a.
 - **ayt-fiz:newton-un-hareket-yasalari** — Kütlesi 4 kg olan bir cismin Dünya yüzeyindeki ağırlığı kaç N’dur? (g = 10 m/s²)
   - A) 4 · B) 14 · C) 400 · D) 0,4 · **E) 40**
   - Çözüm: G = m · g = 4 · 10 = 40 N. (Kütle kg, ağırlık N ile ölçülür.)
+  - İpucu: Ağırlık = kütle · yer çekimi ivmesi (G = m · g).
 - **ayt-fiz:bir-boyutta-sabit-ivmeli-hareket** — İlk hızı 4 m/s olan bir cisim 4 m/s² sabit ivmeyle 5 saniye hareket ediyor. Aldığı yol kaç m’dir?
   - A) 74 · **B) 70** · C) 120 · D) 35 · E) 100
   - Çözüm: x = v₀t + {1/2}at² = 20 + {1/2} · 4 · 25 = 70 m.
+  - İpucu: Yol formülü: x = v₀ · t + {1/2} · a · t².
 - **ayt-fiz:atislar** — Serbest bırakılan bir cisim 4 saniyede kaç m düşer? (g = 10 m/s², hava direnci yok)
   - **A) 80** · B) 20 · C) 40 · D) 84 · E) 160
   - Çözüm: h = {1/2} g t² = 5 · 16 = 80 m.
+  - İpucu: Serbest düşmede h = {1/2} g t²; sürenin karesini almayı unutma.
 - **ayt-fiz:atislar** — Yerden düşey yukarı 20 m/s hızla atılan bir cisim en fazla kaç m yükselir? (g = 10 m/s², hava direnci yok)
   - A) 2 · B) 21 · C) 10 · D) 40 · **E) 20**
   - Çözüm: h_{maks} = {v²/2g} = {400/20} = 20 m.
+  - İpucu: Tepe noktasında hız sıfırdır. v² = 2gh bağıntısından h’yi çek.
 - **ayt-fiz:atislar** — Düşey yukarı 30 m/s hızla atılan bir cisim kaç saniyede tepe noktasına ulaşır? (g = 10 m/s²)
   - A) 45 · B) 30 · C) 1,5 · **D) 3** · E) 6
   - Çözüm: Tepe noktasında hız sıfırdır: t = {v/g} = {30/10} = 3 s.
+  - İpucu: Cisim her saniye 10 m/s hız kaybeder. Hız kaç saniyede sıfıra iner?
 - **ayt-fiz:itme-ve-momentum** — 5 kg kütleli, 6 m/s hızla giden bir cismin momentumu kaç kg·m/s’dir?
   - **A) 30** · B) 11 · C) 60 · D) 90 · E) 0,83
   - Çözüm: p = m · v = 5 · 6 = 30 kg·m/s.
+  - İpucu: Momentum = kütle · hız.
 - **ayt-fiz:itme-ve-momentum** — 4 m/s hızla giden 2 kg’lık cisim, duran 3 kg’lık cisme çarpıp kenetleniyor. Ortak hızları kaç m/s olur?
   - A) 2,67 · B) 4 · C) 2 · **D) 1,6** · E) 3,2
   - Çözüm: Momentum korunur: 2 · 4 = (2 + 3) · v → v = {8/5} = 1,6 m/s.
+  - İpucu: Çarpışmadan önceki toplam momentum = sonraki toplam momentum. Kenetlenen cisimler tek kütle gibi hareket eder.
 - **ayt-fiz:itme-ve-momentum** — Bir cisme 0,2 saniye boyunca 50 N’luk kuvvet uygulanıyor. Cisme verilen itme kaç N·s’dir?
   - A) 250 · B) 50,2 · C) 5 · D) 100 · **E) 10**
   - Çözüm: İtme = F · Δt = 50 · 0,2 = 10 N·s.
+  - İpucu: İtme = kuvvet · süre (I = F · Δt).
 - **ayt-fiz:tork-denge-ve-kutle-merkezi** — Dönme eksenine 1 m uzaklıktan dik olarak 30 N kuvvet uygulanıyor. Kuvvetin torku kaç N·m’dir?
   - **A) 30** · B) 31 · C) 29 · D) 15 · E) 60
   - Çözüm: τ = F · d = 30 · 1 = 30 N·m.
+  - İpucu: Tork = kuvvet · dönme eksenine dik uzaklık.
 - **ayt-fiz:tork-denge-ve-kutle-merkezi** — Ağırlığı önemsiz bir çubuğun destek noktasının bir tarafında 1 m uzaklıkta 30 N’luk yük asılı. Çubuğun dengede kalması için diğer tarafta 3 m uzaklığa kaç N’luk yük asılmalıdır?
   - A) 90 · B) 30 · C) 28 · **D) 10** · E) 20
   - Çözüm: Torklar eşit: 30 · 1 = G · 3 → G = 10 N.
+  - İpucu: Dengede iki taraftaki torklar eşittir: G₁ · d₁ = G₂ · d₂.
 - **ayt-fiz:basit-makineler** — Ağırlığı ve sürtünmesi önemsiz, 4 ipin yükü taşıdığı bir makara düzeneğiyle 300 N’luk yük dengede tutuluyor. Uygulanması gereken kuvvet kaç N’dur?
   - **A) 75** · B) 300 · C) 296 · D) 1200 · E) 37,5
   - Çözüm: Yükü taşıyan 4 ip varsa kuvvet {G/4} = {300/4} = 75 N.
+  - İpucu: Yük, onu taşıyan ipler arasında eşit paylaşılır.
 - **ayt-fiz:elektriksel-kuvvet-alan-ve-potansiyel** — Büyüklüğü 50 N/C olan düzgün elektrik alanına konan 4 coulomb’luk yüke etki eden kuvvet kaç N’dur?
   - **A) 200** · B) 12,5 · C) 800 · D) 54 · E) 100
   - Çözüm: F = q · E = 4 · 50 = 200 N.
+  - İpucu: Elektrik alanındaki yüke etki eden kuvvet F = q · E.
 - **ayt-fiz:elektriksel-kuvvet-alan-ve-potansiyel** — İki noktasal yük arasındaki uzaklık 2 katına çıkarılırsa aralarındaki elektriksel kuvvet kaç kat küçülür?
   - A) 2 · B) 5 · C) 1 · D) 8 · **E) 4**
   - Çözüm: Coulomb yasası: F ∝ {1/d²}. Uzaklık 2 katına çıkınca kuvvet 4 kat küçülür.
+  - İpucu: Coulomb yasası: F = k · {q₁ · q₂/d²}. Kuvvet uzaklığın karesiyle ters orantılıdır.
 - **ayt-fiz:paralel-levhalar-ve-siga** — Sığası 5 μF olan bir sığaç 20 V’luk üretece bağlanıyor. Sığaçta biriken yük kaç μC’dir?
   - **A) 100** · B) 4 · C) 2000 · D) 25 · E) 50
   - Çözüm: Q = C · V = 5 · 20 = 100 μC.
+  - İpucu: Sığaçtaki yük Q = C · V.
 - **ayt-fiz:alternatif-akim-ve-transformatorler** — İdeal bir transformatörün birincil sargısında 500, ikincil sargısında 400 sarım vardır. Birincile 100 V uygulanırsa ikincilden kaç V alınır?
   - A) 160 · **B) 80** · C) 125 · D) 40000 · E) 100
   - Çözüm: {V₁/V₂} = {N₁/N₂} → V₂ = 100 · {400/500} = 80 V.
+  - İpucu: İdeal transformatörde gerilim sarım sayısıyla doğru orantılıdır: {V₁/V₂} = {N₁/N₂}.
 - **ayt-fiz:cembersel-hareket** — 4 m yarıçaplı çembersel yörüngede 6 m/s sabit süratle dolanan cismin merkezcil ivmesi kaç m/s²’dir?
   - **A) 9** · B) 1,5 · C) 144 · D) 24 · E) 4,5
   - Çözüm: a_{m} = {v²/r} = {36/4} = 9 m/s².
+  - İpucu: Merkezcil ivme a = {v²/r}.
 - **ayt-fiz:cembersel-hareket** — Periyodu 1 s olan düzgün çembersel hareketin frekansı kaç Hz’dir?
   - A) 2 · B) 5 · C) 4 · D) 3 · **E) 1**
   - Çözüm: f = {1/T} = 1 Hz.
+  - İpucu: Frekans periyodun tersidir: f = {1/T}.
 - **ayt-fiz:dalga-mekanigi** — Hızı 40 m/s, frekansı 10 Hz olan bir dalganın dalga boyu kaç m’dir?
   - **A) 4** · B) 400 · C) 8 · D) 0,25 · E) 30
   - Çözüm: λ = {v/f} = {40/10} = 4 m.
+  - İpucu: v = λ · f bağıntısından λ’yı yalnız bırak.
 - **ayt-fiz:atom-fizigi-ve-radyoaktivite** — Yarılanma süresi 5 gün olan radyoaktif bir maddenin 80 g’ından 15 gün sonra kaç g bozunmadan kalır?
   - A) 5 · **B) 10** · C) 13,33 · D) 40 · E) 70
   - Çözüm: 15 gün = 3 yarılanma süresi. Kalan 80 · ({1/2})^{3} = 10 g.
+  - İpucu: 15 gün kaç yarılanma süresi eder? Her yarılanmada kalan madde yarıya iner.
 - **tyt-kim:mol-kavrami-ve-kimyasal-hesaplamalar** — 2 mol su molekülünde kaç tane molekül vardır? (N_{A} = 6 · 10^{23})
   - **A) 12 · 10^{23}** · B) 36 · 10^{23} · C) 2 · 10^{23} · D) 13 · 10^{23} · E) 12 · 10^{22}
   - Çözüm: Tanecik sayısı = n · N_{A} = 2 · 6 · 10^{23} = 12 · 10^{23}.
+  - İpucu: Tanecik sayısı = mol sayısı · Avogadro sayısı (N_{A}).
 - **tyt-kim:mol-kavrami-ve-kimyasal-hesaplamalar** — Normal koşullarda (0 °C, 1 atm) 1 mol gaz kaç litre hacim kaplar?
   - A) 24,5 · B) 23,4 · C) 44,8 · D) 11,2 · **E) 22,4**
   - Çözüm: NK’da 1 mol gaz 22,4 L kaplar: 1 · 22,4 = 22,4 L.
+  - İpucu: Normal koşullarda her mol gaz aynı hacmi kaplar (molar hacim). Bu değeri mol sayısıyla çarp.
 - **tyt-kim:mol-kavrami-ve-kimyasal-hesaplamalar** — Su oluşumunda hidrojen ile oksijenin kütlece birleşme oranı 1’e 8 olarak bilinir. 12 g hidrojenin tamamen tepkimesi için kaç g oksijen gerekir?
   - A) 192 · B) 20 · C) 108 · **D) 96** · E) 1,5
   - Çözüm: Kütlece H : O = 1 : 8. 12 g H için 12 · 8 = 96 g O gerekir; 108 g su oluşur.
+  - İpucu: Oran 1’e 8: her 1 g hidrojen için 8 g oksijen gerekir.
 - **tyt-kim:mol-kavrami-ve-kimyasal-hesaplamalar** — 34 gram NH₃ kaç moldür? (H: 1, C: 12, N: 14, O: 16, Na: 23, Mg: 24, Ca: 40)
   - A) 17 · B) 1 · **C) 2** · D) 34 · E) 4
   - Çözüm: NH₃ için mol kütlesi 14 + 3 · 1 = 17 g/mol. n = {m/M} = {34/17} = 2 mol.
+  - İpucu: Önce NH₃ için mol kütlesini hesapla (atom kütlelerini topla), sonra n = {m/M}.
 - **tyt-kim:kimyanin-temel-kanunlari** — Kapalı bir kapta 28 g A ile 16 g B maddesi artansız tepkimeye girerek yalnız C maddesini oluşturuyor. Oluşan C kaç gramdır?
   - **A) 44** · B) 12 · C) 22 · D) 448 · E) 28
   - Çözüm: Kütlenin korunumu kanunu: tepkimeye girenlerin toplam kütlesi ürünlerinkine eşittir: 28 + 16 = 44 g.
+  - İpucu: Kütlenin korunumu: tepkimeye girenlerin toplam kütlesi ürünlerin toplam kütlesine eşittir.
 - **tyt-kim:karisimlar** — Kütlece yüzde 25 oranında tuz içeren 400 g tuzlu su çözeltisinde kaç g tuz vardır?
   - A) 1000 · B) 300 · **C) 100** · D) 16 · E) 25
   - Çözüm: Tuz = 400 · {25/100} = 100 g.
+  - İpucu: Tuz kütlesi, çözelti kütlesinin verilen yüzdesi kadardır: çözelti kütlesini yüzdeyle çarp, yüze böl.
 - **tyt-kim:karisimlar** — Kütlece yüzde 10 oranında tuz içeren 250 g tuzlu su çözeltisinde kaç g tuz vardır?
   - A) 225 · B) 26 · **C) 25** · D) 10 · E) 250
   - Çözüm: Tuz = 250 · {10/100} = 25 g.
+  - İpucu: Tuz kütlesi, çözelti kütlesinin verilen yüzdesi kadardır: çözelti kütlesini yüzdeyle çarp, yüze böl.
 - **tyt-kim:asitler-bazlar-ve-tuzlar** — 25 °C’de [H⁺] = 10^{−4} M olan bir çözeltinin pH değeri kaçtır?
   - **A) 4** · B) 11 · C) 10 · D) 5 · E) 6
   - Çözüm: pH = −log[H⁺] = 4. pH < 7 olduğu için çözelti asidiktir.
+  - İpucu: pH = −log[H⁺]. [H⁺] 10’un kuvveti biçimindeyse pH, üssün işaretsiz hâlidir.
 - **tyt-kim:asitler-bazlar-ve-tuzlar** — 25 °C’de pH’ı 4 olan bir çözeltinin pOH değeri kaçtır?
   - A) 4 · B) 6 · C) 11 · D) 3 · **E) 10**
   - Çözüm: 25 °C’de pH + pOH = 14 → pOH = 10.
+  - İpucu: 25 °C’de pH + pOH = 14.
 - **tyt-kim:atom-ve-periyodik-sistem** — Atom numarası 20 olan Ca elementinin +2 yüklü iyonunda kaç elektron bulunur?
   - **A) 18** · B) 19 · C) 20 · D) 17 · E) 22
   - Çözüm: İyon yükü = proton − elektron → 2 = 20 − e → e = 18.
+  - İpucu: Pozitif iyon elektron vermiş, negatif iyon elektron almıştır. Proton sayısı atom numarasına eşittir.
 - **tyt-kim:atom-ve-periyodik-sistem** — Atom numarası 13, kütle numarası 27 olan Al atomunun çekirdeğinde kaç nötron vardır?
   - A) 13 · B) 15 · C) 40 · D) 27 · **E) 14**
   - Çözüm: Nötron sayısı = kütle numarası − proton sayısı = 27 − 13 = 14.
+  - İpucu: Kütle numarası = proton + nötron; atom numarası proton sayısıdır.
 - **ayt-kim:gazlar** — Sabit sıcaklıkta 3 atm basınçta 6 L hacim kaplayan bir gazın basıncı 4 atm yapılırsa hacmi kaç L olur?
   - A) 9 · **B) 4,5** · C) 8 · D) 72 · E) 6
   - Çözüm: Boyle yasası: P₁V₁ = P₂V₂ → V₂ = {3 · 6/4} = 4,5 L.
+  - İpucu: Sabit sıcaklıkta basınç ile hacim ters orantılıdır: P₁V₁ = P₂V₂.
 - **ayt-kim:gazlar** — Sabit basınçta 200 K’de 3 L olan bir gazın sıcaklığı 600 K yapılırsa hacmi kaç L olur?
   - A) 1200 · B) 1 · C) 3 · **D) 9** · E) 10
   - Çözüm: Charles yasası: {V₁/T₁} = {V₂/T₂} → V₂ = 3 · {600/200} = 9 L.
+  - İpucu: Sabit basınçta hacim, kelvin cinsinden sıcaklıkla doğru orantılıdır: {V₁/T₁} = {V₂/T₂}.
 - **ayt-kim:sivi-cozeltiler-ve-cozunurluk** — 0,5 mol NaOH ile hazırlanan 500 mL çözeltinin derişimi kaç molardır?
   - **A) 1** · B) 0,25 · C) 4 · D) 2 · E) 3
   - Çözüm: Molarite = {mol/litre} = {0,5/0,5} = 1 M.
+  - İpucu: Molarite = {mol sayısı/çözelti hacmi (litre)}. Önce mL’yi litreye çevir.
 - **ayt-kim:sivi-cozeltiler-ve-cozunurluk** — 2 M’lık 100 mL çözelti su eklenerek 400 mL’ye seyreltiliyor. Yeni derişim kaç M olur?
   - A) 2 · B) 8 · C) 1,5 · **D) 0,5** · E) 1
   - Çözüm: M₁V₁ = M₂V₂ → M₂ = {2 · 100/400} = 0,5 M.
+  - İpucu: Seyreltmede çözünenin mol sayısı değişmez: M₁V₁ = M₂V₂.
 - **ayt-kim:kimyasal-tepkimelerde-enerji** — I. tepkimenin ΔH değeri −221 kJ, II. tepkimenin ΔH değeri ise −88 kJ. I ve II taraf tarafa toplanarak elde edilen tepkimenin ΔH değeri kaç kJ’dür?
   - **A) −309** · B) −133 · C) 309 · D) 133 · E) −221
   - Çözüm: Hess yasası: tepkimeler toplanınca ΔH’ler de toplanır: −221 + (−88) = −309 kJ.
+  - İpucu: Hess yasası: tepkimeler toplanınca ΔH değerleri de işaretleriyle toplanır.
 - **ayt-kim:kimyasal-denge** — A(g) ⇌ 2B(g) tepkimesi dengedeyken [A] = 0,5 M ve [B] = 0,4 M’dir. Derişimler cinsinden denge sabiti K_{c} kaçtır?
   - **A) 0,32** · B) 0,8 · C) 0,16 · D) 1,6 · E) 3,12
   - Çözüm: K_{c} = {[B]²/[A]} = {(0,4)²/0,5} = 0,32.
+  - İpucu: K_{c} = {[ürünler]/[girenler]}, her derişimin üssü katsayısıdır. B’nin katsayısı 2 olduğu için [B]’nin karesi alınır.
 - **ayt-kim:asit-baz-dengesi** — 25 °C’de 10^{−2} M’lık HCl çözeltisinin pH değeri kaçtır? (HCl kuvvetli asittir.)
   - **A) 2** · B) 3 · C) 12 · D) 20 · E) 7
   - Çözüm: Kuvvetli asit tamamen iyonlaşır: [H⁺] = 10^{−2} M → pH = 2.
+  - İpucu: Kuvvetli asit tamamen iyonlaşır: [H⁺] asidin derişimine eşittir. pH = −log[H⁺].
 - **ayt-kim:asit-baz-dengesi** — 25 °C’de 10^{−1} M’lık NaOH çözeltisinin pH değeri kaçtır? (NaOH kuvvetli bazdır.)
   - A) 1 · B) 9 · C) 15 · D) 7 · **E) 13**
   - Çözüm: [OH⁻] = 10^{−1} → pOH = 1 → pH = 14 − 1 = 13.
+  - İpucu: Kuvvetli baz tamamen iyonlaşır: önce [OH⁻]’den pOH’yi bul, sonra pH + pOH = 14.
 - **ayt-kim:organik-bilesikler** — Pentan (alkan) molekülünün formülü hangisidir?
   - **A) C_{5}H_{12}** · B) C_{6}H_{12} · C) C_{5}H_{10} · D) C_{5}H_{22} · E) C_{5}H_{8}
   - Çözüm: Alkanların genel formülü CₙH_{2n + 2}: n = 5 → C_{5}H_{12}.
+  - İpucu: Alkanların genel formülü CₙH_{2n + 2}. Önce adın kaç karbon gösterdiğini bul (met 1, et 2, prop 3, büt 4, pent 5, hekz 6, hept 7, okt 8).
 - **ayt-kim:kimya-ve-elektrik** — Elektrolizde 1 mol Cu²⁺ iyonunun metale indirgenmesi için kaç mol elektron gerekir?
   - **A) 2** · B) 1 · C) 3 · D) 0,5 · E) 4
   - Çözüm: Her Cu²⁺ iyonu 2 elektron alır: 1 · 2 = 2 mol e⁻.
+  - İpucu: İyonun yükü, metale dönüşmek için kaç elektron alması gerektiğini gösterir.
 - **tyt-bio:kalitim** — Kan grubu genotipleri AB × 00 olan anne ve babanın bir çocuğunun AB kan grubu olma olasılığı kaçtır?
   - **A) 0** · B) {3/4} · C) {1/4} · D) 1 · E) {1/2}
   - Çözüm: AB × 00 → A0 ve B0; AB grubu çocuk olmaz.
+  - İpucu: Anne ve babanın verebileceği alelleri yaz, dört olası çocuğu listele. A ile B eş baskındır; ikisi de diğer alele baskındır.
 - **tyt-bio:kalitim** — Renk körlüğü X kromozomuna bağlı çekinik bir özelliktir. Taşıyıcı (XᴿXʳ) anne ile sağlıklı (XᴿY) babanın bir kızının renk körü olma olasılığı kaçtır?
   - A) {1/4} · B) 1 · C) {3/4} · D) {1/2} · **E) 0**
   - Çözüm: Kızlar babadan Xᴿ alır; renk körü kız olmaz (en çok taşıyıcı olur).
+  - İpucu: Oğul X’i anneden, Y’yi babadan alır; kız ise birer X’i ikisinden alır. Hangi ebeveyn hangi X’i verebilir?
 - **tyt-bio:kalitim** — AA × aa çaprazlamasında oluşan bir yavrunun Aa olma olasılığı kaçtır? (A, a’ya baskın; genler bağımsız)
   - A) {1/8} · B) {1/2} · C) {3/4} · **D) 1** · E) {1/4}
   - Çözüm: AA × aa → bütün yavrular Aa.
+  - İpucu: Punnett karesi çiz: her ebeveynin verebileceği gametleri yaz, 4 kutuyu doldur.
 - **tyt-bio:canlilarin-temel-bilesenleri** — 1000 nükleotitten oluşan çift zincirli bir DNA molekülündeki nükleotitlerin yüzde 30 oranındaki kısmı adenin içeriyor. Bu DNA’da kaç guanin nükleotiti vardır?
   - **A) 200** · B) 300 · C) 400 · D) 700 · E) 500
   - Çözüm: A = T = 300; A + T = 600. Kalan 400 nükleotit G ve C’ye eşit dağılır: G = 200.
+  - İpucu: DNA’da A = T ve G = C. Önce A ile T’nin toplamını bul, kalanı G ve C’ye eşit böl.
 - **tyt-bio:hucre-bolunmeleri** — Bir hücre art arda 4 kez mitoz bölünme geçiriyor. Sonunda kaç hücre oluşur?
   - **A) 16** · B) 17 · C) 8 · D) 18 · E) 15
   - Çözüm: Her mitozda hücre sayısı iki katına çıkar: 2^{4} = 16.
+  - İpucu: Her mitozda hücre sayısı iki katına çıkar; bunu bölünme sayısı kadar tekrarla.
 - **tyt-bio:hucre-bolunmeleri** — Mayoz bölünme geçiren 10 tane ana hücreden toplam kaç üreme hücresi oluşur? (Erkeklerde olduğu gibi her bölünme 4 hücre verir.)
   - A) 20 · B) 5 · C) 80 · D) 10 · **E) 40**
   - Çözüm: Bir mayoz 4 hücre verir: 10 · 4 = 40.
+  - İpucu: Bir mayoz bölünme kaç hücre verir? Soruda yazıyor.
 - **tyt-bio:hucre-bolunmeleri** — Vücut hücrelerinde 24 kromozom bulunan bir canlının vücut hücresi mitozla bölünüyor. Oluşan yavru hücrelerin her birinde kaç kromozom bulunur?
   - A) 12 · B) 48 · C) 6 · D) 26 · **E) 24**
   - Çözüm: Mitozda kromozom sayısı korunur: 2n = 24 → yavru hücreler de 2n = 24.
+  - İpucu: Mitozda oluşan hücreler ana hücrenin kopyasıdır; kromozom sayısı değişir mi?
 - **ayt-bio:genden-proteine** — 150 amino asitlik bir polipeptidi şifreleyen mRNA’da (durdurma kodonu hariç) kaç nükleotit bulunur?
   - **A) 450** · B) 900 · C) 150 · D) 453 · E) 300
   - Çözüm: Her amino asit bir kodonla (3 nükleotit) şifrelenir: 150 · 3 = 450.
+  - İpucu: Her amino asit bir kodonla şifrelenir; bir kodon kaç nükleotittir?
 - **ayt-bio:genden-proteine** — 50 amino asitten oluşan doğrusal bir polipeptitte kaç peptit bağı vardır?
   - A) 50 · B) 25 · C) 100 · D) 51 · **E) 49**
   - Çözüm: n amino asit arasında n − 1 peptit bağı kurulur: 49.
+  - İpucu: İki amino asit arasında bir peptit bağı kurulur. 3 amino asitlik zincirde kaç bağ olur? Genelle.
 - **ayt-fiz:is-enerji-ve-guc** — 5 kg kütleli bir cisim yerden 10 m yüksekliğe çıkarılıyor. Cismin kazandığı potansiyel enerji kaç J’dür? (g = 10 m/s²)
   - **A) 500** · B) 50 · C) 5000 · D) 60 · E) 250
   - Çözüm: E_{p} = m · g · h = 5 · 10 · 10 = 500 J.
+  - İpucu: Potansiyel enerji E_{p} = m · g · h; g’yi 10 almayı unutma.
 - **ayt-fiz:is-enerji-ve-guc** — 4 kg kütleli bir cisim 2 m/s hızla hareket ediyor. Kinetik enerjisi kaç J’dür?
   - A) 16 · B) 9 · **C) 8** · D) 6 · E) 4
   - Çözüm: E_{k} = {1/2} m v² = {1/2} · 4 · 4 = 8 J.
+  - İpucu: Kinetik enerji E_{k} = {1/2} m v². Hızın karesini almayı unutma.
 - **tyt-cog:harita-bilgisi** — 1/250.000 ölçekli bir haritada iki şehir arası 7 cm ise gerçek uzaklık kaç km’dir?
   - **A) 17,5** · B) 175 · C) 18,5 · D) 1,75 · E) 1750
   - Çözüm: Gerçek uzaklık = 7 · 250.000 cm = 1.750.000 cm = 17,5 km (1 km = 100 000 cm).
+  - İpucu: Ölçek 1/250.000: haritadaki 1 cm gerçekte 250.000 cm. Sonucu km’ye çevir (1 km = 100 000 cm).

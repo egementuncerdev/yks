@@ -5,6 +5,7 @@ import { TYT_MAT } from './tytMat';
 import { AYT_MAT, BIYOLOJI, COGRAFYA, FIZIK, KIMYA } from './science';
 import { BANK as BANK1 } from './bank';
 import { BANK2 } from './bank2';
+import { HINTS } from './hints';
 
 /** Bütün elle yazılmış sorular. Yeni sorular yalnız SONA eklenir (kimlikler sıra numarasıdır). */
 export const BANK = [...BANK1, ...BANK2];
@@ -74,12 +75,12 @@ function fromBank(i: number): Question {
   const [sid, name, stem, opts, solution] = BANK[i]!;
   const r = rng(i * 7919 + 13);
   const options = shuffle(r, [...opts]);
-  return { id: `b|${i}`, topicId: topicId(sid, name), stem, options, answer: options.indexOf(opts[0]), solution };
+  return { id: `b|${i}`, topicId: topicId(sid, name), stem, options, answer: options.indexOf(opts[0]), solution, hint: HINTS[i] };
 }
 function fromGen(topic: string, gi: number, seed: number): Question {
   const gen = GENERATORS.get(topic)![gi]!;
   const q = gen(rng(seed));
-  return { id: `g|${topic}|${gi}|${seed}`, topicId: topic, stem: tidy(q.stem), options: q.options.map(tidy), answer: q.answer, solution: tidy(q.solution) };
+  return { id: `g|${topic}|${gi}|${seed}`, topicId: topic, stem: tidy(q.stem), options: q.options.map(tidy), answer: q.answer, solution: tidy(q.solution), ...(q.hint ? { hint: tidy(q.hint) } : {}) };
 }
 
 /** Kimlikten soruyu yeniden kur (yanlışlar listesi için) */

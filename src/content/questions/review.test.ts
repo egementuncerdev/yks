@@ -15,7 +15,7 @@ it.runIf(process.env.REVIEW)('içerik listesi', () => {
   out.push('', '## Üretilen sorulardan örnekler', '', 'Her üreticiden bir örnek; sayılar her testte değişir, cevap kodla hesaplanır.', '');
   for (const [topic, gens] of GENERATORS) gens.forEach((_, i) => {
     const q = questionById(`g|${topic}|${i}|${11 + i}`)!;
-    out.push(`- **${topic}** — ${q.stem}`, `  - ${q.options.map((o, j) => (j === q.answer ? `**${LETTERS[j]}) ${o}**` : `${LETTERS[j]}) ${o}`)).join(' · ')}`, `  - Çözüm: ${q.solution}`);
+    out.push(`- **${topic}** — ${q.stem}`, `  - ${q.options.map((o, j) => (j === q.answer ? `**${LETTERS[j]}) ${o}**` : `${LETTERS[j]}) ${o}`)).join(' · ')}`, `  - Çözüm: ${q.solution}`, ...(q.hint ? [`  - İpucu: ${q.hint}`] : []));
   });
   writeFileSync('CONTENT_REVIEW.md', out.join('\n') + '\n');
 });

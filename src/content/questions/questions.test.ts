@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { GENERATORS, BANK_BY_TOPIC, BANK, questionsFor, questionById } from './index';
+import { HINTS } from './hints';
 
 const bad = /NaN|undefined|Infinity|null|\[object/;
 
@@ -38,5 +39,35 @@ describe('elle yazılmış sorular', () => {
   it('konudan istenenden az soru varsa olanlar döner', () => {
     const id = [...BANK_BY_TOPIC.keys()].find((k) => !GENERATORS.has(k))!;
     expect(questionsFor(id, 50).length).toBe(BANK_BY_TOPIC.get(id)!.length);
+  });
+});
+
+describe('ipuçları', () => {
+  const isMath = (topic: string) => topic.startsWith('tyt-mat:') || topic.startsWith('ayt-mat:');
+  const norm = (s: string) => s.toLocaleLowerCase('tr').replace(/\s+/g, ' ');
+  /** Cevap ipucunda geçiyor mu? Sayılar ve kısa cevaplarda yalnız tam sözcük olarak; soruda zaten verilmişse sayılmaz. */
+  const leaks = (q: { stem: string; options: string[]; answer: number; hint?: string }) => {
+    const ans = norm(q.options[q.answer]!), hint = norm(q.hint!);
+    if (ans.length >= 4 && !/^[\d\s,.−·{}/^]+$/.test(ans)) return hint.includes(ans);
+    const word = new RegExp(`(^|[^\\p{L}\\p{N},])${ans.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}($|[^\\p{L}\\p{N},])`, 'u');
+    return word.test(hint) && !word.test(norm(q.stem));
+  };
+
+  it('matematik dışındaki her soruda ipucu var ve cevabı söylemiyor; matematikte ipucu yok', () => {
+    expect(HINTS).toHaveLength(BANK.length);
+    BANK.forEach((_, i) => {
+      const q = questionById(`b|${i}`)!;
+      expect(q.hint?.trim(), q.stem).toBeTruthy();
+      expect(leaks(q), `#${i} ${q.stem} → ${q.hint}`).toBe(false);
+    });
+    for (const [topic, gens] of GENERATORS) gens.forEach((_, gi) => {
+      for (let seed = 1; seed <= 60; seed++) {
+        const q = questionById(`g|${topic}|${gi}|${seed}`)!;
+        if (isMath(topic)) { expect(q.hint, topic).toBeUndefined(); continue; }
+        expect(q.hint?.trim(), `${topic}#${gi}`).toBeTruthy();
+        expect(bad.test(q.hint!), `${topic}#${gi}: ${q.hint}`).toBe(false);
+        expect(leaks(q), `${topic}#${gi} tohum ${seed}: ${q.stem} → ${q.hint}`).toBe(false);
+      }
+    });
   });
 });

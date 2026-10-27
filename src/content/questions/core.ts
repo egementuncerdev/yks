@@ -9,6 +9,8 @@ export interface Question {
   options: string[];
   answer: number;
   solution: string;
+  /** Cevabı söylemeden yol gösteren ipucu (matematikte yok) */
+  hint?: string;
 }
 
 export type Rnd = () => number;
