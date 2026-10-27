@@ -4,7 +4,7 @@ import { Link, type LinkProps } from 'react-router';
 import { SUBJECT_BY_ID } from '@/content/subjects';
 
 type Variant = 'primary' | 'secondary' | 'ghost' | 'mark';
-const base = 'inline-flex items-center justify-center gap-2 rounded-xl font-medium transition-[background-color,border-color,color,transform] active:translate-y-px disabled:pointer-events-none disabled:opacity-45 select-none';
+const base = 'inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-xl font-medium transition-[background-color,border-color,color,transform] active:translate-y-px disabled:pointer-events-none disabled:opacity-45 select-none';
 const variants: Record<Variant, string> = {
   primary: 'bg-primary text-on-primary hover:brightness-110',
   secondary: 'border border-line-2 bg-surface text-ink hover:border-ink-2',
@@ -65,5 +65,15 @@ export function Empty({ title, text, action }: { title: string; text?: string; a
       {text && <p className="mx-auto mt-2 max-w-md text-ink-2">{text}</p>}
       {action && <div className="mt-6">{action}</div>}
     </Card>
+  );
+}
+
+/** Ekranın altına yapışan eylem çubuğu: uzun içerikte ana düğme hep görünür kalır.
+    aboveNav: mobildeki alt sekme çubuğunun üstünde durur (uygulama ekranları). */
+export function ActionBar({ children, aboveNav = false, className = '' }: { children: ReactNode; aboveNav?: boolean; className?: string }) {
+  return (
+    <div className={`sticky z-20 -mx-4 mt-8 flex items-center justify-between gap-3 border-t border-line bg-paper/95 px-4 py-3 backdrop-blur sm:mx-0 sm:mb-4 sm:rounded-2xl sm:border sm:px-4 ${aboveNav ? 'bottom-[calc(4rem+env(safe-area-inset-bottom))] md:bottom-0' : 'bottom-0 pb-[max(0.75rem,env(safe-area-inset-bottom))]'} ${className}`}>
+      {children}
+    </div>
   );
 }

@@ -106,24 +106,42 @@ export default function LessonPage() {
       </div>
 
       <section aria-label="Sonraki adım" className="mt-10 rounded-2xl border border-line-2 bg-surface p-5">
-        <p className="font-medium">Okudun mu? Şimdi soru çöz.</p>
-        <p className="mt-1 text-[14.5px] text-ink-2">{n ? (n === 'sınırsız' ? 'Bu konuda her seferinde yeni sorular üretilir.' : `Bu konuda ${n} çözümlü soru var.`) : 'Bu konunun soruları henüz hazırlanıyor; MEB’in çıkmış soru arşivlerine bakabilirsin.'}</p>
-        <div className="mt-4 flex flex-wrap items-center gap-2">
-          {n ? <ButtonLink to={testPath(topic.id)}>10 soru çöz <ArrowRight className="size-4" /></ButtonLink> : null}
-          {profile && (
-            <label className="flex items-center gap-2 text-sm text-ink-2">
-              <span>Durum</span>
-              <select value={st ?? 'todo'} onChange={(e) => void setTopicStatus(topic.id, e.target.value as 'todo')} className="h-11 rounded-xl border border-line-2 bg-surface px-3 text-[15px]">
-                <option value="todo">Yapılacak</option><option value="doing">Çalışıyorum</option><option value="weak">Zorlandım</option><option value="done">Bitti</option>
-              </select>
-            </label>
-          )}
+        <div className="flex flex-wrap items-center justify-between gap-4">
+          <div className="min-w-0">
+            <p className="font-medium">Okudun mu? Şimdi soru çöz.</p>
+            <p className="mt-1 text-[14.5px] text-ink-2">{n ? (n === 'sınırsız' ? 'Bu konuda her seferinde yeni sorular üretilir.' : `Bu konuda ${n} çözümlü soru var.`) : 'Bu konunun soruları hazırlanıyor.'}</p>
+          </div>
+          {n ? <ButtonLink to={testPath(topic.id)} className="w-full sm:w-auto">10 soru çöz <ArrowRight className="size-4" /></ButtonLink> : null}
         </div>
+        {profile && (
+          <div className="mt-4 border-t border-line pt-4">
+            <p id="st-h" className="mb-2 text-sm text-muted">Bu konu benim için</p>
+            <div role="radiogroup" aria-labelledby="st-h" className="grid grid-cols-2 gap-1 rounded-xl bg-sunken p-1 sm:grid-cols-4">
+              {([['todo', 'Yapılacak'], ['doing', 'Çalışıyorum'], ['weak', 'Zorlandım'], ['done', 'Bitti']] as const).map(([v, t]) => {
+                const on = (st ?? 'todo') === v;
+                return (
+                  <button key={v} type="button" role="radio" aria-checked={on} onClick={() => void setTopicStatus(topic.id, v)}
+                    className={`h-9 rounded-lg text-[14px] ${on ? `bg-surface font-semibold shadow-[0_0_0_1px_var(--line-2)] ${v === 'done' ? 'text-good' : v === 'weak' ? 'text-warn' : 'text-ink'}` : 'text-ink-2 hover:text-ink'}`}>{t}</button>
+                );
+              })}
+            </div>
+          </div>
+        )}
       </section>
 
-      <nav aria-label="Aynı dersteki diğer konular" className="mt-8 grid gap-3 border-t border-line pt-6 sm:grid-cols-2">
-        {prev ? <Link to={lessonPath(prev.id)} className="rounded-xl px-1 py-1 hover:text-ink"><span className="block text-sm text-muted">← Önceki</span><span className="text-ink-2">{prev.name}</span></Link> : <span />}
-        {next && <Link to={lessonPath(next.id)} className="rounded-xl px-1 py-1 text-right hover:text-ink sm:text-right"><span className="block text-sm text-muted">Sonraki →</span><span className="text-ink-2">{next.name}</span></Link>}
+      <nav aria-label="Aynı dersteki diğer konular" className="mt-6 grid grid-cols-2 gap-3">
+        {prev ? (
+          <Link to={lessonPath(prev.id)} className="group rounded-2xl border border-line bg-surface px-4 py-3 hover:border-ink-2">
+            <span className="flex items-center gap-1 text-[13px] text-muted"><ArrowLeft className="size-3.5" /> Önceki konu</span>
+            <span className="mt-0.5 block text-[14.5px] leading-snug text-ink">{prev.name}</span>
+          </Link>
+        ) : <span />}
+        {next ? (
+          <Link to={lessonPath(next.id)} className="group rounded-2xl border border-line bg-surface px-4 py-3 text-right hover:border-ink-2">
+            <span className="flex items-center justify-end gap-1 text-[13px] text-muted">Sonraki konu <ArrowRight className="size-3.5" /></span>
+            <span className="mt-0.5 block text-[14.5px] leading-snug text-ink">{next.name}</span>
+          </Link>
+        ) : <span />}
       </nav>
     </article>
   );

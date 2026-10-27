@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router';
 import { ArrowLeft, ChevronLeft, ChevronRight, Clock } from 'lucide-react';
-import { Button, ButtonLink, Empty } from '@/components/ui';
+import { ActionBar, Button, ButtonLink, Empty } from '@/components/ui';
 import { MathText } from '@/components/MathText';
 import { LETTERS } from '@/content/questions/core';
 import { topicName } from '@/content/questions';
@@ -112,11 +112,12 @@ function Exam({ qs, kind, seconds, onRestart }: { qs: MiniQuestion[]; kind: Mini
         })}
       </div>
 
-      <div className="mt-6 flex items-center justify-between gap-3">
+      <ActionBar aboveNav>
         <Button variant="secondary" onClick={() => setI(i - 1)} disabled={i === 0}><ChevronLeft className="size-4" /> Önceki</Button>
-        {i + 1 < qs.length ? <Button onClick={() => setI(i + 1)}>Sonraki <ChevronRight className="size-4" /></Button>
-          : <Button onClick={() => { if (answered === qs.length || confirm(`${qs.length - answered} soru boş. Denemeyi bitirmek istiyor musun?`)) void finish(); }}>Bitir</Button>}
-      </div>
+        <span className="num text-sm text-muted">{i + 1} / {qs.length}</span>
+        {i + 1 < qs.length ? <Button className="min-w-[8.5rem]" onClick={() => setI(i + 1)}>Sonraki <ChevronRight className="size-4" /></Button>
+          : <Button className="min-w-[8.5rem]" onClick={() => { if (answered === qs.length || confirm(`${qs.length - answered} soru boş. Denemeyi bitirmek istiyor musun?`)) void finish(); }}>Bitir</Button>}
+      </ActionBar>
 
       <nav aria-label="Sorular" className="mt-8 border-t border-line pt-5">
         <div className="mb-3 flex items-center justify-between text-sm text-muted"><span>{answered} / {qs.length} cevaplandı</span>

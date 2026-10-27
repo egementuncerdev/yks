@@ -98,3 +98,8 @@
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
 }
+
+/* Tanıtım sayfasında bölümlerin belirmesi (Reveal) ve yumuşak kaydırma */
+.reveal-wait { opacity: 0; transform: translateY(14px); transition: opacity 0.55s ease, transform 0.55s cubic-bezier(0.2, 0.7, 0.2, 1); }
+.reveal-wait.reveal-in { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }

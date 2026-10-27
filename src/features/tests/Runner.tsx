@@ -2,7 +2,7 @@
    Matematik dışındaki sorularda isteğe bağlı ipucu var; cevabı söylemez, yolu gösterir. */
 import { useEffect, useState } from 'react';
 import { Check, Lightbulb, X } from 'lucide-react';
-import { Button, Progress } from '@/components/ui';
+import { ActionBar, Button, Progress } from '@/components/ui';
 import { MathText } from '@/components/MathText';
 import { LETTERS } from '@/content/questions/core';
 import { topicName, type Question } from '@/content/questions';
@@ -132,22 +132,22 @@ export function Runner({ questions, source, onDone, onRestart }: { questions: Qu
         </div>
       )}
 
-      <div className="mt-6 flex flex-wrap items-center justify-between gap-3">
+      <ActionBar aboveNav>
         {!checked ? (
           <>
-            <div className="flex flex-wrap gap-1">
-              <Button variant="ghost" onClick={() => check(true)}>Boş bırak</Button>
-              {q.hint && <Button variant="ghost" onClick={showHint} disabled={hint} aria-expanded={hint}><Lightbulb className="size-4" aria-hidden />İpucu</Button>}
+            <div className="flex gap-1">
+              <Button variant="ghost" className="px-3" onClick={() => check(true)}>Boş bırak</Button>
+              {q.hint && <Button variant="ghost" className="px-3" onClick={showHint} disabled={hint} aria-expanded={hint}><Lightbulb className="size-4" aria-hidden />İpucu</Button>}
             </div>
-            <Button onClick={() => check()} disabled={picked === null}>Kontrol et</Button>
+            <Button className="min-w-[8.5rem]" onClick={() => check()} disabled={picked === null}>Kontrol et</Button>
           </>
         ) : (
           <>
-            <span className="text-sm text-muted">Klavye: A–E seç, Enter</span>
-            <Button onClick={() => void next()}>{i + 1 < questions.length ? 'Sonraki soru' : 'Sonucu gör'}</Button>
+            <span className="hidden text-sm text-muted sm:inline">Klavye: A–E seç, Enter</span>
+            <Button className="ml-auto min-w-[8.5rem]" onClick={() => void next()}>{i + 1 < questions.length ? 'Sonraki soru' : 'Sonucu gör'}</Button>
           </>
         )}
-      </div>
+      </ActionBar>
     </div>
   );
 }

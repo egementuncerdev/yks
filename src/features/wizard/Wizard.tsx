@@ -2,7 +2,7 @@
 import { useMemo, useState, type ReactNode } from 'react';
 import { useNavigate } from 'react-router';
 import { ArrowLeft, ArrowRight, Minus, Plus } from 'lucide-react';
-import { Button, Card, Progress } from '@/components/ui';
+import { ActionBar, Button, Card, Progress } from '@/components/ui';
 import { useProfile, useTopicStates, useToday } from '@/app/data';
 import { DEFAULT_EXAM_DATE, EXAMS, EXAM_DATE_IS_OFFICIAL, SCORE_TYPES, TESTS, TESTS_BY_SCORE, type ScoreType } from '@/content/exam';
 import { buildPlan, subjectsFor } from '@/lib/planner';
@@ -264,17 +264,17 @@ function WizardInner({ existing }: { existing: Profile | null }) {
         </section>
       )}
 
-      <div className="mt-10 flex items-center justify-between gap-3">
-        {step > 0 ? <Button variant="ghost" onClick={() => setStep(step - 1)}><ArrowLeft className="size-4" /> Geri</Button> : <span />}
+      <ActionBar>
+        {step > 0 ? <Button variant="ghost" className="px-3" onClick={() => setStep(step - 1)}><ArrowLeft className="size-4" /> Geri</Button> : <span />}
         {cur ? (
           <div className="flex gap-2">
             {cur.skip && <Button variant="ghost" onClick={() => { set({ nets: {} }); setStep(step + 1); }}>Atla</Button>}
-            <Button onClick={() => setStep(step + 1)} disabled={cur.ok === false}>{step === total - 1 ? 'Programı göster' : 'Devam'} <ArrowRight className="size-4" /></Button>
+            <Button className="min-w-[8.5rem]" onClick={() => setStep(step + 1)} disabled={cur.ok === false}>{step === total - 1 ? 'Programı göster' : 'Devam'} <ArrowRight className="size-4" /></Button>
           </div>
         ) : (
           <Button size="lg" onClick={() => void finish()} disabled={saving}>{existing ? 'Programı güncelle' : 'Programıma başla'} <ArrowRight className="size-4" /></Button>
         )}
-      </div>
+      </ActionBar>
     </div>
   );
 }

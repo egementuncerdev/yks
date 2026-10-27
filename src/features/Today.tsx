@@ -77,12 +77,12 @@ export default function Today() {
             {nextTopic?.frequent && <span>Sık sorulan konu</span>}
           </div>
           {nextNames.length > 0 && <p className="mt-2 text-[14.5px] text-ink-2">{nextNames.join(' · ')}</p>}
-          <div className="mt-5 flex flex-wrap gap-2">
+          <div className="mt-5 grid grid-cols-2 gap-2 sm:flex sm:flex-wrap [&>*:first-child]:col-span-2 [&>*:only-child]:col-span-2">
             <Button onClick={() => void toggleTask(today, next.id, true)}><Check className="size-4" /> Bitirdim</Button>
             {nextTopic && <ButtonLink to={lessonPath(nextTopic.id)} variant="secondary"><BookOpen className="size-4" /> Konu anlatımı</ButtonLink>}
             {next.kind === 'exam' && <ButtonLink to={`/denemeler?ekle=${next.title.startsWith('AYT') ? 'ayt' : next.title.startsWith('YDT') ? 'ydt' : 'tyt'}`} variant="secondary">Sonucunu gir</ButtonLink>}
             {next.kind === 'analysis' && <ButtonLink to="/denemeler" variant="secondary">Gelişimini gör</ButtonLink>}
-            {nextTopic && hasQuestions(nextTopic.id) && <ButtonLink to={testPath(nextTopic.id)} variant="secondary">Bu konudan 10 soru</ButtonLink>}
+            {nextTopic && hasQuestions(nextTopic.id) && <ButtonLink to={testPath(nextTopic.id)} variant="secondary">10 soru çöz</ButtonLink>}
           </div>
         </section>
       ) : tasks.length > 0 ? (
