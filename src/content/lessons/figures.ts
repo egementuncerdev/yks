@@ -1,8 +1,9 @@
 /* Konu anlatımlarındaki görseller ve şemalar. Anahtar: "dersId:Konu adı" (subjects.ts ile birebir; test kontrol eder).
    svg adları src/features/lessons/Diagrams.tsx içindedir. Metinlerde MathText işaretleri kullanılabilir. */
 import type { Figure } from './types';
+import { FIGURES_MORE } from './figures2';
 
-export const FIGURES: Record<string, Figure[]> = {
+const FIRST: Record<string, Figure[]> = {
   /* ================= TYT Türkçe ================= */
   'tyt-tr:Sözcükte Anlam': [
     { kind: 'table', title: 'Anlam türleri bir bakışta', at: 0, head: ['Tür', 'Örnek', 'İpucu'], rows: [
@@ -466,3 +467,6 @@ export const FIGURES: Record<string, Figure[]> = {
     { kind: 'table', title: 'Zaman edatları', at: 0, head: ['Edat', 'Ne ile?', 'Örnek'], rows: [['at', 'saat, an', 'at 9 o’clock, at night'], ['on', 'gün, tarih', 'on Monday, on 5 May'], ['in', 'ay, yıl, mevsim', 'in June, in 1950, in winter']] }
   ]
 };
+
+export const FIGURES: Record<string, Figure[]> = { ...FIRST, ...FIGURES_MORE };
+export const FIGURE_KEYS_OVERLAP = Object.keys(FIGURES_MORE).filter((k) => k in FIRST);

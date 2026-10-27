@@ -20,16 +20,17 @@ npm run deploy     # build + wrangler deploy (Cloudflare Workers static assets)
 | `src/content/subjects.ts` | Dersler, konular, konu hacmi, “sık sorulan” işaretleri, MEB kaynakları |
 | `src/content/questions/` | Soru motoru: `core.ts` (tohumlu rastgele, kesir, şık), üreticiler (`tytMat.ts`, `science.ts`), elle yazılmış sorular (`bank.ts`) |
 | `src/content/lessons/` | Konu anlatımları, ders başına bir dosya (`tyt-tr.ts` …); anahtar konu adıdır. Her ders ayrı parça olarak yüklenir |
+| `src/lib/deneme.ts` | Deneme hesapları (net, gelişim, en çok net kazanılacak test); mini deneme soruları `src/content/questions/mini.ts` |
 | `src/lib/planner.ts` | Program oluşturucu (saf fonksiyon, testli) |
 | `src/lib/storage.ts` | IndexedDB (Dexie): profil, konu durumları, program, test sonuçları, yanlışlar, yedek |
-| `src/features/` | Ekranlar: tanıtım, kurulum, bugün, hafta, konular, anlatımlar, testler, ayarlar |
+| `src/features/` | Ekranlar: tanıtım, kurulum, bugün, hafta, konular, anlatımlar, testler, denemeler, ayarlar |
 
 ## Güncelleme notları
 
 - **ÖSYM 2027 takvimi açıklanınca:** `src/content/exam.ts` içinde `DEFAULT_EXAM_DATE` ve `EXAM_DATE_IS_OFFICIAL = true`.
 - **Kılavuz değişirse:** `TESTS` (test ve ders soru sayıları). Test, toplamların sınav soru sayısıyla tuttuğunu kontrol eder.
 - **Yeni soru:** elle yazılmışsa `bank.ts` (doğru cevap ilk şık); hesaplamalıysa ilgili dosyaya üretici. `npm test` her üreticiyi 300 tohumla dener.
-- **Görsel ve şema:** `src/content/lessons/figures.ts` (anahtar `dersId:Konu adı`; tablo, zaman çizelgesi, akış, Punnett ya da çizim). Çizimler `src/features/lessons/Diagrams.tsx` içinde, renkler tema değişkenlerinden. Test, anahtarların ve çizim adlarının geçerli olduğunu kontrol eder.
+- **Görsel ve şema:** `src/content/lessons/figures.ts` ve `figures2.ts` (anahtar `dersId:Konu adı`; tablo, zaman çizelgesi, akış, Punnett ya da çizim). Çizimler `src/features/lessons/Diagrams.tsx` içinde, renkler tema değişkenlerinden. Test, anahtarların ve çizim adlarının geçerli olduğunu kontrol eder.
 - **Konu anlatımı:** `src/content/lessons/<ders>.ts` içinde konu adıyla. Test, her konunun anlatımı olduğunu ve adların `subjects.ts` ile tuttuğunu kontrol eder. İpuçları: `src/content/questions/hints.ts` (BANK ile aynı sıra).
 - **İçerik listesi:** `REVIEW=1 npx vitest run src/content/questions/review.test.ts` → `CONTENT_REVIEW.md`.
 - Konu id'leri ilerleme kaydında kullanılır; konu adını değiştirirken eski id'yi koru.

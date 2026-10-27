@@ -24,7 +24,9 @@ describe('konu anlatımları', () => {
 
 describe('anlatım görselleri', () => {
   it('her görsel var olan bir konuya ve çizime bağlı; bölüm indeksi geçerli', async () => {
-    const { FIGURES } = await import('./figures');
+    const { FIGURES, FIGURE_KEYS_OVERLAP } = await import('./figures');
+    expect(FIGURE_KEYS_OVERLAP, 'iki dosyada aynı konu').toEqual([]);
+    for (const s of SUBJECTS) for (const t of s.topics) expect(FIGURES[`${s.id}:${t.name}`]?.length, `${s.id}:${t.name}: görsel yok`).toBeGreaterThan(0);
     const { DIAGRAMS } = await import('../../features/lessons/Diagrams');
     for (const [key, figs] of Object.entries(FIGURES)) {
       const [sid, ...rest] = key.split(':');
