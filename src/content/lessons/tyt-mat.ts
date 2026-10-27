@@ -754,7 +754,7 @@ const L: LessonSet = {
       'Benzer kenarları eşleştirirken eşit açıların karşısındaki kenarları eşle; konumlara göre değil.'
     ],
     example: {
-      q: 'ABC üçgeninde DE ∥ BC, AD = 4, DB = 2 ve DE = 6 ise BC kaçtır?',
+      q: 'ABC üçgeninde DE // BC, AD = 4, DB = 2 ve DE = 6 ise BC kaçtır?',
       a: 'ADE ∼ ABC, oran {AD/AB} = {4/6} = {2/3}. {6/BC} = {2/3} → BC = 9.'
     }
   },

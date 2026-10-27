@@ -11,3 +11,12 @@ export interface Lesson {
 }
 /** Bir dersin anlatımları: anahtar konu ADI (subjects.ts ile birebir; test kontrol eder) */
 export type LessonSet = Record<string, Lesson>;
+
+/** Konu anlatımına eklenen görsel ya da şema. `at`: hangi bölümden (parts indeksi) sonra gösterilir; yoksa bölümlerin sonunda. */
+export type Figure = { title: string; caption?: string; at?: number } & (
+  | { kind: 'svg'; svg: string }
+  | { kind: 'table'; head: string[]; rows: string[][] }
+  | { kind: 'timeline'; items: [when: string, what: string][] }
+  | { kind: 'flow'; steps: string[] }
+  | { kind: 'punnett'; mother: [string, string]; father: [string, string]; note?: string }
+);

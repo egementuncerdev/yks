@@ -11,6 +11,8 @@ import { hasQuestions, questionCount } from '@/content/questions';
 import { setTopicStatus } from '@/lib/storage';
 import { testPath } from '../tests/Tests';
 import { useTitle } from '@/lib/title';
+import { FIGURES } from '@/content/lessons/figures';
+import { FigureView } from './FigureView';
 
 export default function LessonPage() {
   const { topicId = '' } = useParams();
@@ -29,6 +31,8 @@ export default function LessonPage() {
   const { prev, next } = neighbors(topic.id);
   const st = states.get(topic.id)?.status;
   const n = hasQuestions(topic.id) ? questionCount(topic.id) : 0;
+  const figs = FIGURES[`${topic.subjectId}:${topic.name}`] ?? [];
+  const figsAt = (i: number) => figs.filter((f) => (f.at ?? lesson.parts.length - 1) === i).map((f) => <FigureView key={f.title} f={f} />);
 
   return (
     <article className="mx-auto max-w-2xl">
@@ -44,7 +48,7 @@ export default function LessonPage() {
       </header>
 
       <div className="space-y-8">
-        {lesson.parts.map((p) => (
+        {lesson.parts.map((p, i) => (
           <section key={p.h} aria-labelledby={`h-${p.h}`}>
             <h2 id={`h-${p.h}`} className="display text-lg">{p.h}</h2>
             <ul className="mt-3 space-y-2.5">
@@ -55,6 +59,7 @@ export default function LessonPage() {
                 </li>
               ))}
             </ul>
+            {figsAt(i).length > 0 && <div className="mt-5 space-y-5">{figsAt(i)}</div>}
           </section>
         ))}
 
