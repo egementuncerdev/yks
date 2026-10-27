@@ -6,11 +6,15 @@ import { AYT_MAT, BIYOLOJI, COGRAFYA, FIZIK, KIMYA } from './science';
 import { BANK as BANK1 } from './bank';
 import { BANK2 } from './bank2';
 import { HINTS } from './hints';
+import { BANK3 } from './bank3';
 
 /** Bütün elle yazılmış sorular. Yeni sorular yalnız SONA eklenir (kimlikler sıra numarasıdır). */
-export const BANK = [...BANK1, ...BANK2];
+export const BANK = [...BANK1, ...BANK2, ...BANK3.map(([a, b, c, d, e]) => [a, b, c, d, e] as (typeof BANK1)[number])];
+/** BANK ile aynı sırada ipuçları */
+export const ALL_HINTS = [...HINTS, ...BANK3.map((x) => x[5])];
 import { MATH_MORE } from './mathMore';
 import { SCIENCE_MORE } from './scienceMore';
+import { SCIENCE_EXTRA } from './scienceExtra';
 
 export type { Question };
 
@@ -36,6 +40,7 @@ add('ayt-mat', {
 });
 for (const [sid, table] of Object.entries({ ...MATH_MORE })) add(sid, table);
 for (const [sid, table] of Object.entries(SCIENCE_MORE)) add(sid, table);
+for (const [sid, table] of Object.entries(SCIENCE_EXTRA)) add(sid, table);
 add('tyt-fiz', FIZIK);
 add('ayt-fiz', { 'İş, Enerji ve Güç': FIZIK['İş, Güç ve Enerji']! });
 add('tyt-kim', KIMYA);
@@ -75,7 +80,7 @@ function fromBank(i: number): Question {
   const [sid, name, stem, opts, solution] = BANK[i]!;
   const r = rng(i * 7919 + 13);
   const options = shuffle(r, [...opts]);
-  return { id: `b|${i}`, topicId: topicId(sid, name), stem, options, answer: options.indexOf(opts[0]), solution, hint: HINTS[i] };
+  return { id: `b|${i}`, topicId: topicId(sid, name), stem, options, answer: options.indexOf(opts[0]), solution, hint: ALL_HINTS[i] };
 }
 function fromGen(topic: string, gi: number, seed: number): Question {
   const gen = GENERATORS.get(topic)![gi]!;

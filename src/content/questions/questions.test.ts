@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { GENERATORS, BANK_BY_TOPIC, BANK, questionsFor, questionById } from './index';
+import { GENERATORS, BANK_BY_TOPIC, BANK, ALL_HINTS, questionsFor, questionById } from './index';
 import { HINTS } from './hints';
 
 const bad = /NaN|undefined|Infinity|null|\[object/;
@@ -54,7 +54,8 @@ describe('ipuçları', () => {
   };
 
   it('matematik dışındaki her soruda ipucu var ve cevabı söylemiyor; matematikte ipucu yok', () => {
-    expect(HINTS).toHaveLength(BANK.length);
+    expect(ALL_HINTS).toHaveLength(BANK.length);
+    expect(HINTS.length).toBeLessThanOrEqual(BANK.length);
     BANK.forEach((_, i) => {
       const q = questionById(`b|${i}`)!;
       expect(q.hint?.trim(), q.stem).toBeTruthy();

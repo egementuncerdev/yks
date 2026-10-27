@@ -1270,6 +1270,933 @@ According to the passage, why do animals hibernate?
 Which sentence is irrelevant to the passage?
   - **IV** · I · II · III · V
   - Çözüm: Parça kahveyi anlatır; fillerle ilgili IV. cümle akışı bozar.
+- **tyt-tr · Cümlede Anlam** — Aşağıdaki cümlelerin hangisinde neden – sonuç ilişkisi vardır?
+  - **Yağmur yağdığı için maç ertelendi.** · Sınavı kazanmak için çok çalışıyor. · Erken gelirsen birlikte gideriz. · Bu kitap öncekinden daha akıcı. · Gözleri deniz gibi maviydi.
+  - Çözüm: Yağmurun yağması gerçekleşmiş bir durumdur ve ertelemenin nedenidir. “Kazanmak için” amaç, “gelirsen” koşul, diğerleri karşılaştırma ve benzetmedir.
+- **tyt-tr · Cümlede Anlam** — Aşağıdaki cümlelerin hangisinde amaç – sonuç ilişkisi vardır?
+  - **Derse yetişmek için erkenden yola çıktı.** · Hasta olduğu için okula gelmedi. · Hava soğuyunca montunu giydi. · Çok yorulduğundan erkenden uyudu. · Kar yağdığı için yollar kapandı.
+  - Çözüm: Derse yetişmek henüz gerçekleşmemiş, ulaşılmak istenen hedeftir: amaç – sonuç. Diğerlerinde neden gerçekleşmiştir.
+- **tyt-tr · Cümlede Anlam** — Aşağıdaki cümlelerin hangisi nesnel bir yargı bildirir?
+  - **Türkiye’nin başkenti Ankara’dır.** · En güzel mevsim sonbahardır. · Bu film çok sıkıcıydı. · Onun sesi herkesinkinden güzel. · Bu şehirde yaşamak çok keyifli.
+  - Çözüm: Ankara’nın başkent olduğu kanıtlanabilir bir bilgidir. Diğerleri kişisel beğeni içerir: öznel.
+- **tyt-tr · Cümlede Anlam** — “Bu sefer de sınava geç kaldı.” cümlesinden aşağıdakilerin hangisi çıkarılabilir?
+  - **Daha önce de sınava geç kalmıştır.** · Sınavı kazanamamıştır. · Sınav erken başlamıştır. · Bir daha geç kalmayacaktır. · Sınava hiç girmemiştir.
+  - Çözüm: “de” bağlacı, durumun daha önce de yaşandığını sezdirir (örtülü anlam).
+- **tyt-tr · Cümlede Anlam** — Aşağıdaki cümlelerin hangisinde koşul anlamı vardır?
+  - **Düzenli çalışırsan başarırsın.** · Çok çalıştığı için başardı. · Başarmak için çalışıyor. · Başarısı herkesi sevindirdi. · Başardığını duyunca çok sevindik.
+  - Çözüm: “Çalışırsan” şart ekiyle (-sa, -se) başarı bir koşula bağlanmıştır.
+- **tyt-tr · Sözcükte Yapı ve Ekler** — Aşağıdaki sözcüklerden hangisi yapıca türemiştir?
+  - **gözlük** · kitaplar · evde · okulun · masalar
+  - Çözüm: “Göz + -lük” yapım ekiyle yeni bir sözcük türemiştir. Diğerleri yalnız çekim eki almıştır (çoğul, hâl, ilgi): basit yapılıdır.
+- **tyt-tr · Sözcükte Yapı ve Ekler** — Aşağıdaki sözcüklerden hangisi yapıca birleşiktir?
+  - **hanımeli** · yazar · sevgi · kalemlik · çiçekçi
+  - Çözüm: “Hanımeli” iki sözcüğün birleşmesiyle oluşmuş bir bitki adıdır. Diğerleri tek köke yapım eki gelerek türemiştir.
+- **tyt-tr · Sözcükte Yapı ve Ekler** — “Sevgililerimiz” sözcüğünün kökü hangisidir?
+  - **sev-** · sevgi · sevgili · sevgiler · se-
+  - Çözüm: sev- (fiil kökü) + -gi (yapım) + -li (yapım) + -ler + -imiz. Kök, anlamlı en küçük parçadır: “sev-”.
+- **tyt-tr · Sözcükte Yapı ve Ekler** — Aşağıdaki sözcüklerin hangisinde yalnız çekim eki vardır?
+  - **evlerimizden** · gözlükçü · yolcu · balıkçılık · sevinç
+  - Çözüm: “Ev-ler-imiz-den”: çoğul, iyelik ve ayrılma hâli ekleri; hepsi çekim ekidir.
+- **tyt-tr · Sözcükte Yapı ve Ekler** — Aşağıdaki sözcüklerden hangisi fiilden türemiş bir isimdir?
+  - **yazı** · kalemlik · gözlük · tuzlu · evcil
+  - Çözüm: “Yaz- + -ı” fiil köküne yapım eki gelmiş, isim türemiştir. Diğerleri isim köklerinden türemiştir.
+- **tyt-mat · Grafik ve Tablo Problemleri** — Bir sınıfın daire grafiğinde futbolu seçenlerin dilimi 120°’dir. Sınıf 36 kişiyse kaç kişi futbolu seçmiştir?
+  - **12** · 10 · 15 · 18 · 9
+  - Çözüm: {120/360} = {1/3}; 36 · {1/3} = 12.
+- **tyt-mat · Grafik ve Tablo Problemleri** — Bir daire grafiğinde %25’lik dilimin merkez açısı kaç derecedir?
+  - **90** · 45 · 25 · 60 · 120
+  - Çözüm: 360 · {25/100} = 90°.
+- **tyt-mat · Grafik ve Tablo Problemleri** — Bir mağazanın satışları ocakta 200, şubatta 250 adettir. Şubattaki artış yüzde kaçtır?
+  - **25** · 50 · 20 · 30 · 15
+  - Çözüm: Artış 50; {50/200} · 100 = %25.
+- **tyt-mat · Grafik ve Tablo Problemleri** — Bir sütun grafiğinde dört günlük kitap okuma süreleri 30, 45, 60 ve 25 dakikadır. Günlük ortalama kaç dakikadır?
+  - **40** · 45 · 35 · 50 · 30
+  - Çözüm: Toplam 160; {160/4} = 40.
+- **tyt-mat · Grafik ve Tablo Problemleri** — Bir daire grafiğinde A dilimi 72°’dir. A’nın payı yüzde kaçtır?
+  - **20** · 72 · 25 · 18 · 30
+  - Çözüm: {72/360} · 100 = %20.
+- **tyt-kim · Kimyasal Tepkimeler** — CaCO₃ → CaO + CO₂ tepkimesi hangi tepkime türüdür?
+  - **Analiz (ayrışma)** · Sentez (oluşum) · Yanma · Nötrleşme · Çözünme – çökelme
+  - Çözüm: Tek bir bileşik daha basit maddelere ayrılıyor: analiz.
+- **tyt-kim · Kimyasal Tepkimeler** — HCl + NaOH → NaCl + H₂O tepkimesi hangi türdendir?
+  - **Nötrleşme** · Yanma · Analiz · Sentez · Çökelme
+  - Çözüm: Asit ile baz tepkimeye girip tuz ve su oluşturuyor: nötrleşme.
+- **tyt-kim · Kimyasal Tepkimeler** — C₃H₈ + 5O₂ → 3CO₂ + 4H₂O tepkimesi hangi türdendir?
+  - **Yanma** · Nötrleşme · Analiz · Çökelme · Elektroliz
+  - Çözüm: Organik bir madde oksijenle tepkimeye girip CO₂ ve H₂O oluşturuyor: yanma.
+- **tyt-kim · Kimyasal Tepkimeler** — N₂ + aH₂ → 2NH₃ tepkimesinin denkleşmesi için a kaç olmalıdır?
+  - **3** · 2 · 1 · 4 · 6
+  - Çözüm: Ürünlerde 2 · 3 = 6 H var; girenlerde H₂’den 3 tane gerekir.
+- **tyt-kim · Kimyasal Tepkimeler** — Kimyasal tepkimelerde aşağıdakilerden hangisi her zaman korunur?
+  - **Atom türü ve sayısı** · Molekül sayısı · Hacim · Fiziksel hâl · Renk
+  - Çözüm: Tepkimede atomlar yeniden düzenlenir; atomların türü ve sayısı (dolayısıyla kütle) korunur. Molekül sayısı değişebilir.
+- **tyt-kim · Kimya Her Yerde** — Çamaşır suyu ile tuz ruhunun karıştırılması neden tehlikelidir?
+  - **Zehirli klor gazı açığa çıkar.** · Karışım donar. · Karışım hemen buharlaşıp kaybolur. · Temizleme gücü artar. · Karışım renk değiştirir, zararı yoktur.
+  - Çözüm: NaOCl ile HCl tepkimesinde zehirli Cl₂ gazı oluşur.
+- **tyt-kim · Kimya Her Yerde** — Sabunun sert suda iyi köpürmemesinin nedeni hangisidir?
+  - **Suda Ca²⁺ ve Mg²⁺ iyonlarının fazla olması** · Suyun çok sıcak olması · Suda oksijen bulunmaması · Sabunun asidik olması · Suyun pH’ının 7 olması
+  - Çözüm: Sert sudaki kalsiyum ve magnezyum iyonları sabunla suda çözünmeyen tuzlar oluşturur.
+- **tyt-kim · Kimya Her Yerde** — Su şişelerinde en yaygın kullanılan polimer hangisidir?
+  - **PET** · PVC · Teflon · Kauçuk · Naylon
+  - Çözüm: Pet şişe adı da buradan gelir: polietilen tereftalat.
+- **tyt-kim · Kimya Her Yerde** — Yapışmaz tava kaplamalarında kullanılan polimer hangisidir?
+  - **Teflon** · PVC · PET · Polietilen · Bakalit
+  - Çözüm: Teflon (PTFE) ısıya dayanıklı ve yapışmaz bir yüzey oluşturur.
+- **tyt-kim · Kimya Her Yerde** — Sabun molekülü için aşağıdakilerden hangisi doğrudur?
+  - **Bir ucu suyu, bir ucu yağı sever.** · Tamamen suda çözünmeyen bir yağdır. · Asidik bir maddedir. · Sert suda daha iyi köpürür. · Bir metaldir.
+  - Çözüm: Sabunun iyonik ucu hidrofil (suyu sever), uzun hidrokarbon zinciri hidrofobdur (yağı sever); bu sayede kiri suya taşır.
+- **tyt-bio · Canlıların Ortak Özellikleri** — Aşağıdakilerden hangisi bütün canlıların ortak özelliği değildir?
+  - **Fotosentez yapmak** · Hücresel yapıda olmak · Solunum yapmak · Üremek · Uyarılara tepki vermek
+  - Çözüm: Fotosentezi yalnız bitkiler, algler ve bazı bakteriler yapar.
+- **tyt-bio · Canlıların Ortak Özellikleri** — Metabolizma aşağıdakilerden hangisinin toplamıdır?
+  - **Özümleme ve yadımlama** · Solunum ve boşaltım · Büyüme ve gelişme · Üreme ve hareket · Beslenme ve dolaşım
+  - Çözüm: Metabolizma = özümleme (yapım, anabolizma) + yadımlama (yıkım, katabolizma).
+- **tyt-bio · Canlıların Ortak Özellikleri** — Canlının iç ortamını belirli sınırlarda sabit tutmasına ne ad verilir?
+  - **Homeostazi** · Adaptasyon · Metabolizma · Mutasyon · Fotoperiyotluk
+  - Çözüm: Vücut sıcaklığı, kan şekeri gibi değerlerin dengede tutulması homeostazidir.
+- **tyt-bio · Canlıların Ortak Özellikleri** — Virüslerin canlı sayılmamasının temel nedeni hangisidir?
+  - **Hücresel yapıda olmamaları** · Çok küçük olmaları · Kalıtsal madde taşımaları · Hastalık yapmaları · Protein içermeleri
+  - Çözüm: Virüslerin hücre yapısı ve kendi metabolizması yoktur; ancak canlı hücrede çoğalabilirler.
+- **tyt-bio · Canlıların Ortak Özellikleri** — Canlılarda enerji taşıyan ortak molekül hangisidir?
+  - **ATP** · DNA · Glikojen · Selüloz · Klorofil
+  - Çözüm: Bütün canlılar hücresel işlerde ATP kullanır.
+- **tyt-bio · Hücre Zarından Madde Geçişi** — Hipertonik bir ortama konan bitki hücresinde ne gözlenir?
+  - **Plazmoliz** · Turgor · Hücrenin patlaması · Hiçbir değişiklik · Hücre duvarının çözünmesi
+  - Çözüm: Dış ortam derişik olduğu için hücre su kaybeder; sitoplazma duvardan ayrılır: plazmoliz.
+- **tyt-bio · Hücre Zarından Madde Geçişi** — Sodyum – potasyum pompası hangi taşıma türüne örnektir?
+  - **Aktif taşıma** · Difüzyon · Osmoz · Kolaylaştırılmış difüzyon · Pinositoz
+  - Çözüm: İyonlar derişim farkına karşı, ATP harcanarak taşınır: aktif taşıma.
+- **tyt-bio · Hücre Zarından Madde Geçişi** — Osmozda zardan geçen madde hangisidir?
+  - **Su** · Glikoz · Tuz · Protein · Oksijen
+  - Çözüm: Osmoz, suyun yarı geçirgen zardan geçişidir.
+- **tyt-bio · Hücre Zarından Madde Geçişi** — Hipotonik ortama konan alyuvar için ne beklenir?
+  - **Su alıp şişer, patlayabilir.** · Su kaybedip büzülür. · Plazmoliz olur. · Değişmez. · Turgor basıncıyla korunur.
+  - Çözüm: Dış ortam seyreltik olduğu için su hücreye girer; hücre duvarı olmayan alyuvar patlayabilir.
+- **tyt-bio · Hücre Zarından Madde Geçişi** — Büyük katı maddelerin hücre içine alınmasına ne ad verilir?
+  - **Fagositoz** · Ekzositoz · Osmoz · Difüzyon · Pinositoz
+  - Çözüm: Katı parçacıkların zar kıvrımlarıyla içeri alınması fagositozdur (hücre yeme). Pinositoz sıvı alımıdır.
+- **tyt-bio · Eşeysiz ve Eşeyli Üreme** — Bira mayasında görülen üreme türü hangisidir?
+  - **Tomurcuklanma** · Bölünme · Sporla üreme · Rejenerasyon · Partenogenez
+  - Çözüm: Ana hücreden çıkan küçük çıkıntı büyüyüp ayrılır: tomurcuklanma.
+- **tyt-bio · Eşeysiz ve Eşeyli Üreme** — Erkek arıların döllenmemiş yumurtadan gelişmesine ne ad verilir?
+  - **Partenogenez** · Tomurcuklanma · Rejenerasyon · Konjugasyon · Vejetatif üreme
+  - Çözüm: Döllenme olmadan yumurtadan yeni birey gelişmesi partenogenezdir.
+- **tyt-bio · Eşeysiz ve Eşeyli Üreme** — Eşeyli üremenin eşeysiz üremeye göre en önemli üstünlüğü hangisidir?
+  - **Kalıtsal çeşitlilik sağlaması** · Daha hızlı olması · Tek ata canlı yetmesi · Daha az enerji harcanması · Mitoza dayanması
+  - Çözüm: Krossing over, bağımsız dağılım ve döllenme çeşitlilik sağlar; değişen ortama uyum kolaylaşır.
+- **tyt-bio · Eşeysiz ve Eşeyli Üreme** — Patatesin yumrusundan, çileğin sürünücü gövdesinden yeni bitki oluşması hangi üreme türüdür?
+  - **Vejetatif üreme** · Tomurcuklanma · Sporla üreme · Partenogenez · Eşeyli üreme
+  - Çözüm: Kök, gövde ya da yaprak gibi organlardan yeni bitki oluşması vejetatif üremedir.
+- **tyt-bio · Eşeysiz ve Eşeyli Üreme** — Deniz yıldızının kopan kolundan yeni birey oluşması hangi üreme türüdür?
+  - **Rejenerasyon** · Bölünme · Partenogenez · Sporla üreme · Tomurcuklanma
+  - Çözüm: Kopan parçanın eksiklerini tamamlayarak yeni birey oluşturması rejenerasyondur.
+- **tyt-bio · Güncel Çevre Sorunları** — Göllerde gübre ve deterjan kaynaklı alg patlamasına ne ad verilir?
+  - **Ötrofikasyon** · Erozyon · Biyolojik birikim · Asit yağmuru · Çölleşme
+  - Çözüm: Fosfat ve nitrat birikimi alg patlamasına, ardından oksijen azalmasına yol açar: ötrofikasyon.
+- **tyt-bio · Güncel Çevre Sorunları** — Ozon tabakasının incelmesinde en büyük pay hangisinindir?
+  - **Kloroflorokarbonlar (CFC)** · Karbondioksit · Su buharı · Azot · Metan
+  - Çözüm: CFC gazları stratosferde ozonu parçalar.
+- **tyt-bio · Güncel Çevre Sorunları** — Bir kişinin neden olduğu sera gazı salımını ifade eden kavram hangisidir?
+  - **Karbon ayak izi** · Su ayak izi · Biyolojik birikim · Taşıma kapasitesi · Ekolojik niş
+  - Çözüm: Karbon ayak izi; ulaşım, enerji ve tüketimle oluşan sera gazı salımıdır.
+- **tyt-bio · Güncel Çevre Sorunları** — DDT gibi zararlı maddelerin besin zincirinin üst basamaklarında daha çok birikmesine ne denir?
+  - **Biyolojik birikim** · Ötrofikasyon · Süksesyon · Mutualizm · Adaptasyon
+  - Çözüm: Parçalanmayan maddeler her basamakta yoğunlaşır: biyolojik birikim.
+- **tyt-bio · Güncel Çevre Sorunları** — Aşağıdakilerden hangisi küresel ısınmayı azaltmaya yönelik bir uygulamadır?
+  - **Yenilenebilir enerji kullanmak** · Fosil yakıt tüketimini artırmak · Ormanları tarım alanına çevirmek · Bireysel araç kullanımını artırmak · Atıkları yakmak
+  - Çözüm: Yenilenebilir enerji fosil yakıt kaynaklı CO₂ salımını azaltır.
+- **tyt-tar · Tarih ve Zaman** — Eski paraları inceleyen tarihe yardımcı bilim dalı hangisidir?
+  - **Nümismatik** · Epigrafya · Paleografya · Diplomatik · Heraldik
+  - Çözüm: Nümismatik paraları, epigrafya kitabeleri, paleografya eski yazıları, diplomatik resmî belgeleri, heraldik armaları inceler.
+- **tyt-tar · Tarih ve Zaman** — Hicri takvimin başlangıcı hangi olaydır?
+  - **Hicret** · Hz. Muhammed’in doğumu · İlk vahiy · Mekke’nin fethi · Bedir Savaşı
+  - Çözüm: Hicri takvim, Mekke’den Medine’ye göçle (622) başlar.
+- **tyt-tar · Tarih ve Zaman** — Orta Çağ’ı başlatan olay hangisidir?
+  - **Kavimler Göçü** · Yazının bulunuşu · İstanbul’un fethi · Fransız İhtilali · Coğrafi Keşifler
+  - Çözüm: İlk Çağ yazının bulunuşuyla başlar; Orta Çağ 375’teki Kavimler Göçü ile başlar.
+- **tyt-tar · Tarih ve Zaman** — Melikşah döneminde hazırlanan, Güneş yılına dayanan takvim hangisidir?
+  - **Celali takvimi** · Hicri takvim · Rumi takvim · Miladi takvim · On İki Hayvanlı Türk takvimi
+  - Çözüm: Ömer Hayyam’ın da katıldığı heyet Celali takvimini hazırladı; Melikşah’ın lakabı Celaleddin’dir.
+- **tyt-tar · Tarih ve Zaman** — Yeni Çağ’ın sonu, Yakın Çağ’ın başı sayılan olay hangisidir?
+  - **Fransız İhtilali** · İstanbul’un fethi · Kavimler Göçü · Sanayi İnkılabı · I. Dünya Savaşı
+  - Çözüm: Yakın Çağ, 1789 Fransız İhtilali ile başlar.
+- **tyt-tar · Orta Çağ’da Dünya** — Orta Çağ Avrupası’nda toprağa bağlı köylülere ne ad verilir?
+  - **Serf** · Senyör · Vasal · Burjuva · Patrici
+  - Çözüm: Serfler senyörün toprağında çalışan, toprakla birlikte el değiştiren köylülerdir.
+- **tyt-tar · Orta Çağ’da Dünya** — İngiltere’de kralın yetkilerini sınırlayan ilk belge hangisidir?
+  - **Magna Carta** · Bill of Rights · İnsan Hakları Bildirisi · On İki Levha Kanunları · Tanzimat Fermanı
+  - Çözüm: Magna Carta (1215), kralın yetkilerini soylular lehine sınırladı.
+- **tyt-tar · Orta Çağ’da Dünya** — Batı Roma İmparatorluğu hangi yıl yıkılmıştır?
+  - **476** · 375 · 395 · 1453 · 1071
+  - Çözüm: Roma 395’te ikiye ayrıldı; Batı Roma 476’da yıkıldı.
+- **tyt-tar · Orta Çağ’da Dünya** — Haçlı Seferleri’nin sonuçlarından biri hangisidir?
+  - **Doğu–Batı ticaretinin canlanması** · Feodalitenin güçlenmesi · Kilisenin otoritesinin artması · Kudüs’ün kalıcı olarak Haçlılara geçmesi · Bizans’ın güçlenmesi
+  - Çözüm: Seferler sonunda kilise ve feodalite zayıfladı, İtalyan şehirleri zenginleşti, Doğu–Batı ticareti canlandı.
+- **tyt-tar · Orta Çağ’da Dünya** — Orta Çağ Avrupası’nda hâkim olan, dini akılla temellendirmeye çalışan düşünce hangisidir?
+  - **Skolastik düşünce** · Hümanizm · Rasyonalizm · Pozitivizm · Aydınlanma
+  - Çözüm: Kilise öğretisine bağlı skolastik düşünce Orta Çağ’a hâkimdi; Rönesans’la hümanizm yükseldi.
+- **tyt-cog · Doğa ve İnsan** — İklimi inceleyen coğrafya dalı hangisidir?
+  - **Klimatoloji** · Jeomorfoloji · Hidrografya · Biyocoğrafya · Demografi
+  - Çözüm: Klimatoloji iklimi, jeomorfoloji yer şekillerini, hidrografya suları inceler.
+- **tyt-cog · Doğa ve İnsan** — Aşağıdakilerden hangisi insanın doğaya etkisine örnektir?
+  - **Akarsu üzerine baraj kurulması** · Yağışın tarımı etkilemesi · Depremin yerleşmeleri yıkması · Sıcaklığın giyimi belirlemesi · Engebenin ulaşımı zorlaştırması
+  - Çözüm: Baraj, insanın doğal ortamı değiştirmesidir. Diğerleri doğanın insana etkisidir.
+- **tyt-cog · Doğa ve İnsan** — Yer şekillerini inceleyen bilim dalı hangisidir?
+  - **Jeomorfoloji** · Klimatoloji · Hidrografya · Kartografya · Biyocoğrafya
+  - Çözüm: Jeomorfoloji yer şekillerinin oluşumunu ve gelişimini inceler.
+- **tyt-cog · Doğa ve İnsan** — Aşağıdakilerden hangisi doğal (fiziki) bir sistemdir?
+  - **Hidrosfer** · Nüfus · Ulaşım · Sanayi · Yerleşme
+  - Çözüm: Atmosfer, hidrosfer, litosfer, biyosfer doğal sistemlerdir; nüfus, ulaşım, sanayi beşeridir.
+- **tyt-cog · Doğa ve İnsan** — Harita yapım bilimine ne ad verilir?
+  - **Kartografya** · Topografya · Jeodezi · Klimatoloji · Demografi
+  - Çözüm: Kartografya harita yapımını inceler.
+- **tyt-cog · Yerin Şekillenmesi** — Kalker (kireç taşı) arazilerde suyun eritmesiyle oluşan şekillere ne ad verilir?
+  - **Karstik şekiller** · Buzul şekilleri · Rüzgâr şekilleri · Volkanik şekiller · Dalga şekilleri
+  - Çözüm: Lapya, dolin, polye, mağara gibi şekiller karstik aşınımla oluşur.
+- **tyt-cog · Yerin Şekillenmesi** — Pamukkale travertenleri hangi dış kuvvetin ürünüdür?
+  - **Karstik süreçler (kalkerli suların çökeltisi)** · Rüzgâr · Buzul · Dalga · Volkanizma
+  - Çözüm: Kalsiyum karbonatlı suların yüzeyde çökelmesiyle traverten oluşur.
+- **tyt-cog · Yerin Şekillenmesi** — Akarsuyun denize döküldüğü yerde biriktirdiği malzemeyle oluşan üçgen biçimli düzlüğe ne denir?
+  - **Delta** · Falez · Kıyı oku · Moren · Polye
+  - Çözüm: Akıntı ve gelgitin zayıf olduğu kıyılarda delta oluşur (Bafra, Çarşamba, Göksu).
+- **tyt-cog · Yerin Şekillenmesi** — Buzulların taşıyıp biriktirdiği malzemeye ne ad verilir?
+  - **Moren** · Lös · Alüvyon · Traverten · Kumul
+  - Çözüm: Buzulların taşıdığı karışık boyutlu malzemenin birikimi morendir.
+- **tyt-cog · Yerin Şekillenmesi** — Dalgaların aşındırmasıyla oluşan dik kıyı yarlarına ne ad verilir?
+  - **Falez** · Lagün · Tombolo · Delta · Dolin
+  - Çözüm: Dalgalar kıyıyı aşındırınca dik yarlar (falez) oluşur.
+- **tyt-cog · Su, Toprak ve Bitki** — Van Gölü oluşumuna göre hangi göl türündendir?
+  - **Volkanik set gölü** · Karstik göl · Buzul gölü · Tektonik göl (yalnız) · Heyelan set gölü
+  - Çözüm: Van Gölü, Nemrut Dağı’nın lavlarının bir çanağın önünü kapatmasıyla oluşmuş bir set gölüdür.
+- **tyt-cog · Su, Toprak ve Bitki** — Tortum Gölü nasıl oluşmuştur?
+  - **Heyelan sonucu akarsu vadisinin kapanmasıyla** · Krater çukurunun suyla dolmasıyla · Kalkerin erimesiyle · Buzul aşındırmasıyla · Fay çukurunda
+  - Çözüm: Tortum Gölü, heyelan malzemesinin vadiyi kapatmasıyla oluşan bir set gölüdür.
+- **tyt-cog · Su, Toprak ve Bitki** — Akarsuların taşıyıp biriktirdiği malzemeyle oluşan toprak türü hangisidir?
+  - **Alüvyal toprak** · Laterit · Podzol · Terra rossa · Rendzina
+  - Çözüm: Taşınmış (azonal) topraklardan alüvyal topraklar akarsu biriktirmesiyle oluşur; ovalarda verimlidir.
+- **tyt-cog · Su, Toprak ve Bitki** — Akdeniz ikliminin görüldüğü yerlerde kalker üzerinde oluşan kırmızı renkli toprak hangisidir?
+  - **Terra rossa** · Podzol · Laterit · Çernozyom · Lös
+  - Çözüm: Terra rossa İtalyanca “kırmızı toprak” demektir; Akdeniz ikliminde kalker üzerinde oluşur.
+- **tyt-cog · Su, Toprak ve Bitki** — Akarsuyun akımının yıl içindeki değişimine ne ad verilir?
+  - **Rejim** · Debi · Havza · Eğim · Delta
+  - Çözüm: Rejim akımın yıl içindeki değişimidir; debi ise birim zamanda geçen su miktarıdır.
+- **tyt-cog · Yerleşme** — Doğu Karadeniz’de evlerin dağınık olmasının temel nedeni hangisidir?
+  - **Engebeli arazi ve su kaynaklarının bol olması** · Su kıtlığı · Savunma ihtiyacı · Düz ovalar · Kurak iklim
+  - Çözüm: Engebe ve her yerde su bulunması evlerin dağınık kurulmasına yol açar.
+- **tyt-cog · Yerleşme** — Yazın hayvancılık için çıkılan geçici yerleşmelere ne ad verilir?
+  - **Yayla** · Mezra · Dalyan · Çiftlik · Kasaba
+  - Çözüm: Yayla, yaz aylarında hayvan otlatmak için çıkılan yüksek yerlerdeki geçici yerleşmedir.
+- **tyt-cog · Yerleşme** — Balıkçılık için kurulan kırsal yerleşmelere ne ad verilir?
+  - **Dalyan** · Kom · Oba · Ağıl · Mezra
+  - Çözüm: Dalyan, balık avlamak için kıyıda kurulan yerleşmedir.
+- **tyt-cog · Yerleşme** — Aşağıdaki şehirlerden hangisi öncelikle idari fonksiyonuyla gelişmiştir?
+  - **Ankara** · Kocaeli · Antalya · Zonguldak · Mersin
+  - Çözüm: Ankara başkent olarak idari fonksiyonla büyümüştür; Kocaeli sanayi, Antalya turizm, Zonguldak maden, Mersin liman şehridir.
+- **tyt-cog · Yerleşme** — Su kaynaklarının az olduğu yerlerde yerleşmeler genellikle nasıldır?
+  - **Toplu** · Dağınık · Yalnız kıyıda · Yalnız dağlarda · Geçici
+  - Çözüm: Su az olduğunda evler su kaynağının çevresinde toplanır.
+- **tyt-cog · Bölgeler ve Ulaşım** — Yük taşımacılığında en ucuz ulaşım türü hangisidir?
+  - **Deniz yolu** · Hava yolu · Kara yolu · Demir yolu · Boru hattı
+  - Çözüm: Deniz yolu büyük hacimli yükleri en ucuza taşır.
+- **tyt-cog · Bölgeler ve Ulaşım** — Türkiye’de en yaygın ulaşım türü hangisidir?
+  - **Kara yolu** · Demir yolu · Deniz yolu · Hava yolu · Boru hattı
+  - Çözüm: Kara yolu Türkiye’de yolcu ve yük taşımacılığında en çok kullanılan yoldur.
+- **tyt-cog · Bölgeler ve Ulaşım** — Türkiye kaç coğrafi bölgeye ayrılmıştır?
+  - **7** · 6 · 8 · 5 · 9
+  - Çözüm: Türkiye 1941’deki I. Coğrafya Kongresi’nde yedi bölgeye ayrıldı.
+- **tyt-cog · Bölgeler ve Ulaşım** — Bir limanın etki alanına (gerisindeki ticari alana) ne ad verilir?
+  - **Hinterland** · Havza · Delta · Rejim · Lagün
+  - Çözüm: Hinterland, limanın mal aldığı ve gönderdiği gerideki alandır.
+- **tyt-cog · Bölgeler ve Ulaşım** — Aşağıdakilerden hangisi fonksiyonel bir bölgedir?
+  - **Bir limanın ticaret alanı** · Akdeniz iklim bölgesi · Bozkır bitki örtüsü alanı · Volkanik bir alan · Karstik bir arazi
+  - Çözüm: Fonksiyonel bölge bir merkez çevresindeki ilişkilere göre belirlenir (liman hinterlandı, şehir etki alanı). Diğerleri doğal bölgedir.
+- **tyt-din · Ahlak ve Değerler** — “Ahlak” sözcüğü hangi anlamdaki “hulk” sözcüğünden gelir?
+  - **huy, karakter** · ibadet · bilgi · kanun · toplum
+  - Çözüm: Ahlak, “huy, mizaç, karakter” anlamındaki hulk sözcüğünün çoğuludur.
+- **tyt-din · Ahlak ve Değerler** — Aşağıdakilerden hangisi kibrin zıddı olan erdemdir?
+  - **Tevazu** · Cömertlik · Sabır · Adalet · Doğruluk
+  - Çözüm: Kibir kendini üstün görmektir; zıddı alçakgönüllülük (tevazu).
+- **tyt-din · Ahlak ve Değerler** — Bir kimsenin arkasından, duyduğunda hoşlanmayacağı şekilde konuşmaya ne ad verilir?
+  - **Gıybet** · Haset · İsraf · Riya · Kibir
+  - Çözüm: Gıybet, kişinin yokluğunda hoşlanmayacağı sözleri söylemektir.
+- **tyt-din · Ahlak ve Değerler** — Başkasının sahip olduğu nimetin ondan gitmesini istemeye ne denir?
+  - **Haset** · Gıybet · Tevazu · Sabır · Kanaat
+  - Çözüm: Haset (kıskançlık) başkasındaki nimetin yok olmasını istemektir.
+- **tyt-din · Ahlak ve Değerler** — Kendisine bırakılan bir şeyi korumak ve sahibine eksiksiz teslim etmek hangi değerle ilgilidir?
+  - **Emanete riayet** · Tevekkül · İsraf · Kanaat · İhlas
+  - Çözüm: Emanete riayet, güvenilen şeyi korumak ve geri vermektir.
+- **tyt-din · Allah ve İnsan İlişkisi** — Gerekli çabayı gösterdikten sonra sonucu Allah’a bırakmaya ne ad verilir?
+  - **Tevekkül** · Tövbe · Takva · Dua · İhlas
+  - Çözüm: Tevekkül önce çalışmayı, sonra sonucu Allah’a bırakmayı gerektirir; tembellik değildir.
+- **tyt-din · Allah ve İnsan İlişkisi** — Yapılan hatadan pişman olup bir daha yapmamaya karar vermeye ne denir?
+  - **Tövbe** · Tevekkül · Şükür · Sabır · Zikir
+  - Çözüm: Tövbe; pişmanlık, hatayı bırakma ve tekrarlamama kararıdır.
+- **tyt-din · Allah ve İnsan İlişkisi** — İbadetleri yalnız Allah rızası için yapmaya ne ad verilir?
+  - **İhlas** · Riya · Takva · Tevekkül · Kanaat
+  - Çözüm: İhlas samimiyettir; zıddı gösteriş (riya).
+- **tyt-din · Allah ve İnsan İlişkisi** — Allah’a saygıyla kötülüklerden sakınmaya ne denir?
+  - **Takva** · Tövbe · Dua · Şükür · Tevekkül
+  - Çözüm: Takva, Allah’a saygı duyarak kötülükten korunmaktır.
+- **tyt-din · Allah ve İnsan İlişkisi** — Allah’a yönelip O’ndan istekte bulunmaya ne ad verilir?
+  - **Dua** · Tövbe · Takva · İhlas · Tevekkül
+  - Çözüm: Dua, Allah’a yönelip yardım ve istekte bulunmaktır; ibadetin özü sayılır.
+- **tyt-din · İslam Düşüncesinde Yorumlar** — Türkiye’deki Müslümanların çoğunluğu itikatta hangi mezhebe bağlıdır?
+  - **Maturidilik** · Eşarilik · Mutezile · Caferilik · Hanbelilik
+  - Çözüm: Türkiye’de çoğunluk itikatta Maturidi, amelde Hanefidir.
+- **tyt-din · İslam Düşüncesinde Yorumlar** — Aşağıdakilerden hangisi fıkhi (amelî) bir mezheptir?
+  - **Hanefilik** · Maturidilik · Eşarilik · Mutezile · Mevlevilik
+  - Çözüm: Hanefi, Şafii, Maliki, Hanbeli fıkhi mezheplerdir; Maturidilik, Eşarilik ve Mutezile itikadidir; Mevlevilik tasavvufidir.
+- **tyt-din · İslam Düşüncesinde Yorumlar** — İslam düşüncesinde yorum farklılıklarının nedenlerinden biri hangisidir?
+  - **Kur’an ve hadislerin farklı anlaşılması** · Kur’an’ın farklı nüshalarının olması · Namazın kaldırılması · Peygamber sayısındaki farklılık · Kâbe’nin yer değiştirmesi
+  - Çözüm: Nasların farklı anlaşılması, coğrafi–kültürel farklar ve siyasi olaylar yorum farklılıklarına yol açmıştır.
+- **tyt-din · İslam Düşüncesinde Yorumlar** — Aklı ön plana çıkaran itikadi mezhep hangisidir?
+  - **Mutezile** · Hanefilik · Malikilik · Bektaşilik · Kadirilik
+  - Çözüm: Mutezile aklı vahyi yorumlamada çok öne çıkaran itikadi mezheptir.
+- **tyt-din · İslam Düşüncesinde Yorumlar** — Mevlevilik hangi tür yorum geleneğidir?
+  - **Tasavvufi** · Fıkhi · İtikadi · Siyasi · Felsefi
+  - Çözüm: Mevlevilik, Mevlana’nın öğretisine dayanan tasavvufi bir gelenektir.
+- **ayt-fiz · Manyetizma ve Elektromanyetik İndükleme** — İndüksiyon akımının yönünü belirleyen kural hangisidir?
+  - **Lenz kuralı** · Ohm yasası · Coulomb yasası · Snell yasası · Hooke yasası
+  - Çözüm: Lenz: indüksiyon akımı kendisini oluşturan akı değişimine karşı koyacak yöndedir.
+- **ayt-fiz · Manyetizma ve Elektromanyetik İndükleme** — Sabit bir manyetik alanda hareketsiz duran bir halkada akım oluşur mu?
+  - **Oluşmaz, çünkü manyetik akı değişmiyor.** · Oluşur, çünkü alan var. · Oluşur, alan şiddetiyle orantılı. · Yalnız halka bakırsa oluşur. · Yalnız alan güçlüyse oluşur.
+  - Çözüm: İndüksiyon için akının değişmesi gerekir; sabit alanda duran halkada akı değişmez.
+- **ayt-fiz · Manyetizma ve Elektromanyetik İndükleme** — Aynı yönde akım taşıyan iki paralel tel birbirine nasıl kuvvet uygular?
+  - **Çeker** · İter · Kuvvet uygulamaz · Önce iter sonra çeker · Akım şiddetine göre rastgele
+  - Çözüm: Aynı yönlü akımlar birbirini çeker, zıt yönlüler iter.
+- **ayt-fiz · Manyetizma ve Elektromanyetik İndükleme** — Mekanik enerjiyi elektrik enerjisine dönüştüren araç hangisidir?
+  - **Üreteç (jeneratör)** · Elektrik motoru · Transformatör · Sığaç · Direnç
+  - Çözüm: Jeneratör indüksiyonla mekanik enerjiden elektrik üretir; motor bunun tersini yapar.
+- **ayt-fiz · Manyetizma ve Elektromanyetik İndükleme** — Manyetik alanda hareket eden yüklü parçacığa etki eden kuvvet hangi durumda sıfırdır?
+  - **Parçacık alana paralel hareket ediyorsa** · Parçacık alana dik hareket ediyorsa · Parçacık çok hızlıysa · Alan çok güçlüyse · Parçacık pozitifse
+  - Çözüm: F = q · v · B · sin α; α = 0° (paralel) ise kuvvet sıfırdır.
+- **ayt-fiz · Basit Harmonik Hareket** — Basit sarkacın periyodu aşağıdakilerden hangisine bağlı değildir?
+  - **Sarkacın kütlesi** · İpin uzunluğu · Yer çekimi ivmesi · Bulunduğu gezegen · İpin boyunun değişmesi
+  - Çözüm: T = 2π√(L/g): periyot ip uzunluğuna ve g’ye bağlıdır; kütleye bağlı değildir.
+- **ayt-fiz · Basit Harmonik Hareket** — Basit harmonik harekette hız hangi noktada en büyüktür?
+  - **Denge noktasında** · Uç noktalarda · Her noktada eşit · Uç noktaya yaklaşırken · Genliğin yarısında
+  - Çözüm: Denge noktasında potansiyel enerji en küçük, kinetik enerji ve hız en büyüktür.
+- **ayt-fiz · Basit Harmonik Hareket** — Yay sarkacında kütle 4 katına çıkarılırsa periyot nasıl değişir?
+  - **2 katına çıkar** · 4 katına çıkar · Değişmez · Yarıya iner · 16 katına çıkar
+  - Çözüm: T = 2π√(m/k): kütle 4 kat → √4 = 2 kat.
+- **ayt-fiz · Basit Harmonik Hareket** — Basit harmonik harekette ivme hangi noktalarda en büyüktür?
+  - **Uç noktalarda** · Denge noktasında · Her yerde eşit · Hiçbir yerde · Denge ile uç arasının ortasında
+  - Çözüm: Geri çağırıcı kuvvet uzanımla orantılıdır; uzanım uçlarda en büyük olduğu için ivme de oradadır.
+- **ayt-fiz · Basit Harmonik Hareket** — Bir sarkaç Dünya’dan Ay’a götürülürse periyodu nasıl değişir?
+  - **Artar** · Azalır · Değişmez · Sıfır olur · Önce artar sonra azalır
+  - Çözüm: Ay’da g küçüktür; T = 2π√(L/g) ifadesinde g azalınca periyot artar.
+- **ayt-fiz · Modern Fizik ve Uygulamaları** — Fotoelektrik olayda ışık şiddeti artırılırsa (frekans sabit, eşik üstünde) ne olur?
+  - **Kopan elektron sayısı artar.** · Elektronların kinetik enerjisi artar. · Eşik frekansı değişir. · Hiç elektron kopmaz. · Elektronların enerjisi azalır.
+  - Çözüm: Şiddet foton sayısını artırır, bu yüzden kopan elektron sayısı artar; elektronların enerjisi frekansa bağlıdır.
+- **ayt-fiz · Modern Fizik ve Uygulamaları** — Işığın tanecik özelliğini gösteren olay hangisidir?
+  - **Compton olayı** · Kırınım · Girişim · Polarizasyon · Young deneyi
+  - Çözüm: Fotonun elektronla çarpışıp dalga boyunun artması (Compton) ışığın tanecikli davrandığını gösterir. Diğerleri dalga özelliğidir.
+- **ayt-fiz · Modern Fizik ve Uygulamaları** — Özel göreliliğe göre ışık hızı için hangisi doğrudur?
+  - **Bütün gözlemciler için aynıdır.** · Gözlemcinin hızına göre değişir. · Ortamdan bağımsız olarak sonsuzdur. · Kaynak yaklaşırken artar. · Yalnız boşlukta ölçülemez.
+  - Çözüm: Einstein’ın ikinci postülası: boşlukta ışık hızı bütün gözlemciler için aynıdır.
+- **ayt-fiz · Modern Fizik ve Uygulamaları** — Maddenin dalga özelliği olduğunu öne süren bağıntı hangisidir?
+  - **de Broglie: λ = h / (m · v)** · E = m · c² · F = m · a · P = V · I · E = k · x² / 2
+  - Çözüm: de Broglie, hareketli her cisme bir dalga boyu karşılık geldiğini önerdi.
+- **ayt-fiz · Modern Fizik ve Uygulamaları** — Güneş pillerinin çalışma ilkesi hangi olaya dayanır?
+  - **Fotoelektrik olay** · Nükleer füzyon · Elektromanyetik indükleme · Süperiletkenlik · Compton olayı
+  - Çözüm: Güneş pillerinde ışık yarı iletkende elektron hareketi oluşturur (fotovoltaik etki, fotoelektrik olayın bir türü).
+- **ayt-kim · Modern Atom Teorisi** — Bir p alt kabuğu en fazla kaç elektron alır?
+  - **6** · 2 · 10 · 14 · 8
+  - Çözüm: p alt kabuğunda 3 orbital vardır; her biri 2 elektron alır: 6.
+- **ayt-kim · Modern Atom Teorisi** — Bir orbitalde en fazla iki elektron bulunabileceğini ve bunların zıt spinli olacağını söyleyen ilke hangisidir?
+  - **Pauli dışarlama ilkesi** · Hund kuralı · Aufbau ilkesi · Heisenberg belirsizlik ilkesi · Bohr modeli
+  - Çözüm: Pauli: aynı atomda dört kuantum sayısı da aynı iki elektron olamaz.
+- **ayt-kim · Modern Atom Teorisi** — ₁₁Na atomunun son elektronu hangi orbitaldedir?
+  - **3s** · 2p · 3p · 2s · 4s
+  - Çözüm: 1s² 2s² 2p⁶ 3s¹: son elektron 3s orbitalinde.
+- **ayt-kim · Modern Atom Teorisi** — 4s orbitali ile 3d orbitalinden hangisi önce dolar?
+  - **4s** · 3d · Aynı anda · Atoma göre rastgele · İkisi de dolmaz
+  - Çözüm: Aufbau sırasında 4s, 3d’den önce dolar (enerjisi daha düşüktür).
+- **ayt-kim · Modern Atom Teorisi** — ₁₇Cl atomunun değerlik elektron sayısı kaçtır?
+  - **7** · 17 · 5 · 1 · 8
+  - Çözüm: 1s² 2s² 2p⁶ 3s² 3p⁵: son katmanda 2 + 5 = 7 elektron; 7A grubu.
+- **ayt-kim · Tepkime Hızları** — Katalizör tepkimede neyi değiştirir?
+  - **Aktivasyon enerjisini düşürür.** · Tepkime ısısını (ΔH) değiştirir. · Denge sabitini değiştirir. · Ürün miktarını artırır. · Tepkimeden harcanarak çıkar.
+  - Çözüm: Katalizör yeni bir mekanizma sağlar, Ea’yı düşürür; ΔH ve denge değişmez, kendisi değişmeden çıkar.
+- **ayt-kim · Tepkime Hızları** — Çok basamaklı bir tepkimenin hızını hangi basamak belirler?
+  - **En yavaş basamak** · En hızlı basamak · İlk basamak · Son basamak · Bütün basamakların ortalaması
+  - Çözüm: Tepkime hızı en yavaş (hız belirleyen) basamağın hızına eşittir.
+- **ayt-kim · Tepkime Hızları** — Aşağıdakilerden hangisi tepkime hızını artırmaz?
+  - **Sıcaklığı düşürmek** · Derişimi artırmak · Katalizör eklemek · Katıyı toz hâline getirmek · Gazlarda basıncı artırmak
+  - Çözüm: Sıcaklık düşünce eşik enerjisini aşan tanecik sayısı azalır, hız düşer.
+- **ayt-kim · Tepkime Hızları** — Tepkimenin gerçekleşmesi için taneciklerin sahip olması gereken en düşük enerjiye ne denir?
+  - **Aktivasyon enerjisi** · Bağ enerjisi · Tepkime ısısı · İyonlaşma enerjisi · Kinetik enerji
+  - Çözüm: Etkin çarpışma için gereken en düşük enerji aktivasyon (eşik) enerjisidir.
+- **ayt-kim · Tepkime Hızları** — r = k[A]²[B] hız ifadesinde A’nın derişimi 2 katına çıkarılırsa hız kaç katına çıkar?
+  - **4** · 2 · 8 · 1 · 16
+  - Çözüm: [A] üssü 2: 2² = 4 kat.
+- **ayt-kim · Çözünürlük Dengesi** — AgCl için çözünürlük s ise K_çç ifadesi hangisidir?
+  - **s²** · 4s³ · s · 2s · 27s⁴
+  - Çözüm: AgCl → Ag⁺ + Cl⁻: [Ag⁺] = [Cl⁻] = s; K_çç = s · s.
+- **ayt-kim · Çözünürlük Dengesi** — AgCl’nin suya göre NaCl çözeltisindeki çözünürlüğü nasıldır?
+  - **Daha azdır (ortak iyon etkisi).** · Daha fazladır. · Aynıdır. · Sıfırdır. · Sınırsızdır.
+  - Çözüm: Ortamdaki Cl⁻ iyonu dengeyi katı yönüne kaydırır: ortak iyon etkisi çözünürlüğü azaltır.
+- **ayt-kim · Çözünürlük Dengesi** — İyonlar çarpımı (Q) K_çç’den büyükse ne olur?
+  - **Çökelme olur.** · Daha fazla katı çözünür. · Hiçbir şey olmaz. · Çözelti doymamış hâle geçer. · K_çç değeri artar.
+  - Çözüm: Q > K_çç: çözelti aşırı doymuştur; fazla iyonlar katı olarak çöker.
+- **ayt-kim · Çözünürlük Dengesi** — K_çç değeri aşağıdakilerden hangisine bağlıdır?
+  - **Sıcaklık** · Katının miktarı · Kabın hacmi · Karıştırma hızı · Ortak iyon derişimi
+  - Çözüm: Bir denge sabiti olarak K_çç yalnız sıcaklıkla değişir.
+- **ayt-kim · Çözünürlük Dengesi** — PbI₂ için çözünürlük s ise K_çç hangisidir?
+  - **4s³** · s² · 2s² · s³ · 27s⁴
+  - Çözüm: PbI₂ → Pb²⁺ + 2I⁻: [Pb²⁺] = s, [I⁻] = 2s; K_çç = s · (2s)² = 4s³.
+- **ayt-kim · Karbon Kimyasına Giriş** — Metan (CH₄) molekülünde karbonun hibritleşmesi hangisidir?
+  - **sp³** · sp² · sp · sp³d · hibritleşme yok
+  - Çözüm: Dört tekli bağ yapan karbon sp³ hibritleşir; geometri düzgün dörtyüzlüdür.
+- **ayt-kim · Karbon Kimyasına Giriş** — Elektriği ileten karbon allotropu hangisidir?
+  - **Grafit** · Elmas · Kömür tozu · Karbondioksit · Metan
+  - Çözüm: Grafitte katmanlar arasında serbest hareket eden elektronlar iletkenlik sağlar; elmas iletken değildir.
+- **ayt-kim · Karbon Kimyasına Giriş** — Bir ikili bağda kaç σ (sigma) ve kaç π (pi) bağı vardır?
+  - **1 σ, 1 π** · 2 σ · 2 π · 1 σ, 2 π · 2 σ, 1 π
+  - Çözüm: Çoklu bağlarda bir σ bağı vardır; kalanlar π bağıdır.
+- **ayt-kim · Karbon Kimyasına Giriş** — Etilen (C₂H₄) molekülünde bağ açısı yaklaşık kaç derecedir?
+  - **120** · 109,5 · 180 · 90 · 104,5
+  - Çözüm: İkili bağ yapan karbon sp² hibritleşir; düzlem üçgen, 120°.
+- **ayt-kim · Karbon Kimyasına Giriş** — En sert doğal madde olan karbon allotropu hangisidir?
+  - **Elmas** · Grafit · Fulleren · Grafen · Kok kömürü
+  - Çözüm: Elmasta her karbon dört karbona kovalent bağlıdır (sp³); üç boyutlu ağ yapı çok serttir.
+- **ayt-kim · Enerji Kaynakları ve Bilimsel Gelişmeler** — Ham petrolün bileşenlerine ayrılmasında kullanılan yöntem hangisidir?
+  - **Ayrımsal damıtma** · Süzme · Mıknatısla ayırma · Kristallendirme · Ayırma hunisi
+  - Çözüm: Ham petrol bileşenlerinin kaynama noktası farkıyla ayrımsal (fraksiyonlu) damıtma yapılır.
+- **ayt-kim · Enerji Kaynakları ve Bilimsel Gelişmeler** — Benzinin vuruntu (erken tutuşma) direncini gösteren değer hangisidir?
+  - **Oktan sayısı** · Setan sayısı · pH · Mol kütlesi · Isı sığası
+  - Çözüm: Oktan sayısı yüksek benzin motorda vuruntuya daha dayanıklıdır.
+- **ayt-kim · Enerji Kaynakları ve Bilimsel Gelişmeler** — Aşağıdakilerden hangisi yenilenebilir bir enerji kaynağıdır?
+  - **Rüzgâr** · Kömür · Doğal gaz · Petrol · Uranyum
+  - Çözüm: Rüzgâr tükenmez; kömür, petrol, doğal gaz ve uranyum yenilenemez.
+- **ayt-kim · Enerji Kaynakları ve Bilimsel Gelişmeler** — Bitkisel yağlardan üretilen yakıt hangisidir?
+  - **Biyodizel** · Benzin · LPG · Kok · Mazot (fosil)
+  - Çözüm: Biyodizel bitkisel ya da hayvansal yağlardan; biyoetanol şeker ve nişastadan üretilir.
+- **ayt-kim · Enerji Kaynakları ve Bilimsel Gelişmeler** — Nanoteknolojide malzeme boyutları yaklaşık hangi aralıktadır?
+  - **1–100 nanometre** · 1–100 milimetre · 1–100 metre · 1–100 mikrometre · 1–100 kilometre
+  - Çözüm: Nanoteknoloji 1–100 nm ölçeğinde çalışır; bu ölçekte yüzey alanı büyür ve özellikler değişir.
+- **ayt-bio · Duyu Organları** — Gözde renkleri algılayan hücreler hangisidir?
+  - **Koni hücreleri** · Çubuk hücreleri · Kör nokta · Göz merceği · Kornea
+  - Çözüm: Koni hücreleri renkli görmeyi, çubuk hücreleri loş ışıkta siyah–beyaz görmeyi sağlar.
+- **ayt-bio · Duyu Organları** — Miyopi hangi tür mercekle düzeltilir?
+  - **Kalın kenarlı (ıraksak)** · İnce kenarlı (yakınsak) · Silindirik · Düz cam · Prizma
+  - Çözüm: Miyopide görüntü retinanın önüne düşer; ışınları ıraksatan kalın kenarlı mercek kullanılır.
+- **ayt-bio · Duyu Organları** — Orta kulak ile yutak arasındaki basıncı dengeleyen yapı hangisidir?
+  - **Östaki borusu** · Salyangoz · Yarım daire kanalları · Kulak zarı · Kulak kepçesi
+  - Çözüm: Östaki borusu orta kulağı yutağa bağlar ve basıncı dengeler.
+- **ayt-bio · Duyu Organları** — Vücudun dengesini sağlayan iç kulak yapısı hangisidir?
+  - **Yarım daire kanalları** · Salyangoz · Örs · Kulak zarı · Östaki borusu
+  - Çözüm: Yarım daire kanalları ve dehliz denge; salyangoz işitme ile ilgilidir.
+- **ayt-bio · Duyu Organları** — Retinada görme sinirinin çıktığı ve reseptör bulunmayan bölge hangisidir?
+  - **Kör nokta** · Sarı benek · İris · Göz bebeği · Kornea
+  - Çözüm: Kör noktada reseptör yoktur; buraya düşen görüntü algılanmaz.
+- **ayt-bio · Destek ve Hareket Sistemi** — İstemli çalışan kas türü hangisidir?
+  - **Çizgili (iskelet) kası** · Düz kas · Kalp kası · Mide kası · Damar kası
+  - Çözüm: İskelete bağlı çizgili kaslar istemli; düz kas ve kalp kası istemsiz çalışır.
+- **ayt-bio · Destek ve Hareket Sistemi** — Kan hücrelerinin üretildiği yer hangisidir?
+  - **Kırmızı kemik iliği** · Sarı kemik iliği · Kıkırdak · Kas · Eklem sıvısı
+  - Çözüm: Kırmızı kemik iliği kan hücrelerini üretir; sarı kemik iliği yağ depolar.
+- **ayt-bio · Destek ve Hareket Sistemi** — Kayan iplikler modeline göre kas kasılırken ne olur?
+  - **Aktin iplikleri miyozin üzerinde kayar, sarkomer kısalır.** · Miyozin iplikleri kısalır. · Aktin iplikleri uzar. · A bandı kısalır. · Sarkomer uzar.
+  - Çözüm: Kasılmada iplikler kısalmaz, birbiri üzerinde kayar; sarkomer, I bandı ve H bandı kısalır; A bandı değişmez.
+- **ayt-bio · Destek ve Hareket Sistemi** — Aşağıdakilerden hangisi oynamaz eklemdir?
+  - **Kafatası kemikleri arasındaki eklem** · Diz eklemi · Dirsek eklemi · Omuz eklemi · Omurlar arası eklem
+  - Çözüm: Kafatası kemikleri birbirine sıkıca kenetlenmiştir (oynamaz); omurlar arası yarı oynar; diz, dirsek, omuz oynar eklemdir.
+- **ayt-bio · Destek ve Hareket Sistemi** — Kasılma için hangi iyon ve molekül gereklidir?
+  - **Ca²⁺ ve ATP** · Na⁺ ve glikoz · K⁺ ve oksijen · Fe²⁺ ve protein · Cl⁻ ve su
+  - Çözüm: Kalsiyum iyonları aktin üzerindeki bağlanma yerlerini açar; ATP miyozin hareketinin enerjisini sağlar.
+- **ayt-bio · Canlılar ve Çevre** — Ortanca çiçeğinin toprağın pH’ına göre renk değiştirmesi neye örnektir?
+  - **Modifikasyon** · Mutasyon · Adaptasyon · Doğal seçilim · Krossing over
+  - Çözüm: Çevrenin etkisiyle ortaya çıkan, kalıtsal olmayan değişiklik modifikasyondur.
+- **ayt-bio · Canlılar ve Çevre** — Kalıtsal varyasyonun temel kaynağı hangisidir?
+  - **Mutasyon** · Modifikasyon · Beslenme · Egzersiz · İklim
+  - Çözüm: Yeni genetik çeşitliliğin asıl kaynağı mutasyondur; krossing over ve döllenme var olanı karıştırır.
+- **ayt-bio · Canlılar ve Çevre** — Doğal seçilim kuramını kim geliştirmiştir?
+  - **Charles Darwin** · Gregor Mendel · Louis Pasteur · Robert Hooke · Carl Linnaeus
+  - Çözüm: Darwin “Türlerin Kökeni” (1859) ile doğal seçilimi açıkladı.
+- **ayt-bio · Canlılar ve Çevre** — Kaktüslerin yapraklarının diken şeklinde olması hangi kavramla açıklanır?
+  - **Adaptasyon** · Modifikasyon · Mutualizm · Süksesyon · Rejenerasyon
+  - Çözüm: Su kaybını azaltan, kalıtsal ve yaşama şansını artıran özellik: adaptasyon.
+- **ayt-bio · Canlılar ve Çevre** — Yalnız belirli bir bölgede doğal olarak yaşayan türlere ne ad verilir?
+  - **Endemik tür** · İstilacı tür · Kozmopolit tür · Göçmen tür · Evcil tür
+  - Çözüm: Endemik türler yalnız belirli bir coğrafyada bulunur; Türkiye endemik bitki bakımından zengindir.
+- **ayt-edb · Şiir Bilgisi: Ölçü, Kafiye, Nazım Biçimleri** — Halk şiirinde en çok kullanılan ölçü hangisidir?
+  - **Hece ölçüsü** · Aruz ölçüsü · Serbest ölçü · Ölçüsüz · Batı ölçüsü
+  - Çözüm: Halk şiiri hece sayısının eşitliğine dayanan hece ölçüsüyle söylenir.
+- **ayt-edb · Şiir Bilgisi: Ölçü, Kafiye, Nazım Biçimleri** — Dize sonlarında tekrarlanan, görevleri aynı ek ya da sözcüklere ne ad verilir?
+  - **Redif** · Kafiye · Durak · Ulama · Nakarat
+  - Çözüm: Redif aynı görevli ek ya da sözcüktür; kafiye ise redif çıkarıldıktan sonra kalan ses benzerliğidir.
+- **ayt-edb · Şiir Bilgisi: Ölçü, Kafiye, Nazım Biçimleri** — İki dörtlük ve iki üçlükten (4 + 4 + 3 + 3) oluşan, 14 dizelik Batı kaynaklı nazım biçimi hangisidir?
+  - **Sone** · Terzarima · Gazel · Koşma · Rubai
+  - Çözüm: Sone iki dörtlük ve iki üçlükten oluşur.
+- **ayt-edb · Şiir Bilgisi: Ölçü, Kafiye, Nazım Biçimleri** — aaxa kafiye düzeniyle yazılan, dört dizelik Divan nazım biçimi hangisidir?
+  - **Rubai** · Gazel · Mesnevi · Kaside · Koşma
+  - Çözüm: Rubai dört dizelik, aaxa kafiyeli, genellikle felsefi konulu bir biçimdir.
+- **ayt-edb · Şiir Bilgisi: Ölçü, Kafiye, Nazım Biçimleri** — “Yollarını hep gözledim” dizesi kaç hecelidir?
+  - **8** · 7 · 9 · 10 · 11
+  - Çözüm: Yol-la-rı-nı-hep-göz-le-dim: 8 hece.
+- **ayt-edb · Edebi Türler: Hikâye, Roman, Tiyatro** — Hayattan bir kesit sunan, olay yerine atmosfere ağırlık veren hikâye türü hangisidir?
+  - **Durum (Çehov tarzı) hikâyesi** · Olay (Maupassant tarzı) hikâyesi · Masal · Fabl · Destan
+  - Çözüm: Durum hikâyesinde merak öğesi zayıftır; bir an ya da atmosfer anlatılır (Sait Faik).
+- **ayt-edb · Edebi Türler: Hikâye, Roman, Tiyatro** — Kahramanları hayvanlar olan ve ders vermeyi amaçlayan tür hangisidir?
+  - **Fabl** · Masal · Destan · Efsane · Trajedi
+  - Çözüm: Fabl, hayvanların konuşturulduğu öğretici kısa anlatıdır (La Fontaine).
+- **ayt-edb · Edebi Türler: Hikâye, Roman, Tiyatro** — Klasik trajedide uyulan “üç birlik” kuralı hangisidir?
+  - **Zaman, yer ve olay birliği** · Dil, üslup ve konu birliği · Kişi, sahne ve dekor birliği · Giriş, gelişme ve sonuç birliği · Ses, ışık ve müzik birliği
+  - Çözüm: Klasik trajedide olay tek yerde, bir günde ve tek olay etrafında geçer.
+- **ayt-edb · Edebi Türler: Hikâye, Roman, Tiyatro** — Aşağıdakilerden hangisi geleneksel Türk tiyatrosuna aittir?
+  - **Karagöz** · Trajedi · Opera · Dram · Bale
+  - Çözüm: Karagöz, ortaoyunu ve meddah geleneksel Türk tiyatrosunun türleridir.
+- **ayt-edb · Edebi Türler: Hikâye, Roman, Tiyatro** — Trajedi ile komedinin karışımı olan tiyatro türü hangisidir?
+  - **Dram** · Vodvil · Opera · Ortaoyunu · Pantomim
+  - Çözüm: Dram, romantizmle doğan ve acıklı ile gülüncü bir arada sunan türdür.
+- **ayt-edb · Öğretici Metinler** — Bir düşünceyi kanıtlarla savunan, kesin yargılar içeren yazı türü hangisidir?
+  - **Makale** · Deneme · Sohbet · Anı · Günlük
+  - Çözüm: Makalede düşünce kanıtlanır; denemede kanıtlama amacı yoktur.
+- **ayt-edb · Öğretici Metinler** — Yazarın kesin yargıya varmadan kişisel düşüncelerini sohbet havasında anlattığı tür hangisidir?
+  - **Deneme** · Makale · Eleştiri · Röportaj · Biyografi
+  - Çözüm: Deneme (Montaigne) kişisel, samimi ve kanıtlama amacı taşımayan bir türdür.
+- **ayt-edb · Öğretici Metinler** — Bir kişinin kendi hayatını anlattığı yazı türü hangisidir?
+  - **Otobiyografi** · Biyografi · Günlük · Gezi yazısı · Fıkra
+  - Çözüm: Otobiyografi kendi hayatı, biyografi başkasının hayatıdır.
+- **ayt-edb · Öğretici Metinler** — Günü gününe, tarih atılarak yazılan tür hangisidir?
+  - **Günlük** · Anı · Mektup · Makale · Sohbet
+  - Çözüm: Günlükte her yazı tarihlenir ve o gün yaşananlar anlatılır; anı sonradan yazılır.
+- **ayt-edb · Öğretici Metinler** — Gazetelerde güncel olayları kısa ve kişisel biçimde yorumlayan köşe yazısına ne ad verilir?
+  - **Fıkra** · Makale · Deneme · Röportaj · Eleştiri
+  - Çözüm: Fıkra (köşe yazısı) günlük olayları yorumlar; aynı adlı mizahi türle karıştırılmamalı.
+- **ayt-tar · Osmanlı Kültür ve Medeniyeti** — Divan-ı Hümayun’da maliye işlerinden sorumlu üye kimdir?
+  - **Defterdar** · Kazasker · Nişancı · Şeyhülislam · Kaptan-ı derya
+  - Çözüm: Defterdar maliye, kazasker yargı ve eğitim, nişancı yazışma ve tuğra işlerine bakar.
+- **ayt-tar · Osmanlı Kültür ve Medeniyeti** — Osmanlı’da padişah fermanlarına tuğra çeken divan üyesi kimdir?
+  - **Nişancı** · Defterdar · Kazasker · Sadrazam · Reisülküttap
+  - Çözüm: Nişancı tuğra çeker, yazışmaları ve tapu kayıtlarını düzenler.
+- **ayt-tar · Osmanlı Kültür ve Medeniyeti** — Vergi toplama hakkının açık artırmayla belirli süre için satılmasına ne ad verilir?
+  - **İltizam** · Tımar · Malikâne · Devşirme · İkta
+  - Çözüm: İltizam, vergi gelirinin peşin para karşılığı mültezime verilmesidir; ömür boyu olanına malikâne denir.
+- **ayt-tar · Osmanlı Kültür ve Medeniyeti** — Osmanlı’da toplumun dinî inancına göre örgütlenmesine ne ad verilir?
+  - **Millet sistemi** · Tımar sistemi · Lonca sistemi · Devşirme sistemi · Divan sistemi
+  - Çözüm: Gayrimüslimler dinî topluluklara (millet) göre örgütlenip kendi işlerini yürütürdü.
+- **ayt-tar · Osmanlı Kültür ve Medeniyeti** — Osmanlı’da en büyük dirlik hangisidir?
+  - **Has** · Zeamet · Tımar · Vakıf · Mülk
+  - Çözüm: Dirlikler gelire göre büyükten küçüğe: has, zeamet, tımar.
+- **ayt-tar · XIX. Yüzyılda Osmanlı ve Islahatlar** — Yeniçeri Ocağı’nın kaldırılmasına ne ad verilir?
+  - **Vaka-i Hayriye** · Kabakçı Mustafa İsyanı · Patrona Halil İsyanı · 31 Mart Vakası · Babıali Baskını
+  - Çözüm: II. Mahmut 1826’da Yeniçeri Ocağı’nı kaldırdı; olay “hayırlı olay” anlamında Vaka-i Hayriye diye anılır.
+- **ayt-tar · XIX. Yüzyılda Osmanlı ve Islahatlar** — Osmanlı’nın ilk dış borcunu aldığı savaş hangisidir?
+  - **Kırım Savaşı** · 93 Harbi · Trablusgarp Savaşı · Balkan Savaşları · Navarin Baskını
+  - Çözüm: Osmanlı ilk dış borcu Kırım Savaşı sırasında, 1854’te aldı.
+- **ayt-tar · XIX. Yüzyılda Osmanlı ve Islahatlar** — Gayrimüslimlere geniş haklar tanıyan ferman hangisidir?
+  - **Islahat Fermanı (1856)** · Tanzimat Fermanı (1839) · Kanun-i Esasi (1876) · Sened-i İttifak (1808) · Mecelle
+  - Çözüm: Islahat Fermanı, Paris Antlaşması öncesinde gayrimüslimlere geniş haklar tanıdı.
+- **ayt-tar · XIX. Yüzyılda Osmanlı ve Islahatlar** — Yunanistan’ın bağımsızlığını kazandığı antlaşma hangisidir?
+  - **Edirne Antlaşması (1829)** · Paris Antlaşması (1856) · Berlin Antlaşması (1878) · Ayastefanos (1878) · Londra Antlaşması (1913)
+  - Çözüm: Edirne Antlaşması ile Yunanistan bağımsız oldu (1830’da kesinleşti).
+- **ayt-tar · XIX. Yüzyılda Osmanlı ve Islahatlar** — Osmanlı’da çıkarılan ilk resmî gazete hangisidir?
+  - **Takvim-i Vekayi** · Tercüman-ı Ahval · Tasvir-i Efkâr · Ceride-i Havadis · Servet-i Fünun
+  - Çözüm: Takvim-i Vekayi, II. Mahmut döneminde (1831) çıkan ilk resmî gazetedir.
+- **ayt-tar · XX. Yüzyıl Başlarında Osmanlı** — Osmanlı’nın Kuzey Afrika’daki son toprağını kaybettiği antlaşma hangisidir?
+  - **Uşi Antlaşması** · Londra Antlaşması · Bükreş Antlaşması · Mondros Ateşkesi · Sevr Antlaşması
+  - Çözüm: Trablusgarp Savaşı sonunda Uşi Antlaşması (1912) ile Trablusgarp İtalya’ya bırakıldı.
+- **ayt-tar · XX. Yüzyıl Başlarında Osmanlı** — II. Meşrutiyet hangi yıl ilan edilmiştir?
+  - **1908** · 1876 · 1909 · 1912 · 1914
+  - Çözüm: İttihat ve Terakki’nin baskısıyla 1908’de II. Meşrutiyet ilan edildi.
+- **ayt-tar · XX. Yüzyıl Başlarında Osmanlı** — I. Dünya Savaşı’nda Osmanlı’nın kazandığı ve dünya kamuoyunda büyük yankı uyandıran cephe hangisidir?
+  - **Çanakkale** · Kafkas · Kanal · Galiçya · Suriye – Filistin
+  - Çözüm: Çanakkale’de İtilaf donanması ve kara harekâtı geri püskürtüldü (1915).
+- **ayt-tar · XX. Yüzyıl Başlarında Osmanlı** — Balkan Savaşları’nda kaybedilip geri alınan şehir hangisidir?
+  - **Edirne** · Selanik · Manastır · İşkodra · Yanya
+  - Çözüm: Edirne I. Balkan Savaşı’nda kaybedildi, II. Balkan Savaşı’nda geri alındı.
+- **ayt-tar · XX. Yüzyıl Başlarında Osmanlı** — Osmanlı’nın I. Dünya Savaşı’ndan çekildiği ateşkes hangisidir?
+  - **Mondros** · Mudanya · Brest–Litovsk · Gümrü · Uşi
+  - Çözüm: 30 Ekim 1918’de imzalanan Mondros Ateşkesi ile Osmanlı savaştan çekildi.
+- **ayt-tar · Küreselleşen Dünya** — Avrupa Birliği’ni kuran antlaşma hangisidir?
+  - **Maastricht (1992)** · Roma (1957) · Lizbon (2007) · Paris (1951) · Helsinki (1975)
+  - Çözüm: Maastricht Antlaşması ile Avrupa Topluluğu, Avrupa Birliği’ne dönüştü.
+- **ayt-tar · Küreselleşen Dünya** — Türkiye’nin AB adaylığı hangi yıl resmen kabul edilmiştir?
+  - **1999** · 1987 · 2005 · 1963 · 1995
+  - Çözüm: Türkiye 1987’de tam üyelik başvurusu yaptı, 1999 Helsinki Zirvesi’nde aday ülke oldu.
+- **ayt-tar · Küreselleşen Dünya** — SSCB hangi yıl dağılmıştır?
+  - **1991** · 1989 · 1985 · 1993 · 2001
+  - Çözüm: SSCB 1991’de dağıldı; Berlin Duvarı ise 1989’da yıkılmıştı.
+- **ayt-tar · Küreselleşen Dünya** — SSCB’nin dağılmasından sonra bağımsız Türk cumhuriyetlerini ilk tanıyan ülke hangisidir?
+  - **Türkiye** · ABD · Rusya · İran · Çin
+  - Çözüm: Türkiye, bağımsızlığını ilan eden Türk cumhuriyetlerini ilk tanıyan ülkedir.
+- **ayt-tar · Küreselleşen Dünya** — 1992–1995 yılları arasında Balkanlarda yaşanan ve soykırımın da görüldüğü savaş hangisidir?
+  - **Bosna Savaşı** · Kore Savaşı · Körfez Savaşı · Vietnam Savaşı · Kırım Savaşı
+  - Çözüm: Yugoslavya’nın dağılmasıyla Bosna Savaşı çıktı; Srebrenitsa soykırımı (1995) yaşandı.
+- **ayt-cog · Nüfus Politikaları** — Çin’in 1979’da başlattığı nüfus politikası hangi amaçlıdır?
+  - **Nüfus artışını sınırlamak** · Nüfus artışını teşvik etmek · Göçü artırmak · Yaşlı nüfusu artırmak · Şehirleşmeyi durdurmak
+  - Çözüm: Tek çocuk politikası hızlı nüfus artışını yavaşlatmak için uygulandı (2015’te kaldırıldı).
+- **ayt-cog · Nüfus Politikaları** — Doğurganlık hızı yenilenme düzeyinin altına düşmüş, yaşlı nüfusu artan ülkeler genellikle hangi politikayı uygular?
+  - **Nüfus artışını teşvik** · Nüfus artışını sınırlama · Göçü yasaklama · Doğum kontrolünü zorunlu kılma · Eğitimi kısaltma
+  - Çözüm: Yaşlanan ülkeler doğum yardımı, uzun ebeveyn izni gibi teşviklerle nüfusu artırmaya çalışır.
+- **ayt-cog · Nüfus Politikaları** — Nüfusun kendini yenileyebilmesi için gereken toplam doğurganlık hızı yaklaşık kaçtır?
+  - **2,1** · 1,0 · 3,5 · 4,0 · 1,5
+  - Çözüm: Bir kadın başına yaklaşık 2,1 çocuk, nüfusun aynı kalması için gereklidir.
+- **ayt-cog · Nüfus Politikaları** — Türkiye’de 1923–1965 döneminde nüfus artışı neden teşvik edilmiştir?
+  - **Savaşlarda verilen kayıplar** · Aşırı nüfus artışı · Göçlerin artması · Yaşlı nüfusun azalması · Kentleşmenin hızlanması
+  - Çözüm: Uzun savaş yıllarındaki kayıplar nedeniyle Cumhuriyet’in ilk yıllarında nüfus artışı desteklendi.
+- **ayt-cog · Nüfus Politikaları** — Demografik dönüşümün son aşamasında hangisi görülür?
+  - **Düşük doğum, düşük ölüm** · Yüksek doğum, yüksek ölüm · Yüksek doğum, düşük ölüm · Hızlı nüfus artışı · Genç nüfusun artması
+  - Çözüm: Gelişmiş ülkelerde hem doğum hem ölüm oranı düşüktür; nüfus artışı yavaşlar.
+- **ayt-cog · Türkiye’de Ulaşım, Ticaret ve Turizm** — Bakü–Tiflis–Ceyhan boru hattı hangi kaynağı taşır?
+  - **Petrol** · Doğal gaz · Su · Kömür · Elektrik
+  - Çözüm: BTC hattı Hazar petrolünü Ceyhan Limanı’na taşır; TANAP doğal gaz hattıdır.
+- **ayt-cog · Türkiye’de Ulaşım, Ticaret ve Turizm** — Uludağ, Erciyes ve Palandöken hangi turizm türüyle öne çıkar?
+  - **Kış turizmi** · Termal turizm · Deniz turizmi · İnanç turizmi · Kültür turizmi
+  - Çözüm: Bu dağlar kayak merkezleriyle kış turizminin önemli yerleridir.
+- **ayt-cog · Türkiye’de Ulaşım, Ticaret ve Turizm** — Türkiye’nin ihracatında en büyük payı hangi grup alır?
+  - **Sanayi ürünleri** · Tarım ürünleri · Madenler · Enerji ürünleri · Canlı hayvan
+  - Çözüm: Otomotiv, tekstil, makine gibi sanayi ürünleri ihracatın büyük kısmını oluşturur.
+- **ayt-cog · Türkiye’de Ulaşım, Ticaret ve Turizm** — Afyonkarahisar ve Denizli hangi turizm türüyle öne çıkar?
+  - **Termal (sağlık) turizm** · Kış turizmi · Deniz turizmi · Mağara turizmi · Av turizmi
+  - Çözüm: Bu illerdeki sıcak su kaynakları termal turizmi geliştirmiştir.
+- **ayt-cog · Türkiye’de Ulaşım, Ticaret ve Turizm** — Türkiye’nin ithalatında en büyük payı hangisi alır?
+  - **Enerji ve ara mallar** · Tarım ürünleri · Turizm hizmetleri · Tekstil ürünleri · Bor madeni
+  - Çözüm: Türkiye petrol ve doğal gaz ile sanayide kullanılan ara malları büyük ölçüde ithal eder.
+- **ayt-cog · Kültür Bölgeleri ve Küresel Ortam** — Mezopotamya medeniyetleri hangi akarsuların çevresinde gelişmiştir?
+  - **Dicle ve Fırat** · Nil · İndus · Sarı Irmak · Tuna
+  - Çözüm: Mezopotamya “iki ırmak arası” demektir: Dicle ile Fırat.
+- **ayt-cog · Kültür Bölgeleri ve Küresel Ortam** — Aşağıdakilerden hangisi kültürün ögelerinden biri değildir?
+  - **İklim** · Dil · Din · Gelenek – görenek · Sanat
+  - Çözüm: İklim doğal bir unsurdur; dil, din, gelenek ve sanat kültürün ögeleridir.
+- **ayt-cog · Kültür Bölgeleri ve Küresel Ortam** — Mısır medeniyeti hangi akarsuyun çevresinde gelişmiştir?
+  - **Nil** · Fırat · İndus · Ganj · Sarı Irmak
+  - Çözüm: Mısır uygarlığı Nil’in taşkınlarının bıraktığı verimli topraklarda gelişti.
+- **ayt-cog · Kültür Bölgeleri ve Küresel Ortam** — Medeniyetlerin genellikle büyük akarsu boylarında doğmasının temel nedeni hangisidir?
+  - **Verimli topraklar ve su** · Soğuk iklim · Yüksek dağlar · Az nüfus · Maden yatakları
+  - Çözüm: Tarım için su ve verimli alüvyal topraklar yerleşik hayatı ve medeniyeti destekledi.
+- **ayt-cog · Kültür Bölgeleri ve Küresel Ortam** — Kültürlerin birbirini etkileyerek değişmesine ne ad verilir?
+  - **Kültürleşme** · Kültürlenme · Asimilasyon · Küreselleşme · Kentleşme
+  - Çözüm: Kültürleşme farklı kültürlerin etkileşimidir; kültürlenme bireyin kendi kültürünü öğrenmesidir.
+- **ayt-cog · Ülkeler ve Bölgeler** — Petrol ihraç eden ülkelerin örgütü hangisidir?
+  - **OPEC** · NATO · OECD · AB · BM
+  - Çözüm: OPEC, petrol üretimi ve fiyatları konusunda iş birliği yapan petrol ihracatçısı ülkelerin örgütüdür.
+- **ayt-cog · Ülkeler ve Bölgeler** — Ortak savunma amacıyla kurulan örgüt hangisidir?
+  - **NATO** · OPEC · OECD · G-20 · UNESCO
+  - Çözüm: NATO (Kuzey Atlantik Antlaşması Örgütü) 1949’da ortak savunma için kuruldu.
+- **ayt-cog · Ülkeler ve Bölgeler** — Basra Körfezi’ni Umman Denizi’ne bağlayan ve petrol taşımacılığı için kritik olan boğaz hangisidir?
+  - **Hürmüz Boğazı** · Cebelitarık Boğazı · Malakka Boğazı · Babülmendep Boğazı · Bering Boğazı
+  - Çözüm: Dünya petrol ticaretinin önemli bir kısmı Hürmüz Boğazı’ndan geçer.
+- **ayt-cog · Ülkeler ve Bölgeler** — Aşağıdakilerden hangisi gelişmişlik göstergelerinden biri değildir?
+  - **Yüzölçümü** · Kişi başına gelir · Okuma yazma oranı · Ortalama yaşam süresi · Sanayileşme düzeyi
+  - Çözüm: Yüzölçümü gelişmişlikle ilgili değildir; gelir, eğitim, sağlık ve sanayi göstergedir.
+- **ayt-cog · Ülkeler ve Bölgeler** — Akdeniz ile Kızıldeniz’i birbirine bağlayan kanal hangisidir?
+  - **Süveyş Kanalı** · Panama Kanalı · Kiel Kanalı · Korint Kanalı · Manş Kanalı
+  - Çözüm: Süveyş Kanalı (1869) Avrupa–Asya deniz yolunu kısalttı.
+- **ayt-din · Dünya ve Ahiret** — Ölümden kıyamete kadar geçen döneme ne ad verilir?
+  - **Berzah (kabir hayatı)** · Mahşer · Mizan · Sırat · Haşir
+  - Çözüm: Berzah, ölüm ile yeniden diriliş arasındaki kabir hayatıdır.
+- **ayt-din · Dünya ve Ahiret** — Ahirette amellerin tartılmasına ne ad verilir?
+  - **Mizan** · Sırat · Mahşer · Berzah · Kıyamet
+  - Çözüm: Mizan, iyilik ve kötülüklerin tartıldığı ilahi adalet ölçüsüdür.
+- **ayt-din · Dünya ve Ahiret** — Yeniden dirilen insanların toplanacağı yere ne ad verilir?
+  - **Mahşer** · Mizan · Sırat · Berzah · Cennet
+  - Çözüm: Mahşer, hesap için bütün insanların toplanacağı yerdir.
+- **ayt-din · Dünya ve Ahiret** — Ahiret inancının bireye kazandırdığı en önemli değer hangisidir?
+  - **Sorumluluk bilinci** · Dünya malına düşkünlük · Kaygısızlık · Bencillik · Tembellik
+  - Çözüm: Yaptıklarından hesaba çekileceğini bilen insan sorumluluk sahibi olur.
+- **ayt-din · Dünya ve Ahiret** — Ölen insanların yeniden diriltilmesine ne ad verilir?
+  - **Ba’s** · Mizan · Berzah · Sırat · Şefaat
+  - Çözüm: Ba’s, kıyametten sonra insanların yeniden diriltilmesidir.
+- **ayt-din · Kur’an’da Bazı Kavramlar** — Allah’a ortak koşmaya ne ad verilir?
+  - **Şirk** · Tevhit · Nifak · Küfür · İhsan
+  - Çözüm: Şirk tevhidin zıddıdır; Allah’a ortak koşmaktır.
+- **ayt-din · Kur’an’da Bazı Kavramlar** — Allah’ı görüyormuş gibi kulluk etmeye ne ad verilir?
+  - **İhsan** · Takva · Salih amel · Hidayet · Tevekkül
+  - Çözüm: Cibril hadisinde ihsan, Allah’ı görüyormuş gibi ibadet etmek olarak tanımlanır.
+- **ayt-din · Kur’an’da Bazı Kavramlar** — İnandığı hâlde inanmıyor gibi, inanmadığı hâlde inanıyor gibi görünmeye ne denir?
+  - **Nifak (münafıklık)** · Şirk · Tevhit · İhlas · Takva
+  - Çözüm: Nifak, ikiyüzlülüktür; bu kişiye münafık denir.
+- **ayt-din · Kur’an’da Bazı Kavramlar** — Doğru yolu bulmaya ne ad verilir?
+  - **Hidayet** · Dalalet · Küfür · Nifak · Şirk
+  - Çözüm: Hidayet doğru yolu bulmak, zıddı dalalet (sapkınlık).
+- **ayt-din · Kur’an’da Bazı Kavramlar** — Kur’an’da iyi ve yararlı iş anlamında kullanılan kavram hangisidir?
+  - **Salih amel** · Şirk · Nifak · Riya · Haset
+  - Çözüm: Salih amel, imanın davranışa yansıyan iyi ve yararlı işlerdir.
+- **ayt-din · İslam ve Bilim** — Cebirin kurucusu sayılan Müslüman bilim insanı kimdir?
+  - **Harezmi** · İbn-i Sina · Biruni · Farabi · İbnü’l-Heysem
+  - Çözüm: Harezmi’nin eseri cebirin adını vermiştir; “algoritma” sözcüğü de onun adından gelir.
+- **ayt-din · İslam ve Bilim** — “El-Kanun fi’t-Tıb” adlı eserin yazarı kimdir?
+  - **İbn-i Sina** · Harezmi · Biruni · Cabir bin Hayyan · Uluğ Bey
+  - Çözüm: İbn-i Sina’nın El-Kanun’u yüzyıllarca Avrupa’da tıp kitabı olarak okutuldu.
+- **ayt-din · İslam ve Bilim** — Optik bilimine katkılarıyla tanınan Müslüman bilim insanı kimdir?
+  - **İbnü’l-Heysem** · Harezmi · İbn-i Sina · Piri Reis · Farabi
+  - Çözüm: İbnü’l-Heysem ışığın gözden çıkmadığını, cisimlerden göze geldiğini açıkladı.
+- **ayt-din · İslam ve Bilim** — Abbasiler döneminde Bağdat’ta kurulan ünlü bilim ve çeviri merkezi hangisidir?
+  - **Beytü’l-Hikme** · Nizamiye Medresesi · Süleymaniye Medresesi · Enderun · Darülfünun
+  - Çözüm: Beytü’l-Hikme (Bilgelik Evi) Yunanca eserlerin çevrildiği merkezdir.
+- **ayt-din · İslam ve Bilim** — İlk vahyin “Oku!” emriyle başlaması İslam’ın neye verdiği önemi gösterir?
+  - **Bilgi ve öğrenmeye** · Ticarete · Savaşa · Siyasete · Mimariye
+  - Çözüm: Alak suresinin ilk ayetleri okumayı ve bilgiyi öne çıkarır.
+- **ayt-din · Güncel Dini Meseleler** — Dinde yeri olmadığı hâlde dinmiş gibi kabul edilen inanç ve uygulamalara ne ad verilir?
+  - **Hurafe** · Sünnet · Farz · İçtihat · İbadet
+  - Çözüm: Hurafe, dinin aslında olmayan, sonradan eklenmiş batıl inançlardır.
+- **ayt-din · Güncel Dini Meseleler** — Dinin kişisel ya da siyasi çıkar için kullanılmasına ne denir?
+  - **Din istismarı** · Laiklik · Tasavvuf · İçtihat · Tevekkül
+  - Çözüm: Din istismarı, insanların dinî duygularını çıkar için kullanmaktır.
+- **ayt-din · Güncel Dini Meseleler** — Din ve vicdan özgürlüğünü güvence altına alan ilke hangisidir?
+  - **Laiklik** · Devletçilik · Halkçılık · Milliyetçilik · İnkılapçılık
+  - Çözüm: Laiklik, devletin dinler karşısında tarafsız olmasını ve herkesin inanç özgürlüğünü güvenceler.
+- **ayt-din · Güncel Dini Meseleler** — Dinî bilgiyi edinirken dikkat edilmesi gereken en önemli husus hangisidir?
+  - **Güvenilir ve yetkin kaynaklara başvurmak** · Sosyal medyadaki her paylaşıma inanmak · Yalnız kulaktan dolma bilgiyle yetinmek · Kaynağı belirsiz kitapları okumak · Hiç soru sormamak
+  - Çözüm: Dinî bilgi Kur’an, sahih sünnet ve yetkin âlimler gibi güvenilir kaynaklardan öğrenilmelidir.
+- **ayt-din · Güncel Dini Meseleler** — Yeni ortaya çıkan meselelere (organ nakli gibi) dinî hüküm bulmak için yapılan çabaya ne ad verilir?
+  - **İçtihat** · Hurafe · Taklit · Bid’at · İstismar
+  - Çözüm: İçtihat, uzman âlimlerin temel kaynaklardan yeni meselelere hüküm çıkarma çabasıdır.
+- **tyt-fiz · Manyetizma** — Bir mıknatıs ortadan ikiye bölünürse ne olur?
+  - **Her parça N ve S kutbu olan ayrı bir mıknatıs olur.** · Bir parça N, diğeri S kutbu olur. · Mıknatıslık tamamen kaybolur. · Yalnız büyük parça mıknatıs kalır. · Parçalar birbirini iter ve mıknatıslık biter.
+  - Çözüm: Mıknatıs bölündükçe her parça yeniden iki kutuplu mıknatıs olur; tek kutup elde edilemez.
+- **tyt-fiz · Manyetizma** — Mıknatısın dışında manyetik alan çizgileri hangi yöndedir?
+  - **N kutbundan S kutbuna** · S kutbundan N kutbuna · Kutuplara paralel, yönsüz · Mıknatısın ortasından dışa · Her yöne rastgele
+  - Çözüm: Alan çizgileri mıknatısın dışında N’den çıkar, S’ye girer.
+- **tyt-fiz · Manyetizma** — Aşağıdakilerden hangisi mıknatıstan etkilenir?
+  - **Demir** · Bakır · Alüminyum · Cam · Plastik
+  - Çözüm: Demir, nikel ve kobalt ferromanyetiktir; mıknatısa güçlü biçimde çekilir.
+- **tyt-kim · Kimya Bilimi** — Kimyayı bilim hâline getiren, element kavramını tanımlayan bilim insanı kimdir?
+  - **Robert Boyle** · Dalton · Rutherford · Mendeleyev · Bohr
+  - Çözüm: Boyle, “Şüpheci Kimyacı” eseriyle simyadan kimyaya geçişte öncü oldu ve elementi tanımladı.
+- **tyt-kim · Kimya Bilimi** — Aşağıdakilerden hangisi kimyasal bir değişimdir?
+  - **Demirin paslanması** · Buzun erimesi · Camın kırılması · Şekerin suda çözünmesi · Suyun kaynaması
+  - Çözüm: Paslanmada demir oksijenle tepkimeye girer, yeni madde (demir oksit) oluşur.
+- **tyt-kim · Kimya Bilimi** — Asit seyreltilirken hangi yol izlenmelidir?
+  - **Asit, suyun üzerine yavaş yavaş eklenir.** · Su, asidin üzerine hızla dökülür. · İkisi aynı anda karıştırılır. · Asit ısıtılarak suya eklenir. · Asit koklanarak derişimi kontrol edilir.
+  - Çözüm: Seyreltme çok ısı verir; asit suya eklenirse ısı geniş hacimde dağılır, sıçrama önlenir.
+- **tyt-kim · Kimyasal Türler Arası Etkileşimler** — Su moleküllerinin kaynama noktasının beklenenden yüksek olmasının nedeni hangisidir?
+  - **Moleküller arası hidrojen bağları** · İyonik bağlar · Metalik bağlar · Moleküllerin apolar olması · Molekül kütlesinin çok büyük olması
+  - Çözüm: Suda H, O’ya bağlıdır; moleküller arasında güçlü hidrojen bağları oluşur.
+- **tyt-kim · Kimyasal Türler Arası Etkileşimler** — Aşağıdaki moleküllerden hangisi apolardır?
+  - **CO₂** · H₂O · HCl · NH₃ · HF
+  - Çözüm: CO₂ doğrusal ve simetriktir; bağlar polar olsa da molekül apolardır.
+- **tyt-kim · Kimyasal Türler Arası Etkileşimler** — Metallerin elektriği iyi iletmesinin nedeni hangisidir?
+  - **Serbest hareket eden elektronlar** · İyonik bağlar · Hidrojen bağları · Apolar kovalent bağlar · Yüksek kütle
+  - Çözüm: Metalik bağda değerlik elektronları serbestçe hareket eder (elektron denizi).
+- **tyt-kim · Maddenin Halleri** — Naftalinin katıdan doğrudan gaz hâline geçmesine ne ad verilir?
+  - **Süblimleşme** · Buharlaşma · Erime · Kırağılaşma · Yoğuşma
+  - Çözüm: Katının sıvılaşmadan gaza geçmesi süblimleşmedir (kuru buz, naftalin).
+- **tyt-kim · Maddenin Halleri** — Yükseklere çıkıldıkça suyun kaynama sıcaklığı nasıl değişir?
+  - **Azalır** · Artar · Değişmez · Önce artar sonra azalır · 100 °C’de sabit kalır
+  - Çözüm: Yükseklik arttıkça dış basınç azalır; buhar basıncı daha düşük sıcaklıkta dış basınca eşitlenir.
+- **tyt-kim · Maddenin Halleri** — Aşağıdaki hâl değişimlerinden hangisi ısı verir (ekzotermiktir)?
+  - **Yoğuşma** · Erime · Buharlaşma · Süblimleşme · Kaynama
+  - Çözüm: Gazdan sıvıya geçişte tanecikler yaklaşır ve ısı verilir.
+- **tyt-kim · Doğa ve Kimya** — Sert suyu sert yapan iyonlar hangileridir?
+  - **Ca²⁺ ve Mg²⁺** · Na⁺ ve K⁺ · Cl⁻ ve F⁻ · H⁺ ve OH⁻ · Fe³⁺ ve Al³⁺
+  - Çözüm: Kalsiyum ve magnezyum iyonları sabunun köpürmesini engeller, kireç bırakır.
+- **tyt-kim · Doğa ve Kimya** — Asit yağmurlarına yol açan gazlar hangileridir?
+  - **Kükürt ve azot oksitleri** · Helyum ve neon · Oksijen ve azot · Hidrojen ve helyum · Argon ve kripton
+  - Çözüm: SO₂ ve NOₓ gazları sudaki çözünmeyle asit oluşturur.
+- **tyt-kim · Doğa ve Kimya** — Su arıtımında mikroorganizmaları yok etmek için kullanılan işlem hangisidir?
+  - **Klorlama** · Süzme · Çöktürme · Havalandırma · Damıtma
+  - Çözüm: Klorlama (dezenfeksiyon) sudaki mikroorganizmaları öldürür.
+- **tyt-bio · Canlıların Sınıflandırılması** — Mantarların hücre duvarı hangi maddeden yapılmıştır?
+  - **Kitin** · Selüloz · Peptidoglikan · Lignin · Glikojen
+  - Çözüm: Mantarların hücre duvarı kitindir; bitkilerinki selüloz, bakterilerinki peptidoglikandır.
+- **tyt-bio · Canlıların Sınıflandırılması** — Linnaeus’un geliştirdiği adlandırma sisteminde ilk sözcük neyi gösterir?
+  - **Cins** · Tür · Aile · Takım · Âlem
+  - Çözüm: İkili adlandırmada ilk sözcük cins, ikincisi tür adıdır (Homo sapiens).
+- **tyt-bio · Canlıların Sınıflandırılması** — Sınıflandırma basamaklarında âlemden türe doğru inildikçe ne olur?
+  - **Birey sayısı azalır, benzerlik artar.** · Birey sayısı artar, benzerlik azalır. · İkisi de artar. · İkisi de azalır. · Değişmez.
+  - Çözüm: Aşağı basamaklar daha az ama birbirine daha çok benzeyen bireyleri kapsar.
+- **tyt-bio · Ekosistem Ekolojisi** — Ölü organik maddeleri inorganik maddelere dönüştüren canlılar hangileridir?
+  - **Ayrıştırıcılar (bakteri ve mantarlar)** · Üreticiler · Otçullar · Etçiller · Hepçiller
+  - Çözüm: Ayrıştırıcılar madde döngüsünü tamamlar.
+- **tyt-bio · Ekosistem Ekolojisi** — Besin zincirinde ilk halka hangisidir?
+  - **Üreticiler** · Otçullar · Etçiller · Ayrıştırıcılar · Hepçiller
+  - Çözüm: Zincir, güneş enerjisini besine çeviren üreticilerle başlar.
+- **tyt-bio · Ekosistem Ekolojisi** — Havadaki azotu bağlayan canlılar hangileridir?
+  - **Azot bağlayıcı bakteriler** · Mantarlar · Yeşil bitkiler · Hayvanlar · Virüsler
+  - Çözüm: Baklagillerin köklerindeki bakteriler havadaki azotu bitkinin kullanabileceği bileşiklere çevirir.
+- **tyt-tar · İslam Medeniyetinin Doğuşu** — Müslümanların ilk kez siyasi olarak tanındığı antlaşma hangisidir?
+  - **Hudeybiye Antlaşması** · Akabe Biatları · Medine Sözleşmesi · Veda Hutbesi · Mekke’nin fethi
+  - Çözüm: Hudeybiye (628) ile Mekkeliler Müslümanları bir taraf olarak tanıdı.
+- **tyt-tar · İslam Medeniyetinin Doğuşu** — Kur’an’ın kitap hâline getirildiği dönem hangi halifeye aittir?
+  - **Hz. Ebubekir** · Hz. Ömer · Hz. Osman · Hz. Ali · Muaviye
+  - Çözüm: Hz. Ebubekir döneminde Kur’an bir araya getirildi; Hz. Osman döneminde çoğaltıldı.
+- **tyt-tar · İslam Medeniyetinin Doğuşu** — Türklerin İslamiyet’e geçişini hızlandıran savaş hangisidir?
+  - **Talas Savaşı (751)** · Kadisiye · Bedir · Malazgirt · Dandanakan
+  - Çözüm: Talas’ta Abbasiler ile Türkler Çinlilere karşı birlikte savaştı; yakınlaşma İslamiyet’e geçişi hızlandırdı.
+- **tyt-cog · Coğrafi Konum** — Türkiye hangi meridyenler arasında yer alır?
+  - **26°–45° doğu** · 36°–42° doğu · 26°–45° batı · 10°–20° doğu · 45°–60° doğu
+  - Çözüm: Türkiye 26°–45° doğu meridyenleri, 36°–42° kuzey paralelleri arasındadır.
+- **tyt-cog · Coğrafi Konum** — Türkiye’nin en doğusu ile en batısı arasındaki yerel saat farkı kaç dakikadır?
+  - **76** · 60 · 45 · 19 · 90
+  - Çözüm: 45 − 26 = 19 meridyen farkı; 19 · 4 = 76 dakika.
+- **tyt-cog · Coğrafi Konum** — Aynı enlemdeki iki şehrin farklı iklimlere sahip olması hangi konumla açıklanır?
+  - **Özel konum** · Matematik konum · Mutlak konum · Göreceli olmayan konum · Astronomik konum
+  - Çözüm: Yükselti, denize uzaklık, yer şekilleri gibi özel konum özellikleri farklılık yaratır.
+- **tyt-cog · Atmosfer ve İklim** — Hava olaylarının görüldüğü atmosfer katmanı hangisidir?
+  - **Troposfer** · Stratosfer · Mezosfer · Termosfer · Ekzosfer
+  - Çözüm: Bulut, yağış, rüzgâr gibi olaylar en alttaki troposferde görülür.
+- **tyt-cog · Atmosfer ve İklim** — Ozon tabakası hangi katmandadır?
+  - **Stratosfer** · Troposfer · Mezosfer · Termosfer · Ekzosfer
+  - Çözüm: Ozon tabakası stratosferde bulunur ve morötesi ışınları tutar.
+- **tyt-cog · Atmosfer ve İklim** — Nemli havanın dağ yamacı boyunca yükselerek yağış bırakmasına ne denir?
+  - **Orografik yağış** · Konveksiyonel yağış · Cephesel yağış · Muson · Fön
+  - Çözüm: Dağa çarpan nemli hava yükselir, soğur ve yağış bırakır: yamaç (orografik) yağışı.
+- **tyt-cog · Nüfus ve Göç** — Nüfusun alana bölünmesiyle bulunan değer hangisidir?
+  - **Aritmetik nüfus yoğunluğu** · Tarımsal nüfus yoğunluğu · Nüfus artış hızı · Doğurganlık hızı · Bağımlı nüfus oranı
+  - Çözüm: Aritmetik yoğunluk = nüfus ÷ yüzölçümü (kişi/km²).
+- **tyt-cog · Nüfus ve Göç** — Nitelikli kişilerin başka ülkelere göç etmesine ne ad verilir?
+  - **Beyin göçü** · Mevsimlik göç · Mübadele · İç göç · Zorunlu göç
+  - Çözüm: Eğitimli ve uzman kişilerin yurt dışına göçü beyin göçüdür.
+- **tyt-cog · Nüfus ve Göç** — Geniş tabanlı bir nüfus piramidi neyi gösterir?
+  - **Doğum oranının yüksek, nüfusun genç olduğunu** · Yaşlı nüfusun fazla olduğunu · Doğum oranının çok düşük olduğunu · Ortalama yaşam süresinin çok uzun olduğunu · Nüfusun azaldığını
+  - Çözüm: Taban (0–14 yaş) genişse doğum oranı yüksek, nüfus gençtir.
+- **tyt-cog · Doğal Afetler** — Türkiye’de heyelanın en çok görüldüğü bölge hangisidir?
+  - **Karadeniz** · İç Anadolu · Güneydoğu Anadolu · Ege · Marmara
+  - Çözüm: Eğimli arazi, bol yağış ve killi topraklar Karadeniz’de heyelanı artırır.
+- **tyt-cog · Doğal Afetler** — Türkiye’de afet ve acil durum yönetiminden sorumlu kurum hangisidir?
+  - **AFAD** · TÜBİTAK · TÜİK · MTA · DSİ
+  - Çözüm: AFAD (Afet ve Acil Durum Yönetimi Başkanlığı) afet öncesi ve sonrası çalışmaları yürütür.
+- **tyt-cog · Doğal Afetler** — Erozyonun en çok görüldüğü yerler hangi özelliktedir?
+  - **Bitki örtüsü zayıf, eğimli ve kurak alanlar** · Sık ormanlık alanlar · Düz ve sulak ovalar · Bataklıklar · Kar örtüsü kalıcı yerler
+  - Çözüm: Bitki örtüsü toprağı tutar; zayıf olduğu eğimli ve kurak yerlerde erozyon artar.
+- **tyt-fel · Varlık Felsefesi** — Varlığın sürekli değiştiğini savunan filozof kimdir?
+  - **Herakleitos** · Parmenides · Platon · Demokritos · Thales
+  - Çözüm: Herakleitos “Her şey akar” diyerek değişimi varlığın özü saydı.
+- **tyt-fel · Varlık Felsefesi** — Varlığın madde ve ruh olmak üzere iki ayrı cevherden oluştuğunu savunan görüş hangisidir?
+  - **Düalizm** · Materyalizm · İdealizm · Nihilizm · Monizm
+  - Çözüm: Descartes’ın temsil ettiği düalizm madde ve ruhu iki ayrı cevher sayar.
+- **tyt-fel · Varlık Felsefesi** — “Hiçbir şey yoktur, olsa bile bilinemez” diyen görüş hangisidir?
+  - **Nihilizm** · İdealizm · Materyalizm · Rasyonalizm · Düalizm
+  - Çözüm: Gorgias’ın temsil ettiği nihilizm varlığı reddeder.
+- **tyt-fel · Sanat Felsefesi** — Sanatın oyun ihtiyacından doğduğunu savunan düşünür kimdir?
+  - **Schiller** · Platon · Kant · Croce · Aristoteles
+  - Çözüm: Schiller ve Spencer sanatı oyun dürtüsüyle açıklar.
+- **tyt-fel · Sanat Felsefesi** — “Estetik” terimini ilk kullanan düşünür kimdir?
+  - **Baumgarten** · Kant · Hegel · Platon · Croce
+  - Çözüm: Alexander Baumgarten 18. yüzyılda estetiği ayrı bir felsefe dalı olarak adlandırdı.
+- **tyt-fel · Sanat Felsefesi** — Sanatı bir sezgi bilgisi olarak gören düşünür kimdir?
+  - **Croce** · Platon · Schiller · Aristoteles · Baumgarten
+  - Çözüm: Benedetto Croce sanatı sezgisel bir kavrayış ve ifade olarak açıklar.
+- **tyt-din · Bilgi ve İnanç** — Aşağıdakilerden hangisi iman esaslarından biridir?
+  - **Meleklere iman** · Oruç tutmak · Zekât vermek · Hacca gitmek · Namaz kılmak
+  - Çözüm: İman esasları inanılacak şeylerdir: Allah, melekler, kitaplar, peygamberler, ahiret, kaza ve kader.
+- **tyt-din · Bilgi ve İnanç** — Allah’ın birliğine inanmaya ne ad verilir?
+  - **Tevhit** · Şirk · Nifak · Takva · İhlas
+  - Çözüm: Tevhit, Allah’ın bir ve tek olduğuna inanmaktır.
+- **tyt-din · Bilgi ve İnanç** — İslam’a göre dinî sorumluluğun şartlarından biri hangisidir?
+  - **Akıllı olmak** · Zengin olmak · Evli olmak · Belirli bir meslekte olmak · Belirli bir şehirde yaşamak
+  - Çözüm: Dinî sorumluluk akıl ve ergenlik şartına bağlıdır.
+- **tyt-din · Hz. Muhammed ve Gençlik** — Hz. Muhammed’in gençliğinde katıldığı, haksızlığa uğrayanları korumayı amaçlayan cemiyet hangisidir?
+  - **Hilfu’l-Fudul (Erdemliler Birliği)** · Ensar · Muhacir · Ashab-ı Suffa · Darü’l-Erkam
+  - Çözüm: Hilfu’l-Fudul, Mekke’de haksızlığa uğrayanları korumak için kurulan bir birliktir.
+- **tyt-din · Hz. Muhammed ve Gençlik** — Hz. Muhammed’e güvenilirliği nedeniyle gençliğinde verilen lakap hangisidir?
+  - **el-Emin** · Faruk · Zinnureyn · Sıddık · Seyfullah
+  - Çözüm: Doğruluğu ve güvenilirliği nedeniyle “el-Emin” (güvenilir) diye anıldı.
+- **tyt-din · Hz. Muhammed ve Gençlik** — Mekke’de ilk öğretmen olarak Medine’ye gönderilen genç sahabe kimdir?
+  - **Mus’ab bin Umeyr** · Hz. Ali · Üsame bin Zeyd · Hz. Ömer · Bilal-i Habeşi
+  - Çözüm: Mus’ab bin Umeyr, Hicretten önce İslam’ı öğretmek için Medine’ye gönderildi.
+- **tyt-din · Vahiy ve Akıl** — Kur’an kaç yılda indirilmiştir?
+  - **Yaklaşık 23 yılda** · 10 yılda · 40 yılda · 1 yılda · 5 yılda
+  - Çözüm: İlk vahiy 610’da geldi; vahiy Hz. Muhammed’in vefatına (632) kadar sürdü: yaklaşık 23 yıl.
+- **tyt-din · Vahiy ve Akıl** — Vahyi peygamberlere getiren melek hangisidir?
+  - **Cebrail** · Mikail · İsrafil · Azrail · Kiramen Katibin
+  - Çözüm: Cebrail vahiy meleğidir.
+- **tyt-din · Vahiy ve Akıl** — Hicretten sonra inen surelere ne ad verilir?
+  - **Medeni sureler** · Mekki sureler · Kısa sureler · İlk sureler · Hicri sureler
+  - Çözüm: Hicretten sonra inenler Medeni, önce inenler Mekki surelerdir.
+- **ayt-bio · Solunum Sistemi** — Soluk alırken diyafram ne yapar?
+  - **Kasılıp düzleşir, göğüs hacmi artar.** · Gevşeyip kubbeleşir. · Hiç hareket etmez. · Göğüs hacmini azaltır. · Akciğerleri sıkıştırır.
+  - Çözüm: Diyafram kasılınca düzleşir; göğüs boşluğu genişler, basınç düşer, hava içeri girer.
+- **ayt-bio · Solunum Sistemi** — Karbondioksit kanda en çok hangi biçimde taşınır?
+  - **Bikarbonat (HCO₃⁻)** · Hemoglobine bağlı · Plazmada çözünmüş CO₂ olarak · Karbonmonoksit olarak · Glikoza bağlı
+  - Çözüm: CO₂’nin büyük kısmı alyuvarlardaki karbonik anhidraz yardımıyla bikarbonata dönüşüp plazmada taşınır.
+- **ayt-bio · Solunum Sistemi** — Solunum hızını düzenleyen merkez nerededir?
+  - **Omurilik soğanı** · Beyincik · Hipofiz · Omurilik · Beyin kabuğu
+  - Çözüm: Omurilik soğanı kandaki CO₂ ve H⁺ artışını algılayıp solunumu hızlandırır.
+- **ayt-bio · Boşaltım Sistemi** — Suyun geri emilimini artıran hormon hangisidir?
+  - **ADH** · İnsülin · Tiroksin · Adrenalin · Glukagon
+  - Çözüm: ADH (antidiüretik hormon) böbrekte suyun geri emilimini artırır, idrar azalır.
+- **ayt-bio · Boşaltım Sistemi** — Böbrekte süzülmenin gerçekleştiği yapı hangisidir?
+  - **Glomerulus** · Henle kulpu · Toplama kanalı · Üreter · İdrar kesesi
+  - Çözüm: Kan, glomerulustan Bowman kapsülüne süzülür.
+- **ayt-bio · Boşaltım Sistemi** — Sağlıklı bir insanın idrarında aşağıdakilerden hangisi bulunmaz?
+  - **Glikoz** · Su · Üre · Tuz · Ürik asit
+  - Çözüm: Glikoz süzülse de tamamen geri emilir; idrarda glikoz şeker hastalığının belirtisidir.
+- **ayt-bio · Üreme Sistemi ve Embriyonik Gelişim** — Yumurtlamayı (ovulasyon) tetikleyen hormon hangisidir?
+  - **LH** · FSH · Progesteron · Prolaktin · Oksitosin
+  - Çözüm: LH’nin ani artışı ovulasyonu başlatır; FSH folikülü olgunlaştırır.
+- **ayt-bio · Üreme Sistemi ve Embriyonik Gelişim** — Sinir sistemi hangi embriyonik tabakadan gelişir?
+  - **Ektoderm** · Mezoderm · Endoderm · Plasenta · Amniyon
+  - Çözüm: Ektoderm deri ve sinir sistemini oluşturur.
+- **ayt-bio · Üreme Sistemi ve Embriyonik Gelişim** — Anne ile embriyo arasında madde alışverişini sağlayan yapı hangisidir?
+  - **Plasenta** · Amniyon · Koryon dışı zar · Yumurta kanalı · Vitellus
+  - Çözüm: Plasentada anne ve bebek kanı karışmadan besin, oksijen ve atık alışverişi olur.
+- **ayt-edb · Anlam Bilgisi** — Sözle resim çizilen anlatım biçimi hangisidir?
+  - **Betimleme** · Öyküleme · Tartışma · Açıklama · Karşılaştırma
+  - Çözüm: Betimleme bir varlığı ya da yeri okurun gözünde canlandırır.
+- **ayt-edb · Anlam Bilgisi** — Ünlü bir kişinin sözüne başvurarak düşünceyi güçlendirmeye ne ad verilir?
+  - **Tanık gösterme** · Örneklendirme · Tanımlama · Karşılaştırma · Benzetme
+  - Çözüm: Yazar düşüncesini otorite sayılan birinin sözüyle destekler: tanık gösterme.
+- **ayt-edb · Anlam Bilgisi** — Bir görüşü savunup karşıt görüşü çürütmeye çalışan anlatım biçimi hangisidir?
+  - **Tartışma** · Betimleme · Öyküleme · Açıklama · Tanımlama
+  - Çözüm: Tartışmacı anlatımda yazar bir tezi savunur, karşıt görüşleri eleştirir.
+- **ayt-tar · İki Savaş Arası Dönem ve II. Dünya Savaşı** — II. Dünya Savaşı hangi olayla başlamıştır?
+  - **Almanya’nın Polonya’ya saldırması** · Pearl Harbor baskını · Avusturya veliahdının öldürülmesi · Japonya’nın Mançurya’yı işgali · Rusya’nın Finlandiya’ya saldırması
+  - Çözüm: Almanya 1 Eylül 1939’da Polonya’ya saldırdı; İngiltere ve Fransa savaş ilan etti.
+- **ayt-tar · İki Savaş Arası Dönem ve II. Dünya Savaşı** — ABD’nin II. Dünya Savaşı’na girmesine yol açan olay hangisidir?
+  - **Pearl Harbor baskını** · Normandiya çıkarması · Stalingrad Savaşı · Polonya’nın işgali · Berlin’in düşmesi
+  - Çözüm: Japonya’nın 1941’de Pearl Harbor’a saldırısıyla ABD savaşa girdi.
+- **ayt-tar · İki Savaş Arası Dönem ve II. Dünya Savaşı** — 1929’da ABD’de başlayan ve bütün dünyayı etkileyen olay hangisidir?
+  - **Dünya Ekonomik Bunalımı** · Soğuk Savaş · Marshall Planı · Ekim Devrimi · Kore Savaşı
+  - Çözüm: 1929 borsa çöküşü dünya ekonomik bunalımına yol açtı; Türkiye’de devletçiliği hızlandırdı.
+- **ayt-cog · Ekonomik Faaliyetler ve Doğal Kaynaklar** — Türkiye’de taş kömürünün çıkarıldığı başlıca yer hangisidir?
+  - **Zonguldak** · Afşin–Elbistan · Soma · Divriği · Murgul
+  - Çözüm: Taş kömürü Zonguldak havzasında çıkarılır; Afşin–Elbistan ve Soma linyit havzalarıdır.
+- **ayt-cog · Ekonomik Faaliyetler ve Doğal Kaynaklar** — Türkiye’de demir madeninin çıkarıldığı başlıca yer hangisidir?
+  - **Divriği** · Zonguldak · Guleman · Murgul · Kırka
+  - Çözüm: Sivas’ın Divriği ilçesi Türkiye’nin önemli demir yataklarındandır.
+- **ayt-cog · Ekonomik Faaliyetler ve Doğal Kaynaklar** — Jeotermal enerji santralleri Türkiye’de en çok hangi bölgededir?
+  - **Ege** · Karadeniz · İç Anadolu · Doğu Anadolu · Güneydoğu Anadolu
+  - Çözüm: Ege’deki fay hatları (Denizli, Aydın) jeotermal kaynakları zenginleştirir.
+- **ydt-ing · Modals** — You ---- smoke here; it is strictly forbidden.
+  - **mustn’t** · don’t have to · needn’t · could · might
+  - Çözüm: “Strictly forbidden” yasak bildirir: mustn’t.
+- **ydt-ing · Modals** — He looks very tired. He ---- all night.
+  - **must have worked** · should work · can work · must work · would work
+  - Çözüm: Şimdiki gözleme dayanan, geçmişe ait güçlü çıkarım: must have + V3.
+- **ydt-ing · Modals** — You ---- bring food; there will be plenty at the party.
+  - **don’t have to** · mustn’t · must · had to · should have
+  - Çözüm: Partide yemek bol olacak: getirmek gerekli değil, “don’t have to”.
+- **ydt-ing · Noun Clauses** — I don’t know ---- he will come tomorrow.
+  - **whether** · what · which · who · whose
+  - Çözüm: Evet–hayır sorusunu dolaylı aktarırken whether (if) kullanılır.
+- **ydt-ing · Noun Clauses** — Can you tell me where ----?
+  - **the station is** · is the station · the station · does the station · is station
+  - Çözüm: Dolaylı soruda düz cümle sırası kullanılır: özne + fiil.
+- **ydt-ing · Noun Clauses** — She said that she ---- tired.
+  - **was** · is · be · being · has
+  - Çözüm: Dolaylı anlatımda zaman bir geri kayar: is → was.
+- **ydt-ing · Cloze Test** — Last summer we ---- to Italy and ---- many museums.
+  - **went / visited** · go / visit · have gone / visit · will go / visited · goes / visits
+  - Çözüm: “Last summer” geçmiş zaman ister: went, visited.
+- **ydt-ing · Cloze Test** — The project was difficult; ----, the team finished it on time.
+  - **however** · because · so that · unless · in order to
+  - Çözüm: Zorluğa rağmen bitirildi: zıtlık, “however”.
+- **ydt-ing · Cloze Test** — She is interested ---- learning new languages.
+  - **in** · on · at · for · with
+  - Çözüm: “Interested in” kalıbı.
+- **ydt-ing · Okuma Parçası** — Okuma parçasında “main idea” sorusunun cevabı genellikle nerededir?
+  - **İlk ya da son paragrafta** · Yalnız ortadaki bir cümlede · Dipnotta · Başlıkta hiçbir zaman · Rastgele bir kelimede
+  - Çözüm: Ana fikir çoğu zaman giriş ya da sonuç paragrafındadır.
+- **ydt-ing · Okuma Parçası** — Parçada geçen “however” sözcüğü neyi gösterir?
+  - **Yazarın düşüncesinde bir zıtlığı** · Bir örneği · Bir sonucu · Bir eklemeyi · Bir zamanı
+  - Çözüm: “However” zıtlık bağlacıdır; ardından gelen cümle genellikle asıl görüşü verir.
+- **ydt-ing · Okuma Parçası** — Okuma sorularında en etkili yöntem hangisidir?
+  - **Önce soruları okuyup sonra metinde anahtar sözcükleri aramak** · Metni ezberlemek · Yalnız şıkları okumak · Metni hiç okumadan tahmin etmek · Yalnız başlığı okumak
+  - Çözüm: Ne aranacağını bilerek okumak zaman kazandırır.
+- **ydt-ing · Paragraf Tamamlama ve Anlam Bütünlüğü** — Bir paragrafa yeni bir destekleyici bilgi eklenirken en uygun bağlaç hangisidir?
+  - **Moreover** · However · Although · Unless · Instead
+  - Çözüm: “Moreover” aynı yönde ekleme yapar.
+- **ydt-ing · Paragraf Tamamlama ve Anlam Bütünlüğü** — Anlam bütünlüğünü bozan cümle nasıl bulunur?
+  - **Paragrafın konusundan sapan cümle aranır.** · En uzun cümle seçilir. · İlk cümle her zaman seçilir. · Bağlaç içeren cümle seçilir. · En kısa cümle seçilir.
+  - Çözüm: Konuyla ilgili görünse de paragrafın odağından sapan cümle akışı bozar.
+- **ydt-ing · Paragraf Tamamlama ve Anlam Bütünlüğü** — Paragrafta “As a result, …” ile başlayan cümle ne bildirir?
+  - **Önceki bilginin sonucunu** · Bir zıtlığı · Bir örneği · Bir koşulu · Bir amacı
+  - Çözüm: “As a result” sonuç bağlacıdır.
 
 ## Üretilen sorulardan örnekler
 
@@ -2105,6 +3032,60 @@ Her üreticiden bir örnek; sayılar her testte değişir, cevap kodla hesaplan�
   - A) 50 · B) 25 · C) 100 · D) 51 · **E) 49**
   - Çözüm: n amino asit arasında n − 1 peptit bağı kurulur: 49.
   - İpucu: İki amino asit arasında bir peptit bağı kurulur. 3 amino asitlik zincirde kaç bağ olur? Genelle.
+- **tyt-mat:grafik-ve-tablo-problemleri** — 120 kişilik bir grubun daire grafiğinde “kitap okumak” dilimi 90°’dir. Kaç kişi kitap okumayı seçmiştir?
+  - **A) 30** · B) 90 · C) 31 · D) 60 · E) 15
+  - Çözüm: Dilim bütünün {90/360}’ı: 120 · {90/360} = 30.
+- **tyt-mat:grafik-ve-tablo-problemleri** — Bir tablodaki değer bir yıldan ötekine 150 değerinden 165 değerine çıkmıştır. Artış yüzde kaçtır?
+  - A) 15 · B) 20 · **C) 10** · D) 90 · E) 7,5
+  - Çözüm: Artış 15; {15/150} · 100 = %10.
+- **ayt-fiz:manyetizma-ve-elektromanyetik-indukleme** — Büyüklüğü 0,5 T olan düzgün manyetik alanda 1 m uzunluğundaki iletken çubuk, alana dik olarak 5 m/s hızla hareket ediyor. Çubukta oluşan indüksiyon emk’sı kaç V’tur?
+  - A) 1,5 · **B) 2,5** · C) 0,5 · D) 3,5 · E) 5
+  - Çözüm: ε = B · L · v = 0,5 · 1 · 5 = 2,5 V.
+  - İpucu: Alanda hareket eden çubukta emk = B · L · v. Verilen üç büyüklüğü çarp.
+- **ayt-fiz:manyetizma-ve-elektromanyetik-indukleme** — 0,5 T’lık düzgün manyetik alana dik konmuş 0,1 m² alanlı bir halkadan geçen manyetik akı kaç weber’dir?
+  - A) 5 · B) 0,2 · **C) 0,05** · D) 0,1 · E) 0,6
+  - Çözüm: Φ = B · A · cos 0° = 0,5 · 0,1 = 0,05 Wb.
+  - İpucu: Manyetik akı = alan şiddeti · yüzey alanı · cos α. Alan yüzeye dikken açı 0° alınır.
+- **ayt-fiz:manyetizma-ve-elektromanyetik-indukleme** — 50 sarımlı bir bobinden geçen manyetik akı 0,1 saniyede 0,4 Wb değişiyor. Bobinde oluşan ortalama emk’nın büyüklüğü kaç V’tur?
+  - A) 4 · B) 20 · C) 12,5 · D) 100 · **E) 200**
+  - Çözüm: |ε| = N · {ΔΦ/Δt} = 50 · {0,4/0,1} = 200 V.
+  - İpucu: Faraday yasası: emk = sarım sayısı · (akı değişimi ÷ süre).
+- **ayt-fiz:basit-harmonik-hareket** — Yay sabiti 8 N/m olan bir yayın ucuna 2 kg’lık cisim asılıp salındırılıyor. Periyot kaç saniyedir? (π = 3)
+  - **A) 3** · B) 4 · C) 1,5 · D) 2 · E) 6
+  - Çözüm: T = 2π√{{m/k}} = 2 · 3 · √{{2/8}} = 6 · 0,5 = 3 s.
+  - İpucu: Yay sarkacında T = 2π√(m/k). Önce m/k oranının karekökünü bul.
+- **ayt-fiz:basit-harmonik-hareket** — Uzunluğu 10 m olan basit sarkacın periyodu kaç saniyedir? (g = 10 m/s², π = 3)
+  - A) 3 · B) 7 · C) 1 · D) 12 · **E) 6**
+  - Çözüm: T = 2π√{{L/g}} = 6 · √{{10/10}} = 6 · 1 = 6 s.
+  - İpucu: Basit sarkaçta T = 2π√(L/g); kütle periyodu etkilemez.
+- **ayt-fiz:modern-fizik-ve-uygulamalari** — Bağlanma enerjisi 3 eV olan bir metal yüzeye 7 eV enerjili fotonlar düşürülüyor. Kopan elektronların en büyük kinetik enerjisi kaç eV’tur?
+  - **A) 4** · B) 10 · C) 2 · D) 3 · E) 7
+  - Çözüm: E_{k,maks} = E_{foton} − W₀ = 7 − 3 = 4 eV.
+  - İpucu: Fotonun enerjisinin bir kısmı elektronu koparmaya (bağlanma enerjisi) harcanır; kalanı kinetik enerjidir.
+- **ayt-fiz:modern-fizik-ve-uygulamalari** — Fotoelektrik olayda kullanılan ışığın şiddeti (frekans sabit, eşik üstünde) 2 katına çıkarılırsa birim zamanda kopan elektron sayısı kaç katına çıkar?
+  - A) 1 · B) 5 · C) 3 · D) 4 · **E) 2**
+  - Çözüm: Şiddet foton sayısıyla orantılıdır; kopan elektron sayısı da 2 katına çıkar. Elektronların enerjisi değişmez.
+  - İpucu: Işık şiddeti fotonların sayısını mı, her birinin enerjisini mi değiştirir?
+- **ayt-kim:tepkime-hizlari** — Hız ifadesi r = k[X]^{2}[Y] olan bir tepkimede [X] 3 katına, [Y] 2 katına çıkarılırsa hız kaç katına çıkar?
+  - A) 54 · B) 6 · **C) 18** · D) 5 · E) 27
+  - Çözüm: Hız 3^{2} · 2^{1} = 18 katına çıkar.
+  - İpucu: Her derişimin artış katsayısını hız ifadesindeki üssü kadar kuvvete yükselt, sonra çarp.
+- **ayt-kim:cozunurluk-dengesi** — AB tuzunun sudaki çözünürlüğü 1 · 10^{−5} mol/L’dir. Bu tuzun çözünürlük çarpımı (K_{çç}) kaçtır?
+  - **A) 1 · 10^{−10}** · B) 4 · 10^{−15} · C) 1 · 10^{−5} · D) 1 · 10^{−6} · E) 2 · 10^{−5}
+  - Çözüm: AB → A⁺ + B⁻; [A⁺] = [B⁻] = s. K_{çç} = s² = (10^{−5})² = 1 · 10^{−10}.
+  - İpucu: AB tipi tuzda iki iyonun derişimi de çözünürlüğe eşittir; ikisini çarp.
+- **ayt-kim:cozunurluk-dengesi** — AB₂ tipindeki bir tuzun çözünürlüğü 1 · 10^{−2} mol/L’dir. K_{çç} kaçtır?
+  - A) 1 · 10^{−4} · B) 4 · 10^{−4} · C) 1 · 10^{−6} · D) 2 · 10^{−4} · **E) 4 · 10^{−6}**
+  - Çözüm: AB₂ → A²⁺ + 2B⁻: [A²⁺] = s, [B⁻] = 2s. K_{çç} = s · (2s)² = 4s³ = 4 · 10^{−6}.
+  - İpucu: B⁻ iyonunun derişimi 2s olur; ifadede onun karesi alınır.
+- **ayt-kim:modern-atom-teorisi** — Atom numarası 15 olan P atomunun değerlik (son katmandaki) elektron sayısı kaçtır?
+  - **A) 5** · B) 6 · C) 15 · D) 3 · E) 10
+  - Çözüm: Dizilim: s² 2s² 2p⁶ 3s² 3p³. Son katmanda 5 elektron var; 5A grubu.
+  - İpucu: Elektronları katmanlara yerleştir ve yalnız en dıştaki katmandakileri say.
+- **ayt-kim:karbon-kimyasina-giris** — C₂H₄ molekülünde kaç σ (sigma) ve kaç π (pi) bağı vardır?
+  - **A) 5 σ, 1 π** · B) 4 σ, 2 π · C) 6 σ, 0 π · D) 6 σ, 1 π · E) 5 σ, 2 π
+  - Çözüm: C₂H₄: dört C−H ve bir C=C (1 σ + 1 π). Toplam 5 σ, 1 π.
+  - İpucu: Her bağın ilki σ’dır; ikili bağda bir, üçlü bağda iki π vardır. Bağları tek tek say.
 - **ayt-fiz:is-enerji-ve-guc** — 5 kg kütleli bir cisim yerden 10 m yüksekliğe çıkarılıyor. Cismin kazandığı potansiyel enerji kaç J’dür? (g = 10 m/s²)
   - **A) 500** · B) 50 · C) 5000 · D) 60 · E) 250
   - Çözüm: E_{p} = m · g · h = 5 · 10 · 10 = 500 J.
