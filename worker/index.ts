@@ -56,9 +56,14 @@ async function currentUser(env: Env, req: Request): Promise<{ id: number; userna
   return env.DB.prepare('SELECT u.id, u.username FROM sessions s JOIN users u ON u.id = s.user_id WHERE s.token_hash = ? AND s.expires_at > ?').bind(await sha256(token), Date.now()).first();
 }
 
-/** Basit sınırlama: anahtar başına pencerede en çok n deneme */
+/** Basit sınırlama: anahtar başına pencerede en çok n deneme. IP adresi düz metin saklanmaz (özeti tutulur);
+    24 saatten eski kayıtlar silinir (gizlilik sayfasında böyle yazıyor). */
 async function limited(env: Env, key: string, n: number, windowMs: number) {
   const now = Date.now();
+  if (Math.random() < 0.05) await env.DB.batch([
+    env.DB.prepare('DELETE FROM rate_limits WHERE window_start < ?').bind(now - 864e5),
+    env.DB.prepare('DELETE FROM sessions WHERE expires_at < ?').bind(now)
+  ]);
   const row = await env.DB.prepare('SELECT count, window_start FROM rate_limits WHERE key = ?').bind(key).first<{ count: number; window_start: number }>();
   if (!row || now - row.window_start > windowMs) { await env.DB.prepare('INSERT OR REPLACE INTO rate_limits (key, count, window_start) VALUES (?, 1, ?)').bind(key, now).run(); return false; }
   if (row.count >= n) return true;
@@ -78,7 +83,7 @@ const checkCreds = (u: unknown, p: unknown) =>
     : typeof p !== 'string' || p.length < 8 || p.length > 128 ? 'Şifre en az 8 karakter olmalı.' : null;
 
 async function api(req: Request, env: Env, path: string): Promise<Response> {
-  const ip = req.headers.get('cf-connecting-ip') ?? 'yerel';
+  const ip = (await sha256(`netlik:${req.headers.get('cf-connecting-ip') ?? 'yerel'}`)).slice(0, 32);
   const write = req.method !== 'GET';
   /* Başka sitelerden gelen istekleri ele: tarayıcı bu başlığı yalnız aynı kökenden gönderebilir */
   if (write && req.headers.get('x-netlik') !== '1') return fail(403, 'Geçersiz istek.');

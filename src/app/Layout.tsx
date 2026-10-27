@@ -97,7 +97,7 @@ export function Layout() {
       {!app && (
         <footer className="border-t border-line">
           <div className="mx-auto flex max-w-6xl flex-wrap justify-between gap-3 px-4 py-6 text-sm text-muted sm:px-6">
-            <p>Netlik · ücretsiz, reklamsız. Hesap isteğe bağlı: açarsan verilerin her cihazda aynı olur.</p>
+            <p>Netlik · ücretsiz, reklamsız. Hesap isteğe bağlı: açarsan verilerin her cihazda aynı olur. <Link to="/gizlilik" className="underline decoration-line-2 underline-offset-4 hover:text-ink">Gizlilik</Link></p>
             <p>Yapan: <a className="underline decoration-line-2 underline-offset-4 hover:text-ink" href="https://egementuncer.dev">Egemen Tuncer</a></p>
           </div>
         </footer>

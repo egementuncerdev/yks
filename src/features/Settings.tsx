@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react';
-import { useNavigate } from 'react-router';
+import { Link, useNavigate } from 'react-router';
 import { usePlan, useProfile } from '@/app/data';
 import { Button, ButtonLink } from '@/components/ui';
 import { SCORE_TYPES, EXAM_DATE_IS_OFFICIAL } from '@/content/exam';
@@ -90,6 +90,7 @@ export default function Settings() {
       <section className="mt-10 text-sm text-ink-2">
         <h2 className="mb-2 font-medium text-ink">Hakkında</h2>
         <p>Soru sayıları 2026 YKS kılavuzundaki test dağılımına göre. {EXAM_DATE_IS_OFFICIAL ? '' : 'ÖSYM 2027 takvimini açıklayınca varsayılan tarih güncellenecek.'} Program {plan ? fmtDay(plan.createdAt.slice(0, 10)) : ''} tarihinde oluşturuldu.</p>
+        <p className="mt-2"><Link to="/gizlilik" className="text-primary-ink underline decoration-line-2 underline-offset-4">Gizlilik</Link>: hangi bilgilerin nerede tutulduğu.</p>
         <ul className="mt-3 space-y-1">
           {RESOURCES.map((r) => <li key={r.url}><a className="text-primary-ink underline decoration-line-2 underline-offset-4" href={r.url} target="_blank" rel="noopener">{r.name}<span className="sr-only"> (yeni sekmede açılır)</span></a></li>)}
         </ul>

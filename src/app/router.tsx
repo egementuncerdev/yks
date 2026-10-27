@@ -26,6 +26,7 @@ export const router = createBrowserRouter([
       { path: '/testler/:source', element: page(() => import('@/features/tests/TestRoute')) },
       { path: '/denemeler', element: page(() => import('@/features/denemeler/Denemeler')) },
       { path: '/denemeler/mini/:kind', element: page(() => import('@/features/denemeler/MiniRoute')) },
+      { path: '/gizlilik', element: page(() => import('@/features/Privacy')) },
       { path: '/hesap', element: page(() => import('@/features/account/Account')) },
       { path: '/ayarlar', element: page(() => import('@/features/Settings')) },
       { path: '*', element: <NotFound /> }

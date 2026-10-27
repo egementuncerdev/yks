@@ -75,6 +75,7 @@ function Auth({ onCode }: { onCode: (c: string) => void }) {
         )}
         <Err text={err} />
         <Button type="submit" size="lg" className="w-full" disabled={busy}>{busy ? 'Bekle…' : mode === 'register' ? 'Hesap oluştur' : mode === 'reset' ? 'Şifreyi sıfırla' : 'Giriş yap'}</Button>
+        {mode === 'register' && <p className="text-[13px] text-muted">Hesap oluşturmadan önce neler saklandığını <Link to="/gizlilik" className="underline decoration-line-2 underline-offset-4">Gizlilik</Link> sayfasında okuyabilirsin.</p>}
       </form>
       <p className="mt-4 text-center text-sm text-muted">
         {mode === 'reset' ? <button type="button" className="underline decoration-line-2 underline-offset-4" onClick={() => setMode('login')}>Girişe dön</button>
@@ -197,7 +198,7 @@ function Privacy() {
         <li>· E-posta, telefon, ad soyad istenmez. Veriler reklam ya da başka bir amaçla kullanılmaz, kimseyle paylaşılmaz.</li>
         <li>· Hesabını istediğin an <span className="font-medium">Hesabı sil</span> ile kalıcı olarak silebilirsin.</li>
       </ul>
-      <p className="mt-3">Hesap açmak zorunlu değil; açmazsan veriler yalnız bu tarayıcıda kalır. <Link to="/ayarlar" className="underline decoration-line-2 underline-offset-4">Ayarlar</Link>’dan yedek de alabilirsin.</p>
+      <p className="mt-3">Hesap açmak zorunlu değil; açmazsan veriler yalnız bu tarayıcıda kalır. <Link to="/ayarlar" className="underline decoration-line-2 underline-offset-4">Ayarlar</Link>’dan yedek de alabilirsin. Ayrıntılar: <Link to="/gizlilik" className="underline decoration-line-2 underline-offset-4">Gizlilik</Link>.</p>
     </details>
   );
 }
