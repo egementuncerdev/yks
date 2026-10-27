@@ -30,17 +30,17 @@ const POINTS = [
   'Bir günü kaçırırsan program bugünden itibaren yeniden düzenlenir; bitirdiklerin korunur.',
   `${TOPIC_COUNT} konunun kısa anlatımı: özet, bilmen gerekenler, sık yapılan hatalar ve çözümlü örnek.`,
   'Konu testleri: her sorunun çözümü var; matematik dışındaki sorularda cevabı söylemeyen bir ipucu da var.',
-  'Hesap yok, reklam yok. Veriler yalnız senin tarayıcında durur.'
+  'Reklam yok. Hesap isteğe bağlı: açarsan programın her cihazda aynı olur (e-posta gerekmez); açmazsan veriler yalnız bu tarayıcıda kalır.'
 ];
 
 const FAQ = [
-  { q: 'Ücretli mi?', a: 'Hayır. Netlik ücretsiz; reklam ya da üyelik yok.' },
+  { q: 'Ücretli mi?', a: 'Hayır. Netlik ücretsiz ve reklamsız. Hesap açmak da ücretsiz ve isteğe bağlı.' },
   { q: 'Sınav tarihi doğru mu?', a: EXAM_DATE_IS_OFFICIAL ? 'Evet, ÖSYM’nin açıkladığı tarih kullanılıyor.' : `ÖSYM 2027 takvimini henüz açıklamadı. Program şimdilik tahmini ${fmtDay(DEFAULT_EXAM_DATE, { day: 'numeric', month: 'long', year: 'numeric' })} tarihine göre hazırlanır; tarihi kurulumda ya da ayarlarda değiştirebilirsin. Takvim açıklanınca güncellenecek.` },
   { q: 'Konu listesi neye göre?', a: 'Yaygın TYT, AYT ve YDT konu sınıflandırmasına göre. Soru sayıları ÖSYM kılavuzundaki test dağılımından alınır. ÖSYM konu bazlı dağılım açıklamadığı için “sık sorulan” işaretleri yayınevlerinin çıkmış soru analizlerine dayanır; kesin bilgi değildir.' },
   { q: 'Programı değiştirebilir miyim?', a: 'Evet. Cevaplarını istediğin zaman değiştirebilirsin. Bildiğin konuları “Konular” sayfasında işaretlersen program onları atlar.' },
   { q: 'Konu anlatımları ders kitabının yerini tutar mı?', a: 'Hayır. Anlatımlar konuyu hatırlatmak, sınavda neye dikkat edileceğini göstermek ve çözümlü bir örnekle başlamak için kısa tutuldu. Konuyu ilk kez öğreniyorsan ders kitabın ya da MEB kaynaklarıyla birlikte kullan.' },
   { q: 'Program kurmadan kullanabilir miyim?', a: 'Evet. Konu anlatımlarını ve testleri program kurmadan açabilirsin. Program kurarsan testler senin derslerine göre sıralanır ve bitirdiğin konular işaretlenir.' },
-  { q: 'Telefonda çalışır mı?', a: 'Evet. Veriler cihaza özel olduğu için başka cihaza geçerken ayarlardan yedeği aktarabilirsin.' }
+  { q: 'Telefonda ve bilgisayarda aynı programı görebilir miyim?', a: 'Evet. Ücretsiz bir hesap aç (yalnız kullanıcı adı ve şifre); giriş yaptığın her cihazda programın, konuların ve sonuçların eşitlenir. Hesap açmazsan veriler yalnız kullandığın tarayıcıda kalır.' }
 ];
 
 export default function Landing() {

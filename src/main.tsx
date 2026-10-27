@@ -3,9 +3,12 @@ import { createRoot } from 'react-dom/client';
 import { RouterProvider } from 'react-router';
 import { router } from '@/app/router';
 import './index.css';
+import { startSync } from '@/lib/sync';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <RouterProvider router={router} />
   </StrictMode>
 );
+
+void startSync();

@@ -6,6 +6,7 @@ import { SCORE_TYPES, EXAM_DATE_IS_OFFICIAL } from '@/content/exam';
 import { RESOURCES } from '@/content/subjects';
 import { fmtDay } from '@/lib/dates';
 import { BackupError, exportData, importData, replan, resetAll } from '@/lib/storage';
+import { useSync } from '@/lib/sync';
 
 type Theme = 'system' | 'light' | 'dark';
 const readTheme = (): Theme => { try { return (localStorage.getItem('theme') as Theme) || 'system'; } catch { return 'system'; } };
@@ -25,6 +26,7 @@ function Row({ title, text, children }: { title: string; text?: string; children
 }
 
 export default function Settings() {
+  const sync = useSync();
   const profile = useProfile();
   const plan = usePlan();
   const navigate = useNavigate();
@@ -71,13 +73,16 @@ export default function Settings() {
 
       <section aria-labelledby="s2" className="mt-8 divide-y divide-line border-y border-line">
         <h2 id="s2" className="pt-4 text-sm font-medium text-muted">Verilerin</h2>
-        <Row title="Yedek" text="Veriler yalnız bu tarayıcıda. Başka cihaza geçerken yedeği indirip orada yükle.">
+        <Row title="Hesap" text={sync.user ? `${sync.user} olarak giriş yaptın; verilerin her cihazda eşitleniyor.` : 'Hesap açarsan programın ve ilerlemen her cihazda aynı olur. E-posta gerekmez.'}>
+          <ButtonLink to="/hesap" variant="secondary" size="sm">{sync.user ? 'Hesabı yönet' : 'Giriş yap / hesap aç'}</ButtonLink>
+        </Row>
+        <Row title="Yedek" text={sync.user ? 'Verilerin hesabında da duruyor. İstersen ayrıca dosya olarak da indirebilirsin.' : 'Hesap açmadıysan veriler yalnız bu tarayıcıda. Başka cihaza geçerken yedeği indirip orada yükle.'}>
           <Button variant="secondary" size="sm" onClick={() => void download()}>İndir</Button>
           <Button variant="secondary" size="sm" onClick={() => file.current?.click()}>Yükle</Button>
           <input ref={file} type="file" accept="application/json,.json" className="hidden" onChange={(e) => { const f = e.target.files?.[0]; if (f) void upload(f); e.target.value = ''; }} />
         </Row>
-        <Row title="Her şeyi sil" text="Cevapların, programın ve konu ilerlemen silinir.">
-          <Button variant="secondary" size="sm" className="text-bad" onClick={async () => { if (confirm('Bütün veriler silinsin mi? Bu geri alınamaz.')) { await resetAll(); navigate('/'); } }}>Sil</Button>
+        <Row title="Her şeyi sil" text={sync.user ? 'Cevapların, programın ve ilerlemen hem bu cihazdan hem hesabından silinir; hesabın açık kalır.' : 'Cevapların, programın ve konu ilerlemen silinir.'}>
+          <Button variant="secondary" size="sm" className="text-bad" onClick={async () => { if (confirm(sync.user ? 'Bütün veriler bu cihazdan ve hesabından silinsin mi? Bu geri alınamaz.' : 'Bütün veriler silinsin mi? Bu geri alınamaz.')) { await resetAll(); navigate('/'); } }}>Sil</Button>
         </Row>
       </section>
       {msg && <p className="mt-4 text-sm text-ink-2" role="status">{msg}</p>}

@@ -1,12 +1,20 @@
-// Cloudflare Workers (static assets) — deploy: npm run deploy
-// SPA: bilinmeyen yollar index.html'e düşer (React Router halleder).
+// Cloudflare Workers: statik site (dist) + /api için Worker (worker/index.ts) — deploy: npm run deploy
+// SPA: bilinmeyen yollar index.html'e düşer (React Router halleder). /api/* önce Worker'a gider.
+// Veritabanı şeması: migrations/ — uygulamak için: npx wrangler d1 migrations apply netlik --remote
 {
   "name": "yks",
+  "main": "worker/index.ts",
   "compatibility_date": "2026-10-01",
   "assets": {
     "directory": "./dist",
-    "not_found_handling": "single-page-application"
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
   },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "netlik", "database_id": "4abff940-fa1e-480f-afe6-27e1c591d3e4", "migrations_dir": "migrations" }
+  ],
+  "observability": { "enabled": true },
   "routes": [{ "pattern": "yks.egementuncer.dev", "custom_domain": true }],
   "workers_dev": false,
   "preview_urls": false

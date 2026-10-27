@@ -1,6 +1,8 @@
 import { useEffect } from 'react';
 import { Link, NavLink, Outlet, useLocation } from 'react-router';
-import { BookOpen, CalendarDays, CalendarRange, CircleHelp, ListChecks, Settings } from 'lucide-react';
+import { BookOpen, CalendarDays, CalendarRange, CircleHelp, CircleUserRound, CloudOff, ListChecks, Settings } from 'lucide-react';
+import { useSync } from '@/lib/sync';
+import { Conflict } from '@/features/account/Account';
 import { useProfile, useToday, daysLeft } from './data';
 
 const NAV = [
@@ -27,6 +29,7 @@ export function Layout() {
   const { pathname } = useLocation();
   useEffect(() => { window.scrollTo(0, 0); }, [pathname]);
   const app = !!profile && pathname !== '/kurulum';
+  const sync = useSync();
 
   return (
     <div className="min-h-dvh">
@@ -52,13 +55,30 @@ export function Layout() {
               ))}
             </nav>
           )}
+          <div className="flex items-center gap-2">
+          {sync.user !== undefined && pathname !== '/kurulum' && (
+            <Link to="/hesap" className={`flex items-center gap-1.5 rounded-full px-2.5 py-1.5 text-[13.5px] hover:bg-sunken ${pathname === '/hesap' ? 'bg-sunken text-ink' : 'text-ink-2'}`} aria-label={sync.user ? `Hesap: ${sync.user}${sync.status === 'offline' ? ', çevrimdışı' : ''}` : 'Giriş yap ya da hesap oluştur'}>
+              {sync.user && (sync.status === 'offline' || sync.status === 'error') ? <CloudOff className="size-4 text-warn" aria-hidden="true" /> : <CircleUserRound className={`size-4 ${sync.user ? 'text-primary' : ''}`} aria-hidden="true" />}
+              <span className="hidden sm:inline">{sync.user ?? 'Giriş'}</span>
+            </Link>
+          )}
           {profile && (
             <p className="num rounded-full border border-line-2 px-3 py-1 text-[13px]" title={profile.examDateCustom ? 'Sınav tarihi' : 'Tahmini sınav tarihi'}>
               <span className="font-semibold">{daysLeft(profile.examDate, today)}</span> gün{!profile.examDateCustom && <span className="text-muted"> · tahmini</span>}
             </p>
           )}
+          </div>
         </div>
       </header>
+
+      {sync.status === 'conflict' && pathname !== '/hesap' && (
+        <div className="border-b border-warn/40 bg-warn-soft" role="alert">
+          <div className="mx-auto max-w-2xl px-4 py-3 text-[14.5px]">
+            <p className="font-medium">Bu cihazdaki ve hesabındaki veriler farklı.</p>
+            <Conflict />
+          </div>
+        </div>
+      )}
 
       <main id="main" tabIndex={-1} className={`mx-auto max-w-6xl px-4 pt-6 focus:outline-none sm:px-6 sm:pt-10 ${app ? 'pb-28 md:pb-16' : 'pb-16'}`}>
         <Outlet />
@@ -77,7 +97,7 @@ export function Layout() {
       {!app && (
         <footer className="border-t border-line">
           <div className="mx-auto flex max-w-6xl flex-wrap justify-between gap-3 px-4 py-6 text-sm text-muted sm:px-6">
-            <p>Netlik · ücretsiz, hesap gerektirmez. Verilerin yalnız bu tarayıcıda durur.</p>
+            <p>Netlik · ücretsiz, reklamsız. Hesap isteğe bağlı: açarsan verilerin her cihazda aynı olur.</p>
             <p>Yapan: <a className="underline decoration-line-2 underline-offset-4 hover:text-ink" href="https://egementuncer.dev">Egemen Tuncer</a></p>
           </div>
         </footer>

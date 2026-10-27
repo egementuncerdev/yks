@@ -12,6 +12,8 @@ import { subjectsFor } from '@/lib/planner';
 import { hasQuestions } from '@/content/questions';
 import { testPath } from './tests/Tests';
 import { lessonPath } from '@/content/lessons';
+import { useSync } from '@/lib/sync';
+import { X } from 'lucide-react';
 
 export default function Today() {
   const profile = useProfile();
@@ -19,6 +21,8 @@ export default function Today() {
   const states = useTopicStates();
   const today = useToday();
   const [busy, setBusy] = useState(false);
+  const sync = useSync();
+  const [hideNudge, setHideNudge] = useState(() => { try { return localStorage.getItem('netlik.hesapOneri') === 'gizle'; } catch { return false; } });
   if (!profile || plan === undefined) return null;
   if (!plan || !plan.days.length) {
     return <Empty title="Program bulunamadı" text="Sınav tarihi geçmiş olabilir ya da program henüz oluşturulmadı." action={<ButtonLink to="/kurulum">Cevaplarımı güncelle</ButtonLink>} />;
@@ -94,6 +98,18 @@ export default function Today() {
             {rest.map((t) => <TaskRow key={t.id} date={today} task={t} state={t.topicId ? states.get(t.topicId) : undefined} />)}
           </ul>
         </section>
+      )}
+
+      {sync.user === null && !hideNudge && (
+        <aside aria-label="Hesap önerisi" className="mt-8 flex items-start gap-3 rounded-2xl border border-line px-5 py-4">
+          <div className="min-w-0 flex-1">
+            <p className="font-medium">Programın yalnız bu tarayıcıda</p>
+            <p className="mt-1 text-[14.5px] text-ink-2">Ücretsiz hesap açarsan telefonda ve bilgisayarda aynı programı görürsün; tarayıcı verileri silinse de kaybolmaz. E-posta gerekmez.</p>
+            <Link to="/hesap" className="mt-3 inline-block text-[14.5px] font-medium text-primary-ink underline decoration-line-2 underline-offset-4">Hesap aç</Link>
+          </div>
+          <button type="button" className="grid size-8 shrink-0 place-items-center rounded-lg text-muted hover:bg-sunken hover:text-ink" aria-label="Öneriyi gizle"
+            onClick={() => { setHideNudge(true); try { localStorage.setItem('netlik.hesapOneri', 'gizle'); } catch { /* özel pencere */ } }}><X className="size-4" /></button>
+        </aside>
       )}
 
       <footer className="mt-10 flex flex-wrap items-center justify-between gap-3 border-t border-line pt-5 text-sm text-muted">

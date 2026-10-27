@@ -25,6 +25,14 @@ npm run deploy     # build + wrangler deploy (Cloudflare Workers static assets)
 | `src/lib/storage.ts` | IndexedDB (Dexie): profil, konu durumları, program, test sonuçları, yanlışlar, yedek |
 | `src/features/` | Ekranlar: tanıtım, kurulum, bugün, hafta, konular, anlatımlar, testler, denemeler, ayarlar |
 
+## Hesap ve eşitleme
+
+- Sunucu: `worker/index.ts` (Cloudflare Worker, yalnız `/api/*`), veritabanı D1 `netlik` (şema `migrations/`).
+- Hesap: kullanıcı adı + şifre (PBKDF2), e-posta yok; şifre kurtarma kodla. Oturum HttpOnly çerez.
+- İstemci: `src/lib/sync.ts`. Bu cihazdaki IndexedDB asıl kaynak; değişiklikler hesaba yüklenir, sürüm numarasıyla çakışma yakalanır, öğrenci seçer.
+- Yerelde: `npx wrangler d1 migrations apply netlik --local`, sonra `npm run build && npx wrangler dev --port 8787` (Vite dev sunucusu `/api`'yi buraya yönlendirir).
+- Yeni şema: `migrations/` içine yeni dosya, sonra `npx wrangler d1 migrations apply netlik --remote`.
+
 ## Güncelleme notları
 
 - **ÖSYM 2027 takvimi açıklanınca:** `src/content/exam.ts` içinde `DEFAULT_EXAM_DATE` ve `EXAM_DATE_IS_OFFICIAL = true`.
