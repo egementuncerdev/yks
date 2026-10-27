@@ -29,8 +29,8 @@ npm run deploy     # build + wrangler deploy (Cloudflare Workers static assets)
 
 - **ÖSYM 2027 takvimi açıklanınca:** `src/content/exam.ts` içinde `DEFAULT_EXAM_DATE` ve `EXAM_DATE_IS_OFFICIAL = true`.
 - **Kılavuz değişirse:** `TESTS` (test ve ders soru sayıları). Test, toplamların sınav soru sayısıyla tuttuğunu kontrol eder.
-- **Yeni soru:** elle yazılmışsa `bank.ts` (doğru cevap ilk şık); hesaplamalıysa ilgili dosyaya üretici. `npm test` her üreticiyi 300 tohumla dener.
-- **Görsel ve şema:** `src/content/lessons/figures.ts` ve `figures2.ts` (anahtar `dersId:Konu adı`; tablo, zaman çizelgesi, akış, Punnett ya da çizim). Çizimler `src/features/lessons/Diagrams.tsx` içinde, renkler tema değişkenlerinden. Test, anahtarların ve çizim adlarının geçerli olduğunu kontrol eder.
+- **Yeni soru:** elle yazılmışsa `bank3.ts` sonuna (doğru cevap ilk şık, altıncı alan ipucu; eski dosyalardaki sıra değişmemeli); hesaplamalıysa ilgili dosyaya üretici. `npm test` her üreticiyi 300 tohumla dener.
+- **Görsel ve şema:** `src/content/lessons/figures.ts`, `figures2.ts` ve `figures3.ts` (formül kartı, çubuk ve çizgi grafik, “Akılda tut” kutusu) (anahtar `dersId:Konu adı`; tablo, zaman çizelgesi, akış, Punnett ya da çizim). Çizimler `src/features/lessons/Diagrams.tsx` içinde, renkler tema değişkenlerinden. Test, anahtarların ve çizim adlarının geçerli olduğunu kontrol eder.
 - **Konu anlatımı:** `src/content/lessons/<ders>.ts` içinde konu adıyla. Test, her konunun anlatımı olduğunu ve adların `subjects.ts` ile tuttuğunu kontrol eder. İpuçları: `src/content/questions/hints.ts` (BANK ile aynı sıra).
 - **İçerik listesi:** `REVIEW=1 npx vitest run src/content/questions/review.test.ts` → `CONTENT_REVIEW.md`.
 - Konu id'leri ilerleme kaydında kullanılır; konu adını değiştirirken eski id'yi koru.

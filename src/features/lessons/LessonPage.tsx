@@ -13,6 +13,24 @@ import { testPath } from '../tests/Tests';
 import { useTitle } from '@/lib/title';
 import { FIGURES } from '@/content/lessons/figures';
 import { FigureView } from './FigureView';
+import { EXAMS, TESTS } from '@/content/exam';
+
+/* Sınavda bu ders: dersin geçtiği testte derslerin soru sayısı (kılavuz verisi); tek dersli testlerde sınavın testleri */
+function ExamShare({ subjectId }: { subjectId: string }) {
+  const tests = TESTS.filter((t) => t.parts.some((p) => p.subject === subjectId));
+  if (!tests.length) return null;
+  const exam = tests[0]!.exam;
+  const total = tests.reduce((a, t) => a + t.parts.filter((p) => p.subject === subjectId).reduce((b, p) => b + p.q, 0), 0);
+  const name = SUBJECT_BY_ID[subjectId]!.short;
+  const multi = tests[0]!.parts.length > 1;
+  const items: [string, number][] = multi
+    ? tests[0]!.parts.map((p) => [SUBJECT_BY_ID[p.subject]!.short, p.q])
+    : TESTS.filter((t) => t.exam === exam).map((t) => [t.name, t.questions]);
+  return (
+    <FigureView f={{ kind: 'bars', title: `Sınavda bu ders: ${EXAMS[exam].name}’de ${total} soru`, items, highlight: multi ? name : tests[0]!.name, unit: 'soru',
+      caption: multi ? `${tests.map((t) => t.name).join(' ve ')} testinde derslerin soru sayısı (ÖSYM kılavuzu).` : `${EXAMS[exam].name} testlerinin soru sayısı (ÖSYM kılavuzu).` }} />
+  );
+}
 
 export default function LessonPage() {
   const { topicId = '' } = useParams();
@@ -48,6 +66,7 @@ export default function LessonPage() {
       </header>
 
       <div className="space-y-8">
+        <ExamShare subjectId={subject.id} />
         {lesson.parts.map((p, i) => (
           <section key={p.h} aria-labelledby={`h-${p.h}`}>
             <h2 id={`h-${p.h}`} className="display text-lg">{p.h}</h2>

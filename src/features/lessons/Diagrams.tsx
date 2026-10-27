@@ -560,5 +560,65 @@ export const DIAGRAMS: Record<string, { label: string; draw: () => ReactNode }> 
         <T x={240} y={244} s={12} c={C.mute}>Troposferde yukarı çıkıldıkça sıcaklık her 200 m’de ≈ 1 °C azalır</T>
       </>}</Svg>
     );
-  } }
+  } },
+  /* ---------------- Ek çizimler ---------------- */
+  dna: { label: 'DNA çift zinciri: A ile T, G ile C eşleşir', draw: () => {
+    const pairs: [string, string][] = [['A', 'T'], ['G', 'C'], ['T', 'A'], ['C', 'G'], ['A', 'T'], ['G', 'C'], ['C', 'G']];
+    return (
+      <Svg label="DNA merdiveni" h={260}>{() => <>
+        <L x1={150} y1={24} x2={150} y2={236} c={C.acc} w={3} /><L x1={330} y1={24} x2={330} y2={236} c={C.acc} w={3} />
+        <T x={150} y={16} s={12} c={C.acc}>şeker – fosfat</T><T x={330} y={16} s={12} c={C.acc}>şeker – fosfat</T>
+        {pairs.map(([a, b], i) => {
+          const y = 40 + i * 30, three = a === 'G' || a === 'C';
+          return (
+            <g key={i}>
+              <rect x={152} y={y - 10} width={86} height={20} rx={4} fill={C.soft} stroke={C.acc} />
+              <rect x={242} y={y - 10} width={86} height={20} rx={4} fill={three ? C.sunk : C.surf} stroke={C.good} />
+              <T x={195} y={y + 5} b halo={false}>{a}</T><T x={285} y={y + 5} b halo={false}>{b}</T>
+              <T x={240} y={y + 4} s={10} c={C.mute} halo={false}>{three ? '≡' : '='}</T>
+            </g>
+          );
+        })}
+        <T x={60} y={110} s={12} a="middle">A – T:</T><T x={60} y={126} s={12}>2 hidrojen</T><T x={60} y={142} s={12}>bağı</T>
+        <T x={420} y={110} s={12}>G – C:</T><T x={420} y={126} s={12}>3 hidrojen</T><T x={420} y={142} s={12}>bağı</T>
+        <T x={240} y={254} s={12} c={C.mute}>zincirler zıt yönlü (5′ → 3′ ve 3′ → 5′); sarmal düzleştirilerek çizildi</T>
+      </>}</Svg>
+    );
+  } },
+
+  goz: { label: 'Gözün yapısı (sadeleştirilmiş kesit)', draw: () => (
+    <Svg label="Göz kesiti">{(m) => <>
+      <circle cx={260} cy={125} r={92} fill={C.soft} stroke={C.ink} strokeWidth={1.8} />
+      <path d={arc(260, 125, 92, 120, 240)} fill="none" stroke={C.mute} strokeWidth={6} strokeOpacity={0.35} />
+      <path d={arc(260, 125, 88, -60, 60)} fill="none" stroke={C.bad} strokeWidth={5} strokeOpacity={0.7} />
+      <path d="M172,95 Q156,125 172,155" fill="none" stroke={C.acc} strokeWidth={3} />
+      <ellipse cx={196} cy={125} rx={12} ry={30} fill={C.surf} stroke={C.good} strokeWidth={2} />
+      <L x1={184} y1={88} x2={184} y2={104} c={C.ink} w={4} /><L x1={184} y1={146} x2={184} y2={162} c={C.ink} w={4} />
+      <path d="M352,125 L420,118 M352,125 L420,132" stroke={C.warn} strokeWidth={3} />
+      <circle cx={350} cy={125} r={4} fill={C.ink} />
+      {[105, 125, 145].map((y) => <L key={y} x1={60} y1={y} x2={170} y2={y} c={C.warn} w={1.4} m={m.ink} />)}
+      <L x1={208} y1={110} x2={346} y2={126} c={C.warn} w={1} d /><L x1={208} y1={140} x2={346} y2={124} c={C.warn} w={1} d />
+      <T x={150} y={60} s={12} c={C.acc}>kornea</T><T x={196} y={180} s={12} c={C.good}>göz merceği</T><T x={168} y={80} a="end" s={12}>iris</T>
+      <T x={392} y={60} s={12} c={C.bad}>retina</T><T x={428} y={150} a="middle" s={12} c={C.warn}>görme siniri</T>
+      <T x={372} y={110} s={11} c={C.mute}>kör nokta</T><T x={110} y={92} s={12} c={C.mute}>ışık</T>
+      <T x={260} y={236} s={12} c={C.mute}>görüntü retinada ters ve küçük oluşur; beyin düzeltir</T>
+    </>}</Svg>) },
+
+  dolasim: { label: 'Büyük ve küçük kan dolaşımı', draw: () => (
+    <Svg label="Kan dolaşımı şeması" h={260}>{(m) => <>
+      <Box x={240} y={36} w={170} h={36} label="Akciğerler (O₂ alınır)" fill={C.soft} />
+      <Box x={240} y={224} w={170} h={36} label="Vücut dokuları" fill={C.sunk} />
+      <rect x={146} y={100} width={188} height={86} rx={12} fill={C.surf} stroke={C.ink} strokeWidth={1.6} />
+      <L x1={240} y1={104} x2={240} y2={182} c={C.line} w={1.4} /><L x1={150} y1={143} x2={330} y2={143} c={C.line} w={1.4} />
+      <T x={193} y={126} s={12} halo={false}>sağ kulakçık</T><T x={287} y={126} s={12} halo={false}>sol kulakçık</T>
+      <T x={193} y={168} s={12} halo={false}>sağ karıncık</T><T x={287} y={168} s={12} halo={false}>sol karıncık</T>
+      <path d="M180,186 C100,186 100,40 152,40" fill="none" stroke={C.bad} strokeWidth={2.2} markerEnd={m.bad} />
+      <path d="M328,40 C380,40 384,114 336,118" fill="none" stroke={C.acc} strokeWidth={2.2} markerEnd={m.acc} />
+      <path d="M300,186 C380,186 390,224 330,224" fill="none" stroke={C.acc} strokeWidth={2.2} markerEnd={m.acc} />
+      <path d="M150,224 C80,224 86,118 144,118" fill="none" stroke={C.bad} strokeWidth={2.2} markerEnd={m.bad} />
+      <T x={86} y={60} a="end" s={12} c={C.bad}>akciğer</T><T x={86} y={76} a="end" s={12} c={C.bad}>atardamarı</T>
+      <T x={392} y={74} a="start" s={12} c={C.acc}>akciğer</T><T x={392} y={90} a="start" s={12} c={C.acc}>toplardamarı</T>
+      <T x={398} y={204} a="start" s={12} c={C.acc}>aort</T><T x={76} y={200} a="end" s={12} c={C.bad}>ana toplar-</T><T x={76} y={216} a="end" s={12} c={C.bad}>damarlar</T>
+      <T x={240} y={256} s={12} c={C.mute}>kırmızı: kirli (CO₂’ce zengin) kan · mavi: temiz (O₂’ce zengin) kan</T>
+    </>}</Svg>) }
 };

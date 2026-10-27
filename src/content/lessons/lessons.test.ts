@@ -38,6 +38,8 @@ describe('anlatım görselleri', () => {
         if (f.kind === 'svg') expect(DIAGRAMS[f.svg], `${key}: çizim yok ${f.svg}`).toBeTruthy();
         if (f.at !== undefined) expect(f.at < lesson.parts.length, `${key}: at ${f.at}`).toBe(true);
         if (f.kind === 'table') for (const r of f.rows) expect(r.length, `${key}: ${f.title}`).toBe(f.head.length);
+        if (f.kind === 'line') { expect(f.series.length, key).toBeLessThanOrEqual(2); for (const se of f.series) { expect(se.points.length, key).toBeGreaterThan(1); } }
+        if (f.kind === 'bars') expect(f.items.every(([, v]) => v >= 0), `${key}: negatif çubuk`).toBe(true);
       }
       expect(new Set(figs.map((f) => f.title)).size, `${key}: aynı başlık`).toBe(figs.length);
     }

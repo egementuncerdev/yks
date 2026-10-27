@@ -19,4 +19,12 @@ export type Figure = { title: string; caption?: string; at?: number } & (
   | { kind: 'timeline'; items: [when: string, what: string][] }
   | { kind: 'flow'; steps: string[] }
   | { kind: 'punnett'; mother: [string, string]; father: [string, string]; note?: string }
+  /** yatay çubuk grafik: [etiket, değer]; vurgulanacak etiket isteğe bağlı */
+  | { kind: 'bars'; items: [label: string, value: number][]; unit?: string; highlight?: string }
+  /** çizgi grafik: en çok iki seri; işaretler (x, etiket) dikey kesikli çizgiyle gösterilir */
+  | { kind: 'line'; series: { name: string; points: [x: number, y: number][] }[]; x: string; y: string; marks?: [x: number, label: string][]; steps?: boolean }
+  /** formül kartları: [ad, formül] */
+  | { kind: 'formulas'; items: [name: string, formula: string][] }
+  /** akılda tutma kutusu */
+  | { kind: 'note'; text: string }
 );

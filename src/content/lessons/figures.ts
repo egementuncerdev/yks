@@ -2,6 +2,7 @@
    svg adları src/features/lessons/Diagrams.tsx içindedir. Metinlerde MathText işaretleri kullanılabilir. */
 import type { Figure } from './types';
 import { FIGURES_MORE } from './figures2';
+import { FIGURES_EXTRA } from './figures3';
 
 const FIRST: Record<string, Figure[]> = {
   /* ================= TYT Türkçe ================= */
@@ -468,5 +469,8 @@ const FIRST: Record<string, Figure[]> = {
   ]
 };
 
-export const FIGURES: Record<string, Figure[]> = { ...FIRST, ...FIGURES_MORE };
+/** Üçüncü bölüm var olanların yanına eklenir */
+export const FIGURES: Record<string, Figure[]> = Object.fromEntries(
+  [...new Set([...Object.keys(FIRST), ...Object.keys(FIGURES_MORE), ...Object.keys(FIGURES_EXTRA)])].map((k) => [k, [...(FIRST[k] ?? []), ...(FIGURES_MORE[k] ?? []), ...(FIGURES_EXTRA[k] ?? [])]])
+);
 export const FIGURE_KEYS_OVERLAP = Object.keys(FIGURES_MORE).filter((k) => k in FIRST);

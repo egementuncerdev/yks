@@ -2,11 +2,12 @@
 import { MathText } from '@/components/MathText';
 import type { Figure } from '@/content/lessons/types';
 import { DIAGRAMS } from './Diagrams';
+import { Bars, LineChart } from './Charts';
 
 export function FigureView({ f }: { f: Figure }) {
   return (
-    <figure className="-mx-4 border-y border-line bg-surface px-4 py-4 sm:mx-0 sm:rounded-2xl sm:border sm:p-5">
-      <figcaption className="mb-3 text-[13px] font-medium text-muted">{f.title}</figcaption>
+    <figure className={f.kind === 'note' ? 'rounded-2xl border border-primary/30 bg-primary-soft/60 px-4 py-3.5 sm:px-5' : '-mx-4 border-y border-line bg-surface px-4 py-4 sm:mx-0 sm:rounded-2xl sm:border sm:p-5'}>
+      <figcaption className={`text-[13px] font-medium ${f.kind === 'note' ? 'mb-1 text-primary-ink' : 'mb-3 text-muted'}`}>{f.title}</figcaption>
       <Body f={f} />
       {f.caption && <p className="mt-3 text-[14px] leading-relaxed text-ink-2"><MathText text={f.caption} /></p>}
     </figure>
@@ -59,6 +60,23 @@ function Body({ f }: { f: Figure }) {
           ))}
         </ol>
       );
+    case 'bars':
+      return <Bars items={f.items} unit={f.unit} highlight={f.highlight} />;
+    case 'line':
+      return <LineChart series={f.series} x={f.x} y={f.y} marks={f.marks} steps={f.steps} />;
+    case 'formulas':
+      return (
+        <dl className="grid gap-2 sm:grid-cols-2">
+          {f.items.map(([n, v]) => (
+            <div key={n} className="rounded-xl border border-line bg-sunken/50 px-3.5 py-2.5">
+              <dt className="text-[12.5px] text-muted">{n}</dt>
+              <dd className="mt-0.5 text-[16px] font-medium text-ink"><MathText text={v} /></dd>
+            </div>
+          ))}
+        </dl>
+      );
+    case 'note':
+      return <p className="text-[15px] leading-relaxed text-ink-2"><MathText text={f.text} /></p>;
     case 'punnett': {
       const [m1, m2] = f.mother, [b1, b2] = f.father;
       const cell = (a: string, b: string) => [a, b].sort((x, y) => (x.toUpperCase() === x ? -1 : 0) - (y.toUpperCase() === y ? -1 : 0)).join('');
