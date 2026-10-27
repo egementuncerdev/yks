@@ -4,6 +4,7 @@ import { writeFileSync } from 'node:fs';
 import { SUBJECTS } from '../subjects';
 import { GENERATORS, BANK, questionById } from './index';
 import { LETTERS } from './core';
+import { TABLES } from './facts';
 
 it.runIf(process.env.REVIEW)('içerik listesi', () => {
   const out = ['# İçerik kontrol listesi — Netlik', '', 'Yanlış ya da doğal olmayan bir şey görürsen not et.', '', '## Konular', '', '“Sık” = son yıllarda düzenli soru gelen konu (yayınevi analizleri; resmi değil). Hacim: 1 küçük, 2 orta, 3 büyük.', ''];
@@ -17,5 +18,11 @@ it.runIf(process.env.REVIEW)('içerik listesi', () => {
     const q = questionById(`g|${topic}|${i}|${11 + i}`)!;
     out.push(`- **${topic}** — ${q.stem}`, `  - ${q.options.map((o, j) => (j === q.answer ? `**${LETTERS[j]}) ${o}**` : `${LETTERS[j]}) ${o}`)).join(' · ')}`, `  - Çözüm: ${q.solution}`, ...(q.hint ? [`  - İpucu: ${q.hint}`] : []));
   });
+  out.push('', '## Bilgi tabloları', '', 'Her satır bir soru: soru → **doğru cevap** (ipucu). Yanlış şıklar aynı tablonun öteki cevaplarından ya da satırdaki listeden gelir.', '');
+  for (const t of TABLES) {
+    out.push(`### ${t.topics.map(([s, n]) => `${s} · ${n}`).join(' / ')}`, '');
+    for (const [k, a, h, own] of t.facts) out.push(`- ${t.ask(k)} → **${a}** (${h})${own ? ` · yanlışlar: ${own.join(' · ')}` : ''}`);
+    out.push('');
+  }
   writeFileSync('CONTENT_REVIEW.md', out.join('\n') + '\n');
 });

@@ -15,6 +15,7 @@ export const ALL_HINTS = [...HINTS, ...BANK3.map((x) => x[5])];
 import { MATH_MORE } from './mathMore';
 import { SCIENCE_MORE } from './scienceMore';
 import { SCIENCE_EXTRA } from './scienceExtra';
+import { FACT_GENERATORS, TABLES } from './facts';
 
 export type { Question };
 
@@ -46,6 +47,14 @@ add('ayt-fiz', { 'İş, Enerji ve Güç': FIZIK['İş, Güç ve Enerji']! });
 add('tyt-kim', KIMYA);
 add('tyt-bio', BIYOLOJI);
 add('tyt-cog', COGRAFYA);
+/* Bilgi tablosu üreticileri sınırlı sayıda farklı soru verir; sayıları ayrıca tutulur */
+const FACT_ONLY = new Set<string>(), FACT_COUNT = new Map<string, number>();
+for (const [sid, name, gen] of FACT_GENERATORS) {
+  const id = topicId(sid, name);
+  if (!GENERATORS.has(id)) FACT_ONLY.add(id);
+  GENERATORS.set(id, [...(GENERATORS.get(id) ?? []), gen]);
+}
+for (const t of TABLES) for (const [sid, name] of t.topics) { const id = topicId(sid, name); FACT_COUNT.set(id, (FACT_COUNT.get(id) ?? 0) + t.facts.length); }
 
 /** konu id → elle yazılmış soru indeksleri */
 export const BANK_BY_TOPIC = new Map<string, number[]>();
@@ -74,7 +83,8 @@ BANK.forEach(([sid, name], i) => {
 });
 
 export const hasQuestions = (topic: string) => GENERATORS.has(topic) || BANK_BY_TOPIC.has(topic);
-export const questionCount = (topic: string): number | 'sınırsız' => (GENERATORS.has(topic) ? 'sınırsız' : BANK_BY_TOPIC.get(topic)?.length ?? 0);
+export const questionCount = (topic: string): number | 'sınırsız' =>
+  GENERATORS.has(topic) && !FACT_ONLY.has(topic) ? 'sınırsız' : (BANK_BY_TOPIC.get(topic)?.length ?? 0) + (FACT_COUNT.get(topic) ?? 0);
 
 function fromBank(i: number): Question {
   const [sid, name, stem, opts, solution] = BANK[i]!;
@@ -103,7 +113,7 @@ export function questionsFor(topic: string, n: number, seed = Date.now()): Quest
   const r = rng(seed);
   const out: Question[] = shuffle(r, BANK_BY_TOPIC.get(topic) ?? []).slice(0, n).map(fromBank);
   const gens = GENERATORS.get(topic) ?? [];
-  for (let i = 0; out.length < n && gens.length && i < n * 4; i++) {
+  for (let i = 0; out.length < n && gens.length && i < n * 20; i++) {
     const q = fromGen(topic, i % gens.length, Math.floor(r() * 2 ** 31));
     if (!out.some((x) => x.stem === q.stem)) out.push(q);
   }
