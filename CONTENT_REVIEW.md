@@ -532,6 +532,744 @@ Doğru cevap kalın.
 - **ydt-ing · Adverbial Clauses ve Bağlaçlar** — ---- it was raining heavily, they continued the match.
   - **Although** · Because · Unless · So that · In case
   - Çözüm: Zıtlık bildiren “although”: yağmura rağmen maça devam ettiler.
+- **tyt-tr · Yazım Kuralları** — Aşağıdakilerden hangisinin yazımı doğrudur?
+  - **hiçbir şey** · herşey · birşey · pekçok · herhangibir
+  - Çözüm: “Hiçbir” bitişik, “şey” ayrı yazılır. Doğruları: her şey, bir şey, pek çok, herhangi bir.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki sözcüklerden hangisinin yazımı yanlıştır?
+  - **süpriz** · tıraş · orijinal · kirpik · meyve
+  - Çözüm: Doğrusu “sürpriz”dir.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki sözcüklerden hangisinin yazımı yanlıştır?
+  - **yalnış** · yalnız · kibrit · eşofman · şarj
+  - Çözüm: Doğrusu “yanlış”tır.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki sözcüklerden hangisinin yazımı yanlıştır?
+  - **entellektüel** · kılavuz · mütevazı · fesleğen · egzoz
+  - Çözüm: Doğrusu “entelektüel”dir.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki cümlelerin hangisinde bir yazım yanlışı vardır?
+  - **Yarın istanbul’a gideceğim.** · Babam Ankara’da çalışıyor. · Van Gölü çok güzeldi. · Türk Dil Kurumunun sözlüğüne baktım. · Kardeşim İngilizce öğreniyor.
+  - Çözüm: Şehir adları büyük harfle başlar: “İstanbul’a”.
+- **tyt-tr · Yazım Kuralları** — Aşağıdakilerin hangisinde kısaltmaya getirilen ek yanlış yazılmıştır?
+  - **TBMM’ne** · TRT’de · NATO’ya · AB’ye · THY’nin
+  - Çözüm: Kısaltmalara ekler okunuşa göre getirilir: TBMM “te-be-me-me” okunur → TBMM’ye.
+- **tyt-tr · Yazım Kuralları** — Aşağıdakilerin hangisinde “ki”nin yazımı yanlıştır?
+  - **Duydumki yarın geliyormuş.** · Sanki her şey yolundaydı. · Halbuki söz vermişti. · Mahalledeki fırın kapanmış. · Yarınki maçı izleyeceğim.
+  - Çözüm: “ki” bağlacı ayrı yazılır: “Duydum ki”. Sanki ve halbuki kalıplaşmıştır; -ki eki bitişiktir.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki cümlelerin hangisinde “de”nin yazımı yanlıştır?
+  - **Kitabı masa da bıraktım.** · Sen de bizimle gel. · Çocuklar bahçede oynuyor. · O da her şeyi biliyordu. · Akşam evde kimse yoktu.
+  - Çözüm: Burada “-de” bulunma ekidir ve bitişik yazılır: “masada”.
+- **tyt-tr · Yazım Kuralları** — Aşağıdaki cümlelerin hangisinde sayının yazımı yanlıştır?
+  - **Saat onbeşte buluşalım.** · Sınavda kırk soru vardı. · Törene yüz yirmi kişi katıldı. · Herkese üçer kalem verdik. · On dokuz yaşındayım.
+  - Çözüm: Birden fazla sözcükten oluşan sayılar ayrı yazılır: “on beşte”.
+- **tyt-tr · Noktalama İşaretleri** — Aşağıdaki cümlelerin hangisinde virgül eş görevli sözcükleri ayırmak için kullanılmıştır?
+  - **Pazardan elma, armut ve kiraz aldık.** · Ahmet, buraya gelir misin? · Evet, yarın geliyorum. · Sevgili dostum, nasılsın? · Ne yazık ki, otobüsü kaçırdık.
+  - Çözüm: Elma, armut ve kiraz aynı görevdeki (nesne) sözcüklerdir; aralarına virgül konur. Diğerlerinde hitap ya da cevap sözünden sonra virgül vardır.
+- **tyt-tr · Noktalama İşaretleri** — Aşağıdaki cümlelerin hangisinde kesme işareti yanlış kullanılmıştır?
+  - **Türk Dil Kurumu’nun yayınlarını okudum.** · Atatürk’ün doğduğu ev müze oldu. · Hafta sonu İzmir’e gideceğiz. · Cumhuriyet 1923’te ilan edildi. · Ali’yi parkta gördüm.
+  - Çözüm: Kurum ve kuruluş adlarına gelen ekler kesmeyle ayrılmaz: “Türk Dil Kurumunun”.
+- **tyt-tr · Noktalama İşaretleri** — “Bir gün mutlaka___” cümlesinde cümlenin bilerek tamamlanmadığını göstermek için hangi işaret kullanılır?
+  - **Üç nokta (…)** · Nokta (.) · İki nokta (:) · Noktalı virgül (;) · Kısa çizgi (-)
+  - Çözüm: Tamamlanmamış cümlelerin sonuna üç nokta konur.
+- **tyt-tr · Noktalama İşaretleri** — “Eyvah, otobüs kaçtı___” cümlesinin sonuna hangi işaret getirilmelidir?
+  - **Ünlem (!)** · Soru işareti (?) · İki nokta (:) · Noktalı virgül (;) · Kısa çizgi (-)
+  - Çözüm: Korku, şaşma, sevinç gibi duyguları bildiren cümlelerin sonuna ünlem konur.
+- **tyt-tr · Noktalama İşaretleri** — Başka birinden olduğu gibi aktarılan sözler hangi işaretle gösterilir?
+  - **Tırnak işareti (“ ”)** · Yay ayraç ( ) · Kısa çizgi (-) · Eğik çizgi (/) · Noktalı virgül (;)
+  - Çözüm: Aynen aktarılan sözler tırnak içine alınır.
+- **tyt-tr · Noktalama İşaretleri** — Satır sonuna sığmayan bir sözcüğü bölmek için hangi işaret kullanılır?
+  - **Kısa çizgi (-)** · Uzun çizgi (—) · Eğik çizgi (/) · Üç nokta (…) · Virgül (,)
+  - Çözüm: Satır sonunda bölünen sözcük, heceden ayrılarak kısa çizgiyle gösterilir.
+- **tyt-tr · Ses Bilgisi** — Aşağıdaki sözcüklerin hangisinde ünlü daralması vardır?
+  - **başlıyor** · kitapçı · oğlu · ağzı · gideceğim
+  - Çözüm: “Başla-” fiiline “-yor” gelince sondaki “a” daralarak “ı” olur: başlıyor.
+- **tyt-tr · Ses Bilgisi** — Aşağıdaki sözcüklerin hangisinde ünsüz türemesi vardır?
+  - **hissetmek** · ağzı · kitabı · geliyor · burnu
+  - Çözüm: “His” sözcüğü “etmek” ile birleşince “s” ünsüzü türer: hissetmek.
+- **tyt-tr · Ses Bilgisi** — Aşağıdaki sözcüklerin hangisinde ünlü düşmesi vardır?
+  - **ağzı** · kalemi · evi · kapısı · taşı
+  - Çözüm: “Ağız” sözcüğü ünlüyle başlayan ek alınca ikinci hecedeki ünlüyü düşürür: ağzı.
+- **tyt-tr · Ses Bilgisi** — Aşağıdaki sözcüklerden hangisi büyük ünlü uyumuna uymaz?
+  - **kitap** · okul · çiçek · masa · deniz
+  - Çözüm: Büyük ünlü uyumunda bir sözcüğün ünlüleri ya hep kalın ya hep incedir. “Kitap”ta ince “i” ile kalın “a” bir aradadır.
+- **tyt-tr · Ses Bilgisi** — Aşağıdaki sözcüklerin hangisinde kaynaştırma ünsüzü vardır?
+  - **kapıya** · kitabı · ağzı · evde · başlıyor
+  - Çözüm: Ünlüyle biten sözcüğe ünlüyle başlayan ek gelince araya “y” girer: kapı-y-a.
+- **tyt-tr · İsim, Sıfat ve Zamir** — “Güzel bir gün başladı.” cümlesinde “güzel” sözcüğünün türü nedir?
+  - **Sıfat** · İsim · Zarf · Zamir · Edat
+  - Çözüm: “Güzel”, “gün” ismini niteleyen bir sıfattır.
+- **tyt-tr · İsim, Sıfat ve Zamir** — “O, bana hiçbir şey söylemedi.” cümlesinde “o” sözcüğünün türü nedir?
+  - **Zamir** · Sıfat · İsim · Zarf · Bağlaç
+  - Çözüm: “O” burada bir ismin yerini tutar; kişi zamiridir.
+- **tyt-tr · İsim, Sıfat ve Zamir** — Aşağıdaki cümlelerin hangisinde işaret zamiri vardır?
+  - **Bunu bana uzatır mısın?** · Bu kitap çok güzel. · Şu ev bizim. · O adam dün geldi. · Kalemi masaya koydu.
+  - Çözüm: “Bu-nu” ismin yerini tutar, işaret zamiridir. Diğerlerinde “bu, şu, o” bir ismi belirten işaret sıfatıdır.
+- **tyt-tr · Zarf, Edat, Bağlaç, Ünlem** — “Çocuk hızlı koştu.” cümlesinde “hızlı” sözcüğünün türü nedir?
+  - **Zarf** · Sıfat · İsim · Zamir · Edat
+  - Çözüm: “Hızlı” burada fiili (koştu) nasıl sorusuyla niteler; durum zarfıdır.
+- **tyt-tr · Zarf, Edat, Bağlaç, Ünlem** — “Annemle babam yarın geliyor.” cümlesinde “ile” (-le) hangi türdedir?
+  - **Bağlaç** · Edat · Zarf · Sıfat · Ünlem
+  - Çözüm: “ile” “ve” anlamında kullanılmışsa bağlaçtır: annem ve babam.
+- **tyt-tr · Zarf, Edat, Bağlaç, Ünlem** — “Mektubu kurşun kalemle yazdı.” cümlesinde “ile” (-le) hangi türdedir?
+  - **Edat** · Bağlaç · Zarf · Sıfat · Ünlem
+  - Çözüm: “ile” araç ya da birliktelik anlamında kullanılmışsa edattır: kalem aracılığıyla.
+- **tyt-tr · Fiil, Ek Fiil ve Fiilimsi** — Aşağıdaki cümlelerin hangisinde isim-fiil vardır?
+  - **Kitap okumayı çok seviyorum.** · Koşarak eve geldi. · Gelen misafirleri karşıladık. · Ödevini dün bitirdi. · Yarın erkenden yola çıkacağız.
+  - Çözüm: “-ma” eki fiilden isim yapar: okuma. Koşarak zarf-fiil, gelen sıfat-fiildir.
+- **tyt-tr · Fiil, Ek Fiil ve Fiilimsi** — Aşağıdaki cümlelerin hangisinde zarf-fiil vardır?
+  - **Gülerek içeri girdi.** · Okunan kitabı geri verdi. · Yüzmeyi yeni öğrendi. · Akşam bize gelecek. · Annem çay demledi.
+  - Çözüm: “-arak/-erek” eki zarf-fiil yapar: gülerek.
+- **tyt-tr · Fiil, Ek Fiil ve Fiilimsi** — Aşağıdaki cümlelerin hangisinde sıfat-fiil vardır?
+  - **Okunan kitapları rafa dizdik.** · Koşarken düştü. · Gitmek istemiyorum. · Sabah erkenden kalktı. · Bu soruyu çözdüm.
+  - Çözüm: “-an/-en” eki fiilden sıfat yapar: okunan kitaplar.
+- **tyt-tr · Fiil, Ek Fiil ve Fiilimsi** — “Hava çok soğuktu.” cümlesinin yükleminde ek fiil hangi işlevle kullanılmıştır?
+  - **Hikâye (geçmiş zaman, -di)** · Rivayet (-miş) · Şart (-se) · Geniş zaman · Gelecek zaman
+  - Çözüm: “soğuk-tu”: isim soylu sözcüğe gelen ek fiilin hikâye (-di) biçimi.
+- **tyt-tr · Fiilde Çatı** — “Mektup dün postaya verildi.” cümlesinin yüklemi çatı bakımından hangisidir?
+  - **Edilgen** · Etken · Dönüşlü · İşteş · Ettirgen
+  - Çözüm: Eylemi yapan belli değil, “mektup” sözde öznedir: edilgen.
+- **tyt-tr · Fiilde Çatı** — “Çocuklar bahçede koşuştu.” cümlesinin yüklemi çatı bakımından hangisidir?
+  - **İşteş** · Edilgen · Dönüşlü · Ettirgen · Oldurgan
+  - Çözüm: Eylem birden fazla kişi tarafından birlikte yapılıyor: işteş.
+- **tyt-tr · Cümlenin Ögeleri** — “Ali dün kitabı bitirdi.” cümlesinde “kitabı” hangi ögedir?
+  - **Belirtili nesne** · Belirtisiz nesne · Dolaylı tümleç · Zarf tümleci · Özne
+  - Çözüm: “Neyi bitirdi?” sorusunun cevabı ve hâl eki (-ı) almış: belirtili nesne.
+- **tyt-tr · Cümlenin Ögeleri** — “Ahmet her sabah okula yürüyerek gider.” cümlesinde “okula” hangi ögedir?
+  - **Dolaylı tümleç** · Belirtili nesne · Zarf tümleci · Özne · Yüklem
+  - Çözüm: “Nereye gider?” sorusunun cevabı, yönelme hâl eki almış: dolaylı tümleç (yer tamlayıcısı).
+- **tyt-tr · Cümlenin Ögeleri** — “Dün akşam erken yattık.” cümlesinde “dün akşam” hangi ögedir?
+  - **Zarf tümleci** · Dolaylı tümleç · Özne · Belirtisiz nesne · Yüklem
+  - Çözüm: “Ne zaman yattık?” sorusunun cevabı: zarf tümleci.
+- **tyt-tr · Cümle Türleri** — Aşağıdakilerden hangisi isim cümlesidir?
+  - **Bu ev çok büyük.** · Ali eve koştu. · Yağmur yağıyor. · Kitabı okudum. · Yarın gideceğiz.
+  - Çözüm: Yüklemi isim soylu sözcük (büyük) olan cümle isim cümlesidir.
+- **tyt-tr · Cümle Türleri** — Aşağıdakilerden hangisi devrik cümledir?
+  - **Gel buraya.** · Ben eve gidiyorum. · Annem yemek yaptı. · Hava çok güzel. · Kardeşim kitap okuyor.
+  - Çözüm: Yüklemi sonda olmayan cümle devrik cümledir: “Gel” başta.
+- **tyt-tr · Cümle Türleri** — Aşağıdakilerden hangisi yapıca şartlı birleşik cümledir?
+  - **Hava güzel olursa pikniğe gideriz.** · Dün akşam sinemaya gittik. · Annem bize çay yaptı. · Çocuklar bahçede oynuyor. · Bu yıl çok çalıştım.
+  - Çözüm: “-sa/-se” şart ekiyle kurulan yan cümle (Hava güzel olursa) temel cümleye bağlanmıştır.
+- **tyt-tr · Cümle Türleri** — Aşağıdakilerden hangisi olumsuz bir cümledir?
+  - **Bugün okula gitmedim.** · Yarın erken kalkacağım. · Kitabı bitirdim. · Hava çok güzel. · Sınava iyi hazırlandım.
+  - Çözüm: Yüklemdeki “-me” olumsuzluk eki cümleyi olumsuz yapar.
+- **tyt-tr · Anlatım Bozuklukları** — Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanımından kaynaklanan bir anlatım bozukluğu vardır?
+  - **Tatilden sonra hemen geri döndük.** · Tatilden sonra hemen eve döndük. · Toplantıya herkes zamanında geldi. · Bu konuyu yarın konuşalım. · Annem bize sıcak çorba yaptı.
+  - Çözüm: “Dönmek” zaten geriye gelmek demektir; “geri” gereksizdir.
+- **tyt-tr · Anlatım Bozuklukları** — Aşağıdaki cümlelerin hangisinde anlamca çelişen sözcüklerin bir arada kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?
+  - **Toplantıya kesinlikle yüz kişi kadar katılmış olabilir.** · Toplantıya yüz kişi katıldı. · Toplantıya yaklaşık yüz kişi katıldı. · Toplantıya yüz kişiden fazla katılım oldu. · Toplantıya katılanların sayısı yüzü buldu.
+  - Çözüm: “Kesinlikle” ile “kadar” ve “olabilir” (tahmin) birbiriyle çelişir.
+- **tyt-tr · Anlatım Bozuklukları** — Aşağıdaki cümlelerin hangisinde anlatım bozukluğu vardır?
+  - **Bunun sebebi yağmurun çok yağmasından dolayıdır.** · Maç yağmur yüzünden ertelendi. · Yağmur yağdığı için maç ertelendi. · Maçın ertelenmesinin sebebi yağmurdu. · Şiddetli yağmur maçı erteletti.
+  - Çözüm: “Sebebi” ile “-den dolayı” aynı anlamı taşır; biri gereksizdir: “Bunun sebebi yağmurun çok yağmasıdır.”
+- **tyt-tr · Sözcükte Anlam** — “Cevap” sözcüğünün eş anlamlısı hangisidir?
+  - **yanıt** · soru · sorun · söz · sınav
+  - Çözüm: Cevap ve yanıt eş anlamlıdır.
+- **tyt-tr · Sözcükte Anlam** — “Cömert” sözcüğünün zıt anlamlısı hangisidir?
+  - **cimri** · eli açık · zengin · yardımsever · nazik
+  - Çözüm: Cömert, eli açık demektir; zıt anlamlısı cimridir.
+- **tyt-tr · Sözcükte Anlam** — Aşağıdaki cümlelerin hangisinde “ağır” sözcüğü mecaz anlamda kullanılmıştır?
+  - **Babamın ağır sözleri beni üzdü.** · Bu çanta çok ağır. · Ağır bir taşı kaldırdı. · Bavul ağır olduğu için taşıyamadım. · Masa ağır geldi, iki kişi taşıdık.
+  - Çözüm: Sözlerin kütlesi olmaz; “ağır söz” kırıcı söz demektir, mecazdır.
+- **tyt-tr · Sözcükte Anlam** — “Etekleri zil çalmak” deyiminin anlamı hangisidir?
+  - **çok sevinmek** · çok korkmak · çok yorulmak · çok üzülmek · çok kızmak
+  - Çözüm: Etekleri zil çalmak, çok sevinmek demektir.
+- **tyt-tr · Sözcükte Anlam** — “Kulak asmamak” deyiminin anlamı hangisidir?
+  - **önemsememek, dinlememek** · dikkatle dinlemek · gizlice dinlemek · çok sevinmek · utanmak
+  - Çözüm: Kulak asmamak, söyleneni önemsememek demektir.
+- **tyt-tr · Sözcükte Anlam** — “Damlaya damlaya göl olur.” atasözünün anlamı hangisidir?
+  - **Küçük birikimler zamanla büyük sonuç verir.** · Su israf edilmemelidir. · Sabırsız insan başarılı olamaz. · Doğa insana her zaman yeter. · Az konuşan çok dinler.
+  - Çözüm: Atasözü, küçük ama sürekli birikimlerin zamanla büyük bir sonuca ulaştığını anlatır.
+- **tyt-tr · Paragraf** — Kitap okumak yalnızca bilgi edinmenin değil, düşünmeyi öğrenmenin de yoludur. Okuyan kişi farklı bakış açılarıyla karşılaşır, kendi görüşlerini sorgular. Bu nedenle okuma alışkanlığı, eleştirel düşünmenin temelidir.
+
+Bu parçada asıl anlatılmak istenen nedir?
+  - **Okuma alışkanlığı eleştirel düşünmeyi geliştirir.** · Bilgi edinmenin tek yolu kitap okumaktır. · Farklı görüşler okuru yorar. · Okuyan kişi görüşlerini hiç değiştirmez. · Kitaplar eskisi kadar okunmuyor.
+  - Çözüm: Son cümle parçanın ana fikridir: okuma alışkanlığı eleştirel düşünmenin temelidir. B seçeneği “yalnızca … değil” ifadesiyle çelişir.
+- **tyt-tr · Paragraf** — Sınava hazırlanan pek çok öğrenci, daha fazla çalışabilmek için uykusundan kısar. Oysa öğrenilen bilgilerin kalıcı hâle gelmesinde uykunun önemli bir rolü vardır. Yeterince uyumayan öğrencinin dikkati dağılır ve çalıştığı konuları daha çabuk unutur.
+
+Bu parçadan aşağıdakilerin hangisine ulaşılabilir?
+  - **Yeterli uyku, öğrenilenlerin kalıcı olmasına yardım eder.** · Öğrenciler sınavdan önce hiç uyumamalıdır. · Uyku yalnızca bedeni dinlendirir. · Dikkat dağınıklığının tek nedeni gürültüdür. · Çok çalışmak her zaman başarı getirir.
+  - Çözüm: Parçada uykunun bilgilerin kalıcı olmasındaki rolü ve uykusuzluğun unutmaya yol açtığı vurgulanır.
+- **tyt-tr · Paragraf** — Şehirlerde bisiklet yolları arttıkça bisiklet kullananların sayısı da artıyor. İnsanlar güvenli bir yol bulduklarında arabayı evde bırakmaya daha istekli oluyor. Bu da hem trafiği hem de hava kirliliğini azaltıyor.
+
+Bu parçada aşağıdakilerden hangisinden söz edilmemiştir?
+  - **Bisikletin sağlığa etkisinden** · Bisiklet yollarının artmasından · Bisiklet kullanan sayısının artmasından · Trafiğin azalmasından · Hava kirliliğinin azalmasından
+  - Çözüm: Parçada sağlık konusu geçmez; diğerlerinin hepsi anılmıştır.
+- **tyt-tr · Paragraf** — Şehirlerde bisiklet yolları arttıkça bisiklet kullananların sayısı da artıyor. İnsanlar güvenli bir yol bulduklarında arabayı evde bırakmaya daha istekli oluyor. Bu da hem trafiği hem de hava kirliliğini azaltıyor.
+
+Bu parçaya göre insanların arabayı evde bırakmalarının temel koşulu nedir?
+  - **Güvenli bir bisiklet yolu bulmaları** · Akaryakıtın pahalanması · Toplu taşımanın ucuzlaması · Hava kirliliğinden korkmaları · Şehirlerin küçülmesi
+  - Çözüm: “İnsanlar güvenli bir yol bulduklarında arabayı evde bırakmaya daha istekli oluyor.”
+- **tyt-tar · İnsanlığın İlk Dönemleri** — Yazıyı ilk kullandığı kabul edilen uygarlık hangisidir?
+  - **Sümerler** · Lidyalılar · Hititler · Fenikeliler · Urartular
+  - Çözüm: Sümerler çivi yazısını bulmuştur (MÖ 3200 dolayları); bu, tarih çağlarının başlangıcı kabul edilir.
+- **tyt-tar · İnsanlığın İlk Dönemleri** — Parayı ilk kullandığı kabul edilen uygarlık hangisidir?
+  - **Lidyalılar** · Sümerler · Hititler · Mısırlılar · Frigler
+  - Çözüm: Lidyalılar parayı ilk kullanan uygarlık olarak bilinir.
+- **tyt-tar · İnsanlığın İlk Dönemleri** — Bilinen ilk yazılı antlaşma olan Kadeş Antlaşması hangi iki devlet arasında imzalanmıştır?
+  - **Hititler ile Mısır** · Sümerler ile Akadlar · Lidyalılar ile Persler · Asurlular ile Babilliler · Frigler ile Urartular
+  - Çözüm: Kadeş Antlaşması (MÖ 13. yüzyıl) Hititler ile Mısır arasında yapılmıştır.
+- **tyt-tar · İslam Medeniyetinin Doğuşu** — Hz. Muhammed’in Mekke’den Medine’ye göçü (Hicret) hangi yılda olmuştur?
+  - **622** · 610 · 632 · 571 · 661
+  - Çözüm: Hicret 622 yılında gerçekleşmiştir ve Hicri takvimin başlangıcı kabul edilir.
+- **tyt-tar · Selçuklu Türkiyesi** — Anadolu’nun kapılarını Türklere açan savaş hangisidir?
+  - **Malazgirt Savaşı (1071)** · Miryokefalon Savaşı (1176) · Kösedağ Savaşı (1243) · Dandanakan Savaşı (1040) · Ankara Savaşı (1402)
+  - Çözüm: Malazgirt’te Alparslan’ın Bizans’ı yenmesiyle Anadolu’ya Türk göçü hızlanmıştır.
+- **tyt-tar · Selçuklu Türkiyesi** — Bizans’ın Türkleri Anadolu’dan çıkarma umudunu yitirdiği savaş hangisidir?
+  - **Miryokefalon Savaşı** · Malazgirt Savaşı · Kösedağ Savaşı · Pasinler Savaşı · Katvan Savaşı
+  - Çözüm: Miryokefalon (1176) zaferiyle Anadolu’nun Türk yurdu olduğu kesinleşmiştir.
+- **tyt-tar · Selçuklu Türkiyesi** — Türkiye Selçuklu Devleti’nin Moğol egemenliğine girmesine yol açan savaş hangisidir?
+  - **Kösedağ Savaşı (1243)** · Malazgirt Savaşı (1071) · Miryokefalon Savaşı (1176) · Yassıçemen Savaşı (1230) · Ankara Savaşı (1402)
+  - Çözüm: Kösedağ yenilgisiyle Türkiye Selçukluları Moğol (İlhanlı) egemenliğine girmiştir.
+- **tyt-tar · Beylikten Devlete Osmanlı** — Ankara Savaşı (1402) kimler arasında yapılmıştır?
+  - **Yıldırım Bayezid ile Timur** · Fatih Sultan Mehmet ile Uzun Hasan · Orhan Bey ile Bizans · II. Murat ile Haçlılar · Kanuni ile Habsburglar
+  - Çözüm: Ankara Savaşı’nı Timur kazanmış, Osmanlı’da Fetret Devri başlamıştır.
+- **tyt-tar · Beylikten Devlete Osmanlı** — İstanbul hangi yıl fethedilmiştir?
+  - **1453** · 1402 · 1517 · 1299 · 1526
+  - Çözüm: İstanbul 1453’te Fatih Sultan Mehmet tarafından fethedilmiştir.
+- **tyt-tar · Dünya Gücü Osmanlı** — Mohaç Meydan Muharebesi (1526) hangi padişah döneminde kazanılmıştır?
+  - **Kanuni Sultan Süleyman** · Yavuz Sultan Selim · Fatih Sultan Mehmet · II. Bayezid · III. Murat
+  - Çözüm: Mohaç’ta Kanuni Sultan Süleyman Macar ordusunu yenmiştir.
+- **tyt-tar · Dünya Gücü Osmanlı** — Preveze Deniz Savaşı’nda (1538) Osmanlı donanmasının komutanı kimdir?
+  - **Barbaros Hayreddin Paşa** · Piri Reis · Turgut Reis · Oruç Reis · Kılıç Ali Paşa
+  - Çözüm: Preveze’de Barbaros Hayreddin Paşa Haçlı donanmasını yenmiştir.
+- **tyt-tar · Değişim Çağında Osmanlı ve Avrupa** — Osmanlı Devleti’nin ilk büyük toprak kaybını yaşadığı antlaşma hangisidir?
+  - **Karlofça Antlaşması (1699)** · Küçük Kaynarca Antlaşması (1774) · Pasarofça Antlaşması (1718) · Zitvatorok Antlaşması (1606) · Berlin Antlaşması (1878)
+  - Çözüm: Karlofça Antlaşması ile Osmanlı ilk kez büyük toprak kaybetmiştir.
+- **tyt-tar · Değişim Çağında Osmanlı ve Avrupa** — Osmanlı’da ilk Türk matbaasını kuran kimdir?
+  - **İbrahim Müteferrika** · Katip Çelebi · Evliya Çelebi · Piri Reis · Mimar Sinan
+  - Çözüm: İbrahim Müteferrika, Lale Devri’nde ilk Türk matbaasını kurmuştur.
+- **tyt-tar · Değişim Çağında Osmanlı ve Avrupa** — Tanzimat Fermanı hangi yıl ilan edilmiştir?
+  - **1839** · 1856 · 1876 · 1808 · 1908
+  - Çözüm: Tanzimat Fermanı 1839’da Sultan Abdülmecid döneminde ilan edilmiştir.
+- **tyt-tar · Değişim Çağında Osmanlı ve Avrupa** — Osmanlı’nın ilk anayasası olan Kanun-i Esasi hangi yıl ilan edilmiştir?
+  - **1876** · 1839 · 1856 · 1908 · 1921
+  - Çözüm: Kanun-i Esasi 1876’da ilan edilmiş, I. Meşrutiyet başlamıştır.
+- **tyt-tar · Milli Mücadele** — Mustafa Kemal’in Samsun’a çıktığı tarih hangisidir?
+  - **19 Mayıs 1919** · 23 Nisan 1920 · 22 Haziran 1919 · 4 Eylül 1919 · 30 Ekim 1918
+  - Çözüm: Mustafa Kemal 19 Mayıs 1919’da Samsun’a çıkmış, Milli Mücadele başlamıştır.
+- **tyt-tar · Milli Mücadele** — Misak-ı Milli hangi meclis tarafından kabul edilmiştir?
+  - **Son Osmanlı Mebusan Meclisi** · Türkiye Büyük Millet Meclisi · Heyet-i Temsiliye · Erzurum Kongresi · Sivas Kongresi
+  - Çözüm: Misak-ı Milli 28 Ocak 1920’de Son Osmanlı Mebusan Meclisi’nde kabul edilmiştir.
+- **tyt-tar · Milli Mücadele** — TBMM’nin ilk askeri ve siyasi başarısı sayılan antlaşma hangisidir?
+  - **Gümrü Antlaşması** · Ankara Antlaşması · Moskova Antlaşması · Mudanya Ateşkes Antlaşması · Lozan Barış Antlaşması
+  - Çözüm: Doğu Cephesi’nde Ermenistan ile imzalanan Gümrü Antlaşması (1920) TBMM’nin ilk siyasi başarısıdır.
+- **tyt-tar · Milli Mücadele** — TBMM’nin tanımadığı ve hiç yürürlüğe girmeyen antlaşma hangisidir?
+  - **Sevr Antlaşması** · Lozan Barış Antlaşması · Mudanya Ateşkes Antlaşması · Gümrü Antlaşması · Kars Antlaşması
+  - Çözüm: Sevr Antlaşması (10 Ağustos 1920) TBMM tarafından tanınmamış, uygulanamamıştır.
+- **tyt-tar · Milli Mücadele** — Büyük Taarruz hangi tarihte başlamıştır?
+  - **26 Ağustos 1922** · 30 Ağustos 1922 · 9 Eylül 1922 · 23 Ağustos 1921 · 10 Ocak 1921
+  - Çözüm: Büyük Taarruz 26 Ağustos 1922’de başlamış, 30 Ağustos’ta Başkomutanlık Meydan Muharebesi kazanılmıştır.
+- **tyt-tar · Milli Mücadele** — Mudanya Ateşkes Antlaşması hangi tarihte imzalanmıştır?
+  - **11 Ekim 1922** · 24 Temmuz 1923 · 30 Ekim 1918 · 20 Ekim 1921 · 1 Kasım 1922
+  - Çözüm: Mudanya Ateşkes Antlaşması 11 Ekim 1922’de imzalanmıştır.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Cumhuriyet hangi tarihte ilan edilmiştir?
+  - **29 Ekim 1923** · 23 Nisan 1920 · 1 Kasım 1922 · 3 Mart 1924 · 24 Temmuz 1923
+  - Çözüm: Cumhuriyet 29 Ekim 1923’te ilan edilmiştir.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Şapka Kanunu ve tekke-zaviyelerin kapatılması hangi yıl gerçekleşmiştir?
+  - **1925** · 1923 · 1928 · 1934 · 1937
+  - Çözüm: Şapka Kanunu ve tekke, zaviye ve türbelerin kapatılması 1925’tedir.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Türk Dil Kurumu (Türk Dili Tetkik Cemiyeti) hangi yıl kurulmuştur?
+  - **1932** · 1931 · 1928 · 1934 · 1926
+  - Çözüm: Türk Dil Kurumu 1932’de, Türk Tarih Kurumu 1931’de kurulmuştur.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Laiklik ilkesi anayasaya hangi yıl girmiştir?
+  - **1937** · 1924 · 1928 · 1931 · 1946
+  - Çözüm: Atatürk ilkeleri (laiklik dahil) 1937’de anayasaya girmiştir.
+- **tyt-tar · Atatürkçülük ve Türk İnkılabı** — Türk kadınına belediye seçimlerinde seçme ve seçilme hakkı hangi yıl tanınmıştır?
+  - **1930** · 1934 · 1926 · 1923 · 1946
+  - Çözüm: Belediye seçimlerinde 1930, milletvekili seçimlerinde 1934.
+- **ayt-tar · İki Savaş Arası Dönem ve II. Dünya Savaşı** — II. Dünya Savaşı hangi yıllar arasında yaşanmıştır?
+  - **1939 – 1945** · 1914 – 1918 · 1936 – 1941 · 1941 – 1949 · 1945 – 1950
+  - Çözüm: II. Dünya Savaşı 1939’da başlamış, 1945’te sona ermiştir.
+- **ayt-tar · Soğuk Savaş ve Yumuşama Dönemi** — Türkiye NATO’ya hangi yıl üye olmuştur?
+  - **1952** · 1949 · 1945 · 1960 · 1974
+  - Çözüm: NATO 1949’da kurulmuş, Türkiye 1952’de üye olmuştur.
+- **ayt-tar · Soğuk Savaş ve Yumuşama Dönemi** — Soğuk Savaş’ın sona ermesinin simgesi sayılan Berlin Duvarı hangi yıl yıkılmıştır?
+  - **1989** · 1961 · 1991 · 1985 · 1979
+  - Çözüm: Berlin Duvarı 1961’de yapılmış, 1989’da yıkılmıştır.
+- **ayt-tar · Osmanlı Kuruluş ve Yükselme** — Osmanlı Devleti’nin kurucusu kimdir?
+  - **Osman Bey** · Ertuğrul Gazi · Orhan Bey · I. Murat · Yıldırım Bayezid
+  - Çözüm: Osmanlı Beyliği adını kurucusu Osman Bey’den alır.
+- **ayt-tar · Milli Mücadele** — Heyet-i Temsiliye’nin bütün yurdu temsil eder hâle geldiği kongre hangisidir?
+  - **Sivas Kongresi** · Erzurum Kongresi · Balıkesir Kongresi · Alaşehir Kongresi · Pozantı Kongresi
+  - Çözüm: Sivas Kongresi’nde (1919) Heyet-i Temsiliye’nin yetkisi bütün yurdu kapsayacak biçimde genişlemiştir.
+- **tyt-cog · Türkiye’nin Yer Şekilleri ve İklimi** — Türkiye’nin en yüksek dağı hangisidir?
+  - **Ağrı Dağı** · Erciyes Dağı · Süphan Dağı · Uludağ · Kaçkar Dağı
+  - Çözüm: Ağrı Dağı (5137 m) Türkiye’nin en yüksek dağıdır.
+- **tyt-cog · Türkiye’nin Yer Şekilleri ve İklimi** — Türkiye’nin yüzölçümü en büyük gölü hangisidir?
+  - **Van Gölü** · Tuz Gölü · Beyşehir Gölü · Eğirdir Gölü · Sapanca Gölü
+  - Çözüm: Van Gölü Türkiye’nin en büyük gölüdür.
+- **tyt-cog · Türkiye’nin Yer Şekilleri ve İklimi** — Tamamı Türkiye sınırları içinde olan en uzun akarsu hangisidir?
+  - **Kızılırmak** · Fırat · Sakarya · Yeşilırmak · Dicle
+  - Çözüm: Kızılırmak, tamamı Türkiye’de olan en uzun akarsudur.
+- **tyt-cog · İklim Tipleri** — Akdeniz ikliminin doğal bitki örtüsü hangisidir?
+  - **Maki** · Bozkır · Tundra · Savan · Tayga
+  - Çözüm: Akdeniz ikliminde yazları kurak geçtiği için kısa boylu, her dem yeşil maki görülür.
+- **tyt-cog · İklim Tipleri** — Karasal iklimin doğal bitki örtüsü hangisidir?
+  - **Bozkır** · Maki · Orman · Savan · Tundra
+  - Çözüm: Karasal iklimde yağışlar ilkbaharda düşer; yaz kuraklığıyla otlar kurur: bozkır.
+- **tyt-cog · İklim Tipleri** — Karadeniz ikliminin doğal bitki örtüsü hangisidir?
+  - **Orman** · Maki · Bozkır · Garig · Tundra
+  - Çözüm: Her mevsim yağışlı Karadeniz ikliminde gür ormanlar yetişir.
+- **tyt-cog · Ekonomik Faaliyetler** — Türkiye’de çay tarımı en çok hangi bölgede yapılır?
+  - **Karadeniz Bölgesi** · Ege Bölgesi · Akdeniz Bölgesi · Marmara Bölgesi · İç Anadolu Bölgesi
+  - Çözüm: Çay bol yağış ister; Doğu Karadeniz (özellikle Rize) başlıca üretim alanıdır.
+- **tyt-cog · Ekonomik Faaliyetler** — Türkiye’de fındık üretiminin en fazla olduğu bölge hangisidir?
+  - **Karadeniz Bölgesi** · Ege Bölgesi · Marmara Bölgesi · Akdeniz Bölgesi · Doğu Anadolu Bölgesi
+  - Çözüm: Fındık üretiminde Karadeniz kıyıları öndedir.
+- **tyt-cog · Doğal Afetler** — Türkiye’de en büyük depremlerin görüldüğü fay hatlarından biri olan ve Marmara’dan Doğu Anadolu’ya uzanan fay hangisidir?
+  - **Kuzey Anadolu Fay Hattı** · Batı Anadolu Fay Hattı · Ölü Deniz Fayı · Toros Fay Hattı · Ege Graben Sistemi
+  - Çözüm: Kuzey Anadolu Fay Hattı, Türkiye’de pek çok büyük depreme yol açmış aktif bir faydır.
+- **tyt-cog · Dünya’nın Şekli ve Hareketleri** — Dünya’nın Güneş etrafındaki bir dolanımı yaklaşık ne kadar sürer?
+  - **365 gün 6 saat** · 24 saat · 30 gün · 360 gün · 12 ay 12 gün
+  - Çözüm: Yıllık hareket 365 gün 6 saat sürer; artan saatler 4 yılda bir artık yılı oluşturur.
+- **tyt-cog · Dünya’nın Şekli ve Hareketleri** — Ardışık iki meridyen arasındaki yerel saat farkı kaç dakikadır?
+  - **4 dakika** · 1 dakika · 15 dakika · 60 dakika · 30 dakika
+  - Çözüm: Dünya 360°’yi 24 saatte döner: 1° için 4 dakika.
+- **tyt-cog · Dünya’nın Şekli ve Hareketleri** — Gece ile gündüzün bütün dünyada eşit olduğu tarihlerden biri hangisidir?
+  - **21 Mart** · 21 Haziran · 21 Aralık · 1 Ocak · 15 Temmuz
+  - Çözüm: Ekinoks tarihleri 21 Mart ve 23 Eylül’dür.
+- **tyt-cog · Nüfus ve Göç** — Türkiye’de nüfusun en kalabalık olduğu il hangisidir?
+  - **İstanbul** · Ankara · İzmir · Bursa · Konya
+  - Çözüm: İstanbul Türkiye’nin en kalabalık ilidir.
+- **ayt-cog · Bölgesel Kalkınma Projeleri** — GAP (Güneydoğu Anadolu Projesi) hangi akarsular üzerinde kurulan barajlara dayanır?
+  - **Fırat ve Dicle** · Kızılırmak ve Yeşilırmak · Sakarya ve Porsuk · Seyhan ve Ceyhan · Gediz ve Büyük Menderes
+  - Çözüm: GAP, Fırat ve Dicle üzerindeki barajlar ve sulama kanallarıyla bölgeyi kalkındırmayı amaçlar.
+- **ayt-cog · Bölgesel Kalkınma Projeleri** — DOKAP hangi bölgeye yönelik bir kalkınma projesidir?
+  - **Doğu Karadeniz** · Doğu Anadolu · Güneydoğu Anadolu · Batı Akdeniz · Trakya
+  - Çözüm: DOKAP: Doğu Karadeniz Bölgesel Gelişme Projesi.
+- **ayt-cog · Ekonomik Faaliyetler ve Doğal Kaynaklar** — Türkiye’nin rezervleriyle dünyada ilk sırada yer aldığı maden hangisidir?
+  - **Bor** · Altın · Petrol · Bakır · Demir
+  - Çözüm: Türkiye dünya bor rezervlerinin büyük bölümüne sahiptir.
+- **ayt-cog · Ekosistemler ve Madde Döngüleri** — Ekosistemlerin temel enerji kaynağı hangisidir?
+  - **Güneş** · Rüzgâr · Toprak · Su · Ayrıştırıcılar
+  - Çözüm: Üreticiler Güneş enerjisini fotosentezle kimyasal enerjiye çevirir; enerji akışı buradan başlar.
+- **ayt-cog · Ekosistemler ve Madde Döngüleri** — Azot döngüsünde havadaki azotu toprağa bağlayan canlılar hangileridir?
+  - **Azot bağlayıcı bakteriler** · Mantarlar · Otçul hayvanlar · Kuşlar · Etçil hayvanlar
+  - Çözüm: Bazı bakteriler (ör. baklagillerin köklerindekiler) havadaki azotu bitkilerin kullanabileceği biçime çevirir.
+- **ayt-cog · Çevre ve Toplum** — Sera etkisinin artmasında en büyük payı olan gaz hangisidir?
+  - **Karbondioksit** · Oksijen · Azot · Argon · Helyum
+  - Çözüm: Fosil yakıtların yanmasıyla artan karbondioksit sera etkisini güçlendirir.
+- **ayt-cog · Çevre ve Toplum** — Ozon tabakasının incelmesine yol açan maddeler hangisidir?
+  - **Kloroflorokarbonlar (CFC)** · Su buharı · Azot gazı · Oksijen gazı · Helyum
+  - Çözüm: Eskiden spreylerde ve soğutucularda kullanılan CFC’ler ozonu parçalar.
+- **ayt-cog · Türkiye’de Nüfus ve Yerleşme** — Türkiye’de nüfus yoğunluğunun en fazla olduğu bölge hangisidir?
+  - **Marmara Bölgesi** · Doğu Anadolu Bölgesi · İç Anadolu Bölgesi · Karadeniz Bölgesi · Akdeniz Bölgesi
+  - Çözüm: Sanayi, ticaret ve ulaşım olanakları Marmara’yı en yoğun nüfuslu bölge yapar.
+- **tyt-fel · Felsefeye Giriş** — “Bildiğim tek şey, hiçbir şey bilmediğimdir.” sözü hangi filozofa aittir?
+  - **Sokrates** · Platon · Aristoteles · Descartes · Kant
+  - Çözüm: Bu söz Sokrates’e atfedilir; bilgeliğin, cehaletini bilmekle başladığını anlatır.
+- **tyt-fel · Bilgi Felsefesi** — Bilginin kaynağını deney ve gözlem olarak gören görüş hangisidir?
+  - **Empirizm** · Rasyonalizm · Entüisyonizm · Kritisizm · Septisizm
+  - Çözüm: Empirizm (deneycilik) bilginin deneyimle edinildiğini savunur.
+- **tyt-fel · Bilgi Felsefesi** — Kesin bilgiye ulaşılamayacağını savunan görüş hangisidir?
+  - **Septisizm (şüphecilik)** · Rasyonalizm · Empirizm · Pozitivizm · Pragmatizm
+  - Çözüm: Septisizm, kesin ve doğru bilginin mümkün olmadığını savunur.
+- **tyt-fel · Bilgi Felsefesi** — “Bir bilgi işe yarıyor, sonuç veriyorsa doğrudur.” görüşü hangisine aittir?
+  - **Pragmatizm** · Rasyonalizm · Septisizm · Fenomenoloji · Kritisizm
+  - Çözüm: Pragmatizme (W. James, J. Dewey) göre doğruluğun ölçütü faydadır.
+- **tyt-fel · Bilgi Felsefesi** — Bilginin hem akıl hem deneyimle oluştuğunu savunan kritisizmin temsilcisi kimdir?
+  - **Immanuel Kant** · John Locke · René Descartes · David Hume · Platon
+  - Çözüm: Kant’a göre bilgi, deneyimden gelen malzemenin aklın kalıplarıyla işlenmesiyle oluşur.
+- **tyt-fel · Varlık Felsefesi** — Gerçek varlığın idealar dünyasında olduğunu savunan filozof kimdir?
+  - **Platon** · Aristoteles · Demokritos · Thales · Herakleitos
+  - Çözüm: Platon’a göre duyular dünyası, idealar dünyasının kusurlu bir kopyasıdır.
+- **tyt-fel · Ahlak Felsefesi** — Ahlaki eylemin değerini sonuca değil “ödev” bilincine bağlayan filozof kimdir?
+  - **Kant** · Epikuros · Bentham · Nietzsche · Aristippos
+  - Çözüm: Kant’ın ödev ahlakında eylem, sonucu için değil ödev olduğu için yapıldığında ahlakidir.
+- **tyt-fel · Ahlak Felsefesi** — Hazzı en yüksek iyi olarak gören ahlak anlayışı hangisidir?
+  - **Hedonizm** · Egoizm · Ödev ahlakı · Varoluşçuluk · Kinizm
+  - Çözüm: Hedonizme (hazcılık) göre en yüksek iyi hazdır; temsilcileri Aristippos ve Epikuros’tur.
+- **tyt-fel · Sanat Felsefesi** — Sanatı doğanın taklidi (mimesis) olarak gören görüşün temsilcilerinden biri kimdir?
+  - **Platon** · Kant · Hegel · Croce · Nietzsche
+  - Çözüm: Platon ve Aristoteles sanatı taklit (mimesis) olarak açıklar.
+- **tyt-fel · Din Felsefesi** — Tanrı’nın evreni yarattığını ama evrene müdahale etmediğini savunan görüş hangisidir?
+  - **Deizm** · Teizm · Ateizm · Agnostisizm · Panteizm
+  - Çözüm: Deizme göre Tanrı evreni yaratmış, sonra işleyişine karışmamıştır.
+- **tyt-fel · Din Felsefesi** — Tanrı’nın varlığı ya da yokluğu hakkında kesin bilgiye ulaşılamayacağını savunan görüş hangisidir?
+  - **Agnostisizm** · Deizm · Teizm · Ateizm · Panteizm
+  - Çözüm: Agnostisizm, bu konuda bilginin mümkün olmadığını savunur.
+- **tyt-fel · Siyaset Felsefesi** — “İnsan insanın kurdudur.” diyerek güçlü bir devlete (Leviathan) ihtiyaç olduğunu savunan filozof kimdir?
+  - **Thomas Hobbes** · John Locke · J. J. Rousseau · Karl Marx · Platon
+  - Çözüm: Hobbes’a göre doğa durumunda insanlar birbirine düşmandır; güvenlik için güçlü bir devlet gerekir.
+- **tyt-fel · Siyaset Felsefesi** — “Hükümdar” adlı eserin yazarı kimdir?
+  - **Niccolò Machiavelli** · Thomas More · Platon · Farabi · Montesquieu
+  - Çözüm: Machiavelli “Hükümdar” (Prens) adlı eserinde devleti güçlü kılmanın yollarını tartışır.
+- **tyt-fel · Bilim Felsefesi** — Bilimsel bir kuramın yanlışlanabilir olması gerektiğini savunan filozof kimdir?
+  - **Karl Popper** · Thomas Kuhn · Auguste Comte · Francis Bacon · Viyana Çevresi
+  - Çözüm: Popper’a göre bilimsel önermeler yanlışlanabilir olmalıdır.
+- **tyt-fel · Bilim Felsefesi** — Bilimin “paradigma” değişimleriyle ilerlediğini savunan düşünür kimdir?
+  - **Thomas Kuhn** · Karl Popper · Descartes · Aristoteles · Hume
+  - Çözüm: Kuhn “Bilimsel Devrimlerin Yapısı”nda bilimin paradigma değişimleriyle ilerlediğini anlatır.
+- **ayt-fel · Psikoloji** — Psikanaliz kuramının kurucusu kimdir?
+  - **Sigmund Freud** · Ivan Pavlov · B. F. Skinner · Abraham Maslow · Wilhelm Wundt
+  - Çözüm: Psikanalizi Sigmund Freud geliştirmiştir.
+- **ayt-fel · Psikoloji** — Klasik koşullanma deneyleriyle (köpek ve zil) tanınan bilim insanı kimdir?
+  - **Ivan Pavlov** · B. F. Skinner · Freud · Piaget · Maslow
+  - Çözüm: Pavlov, zil sesiyle yemek arasında kurulan bağla klasik koşullanmayı göstermiştir.
+- **ayt-fel · Psikoloji** — İhtiyaçlar hiyerarşisi kuramını geliştiren psikolog kimdir?
+  - **Abraham Maslow** · Carl Jung · Ivan Pavlov · John Watson · Alfred Adler
+  - Çözüm: Maslow’a göre fizyolojik ihtiyaçlardan kendini gerçekleştirmeye uzanan bir basamaklanma vardır.
+- **ayt-fel · Psikoloji** — Bilimsel psikolojinin başlangıcı sayılan ilk psikoloji laboratuvarını kuran kimdir?
+  - **Wilhelm Wundt** · Freud · William James · Pavlov · Skinner
+  - Çözüm: Wundt 1879’da Leipzig’de ilk deneysel psikoloji laboratuvarını kurmuştur.
+- **ayt-fel · Sosyoloji** — “Sosyoloji” terimini ilk kullanan düşünür kimdir?
+  - **Auguste Comte** · Emile Durkheim · Max Weber · İbn Haldun · Karl Marx
+  - Çözüm: Terim Auguste Comte’a aittir. İbn Haldun ise toplum incelemelerinin öncülerindendir.
+- **ayt-fel · Sosyoloji** — Aşağıdakilerden hangisi bir toplumsal kurum değildir?
+  - **Arkadaş grubu** · Aile · Eğitim · Ekonomi · Din
+  - Çözüm: Aile, eğitim, ekonomi, din ve siyaset toplumsal kurumlardır; arkadaş grubu bir toplumsal gruptur.
+- **ayt-fel · Mantık** — Mantığı sistemli bir bilgi alanı olarak kuran filozof kimdir?
+  - **Aristoteles** · Platon · Sokrates · Thales · Zenon
+  - Çözüm: Klasik (Aristotelesçi) mantık Aristoteles tarafından sistemleştirilmiştir.
+- **ayt-fel · Mantık** — “Bütün insanlar ölümlüdür. Sokrates bir insandır.” öncüllerinden zorunlu olarak çıkan sonuç hangisidir?
+  - **Sokrates ölümlüdür.** · Bazı insanlar ölümsüzdür. · Sokrates insan değildir. · Bütün ölümlüler insandır. · Sokrates ölümsüzdür.
+  - Çözüm: Geçerli bir kıyasın sonucu: Sokrates ölümlüdür. “Bütün ölümlüler insandır” öncüllerden çıkmaz.
+- **ayt-fel · Mantık** — Genelden özele doğru giden akıl yürütme hangisidir?
+  - **Tümdengelim** · Tümevarım · Analoji · Sezgi · Gözlem
+  - Çözüm: Tümdengelim genelden özele, tümevarım özelden genele gider.
+- **ayt-fel · Felsefe Tarihi** — Evrenin ana maddesini (arkhe) “su” olarak açıklayan ilk filozof kimdir?
+  - **Thales** · Anaksimenes · Herakleitos · Demokritos · Pisagor
+  - Çözüm: İlk filozof kabul edilen Thales’e göre her şeyin kökü sudur.
+- **ayt-fel · Felsefe Tarihi** — “Aynı ırmakta iki kez yıkanılmaz.” diyerek değişimi vurgulayan filozof kimdir?
+  - **Herakleitos** · Parmenides · Thales · Zenon · Demokritos
+  - Çözüm: Herakleitos’a göre her şey akar, sürekli değişir.
+- **ayt-fel · Felsefe Tarihi** — “Muallim-i Sani” (İkinci Öğretmen) olarak anılan İslam filozofu kimdir?
+  - **Farabi** · İbn Sina · Gazali · İbn Rüşd · Kindi
+  - Çözüm: Aristoteles’ten sonra “ikinci öğretmen” sayılan Farabi’dir.
+- **ayt-fel · Felsefe Tarihi** — Atomculuk görüşünün temsilcisi olan İlk Çağ filozofu kimdir?
+  - **Demokritos** · Thales · Sokrates · Platon · Herakleitos
+  - Çözüm: Demokritos’a göre evren bölünemeyen atomlardan oluşur.
+- **ayt-edb · İslamiyet Öncesi ve Geçiş Dönemi Türk Edebiyatı** — İslamiyet öncesi Türk edebiyatında yuğ törenlerinde söylenen ağıtlara ne ad verilir?
+  - **Sagu** · Koşuk · Sav · Destan · Mani
+  - Çözüm: Ölen kişinin ardından söylenen ağıtlar sagu; sığır törenlerinde söylenen şiirler koşuktur.
+- **ayt-edb · İslamiyet Öncesi ve Geçiş Dönemi Türk Edebiyatı** — Ergenekon Destanı hangi Türk topluluğuna aittir?
+  - **Göktürkler** · Hunlar · Uygurlar · Kırgızlar · Sakalar
+  - Çözüm: Ergenekon Göktürklere, Oğuz Kağan Hunlara, Türeyiş ve Göç destanları Uygurlara aittir.
+- **ayt-edb · İslamiyet Öncesi ve Geçiş Dönemi Türk Edebiyatı** — “Divan-ı Hikmet” adlı eserin yazarı kimdir?
+  - **Ahmet Yesevi** · Yusuf Has Hacib · Edip Ahmet Yükneki · Kaşgarlı Mahmud · Yunus Emre
+  - Çözüm: Divan-ı Hikmet, tasavvufi şiirleri içeren Ahmet Yesevi’nin eseridir.
+- **ayt-edb · Halk Edebiyatı** — Aşağıdaki şairlerden hangisi âşık edebiyatı temsilcisidir?
+  - **Karacaoğlan** · Fuzuli · Baki · Nedim · Şeyh Galip
+  - Çözüm: Karacaoğlan âşık edebiyatının; diğerleri Divan edebiyatının şairleridir.
+- **ayt-edb · Halk Edebiyatı** — Tasavvufi halk edebiyatının en önemli temsilcisi sayılan şair kimdir?
+  - **Yunus Emre** · Karacaoğlan · Köroğlu · Dadaloğlu · Âşık Veysel
+  - Çözüm: Yunus Emre tasavvufi halk şiirinin önde gelen şairidir.
+- **ayt-edb · Divan Edebiyatı** — Divan edebiyatında beyitlerin kendi arasında kafiyelendiği (aa, bb, cc…) ve en uzun eserlerin yazıldığı nazım biçimi hangisidir?
+  - **Mesnevi** · Gazel · Kaside · Rubai · Kıta
+  - Çözüm: Mesnevide her beyit kendi içinde kafiyelidir; bu yüzden uzun hikâyeler anlatmaya elverişlidir.
+- **ayt-edb · Divan Edebiyatı** — Gazelde şairin mahlasının (takma adının) geçtiği son beyte ne ad verilir?
+  - **Makta** · Matla · Beyt-ül gazel · Nesib · Girizgâh
+  - Çözüm: İlk beyit matla, son beyit makta; en güzel beyit beyt-ül gazeldir.
+- **ayt-edb · Divan Edebiyatı** — “Sultanü’ş-şuara” (şairler sultanı) olarak anılan Divan şairi kimdir?
+  - **Baki** · Fuzuli · Nefi · Nedim · Nabi
+  - Çözüm: Kanuni döneminin şairi Baki “şairler sultanı” unvanıyla anılır.
+- **ayt-edb · Divan Edebiyatı** — Divan edebiyatında didaktik “Hayriye” adlı eserin yazarı kimdir?
+  - **Nabi** · Nefi · Fuzuli · Şeyh Galip · Baki
+  - Çözüm: Nabi, oğluna öğütler verdiği Hayriye’siyle tanınır.
+- **ayt-edb · Divan Edebiyatı** — Kasideleri ve “Siham-ı Kaza” adlı hiciv eseriyle tanınan şair kimdir?
+  - **Nefi** · Nabi · Baki · Nedim · Fuzuli
+  - Çözüm: Nefi kaside ve hiciv ustasıdır.
+- **ayt-edb · Tanzimat Edebiyatı** — “Vatan yahut Silistre” adlı tiyatro eserinin yazarı kimdir?
+  - **Namık Kemal** · Şinasi · Ziya Paşa · Ahmet Vefik Paşa · Recaizade Mahmut Ekrem
+  - Çözüm: Vatan yahut Silistre, vatanseverlik temalı Namık Kemal tiyatrosudur.
+- **ayt-edb · Tanzimat Edebiyatı** — Türk edebiyatının ilk edebi romanı kabul edilen “İntibah”ın yazarı kimdir?
+  - **Namık Kemal** · Şemsettin Sami · Ahmet Mithat Efendi · Recaizade Mahmut Ekrem · Nabizade Nazım
+  - Çözüm: İntibah, Namık Kemal’in romanıdır ve ilk edebi roman sayılır.
+- **ayt-edb · Tanzimat Edebiyatı** — Gerçekçi romanın ilk örneği sayılan “Araba Sevdası”nın yazarı kimdir?
+  - **Recaizade Mahmut Ekrem** · Namık Kemal · Ahmet Mithat Efendi · Halit Ziya Uşaklıgil · Şinasi
+  - Çözüm: Araba Sevdası, Recaizade Mahmut Ekrem’in romanıdır.
+- **ayt-edb · Servet-i Fünun ve Fecr-i Âti** — “Sis” şiiri ve “Rübab-ı Şikeste” adlı eseri olan şair kimdir?
+  - **Tevfik Fikret** · Cenap Şahabettin · Mehmet Akif Ersoy · Ahmet Haşim · Yahya Kemal
+  - Çözüm: Tevfik Fikret Servet-i Fünun şiirinin önde gelen adıdır.
+- **ayt-edb · Servet-i Fünun ve Fecr-i Âti** — Türk edebiyatının ilk psikolojik romanı kabul edilen “Eylül”ün yazarı kimdir?
+  - **Mehmet Rauf** · Halit Ziya Uşaklıgil · Hüseyin Cahit Yalçın · Peyami Safa · Reşat Nuri Güntekin
+  - Çözüm: Eylül, Mehmet Rauf’un romanıdır.
+- **ayt-edb · Milli Edebiyat** — “Safahat” adlı şiir kitabının yazarı kimdir?
+  - **Mehmet Akif Ersoy** · Ziya Gökalp · Mehmet Emin Yurdakul · Tevfik Fikret · Yahya Kemal
+  - Çözüm: Safahat, İstiklal Marşı’nın şairi Mehmet Akif Ersoy’un eseridir.
+- **ayt-edb · Milli Edebiyat** — “Çalıkuşu” romanının yazarı kimdir?
+  - **Reşat Nuri Güntekin** · Halide Edip Adıvar · Yakup Kadri Karaosmanoğlu · Ömer Seyfettin · Refik Halit Karay
+  - Çözüm: Çalıkuşu, Reşat Nuri Güntekin’in romanıdır.
+- **ayt-edb · Milli Edebiyat** — “Ateşten Gömlek” romanının yazarı kimdir?
+  - **Halide Edip Adıvar** · Reşat Nuri Güntekin · Yakup Kadri Karaosmanoğlu · Peyami Safa · Memduh Şevket Esendal
+  - Çözüm: Ateşten Gömlek, Kurtuluş Savaşı’nı anlatan Halide Edip Adıvar romanıdır.
+- **ayt-edb · Milli Edebiyat** — “Yaban” romanının yazarı kimdir?
+  - **Yakup Kadri Karaosmanoğlu** · Halide Edip Adıvar · Reşat Nuri Güntekin · Kemal Tahir · Sabahattin Ali
+  - Çözüm: Yaban, aydın-halk çatışmasını işleyen Yakup Kadri Karaosmanoğlu romanıdır.
+- **ayt-edb · Cumhuriyet Dönemi Roman ve Hikâyesi** — “Huzur” ve “Saatleri Ayarlama Enstitüsü” romanlarının yazarı kimdir?
+  - **Ahmet Hamdi Tanpınar** · Peyami Safa · Oğuz Atay · Yusuf Atılgan · Orhan Pamuk
+  - Çözüm: Her iki roman da Ahmet Hamdi Tanpınar’ındır.
+- **ayt-edb · Cumhuriyet Dönemi Roman ve Hikâyesi** — “Tutunamayanlar” romanının yazarı kimdir?
+  - **Oğuz Atay** · Yusuf Atılgan · Ahmet Hamdi Tanpınar · Bilge Karasu · Adalet Ağaoğlu
+  - Çözüm: Tutunamayanlar, Oğuz Atay’ın romanıdır.
+- **ayt-edb · Cumhuriyet Dönemi Roman ve Hikâyesi** — “Semaver” adlı hikâye kitabının yazarı kimdir?
+  - **Sait Faik Abasıyanık** · Ömer Seyfettin · Memduh Şevket Esendal · Sabahattin Ali · Haldun Taner
+  - Çözüm: Semaver, Sait Faik’in ilk hikâye kitabıdır.
+- **ayt-edb · Cumhuriyet Dönemi Şiiri** — “Memleketimden İnsan Manzaraları” adlı eserin şairi kimdir?
+  - **Nazım Hikmet** · Orhan Veli Kanık · Necip Fazıl Kısakürek · Attila İlhan · Cemal Süreya
+  - Çözüm: Memleketimden İnsan Manzaraları, Nazım Hikmet’in eseridir.
+- **ayt-edb · Cumhuriyet Dönemi Şiiri** — “Çile” adlı şiir kitabının şairi kimdir?
+  - **Necip Fazıl Kısakürek** · Yahya Kemal Beyatlı · Ahmet Haşim · Faruk Nafiz Çamlıbel · Cahit Sıtkı Tarancı
+  - Çözüm: Çile, Necip Fazıl Kısakürek’in şiir kitabıdır.
+- **ayt-edb · Edebi Akımlar ve Dünya Edebiyatı** — Natüralizm akımının en önemli temsilcisi kimdir?
+  - **Émile Zola** · Victor Hugo · Charles Baudelaire · Molière · Honoré de Balzac
+  - Çözüm: Natüralizm Émile Zola ile özdeşleşmiştir; Balzac realist, Hugo romantik, Baudelaire sembolisttir.
+- **ayt-edb · Edebi Akımlar ve Dünya Edebiyatı** — Aklı, sağduyuyu ve kuralları ön planda tutan, 17. yüzyıl Fransa’sında gelişen akım hangisidir?
+  - **Klasisizm** · Romantizm · Realizm · Sembolizm · Sürrealizm
+  - Çözüm: Klasisizm akıl ve sağduyuyu esas alır; temsilcileri Molière, Racine, La Fontaine’dir.
+- **ayt-edb · Anlam Bilgisi** — “Gönlüm bir kuştu, uçtu gitti.” dizesinde hangi söz sanatı vardır?
+  - **Teşbih (benzetme)** · Tezat · Tecahül-i arif · Hüsn-i talil · Kinaye
+  - Çözüm: Gönül kuşa benzetilmiştir: teşbih.
+- **ayt-bio · Endokrin Sistem** — Kandaki glikoz miktarını düşüren hormon hangisidir?
+  - **İnsülin** · Glukagon · Adrenalin · Tiroksin · Büyüme hormonu
+  - Çözüm: Pankreastan salgılanan insülin kan şekerini düşürür; glukagon yükseltir.
+- **ayt-bio · Endokrin Sistem** — Büyüme hormonu hangi bezden salgılanır?
+  - **Hipofiz** · Tiroit · Böbrek üstü · Pankreas · Paratiroit
+  - Çözüm: Büyüme hormonu hipofiz bezinin ön lobundan salgılanır.
+- **ayt-bio · Endokrin Sistem** — Tiroksin hormonunu salgılayan bez hangisidir?
+  - **Tiroit** · Hipofiz · Pankreas · Böbrek üstü · Epifiz
+  - Çözüm: Tiroksin tiroit bezinden salgılanır ve metabolizma hızını düzenler.
+- **ayt-bio · Endokrin Sistem** — Stres ve tehlike anında salgılanan adrenalin hangi bezden salgılanır?
+  - **Böbrek üstü bezi** · Tiroit · Hipofiz · Pankreas · Timüs
+  - Çözüm: Adrenalin böbrek üstü bezinin öz bölgesinden salgılanır.
+- **ayt-bio · Sinir Sistemi** — Sinir sisteminin yapısal ve işlevsel birimi hangisidir?
+  - **Nöron** · Nefron · Alveol · Sarkomer · Akson
+  - Çözüm: Sinir sisteminin birimi nöron (sinir hücresi) dir; akson nöronun bir parçasıdır.
+- **ayt-bio · Sinir Sistemi** — Vücudun dengesini ve kas hareketlerinin koordinasyonunu sağlayan beyin bölümü hangisidir?
+  - **Beyincik** · Omurilik soğanı · Hipotalamus · Talamus · Ara beyin
+  - Çözüm: Beyincik denge ve hareket koordinasyonundan sorumludur.
+- **ayt-bio · Sinir Sistemi** — Solunum ve kalp atışını düzenleyen merkezlerin bulunduğu bölüm hangisidir?
+  - **Omurilik soğanı** · Beyincik · Uç beyin · Talamus · Hipofiz
+  - Çözüm: Soluk alıp verme ve kalp atışı gibi hayati merkezler omurilik soğanındadır.
+- **ayt-bio · Dolaşım ve Bağışıklık Sistemi** — Kanın pıhtılaşmasında görev alan kan hücresi hangisidir?
+  - **Trombosit (kan pulcuğu)** · Alyuvar · Akyuvar · Plazma · Lenf
+  - Çözüm: Trombositler pıhtılaşma olaylarını başlatır.
+- **ayt-bio · Dolaşım ve Bağışıklık Sistemi** — Alyuvarlarda oksijen taşıyan protein hangisidir?
+  - **Hemoglobin** · Miyoglobin · Keratin · Fibrinojen · İnsülin
+  - Çözüm: Hemoglobin oksijeni bağlayıp dokulara taşır.
+- **ayt-bio · Solunum Sistemi** — Akciğerlerde gaz alışverişinin gerçekleştiği yapı hangisidir?
+  - **Alveol** · Bronş · Gırtlak · Soluk borusu · Diyafram
+  - Çözüm: Oksijen ve karbondioksit alveollerle kılcal damarlar arasında difüzyonla değişir.
+- **ayt-bio · Boşaltım Sistemi** — Böbreğin yapısal ve işlevsel birimi hangisidir?
+  - **Nefron** · Nöron · Alveol · Villus · Lob
+  - Çözüm: Kanın süzülüp idrarın oluştuğu birim nefrondur.
+- **ayt-bio · Sindirim Sistemi** — Safra hangi organda üretilir?
+  - **Karaciğer** · Safra kesesi · Pankreas · Mide · İnce bağırsak
+  - Çözüm: Safra karaciğerde üretilir, safra kesesinde depolanır.
+- **ayt-bio · Sindirim Sistemi** — Besinlerin emiliminin büyük bölümü nerede gerçekleşir?
+  - **İnce bağırsak** · Mide · Kalın bağırsak · Yemek borusu · Ağız
+  - Çözüm: İnce bağırsaktaki villuslar emilim yüzeyini büyük ölçüde artırır.
+- **ayt-bio · Sindirim Sistemi** — Nişastanın kimyasal sindirimi nerede başlar?
+  - **Ağızda** · Midede · İnce bağırsakta · Kalın bağırsakta · Yemek borusunda
+  - Çözüm: Tükürükteki amilaz enzimi nişasta sindirimini ağızda başlatır. Protein sindirimi midede başlar.
+- **ayt-bio · Canlılık ve Enerji** — Fotosentezde atmosfere verilen gaz hangisidir?
+  - **Oksijen** · Karbondioksit · Azot · Hidrojen · Metan
+  - Çözüm: Fotosentezde CO₂ ve su kullanılır; glikoz üretilir ve O₂ açığa çıkar.
+- **ayt-bio · Canlılık ve Enerji** — Hücresel solunumda glikozun ilk yıkım evresi (glikoliz) hücrenin neresinde gerçekleşir?
+  - **Sitoplazmada** · Mitokondride · Çekirdekte · Kloroplastta · Ribozomda
+  - Çözüm: Glikoliz sitoplazmada gerçekleşir; oksijenli solunumun devamı mitokondridedir.
+- **ayt-bio · Canlılık ve Enerji** — Oksijen yetersizken kas hücrelerinde yapılan fermantasyonda hangi madde oluşur?
+  - **Laktik asit** · Etil alkol · Asetik asit · Üre · Amonyak
+  - Çözüm: Kaslarda laktik asit fermantasyonu olur; mayalar ise etil alkol fermantasyonu yapar.
+- **ayt-bio · Genden Proteine** — DNA’da bulunup RNA’da bulunmayan baz hangisidir?
+  - **Timin** · Urasil · Adenin · Guanin · Sitozin
+  - Çözüm: DNA’da timin, RNA’da timin yerine urasil bulunur.
+- **ayt-bio · Genden Proteine** — DNA’nın yapısındaki şeker hangisidir?
+  - **Deoksiriboz** · Riboz · Glikoz · Fruktoz · Sakkaroz
+  - Çözüm: DNA’da deoksiriboz, RNA’da riboz şekeri bulunur.
+- **ayt-bio · Bitki Biyolojisi** — Bitkilerde kökten alınan su ve mineralleri yapraklara taşıyan doku hangisidir?
+  - **Ksilem (odun borusu)** · Floem (soymuk borusu) · Epidermis · Kambiyum · Parankima
+  - Çözüm: Ksilem su ve mineral, floem organik besin taşır.
+- **ayt-bio · Bitki Biyolojisi** — Yapraklarda gaz alışverişini sağlayan yapılar hangisidir?
+  - **Stomalar** · Lentiseller · Kök tüyleri · Hidatotlar · Kutikula
+  - Çözüm: Stomalar yapraktaki gaz alışverişi ve terlemeyi sağlar.
+- **ayt-bio · Komünite ve Popülasyon Ekolojisi** — Belirli bir bölgede yaşayan aynı türden bireylerin oluşturduğu topluluğa ne denir?
+  - **Popülasyon** · Komünite · Ekosistem · Biyosfer · Habitat
+  - Çözüm: Aynı türün bireyleri popülasyonu; farklı türlerin popülasyonları komüniteyi oluşturur.
+- **ayt-bio · Komünite ve Popülasyon Ekolojisi** — İki türün de birbirinden yararlandığı ilişki hangisidir?
+  - **Mutualizm** · Kommensalizm · Parazitlik · Avcılık · Rekabet
+  - Çözüm: Mutualizmde iki taraf da yarar görür; kommensalizmde biri yararlanır, diğeri etkilenmez.
+- **ayt-bio · Üreme Sistemi ve Embriyonik Gelişim** — İnsanda döllenme genellikle nerede gerçekleşir?
+  - **Yumurta kanalında (fallop tüpü)** · Rahimde · Yumurtalıkta · Rahim ağzında · Vajinada
+  - Çözüm: Döllenme genellikle yumurta kanalının üst kısmında olur; embriyo rahme tutunur.
+- **tyt-kim · Atom ve Periyodik Sistem** — Periyodik sistemde 1A grubundaki elementlere (H hariç) ne ad verilir?
+  - **Alkali metaller** · Toprak alkali metaller · Halojenler · Soy gazlar · Geçiş metalleri
+  - Çözüm: 1A alkali metaller, 2A toprak alkali metaller, 7A halojenler, 8A soy gazlardır.
+- **tyt-kim · Atom ve Periyodik Sistem** — Demir elementinin sembolü hangisidir?
+  - **Fe** · D · De · Ir · F
+  - Çözüm: Demirin sembolü Latince “ferrum”dan gelen Fe’dir.
+- **tyt-kim · Atom ve Periyodik Sistem** — Potasyum elementinin sembolü hangisidir?
+  - **K** · P · Po · Pt · Ka
+  - Çözüm: Potasyumun sembolü K’dir (Latince kalium). P fosfordur.
+- **tyt-kim · Kimyasal Türler Arası Etkileşimler** — Bir metal ile bir ametal arasında genellikle hangi bağ oluşur?
+  - **İyonik bağ** · Apolar kovalent bağ · Metalik bağ · Hidrojen bağı · Van der Waals bağı
+  - Çözüm: Metal elektron verir, ametal alır; zıt yüklü iyonlar arasında iyonik bağ oluşur.
+- **tyt-kim · Kimya Bilimi** — Aşağıdakilerden hangisi fiziksel bir değişimdir?
+  - **Buzun erimesi** · Demirin paslanması · Odunun yanması · Sütün ekşimesi · Yemeğin pişmesi
+  - Çözüm: Erime yalnız hâl değişimidir; maddenin kimliği değişmez.
+- **tyt-kim · Maddenin Halleri** — Katı bir maddenin sıvı hâle geçmeden doğrudan gaz hâline geçmesine ne denir?
+  - **Süblimleşme** · Buharlaşma · Yoğuşma · Erime · Donma
+  - Çözüm: Naftalin ve kuru buz süblimleşmeye örnektir.
+- **tyt-kim · Karışımlar** — Su ve zeytinyağından oluşan karışımı ayırmak için hangi yöntem kullanılır?
+  - **Ayırma hunisi** · Mıknatısla ayırma · Süzme · Eleme · Damıtma
+  - Çözüm: Birbirine karışmayan sıvılar yoğunluk farkıyla ayırma hunisinde ayrılır.
+- **tyt-kim · Karışımlar** — Demir tozu ile kum karışımını ayırmanın en kolay yolu hangisidir?
+  - **Mıknatısla ayırma** · Ayırma hunisi · Buharlaştırma · Damıtma · Kristallendirme
+  - Çözüm: Demir mıknatısa çekilir, kum çekilmez.
+- **tyt-kim · Doğa ve Kimya** — Aşağıdakilerden hangisi bir bileşiktir?
+  - **Su** · Demir · Oksijen gazı · Altın · Azot gazı
+  - Çözüm: Su (H₂O) farklı elementlerin belirli oranda birleşmesiyle oluşur; diğerleri elementtir.
+- **tyt-fiz · Fizik Bilimine Giriş** — Aşağıdakilerden hangisi skaler bir büyüklüktür?
+  - **Kütle** · Kuvvet · Hız · İvme · Ağırlık
+  - Çözüm: Skaler büyüklüğün yalnız değeri vardır; kuvvet, hız, ivme ve ağırlık vektöreldir.
+- **tyt-fiz · Fizik Bilimine Giriş** — SI birim sisteminde elektrik akımının birimi hangisidir?
+  - **Amper** · Volt · Ohm · Coulomb · Watt
+  - Çözüm: Akım amper (A), gerilim volt, direnç ohm, yük coulomb, güç watt ile ölçülür.
+- **tyt-fiz · Fizik Bilimine Giriş** — “Işık yılı” neyin birimidir?
+  - **Uzaklık** · Zaman · Hız · Enerji · Parlaklık
+  - Çözüm: Işık yılı, ışığın bir yılda aldığı yoldur; uzaklık birimidir.
+- **tyt-fiz · Dalgalar** — Ses dalgaları aşağıdaki ortamların hangisinde yayılamaz?
+  - **Boşluk** · Hava · Su · Demir · Tahta
+  - Çözüm: Ses mekanik bir dalgadır; yayılmak için madde gerekir.
+- **tyt-fiz · Optik** — Gökkuşağının oluşmasının nedeni hangisidir?
+  - **Işığın su damlalarında kırılarak renklerine ayrılması** · Işığın yalnız yansıması · Sesin yansıması · Havanın ısınması · Bulutların rengi
+  - Çözüm: Beyaz ışık su damlalarında kırılıp yansıyarak renklerine ayrılır.
+- **tyt-fiz · Manyetizma** — İki mıknatısın aynı kutupları birbirine yaklaştırılırsa ne olur?
+  - **Birbirlerini iterler** · Birbirlerini çekerler · Hiç etkileşmezler · Kutupları yer değiştirir · Mıknatıslık kaybolur
+  - Çözüm: Aynı kutuplar iter, zıt kutuplar çeker.
+- **tyt-din · Bilgi ve İnanç** — Aşağıdakilerden hangisi iman esaslarından biri değildir?
+  - **Namaz kılmak** · Allah’a inanmak · Meleklere inanmak · Ahirete inanmak · Kadere inanmak
+  - Çözüm: İman esasları: Allah’a, meleklere, kitaplara, peygamberlere, ahirete, kader ve kazaya inanmak. Namaz bir ibadettir.
+- **tyt-din · Vahiy ve Akıl** — Kur’an-ı Kerim’de kaç sure vardır?
+  - **114** · 99 · 120 · 110 · 124
+  - Çözüm: Kur’an-ı Kerim 114 sureden oluşur.
+- **tyt-din · İslam ve İbadet** — Ramazan orucu hangi ayda tutulur?
+  - **Ramazan** · Recep · Şaban · Zilhicce · Muharrem
+  - Çözüm: Oruç ibadeti Ramazan ayında yerine getirilir.
+- **tyt-din · İslam ve İbadet** — Hac ibadeti hangi şehirde yerine getirilir?
+  - **Mekke** · Medine · Kudüs · Şam · Bağdat
+  - Çözüm: Hac, Kâbe’nin bulunduğu Mekke ve çevresinde yapılır.
+- **ayt-din · Yaşayan Dinler** — Budizmin kurucusu kimdir?
+  - **Siddhartha Gautama (Buda)** · Konfüçyüs · Lao Tzu · Zerdüşt · Mahavira
+  - Çözüm: Budizm’i Siddhartha Gautama kurmuştur; Konfüçyüs Konfüçyüsçülüğün, Lao Tzu Taoizm’in kurucusudur.
+- **ayt-din · Yaşayan Dinler** — Hinduizmin en eski kutsal metinleri hangisidir?
+  - **Vedalar** · Tevrat · İncil · Avesta · Tripitaka
+  - Çözüm: Vedalar Hinduizmin temel kutsal metinleridir.
+- **ayt-din · Yaşayan Dinler** — Şintoizm hangi ülkeye özgü bir inanç sistemidir?
+  - **Japonya** · Çin · Hindistan · Kore · Tibet
+  - Çözüm: Şintoizm Japonya’ya özgüdür.
+- **ayt-din · Anadolu’da İslam ve Tasavvufi Yorumlar** — “Mesnevi” adlı eserin yazarı kimdir?
+  - **Mevlana Celaleddin Rumi** · Hacı Bektaş-ı Veli · Yunus Emre · Ahmet Yesevi · Hacı Bayram-ı Veli
+  - Çözüm: Mesnevi, Mevlana’nın Farsça eseridir.
+- **ayt-din · Anadolu’da İslam ve Tasavvufi Yorumlar** — “Makalat” adlı eserin yazarı kimdir?
+  - **Hacı Bektaş-ı Veli** · Mevlana · Yunus Emre · Ahmet Yesevi · Şeyh Edebali
+  - Çözüm: Makalat, Hacı Bektaş-ı Veli’ye ait tasavvufi bir eserdir.
+- **ydt-ing · Kelime Bilgisi** — “Huge” sözcüğüne anlamca en yakın sözcük hangisidir?
+  - **enormous** · tiny · fragile · ancient · narrow
+  - Çözüm: Huge = çok büyük = enormous.
+- **ydt-ing · Kelime Bilgisi** — “Rapidly” sözcüğüne anlamca en yakın sözcük hangisidir?
+  - **quickly** · slowly · rarely · carefully · quietly
+  - Çözüm: Rapidly = hızla = quickly.
+- **ydt-ing · Kelime Bilgisi** — “Obtain” sözcüğüne anlamca en yakın sözcük hangisidir?
+  - **acquire** · lose · refuse · ignore · destroy
+  - Çözüm: Obtain = elde etmek = acquire.
+- **ydt-ing · Kelime Bilgisi** — “Reluctant” sözcüğüne anlamca en yakın sözcük hangisidir?
+  - **unwilling** · eager · grateful · curious · confident
+  - Çözüm: Reluctant = isteksiz = unwilling.
+- **ydt-ing · Kelime Bilgisi** — “Diminish” sözcüğüne anlamca en yakın sözcük hangisidir?
+  - **decrease** · increase · create · repeat · protect
+  - Çözüm: Diminish = azalmak = decrease.
+- **ydt-ing · Kelime Bilgisi** — “Enhance” sözcüğüne anlamca en yakın sözcük hangisidir?
+  - **improve** · reduce · delay · hide · weaken
+  - Çözüm: Enhance = geliştirmek, artırmak = improve.
+- **ydt-ing · Kelime Bilgisi** — “Abandon” sözcüğüne anlamca en yakın sözcük hangisidir?
+  - **give up** · take up · look after · set up · carry on
+  - Çözüm: Abandon = bırakmak, vazgeçmek = give up.
+- **ydt-ing · Kelime Bilgisi** — “Accurate” sözcüğüne anlamca en yakın sözcük hangisidir?
+  - **precise** · careless · vague · false · rough
+  - Çözüm: Accurate = doğru, kesin = precise.
+- **ydt-ing · Gerund ve Infinitive** — I look forward to ---- from you soon.
+  - **hearing** · hear · heard · be heard · have heard
+  - Çözüm: “Look forward to” kalıbındaki “to” bir edattır; ardından fiilin -ing biçimi gelir.
+- **ydt-ing · Gerund ve Infinitive** — She is used to ---- up early every morning.
+  - **getting** · get · got · be getting · have got
+  - Çözüm: “Be used to” (alışkın olmak) + V-ing.
+- **ydt-ing · Gerund ve Infinitive** — The teacher made us ---- the essay again.
+  - **write** · to write · writing · written · to writing
+  - Çözüm: “Make someone do something”: make + nesne + yalın fiil.
+- **ydt-ing · Tenses** — By the time we arrived at the cinema, the film ----.
+  - **had already started** · has already started · already starts · is starting · will start
+  - Çözüm: Geçmişteki bir andan (arrived) önce tamamlanan eylem: past perfect.
+- **ydt-ing · Tenses** — He has been working at this company ---- ten years.
+  - **for** · since · ago · during · until
+  - Çözüm: Süre bildirirken “for” kullanılır.
+- **ydt-ing · Conditionals ve Wish** — If it rains tomorrow, we ---- at home.
+  - **will stay** · would stay · stayed · would have stayed · stay would
+  - Çözüm: Birinci tip koşul: If + present simple, will + V1.
+- **ydt-ing · Conditionals ve Wish** — If I had studied harder, I ---- the exam.
+  - **would have passed** · will pass · would pass · passed · had passed
+  - Çözüm: Üçüncü tip koşul: If + past perfect, would have + V3.
+- **ydt-ing · Conditionals ve Wish** — I wish I ---- fly like a bird.
+  - **could** · can · will · may · should
+  - Çözüm: Şimdiki zamana ait gerçek dışı dilek: wish + could.
+- **ydt-ing · Relative Clauses** — This is the town ---- I was born.
+  - **where** · which · who · whose · what
+  - Çözüm: Yer bildiren ilgi zamiri: where.
+- **ydt-ing · Adverbial Clauses ve Bağlaçlar** — Neither Tom ---- his sister came to the party.
+  - **nor** · or · and · but · so
+  - Çözüm: “Neither … nor” kalıbı.
+- **ydt-ing · Adverbial Clauses ve Bağlaçlar** — Despite ---- tired, she kept working.
+  - **being** · be · she was · to be · been
+  - Çözüm: “Despite” edattır; ardından isim ya da V-ing gelir.
+- **ydt-ing · Passive Voice** — The letter ---- yesterday.
+  - **was sent** · sent · has sent · is sending · sends
+  - Çözüm: Geçmişte, mektup gönderilen nesne: past simple passive.
+- **ydt-ing · Noun Clauses** — She asked me where I ----.
+  - **lived** · live · do I live · did I live · am living
+  - Çözüm: Dolaylı soruda soru sırası bozulur ve zaman geriye kayar: where I lived.
+- **ydt-ing · Prepositions ve Phrasal Verbs** — The meeting starts ---- 9 o’clock ---- Monday.
+  - **at / on** · in / on · on / at · at / in · in / at
+  - Çözüm: Saatlerde “at”, günlerde “on” kullanılır.
+- **ydt-ing · Prepositions ve Phrasal Verbs** — My grandmother was born ---- 1950.
+  - **in** · on · at · by · for
+  - Çözüm: Yıllarda “in” kullanılır.
+- **ydt-ing · Prepositions ve Phrasal Verbs** — “Look after” ifadesine anlamca en yakın seçenek hangisidir?
+  - **take care of** · look for · give up · put off · turn down
+  - Çözüm: Look after = bakmak, ilgilenmek = take care of.
+- **ydt-ing · Prepositions ve Phrasal Verbs** — “Put off” ifadesine anlamca en yakın seçenek hangisidir?
+  - **postpone** · continue · arrive · accept · remember
+  - Çözüm: Put off = ertelemek = postpone.
+- **ydt-ing · Prepositions ve Phrasal Verbs** — “Turn down” (an offer) ifadesine anlamca en yakın seçenek hangisidir?
+  - **reject** · accept · repeat · explain · improve
+  - Çözüm: Turn down an offer = bir teklifi reddetmek = reject.
+- **ydt-ing · Çeviri (İngilizce–Türkçe)** — “She has never been abroad.” cümlesinin Türkçesi hangisidir?
+  - **O hiç yurt dışına gitmedi.** · O sık sık yurt dışına gider. · O yurt dışında yaşıyor. · O yurt dışına gitmek istemiyor. · O geçen yıl yurt dışındaydı.
+  - Çözüm: “Has never been abroad” = hiç yurt dışında bulunmamış / gitmemiş.
+- **ydt-ing · Çeviri (İngilizce–Türkçe)** — “Unless you hurry, you will miss the bus.” cümlesinin Türkçesi hangisidir?
+  - **Acele etmezsen otobüsü kaçıracaksın.** · Acele etsen de otobüsü kaçıracaksın. · Acele ettiğin için otobüsü yakaladın. · Otobüsü kaçırmamak için acele ettin. · Acele etmeden otobüse yetiştin.
+  - Çözüm: “Unless” = -mezse, -madıkça.
+- **ydt-ing · Cümle Tamamlama** — Although he was very tired, ----.
+  - **he continued to work until midnight** · he went to bed early · because he had worked all day · so he slept for ten hours · he was very tired too
+  - Çözüm: “Although” zıtlık kurar: yorgun olmasına rağmen çalışmaya devam etti.
+- **ydt-ing · Cümle Tamamlama** — If you heat ice, ----.
+  - **it melts** · it would freeze · it had melted · it will be frozen · it froze
+  - Çözüm: Genel doğrularda sıfır tip koşul: If + present simple, present simple.
+- **ydt-ing · Diyalog ve Durum** — Arkadaşınız sınavı kazandığını söylüyor. Ne dersiniz?
+  - **Congratulations! You deserve it.** · I’m sorry to hear that. · Never mind, try again. · What a pity! · You should be careful.
+  - Çözüm: İyi bir haberi “Congratulations!” ile kutlarız.
+- **ydt-ing · Diyalog ve Durum** — Bir dükkânda bir ürünün fiyatını öğrenmek istiyorsunuz. Ne sorarsınız?
+  - **How much does this cost?** · How many are there? · How long does it take? · How often do you come? · How old is it?
+  - Çözüm: Fiyat sorusu: “How much does it cost?”
+- **ydt-ing · Okuma Parçası** — Many animals sleep during the winter to save energy. This long, deep sleep is called hibernation. Bears, for example, hibernate in caves.
+
+According to the passage, why do animals hibernate?
+  - **To save energy** · To find food · To hide from people · To have babies · To stay warm in caves
+  - Çözüm: “Many animals sleep during the winter to save energy.”
+- **ydt-ing · Cloze Test** — Reading every day can ---- your vocabulary and help you ---- better.
+  - **improve / write** · improving / writing · improves / wrote · improved / to writing · improve / writing
+  - Çözüm: “can” yardımcı fiilinden sonra yalın fiil; “help someone do” kalıbında yalın fiil gelir.
+- **ydt-ing · Paragraf Tamamlama ve Anlam Bütünlüğü** — (I) Coffee is one of the most popular drinks in the world. (II) It is made from roasted coffee beans. (III) Many people drink it in the morning to feel awake. (IV) Elephants are the largest land animals. (V) Some people, however, prefer tea.
+
+Which sentence is irrelevant to the passage?
+  - **IV** · I · II · III · V
+  - Çözüm: Parça kahveyi anlatır; fillerle ilgili IV. cümle akışı bozar.
 
 ## Üretilen sorulardan örnekler
 
@@ -543,177 +1281,444 @@ Her üreticiden bir örnek; sayılar her testte değişir, cevap kodla hesaplan�
 - **tyt-mat:temel-kavramlar** — x ve y pozitif tam sayılar ve x · y = 48 ise x + y toplamı en az kaçtır?
   - A) 49 · B) 15 · C) 13 · D) 16 · **E) 14**
   - Çözüm: Toplamın en küçük olması için çarpanlar birbirine en yakın seçilir: 6 · 8 = 48, toplam 14.
+- **tyt-mat:temel-kavramlar** — a = 6 ve b = 4 için a · b − 2(a − b) ifadesinin değeri kaçtır?
+  - A) 8 · B) 28 · C) 16 · D) 22 · **E) 20**
+  - Çözüm: 6 · 4 − 2 · (6 − 4) = 24 − 4 = 20.
+- **tyt-mat:temel-kavramlar** — 1’den 12’ye kadar olan çift sayıların toplamı kaçtır?
+  - A) 54 · **B) 42** · C) 36 · D) 72 · E) 21
+  - Çözüm: 2 + 4 + … + 12 = 2(1 + 2 + … + 6) = 2 · {6 · 7/2} = 42.
+- **tyt-mat:temel-kavramlar** — Ardışık beş doğal sayının toplamı 25 ise en büyüğü kaçtır?
+  - A) 6 · **B) 7** · C) 8 · D) 5 · E) 3
+  - Çözüm: Ortadaki sayı 25 ÷ 5 = 5; sayılar 3, 4, 5, 6, 7. En büyüğü 7.
 - **tyt-mat:sayi-basamaklari** — AB ve BA iki basamaklı sayılardır. AB − BA = 36 ise A − B kaçtır?
   - **A) 4** · B) 36 · C) 44 · D) 5 · E) 3
   - Çözüm: AB − BA = (10A + B) − (10B + A) = 9(A − B) = 36 → A − B = 4. (Örnek: 73 − 37)
 - **tyt-mat:sayi-basamaklari** — AB ve BA iki basamaklı sayılardır. AB + BA = 88 ise A + B kaçtır?
   - A) 88 · B) 16 · C) 7 · D) 9 · **E) 8**
   - Çözüm: AB + BA = 11(A + B) = 88 → A + B = 8.
+- **tyt-mat:sayi-basamaklari** — 630 sayısının rakamlarının basamak değerleri toplamı kaçtır?
+  - A) 9 · B) 603 · C) 36 · D) 90 · **E) 630**
+  - Çözüm: Basamak değerleri 600, 30 ve 0; toplamları sayının kendisidir: 630.
+- **tyt-mat:sayi-basamaklari** — Rakamları birbirinden farklı 3 basamaklı en büyük sayı ile en küçük sayının farkı kaçtır?
+  - A) 1089 · **B) 885** · C) 887 · D) 894 · E) 897
+  - Çözüm: En büyük: 987, en küçük: 102 (ilk basamak 0 olamaz). Fark 885.
 - **tyt-mat:bolme-ve-bolunebilme** — x sayısı 8 ile bölündüğünde kalan 4 oluyor. 6x + 6 sayısı 8 ile bölündüğünde kalan kaç olur?
   - A) 4 · B) 30 · **C) 6** · D) 7 · E) 5
   - Çözüm: Kalanlarla işlem yapılır: 6 · 4 + 6 = 30; 30 sayısının 8 ile bölümünden kalan 6.
 - **tyt-mat:bolme-ve-bolunebilme** — Dört basamaklı 3A05 sayısı 9 ile tam bölünebiliyorsa A rakamı kaçtır? (A ≠ 9)
   - A) 2 · B) 4 · C) 8 · **D) 1** · E) 6
   - Çözüm: 9 ile bölünebilme için rakamlar toplamı 9’un katı olmalı: 3 + A + 0 + 5 = 8 + A → A = 1.
+- **tyt-mat:bolme-ve-bolunebilme** — Bir doğal sayı 9 ile bölündüğünde bölüm 7, kalan 1 oluyor. Bu sayı kaçtır?
+  - A) 63 · B) 62 · C) 72 · D) 73 · **E) 64**
+  - Çözüm: Bölünen = bölen · bölüm + kalan = 9 · 7 + 1 = 64.
+- **tyt-mat:bolme-ve-bolunebilme** — Dört basamaklı 554A sayısı hem 2 hem 5 ile tam bölünebiliyorsa A kaçtır?
+  - A) 1 · B) 2 · C) 4 · **D) 0** · E) 5
+  - Çözüm: Hem 2 hem 5 ile bölünebilen sayı 10 ile bölünür; son basamak 0 olmalı: A = 0.
+- **tyt-mat:bolme-ve-bolunebilme** — 34A üç basamaklı sayısı 4 ile tam bölünebiliyorsa A’nın alabileceği değerlerin toplamı kaçtır?
+  - A) 2 · B) 20 · **C) 12** · D) 3 · E) 16
+  - Çözüm: 4 ile bölünebilme için son iki basamak (4A) 4’ün katı olmalı: A ∈ {0, 4, 8}. Toplam 12.
 - **tyt-mat:ebob-ekok** — Bir duraktan A otobüsü 15 dakikada bir, B otobüsü 16 dakikada bir kalkıyor. İkisi saat 08.00’de birlikte kalktıktan en az kaç dakika sonra yeniden birlikte kalkarlar?
   - **A) 240** · B) 1 · C) 252 · D) 120 · E) 31
   - Çözüm: Birlikte kalkış için iki sürenin ortak katı gerekir: EKOK(15, 16) = 240 dakika.
 - **tyt-mat:ebob-ekok** — Kenarları 16 cm ve 40 cm olan dikdörtgen biçimindeki bir kâğıt, hiç artmayacak şekilde eş karelere bölünecektir. Karenin bir kenarı en çok kaç cm olabilir?
   - A) 4 · B) 80 · C) 24 · **D) 8** · E) 10
   - Çözüm: Karenin kenarı iki kenarı da tam bölmeli ve en büyük olmalı: EBOB(16, 40) = 8.
+- **tyt-mat:ebob-ekok** — EBOB(12, 28) + EKOK(12, 28) kaçtır?
+  - A) 336 · B) 84 · C) 40 · D) 92 · **E) 88**
+  - Çözüm: EBOB = 4, EKOK = 84. Toplam 88.
+- **tyt-mat:ebob-ekok** — 15 ile de 24 ile de bölündüğünde 3 kalanını veren, 3’ten büyük en küçük doğal sayı kaçtır?
+  - A) 363 · B) 126 · **C) 123** · D) 120 · E) 117
+  - Çözüm: Sayı − 3, iki sayının ortak katıdır: EKOK(15, 24) = 120. En küçük sayı 120 + 3 = 123.
 - **tyt-mat:rasyonel-sayilar** — ({3/4} + {4/5}) ÷ {1/2} işleminin sonucu kaçtır?
   - A) {14/9} · B) {41/10} · C) {31/40} · D) {47/20} · **E) {31/10}**
   - Çözüm: {3/4} + {4/5} = {31/20}; bölme işleminde ikinci kesir ters çevrilip çarpılır: {31/20} · 2 = {31/10}.
+- **tyt-mat:rasyonel-sayilar** — {1/2} · {3/5} + 1 işleminin sonucu kaçtır?
+  - A) {4/5} · B) {3/10} · C) {11/10} · D) {23/10} · **E) {13/10}**
+  - Çözüm: {1/2} · {3/5} = {3/10}; 1 eklenince {13/10}.
+- **tyt-mat:rasyonel-sayilar** — {4/10} kesrinin ondalık gösterimi kaçtır?
+  - A) 2,5 · B) 0,04 · C) 4 · D) 0,5 · **E) 0,4**
+  - Çözüm: 4 ÷ 10 = 0,4.
 - **tyt-mat:basit-esitsizlikler** — −3 < x < 6 olmak üzere x bir tam sayıdır. 3x − 5 ifadesinin alabileceği en büyük değer ile en küçük değerin toplamı kaçtır?
-  - A) 21 · B) 10 · **C) −1** · D) −11 · E) 0
+  - A) 21 · B) 10 · **C) −1** · D) −11 · E) −2
   - Çözüm: x tam sayı: en büyük x = 5, en küçük x = −2. En büyük değer 10, en küçük değer −11; toplam −1.
+- **tyt-mat:basit-esitsizlikler** — 3x + 1 < 22 eşitsizliğini sağlayan en büyük x tam sayısı kaçtır?
+  - A) 5 · B) 7 · C) 8 · **D) 6** · E) 4
+  - Çözüm: 3x < 21 → x < {21/3} = 7. En büyük tam sayı 6.
 - **tyt-mat:mutlak-deger** — |x − 5| = 6 denklemini sağlayan x değerlerinin toplamı kaçtır?
   - **A) 10** · B) 5 · C) 11 · D) 6 · E) 12
   - Çözüm: x − 5 = 6 → x = 11; x − 5 = −6 → x = −1. Toplam 10.
 - **tyt-mat:mutlak-deger** — |x − 2| ≤ 1 eşitsizliğini sağlayan kaç tane x tam sayısı vardır?
   - A) 2 · B) 1 · **C) 3** · D) 5 · E) 4
   - Çözüm: −1 ≤ x − 2 ≤ 1 → 1 ≤ x ≤ 3. Bu aralıkta 3 tam sayı var.
+- **tyt-mat:mutlak-deger** — |−4| + |4 − 8| − |0| işleminin sonucu kaçtır?
+  - A) 4 · B) 9 · C) 7 · D) 10 · **E) 8**
+  - Çözüm: |−4| = 4, |4 − 8| = 4, |0| = 0. Sonuç 4 + 4 − 0 = 8.
 - **tyt-mat:uslu-sayilar** — {2^{5} · 8^{3}/4^{4}} ifadesi 2’nin kaçıncı kuvvetine eşittir?
   - A) 13 · **B) 6** · C) 4 · D) 37 · E) 22
   - Çözüm: 8 = 2^{3}, 4 = 2^{2}: 2^{5} · 2^{9} ÷ 2^{8} = 2^{5 + 9 − 8} = 2^{6}.
+- **tyt-mat:uslu-sayilar** — 3 tane 3^{2} sayısının toplamı 3^{k} biçiminde yazılırsa k kaçtır?
+  - A) 2 · B) 4 · **C) 3** · D) 5 · E) 6
+  - Çözüm: 3 tane 3^{2} toplamı 3 · 3^{2} = 3^{3}.
+- **tyt-mat:uslu-sayilar** — 4^{x} = 2^{8} ise x kaçtır?
+  - A) 8 · B) 6 · C) 3 · D) 2 · **E) 4**
+  - Çözüm: 4 = 2^{2} → 2^{2x} = 2^{8} → 2x = 8 → x = 4.
+- **tyt-mat:uslu-sayilar** — (−1)^{8} + (−1)^{9} + 1^{4} toplamı kaçtır?
+  - A) 4 · **B) 1** · C) 3 · D) 5 · E) 2
+  - Çözüm: Çift kuvvet 1, tek kuvvet −1 verir: 1 + (−1) + 1 = 1.
 - **tyt-mat:koklu-sayilar** — √{27} + √{27} + √{48} toplamı kaçtır?
   - A) 30 · B) 11√{3} · **C) 10√{3}** · D) √{102} · E) 9√{3}
   - Çözüm: √{27} = 3√{3}, √{27} = 3√{3}, √{48} = 4√{3}. Toplam 10√{3}.
+- **tyt-mat:koklu-sayilar** — √{16} · √{4} − √{64} işleminin sonucu kaçtır?
+  - A) 8 · B) 64 · **C) 0** · D) 6 · E) 16
+  - Çözüm: √{16} = 4, √{4} = 2, √{64} = 8. 8 − 8 = 0.
+- **tyt-mat:koklu-sayilar** — √{45} ifadesinin en sade biçimi hangisidir?
+  - A) 5√{3} · B) 9√{5} · C) 3√{15} · D) √{3} · 5 · **E) 3√{5}**
+  - Çözüm: 45 = 9 · 5 → √{9} · √{5} = 3√{5}.
 - **tyt-mat:carpanlara-ayirma** — a + b = 10 ve a · b = 25 ise a² + b² kaçtır?
-  - **A) 50** · B) 100 · C) −5 · D) 150 · E) 75
+  - **A) 50** · B) 100 · C) 53 · D) 150 · E) 75
   - Çözüm: a² + b² = (a + b)² − 2ab = 100 − 50 = 50.
 - **tyt-mat:carpanlara-ayirma** — x² − y² = 63 ve x − y = 7 ise x + y kaçtır?
   - A) 56 · B) 11 · **C) 9** · D) 14 · E) 8
   - Çözüm: x² − y² = (x − y)(x + y) → 63 = 7 · (x + y) → x + y = 9.
+- **tyt-mat:carpanlara-ayirma** — x² + 10x + 24 ifadesinin çarpanlarından biri hangisidir?
+  - A) x − 6 · B) x + 10 · C) x + 24 · D) x − 4 · **E) x + 6**
+  - Çözüm: Toplamı 10, çarpımı 24 olan sayılar 6 ve 4: (x + 6)(x + 4).
+- **tyt-mat:carpanlara-ayirma** — 32² − 31² işleminin sonucu kaçtır?
+  - A) 1024 · **B) 63** · C) 1 · D) 65 · E) 64
+  - Çözüm: İki kare farkı: (32 − 31)(32 + 31) = 1 · 63 = 63.
 - **tyt-mat:oran-oranti** — {a/b} = {4/7} ve a + b = 66 ise b kaçtır?
   - A) 18 · **B) 42** · C) 24 · D) 49 · E) 62
   - Çözüm: a = 4k, b = 7k → 11k = 66 → k = 6, b = 42.
 - **tyt-mat:oran-oranti** — Aynı hızda çalışan 5 işçi bir işi 6 günde bitiriyor. Aynı işi 15 işçi kaç günde bitirir?
-  - A) −4 · B) 18 · C) 4 · **D) 2** · E) 16
+  - A) 4 · B) 18 · C) 16 · **D) 2** · E) 3
   - Çözüm: İşçi sayısı ile süre ters orantılıdır: 5 · 6 = 15 · t → t = 2.
+- **tyt-mat:oran-oranti** — Bir miktar para Ali, Burak ve Can arasında 2, 2 ve 3 ile orantılı paylaştırılıyor. Can, Ali’den 60 TL fazla aldığına göre toplam para kaç TL’dir?
+  - A) 180 · B) 42 · C) 490 · D) 441 · **E) 420**
+  - Çözüm: Paylar 2k, 2k, 3k. 3k − 2k = 60 → k = 60. Toplam 7k = 420 TL.
 - **tyt-mat:denklem-cozme** — 5(x − 4) + 6 = 4x − 7 denkleminin çözümü kaçtır?
-  - A) 11 · B) −7 · C) 8 · **D) 7** · E) 6
+  - A) 11 · B) 9 · C) 8 · **D) 7** · E) 6
   - Çözüm: 5x − 20 + 6 = 4x − 7 → x = 7 → x = 7.
+- **tyt-mat:denklem-cozme** — x + y = 6 ve x − y = 4 ise x · y kaçtır?
+  - A) 6 · B) 24 · **C) 5** · D) 25 · E) 4
+  - Çözüm: Taraf tarafa toplanırsa 2x = 10 → x = 5, y = 1. x · y = 5.
+- **tyt-mat:denklem-cozme** — {x/4} + 1 = 4 ise 2x kaçtır?
+  - A) 12 · B) 3 · C) 32 · D) 8 · **E) 24**
+  - Çözüm: {x/4} = 3 → x = 12 → 2x = 24.
 - **tyt-mat:sayi-ve-kesir-problemleri** — x sayısının {2/4} ile çarpımının 14 fazlası 32 ise x kaçtır?
   - A) 50 · B) 18 · **C) 36** · D) 64 · E) 32
   - Çözüm: {2/4} · x + 14 = 32 → {2/4}x = 18 → x = 36.
+- **tyt-mat:sayi-ve-kesir-problemleri** — Ayşe’nin 12 TL’si vardı. Parasının {1/2}’ini harcadı. Kaç TL’si kaldı?
+  - A) 10 · B) 5 · **C) 6** · D) 7 · E) 4
+  - Çözüm: Harcanan {1/2} · 12 = 6 TL. Kalan 12 − 6 = 6 TL.
+- **tyt-mat:sayi-ve-kesir-problemleri** — İki sayının toplamı 19, farkı 3 ise büyük sayı kaçtır?
+  - A) 8 · B) 16 · C) 14 · D) 3 · **E) 11**
+  - Çözüm: Büyük sayı = (toplam + fark) ÷ 2 = (19 + 3) ÷ 2 = 11.
 - **tyt-mat:yas-problemleri** — Bir annenin yaşı çocuğunun yaşının 3 katıdır. 8 yıl sonra annenin yaşı çocuğunun yaşının 2 katı olacaktır. Anne bugün kaç yaşındadır?
   - A) 16 · **B) 24** · C) 25 · D) 8 · E) 32
-  - Çözüm: Çocuk x, anne 3x: 3x + 8 = 2(x + 8) → x = 8 → x = 8; anne 24.
+  - Çözüm: Çocuk x, anne 3x: 3x + 8 = 2(x + 8) → 3x + 8 = 2x + 16 → x = 8; anne 24.
+- **tyt-mat:yas-problemleri** — Bugün yaşları toplamı 38 olan 2 kardeşin 6 yıl sonra yaşları toplamı kaç olur?
+  - A) 228 · B) 44 · C) 46 · **D) 50** · E) 53
+  - Çözüm: Her kardeş 6 yaş büyür: 38 + 2 · 6 = 50.
 - **tyt-mat:hareket-problemleri** — Aralarında 440 km olan iki araç birbirine doğru aynı anda 60 km/sa ve 50 km/sa hızlarla yola çıkıyor. Kaç saat sonra karşılaşırlar?
   - A) 44 · **B) 4** · C) 7,33 · D) 3 · E) 5
   - Çözüm: Birbirine doğru hareket eden araçların yaklaşma hızı 60 + 50 = 110 km/sa. Süre = 440 ÷ 110 = 4 saat.
+- **tyt-mat:hareket-problemleri** — Sabit 70 km/sa hızla giden bir otomobil 2 saatte kaç km yol alır?
+  - A) 72 · B) 70 · **C) 140** · D) 210 · E) 35
+  - Çözüm: Yol = hız · zaman = 70 · 2 = 140 km.
+- **tyt-mat:hareket-problemleri** — Aynı noktadan aynı yöne aynı anda 60 km/sa ve 80 km/sa hızlarla iki araç hareket ediyor. 2 saat sonra aralarındaki uzaklık kaç km olur?
+  - A) 280 · B) 160 · C) 20 · D) 42 · **E) 40**
+  - Çözüm: Aynı yönde uzaklaşma hızı 80 − 60 = 20 km/sa. 2 saatte 40 km.
+- **tyt-mat:hareket-problemleri** — Bir araç 180 km’lik yolu 40 km/sa hızla gidip 80 km/sa hızla dönüyor. Gidiş-dönüş toplam kaç saat sürer?
+  - A) 2,25 · B) 7,75 · **C) 6,75** · D) 6 · E) 4,5
+  - Çözüm: Gidiş 180 ÷ 40 = 4,5 saat, dönüş 180 ÷ 80 = 2,25 saat. Toplam 6,75 saat. (Hızların ortalaması kullanılamaz.)
 - **tyt-mat:isci-ve-havuz-problemleri** — Ali bir işi tek başına 12 günde, Berk aynı işi tek başına 24 günde bitiriyor. İkisi birlikte bu işi kaç günde bitirir?
   - **A) 8** · B) 12 · C) 18 · D) 11 · E) 36
   - Çözüm: Bir günde yapılan iş: {1/12} + {1/24} = {36/288}. Süre = {288/36} = 8 gün.
+- **tyt-mat:isci-ve-havuz-problemleri** — Bir musluk boş havuzu 10 saatte dolduruyor, alttaki bir delik dolu havuzu 15 saatte boşaltıyor. İkisi birlikte açılırsa boş havuz kaç saatte dolar?
+  - A) 6 · B) 15 · C) 25 · D) 5 · **E) 30**
+  - Çözüm: Saatte dolan kısım {1/10} − {1/15} = {5/150}. Süre {150/5} = 30 saat.
 - **tyt-mat:yuzde-kar-zarar-problemleri** — Maliyeti 500 TL olan bir ürün %30 kârla satılıyor. Satış fiyatı kaç TL’dir?
   - **A) 650** · B) 530 · C) 700 · D) 350 · E) 150
   - Çözüm: Kâr = 500 · {30/100} = 150 TL. Satış fiyatı 500 + 150 = 650 TL.
 - **tyt-mat:yuzde-kar-zarar-problemleri** — Etiket fiyatı 500 TL olan bir ürüne önce %10, sonra kalan fiyat üzerinden %20 indirim yapılıyor. Ürünün son fiyatı kaç TL’dir?
   - A) 450 · B) 350 · C) 150 · **D) 360** · E) 370
   - Çözüm: İlk indirimden sonra 500 · {90/100} = 450 TL; ikinci indirimden sonra 450 · {80/100} = 360 TL. İndirimler toplanmaz.
+- **tyt-mat:yuzde-kar-zarar-problemleri** — 500 sayısının yüzde 15 oranındaki kısmı kaçtır?
+  - A) 7500 · B) 33,33 · C) 425 · D) 750 · **E) 75**
+  - Çözüm: 500 · {15/100} = 75.
+- **tyt-mat:yuzde-kar-zarar-problemleri** — Bir ürün 160 TL’ye satıldığında %20 zarar ediliyor. Ürünün maliyeti kaç TL’dir?
+  - A) 128 · B) 220 · **C) 200** · D) 180 · E) 192
+  - Çözüm: Zararla satışta fiyat, maliyetin yüzde 80 oranındadır: M · {80/100} = 160 → M = 200 TL.
 - **tyt-mat:karisim-problemleri** — Tuz oranı %30 olan 300 gram tuzlu su ile tuz oranı %25 olan 200 gram tuzlu su karıştırılıyor. Yeni karışımın tuz oranı yüzde kaçtır?
   - A) 30 · B) 27,5 · **C) 28** · D) 55 · E) 33
   - Çözüm: Tuz miktarları: 300 · {30/100} = 90 g ve 200 · {25/100} = 50 g. Toplam 140 g tuz, 500 g karışım → %28.
+- **tyt-mat:karisim-problemleri** — Tuz oranı %10 olan 300 gram tuzlu suda kaç gram su vardır?
+  - A) 30 · B) 240 · **C) 270** · D) 330 · E) 300
+  - Çözüm: Tuz 300 · {10/100} = 30 g; su 300 − 30 = 270 g.
 - **tyt-mat:kumeler-ve-kartezyen-carpim** — s(A) = 9, s(B) = 10 ve s(A ∩ B) = 4 ise s(A ∪ B) kaçtır?
   - A) 90 · **B) 15** · C) 19 · D) 23 · E) 11
   - Çözüm: s(A ∪ B) = s(A) + s(B) − s(A ∩ B) = 9 + 10 − 4 = 15.
 - **tyt-mat:kumeler-ve-kartezyen-carpim** — 4 elemanlı bir kümenin kaç tane alt kümesi vardır?
   - A) 8 · B) 18 · C) 17 · D) 15 · **E) 16**
   - Çözüm: n elemanlı kümenin alt küme sayısı 2^{n}: 2^{4} = 16. (Boş küme ve kümenin kendisi de sayılır.)
+- **tyt-mat:kumeler-ve-kartezyen-carpim** — s(A) = 4 ve s(B) = 3 ise A × B kartezyen çarpımının eleman sayısı kaçtır?
+  - A) 7 · B) 128 · C) 24 · D) 64 · **E) 12**
+  - Çözüm: s(A × B) = s(A) · s(B) = 4 · 3 = 12.
+- **tyt-mat:kumeler-ve-kartezyen-carpim** — 5 elemanlı bir kümenin 1 elemanlı kaç alt kümesi vardır?
+  - A) 4 · B) 7 · **C) 5** · D) 32 · E) 6
+  - Çözüm: C(5, 1) = 5.
 - **tyt-mat:fonksiyonlar** — f doğrusal bir fonksiyondur. f(2) = 9 ve f(5) = 21 ise f(12) kaçtır?
   - A) 61 · B) 33 · C) 48 · **D) 49** · E) 47
   - Çözüm: f(x) = ax + b: a = (21 − 9) ÷ (5 − 2) = 4, b = 1. f(12) = 4 · 12 + 1 = 49.
 - **tyt-mat:fonksiyonlar** — f(x) = 2x + 1 ve g(x) = 2x + 4 ise (f ∘ g)(1) kaçtır?
   - A) 15 · B) 4 · C) 10 · D) 9 · **E) 13**
   - Çözüm: Önce g(1) = 6, sonra f(6) = 2 · 6 + 1 = 13.
+- **tyt-mat:fonksiyonlar** — f(x) = 4x + 4 ise f⁻¹(12) kaçtır?
+  - A) 52 · B) 4 · C) 8 · D) 3 · **E) 2**
+  - Çözüm: f⁻¹(x) = {x − 4/4} → f⁻¹(12) = {8/4} = 2.
+- **tyt-mat:fonksiyonlar** — f(x) = 2x² − x ise f(0) kaçtır?
+  - A) 2 · B) −2 · C) −1 · D) 1 · **E) 0**
+  - Çözüm: f(0) = 2 · 0 + 0 + 0 = 0.
 - **tyt-mat:polinomlar** — P(x) = x³ + 0x² + ax + 1 polinomunun x − 2 ile bölümünden kalan 15 ise a kaçtır?
-  - A) 14 · B) 4 · **C) 3** · D) −3 · E) 1
+  - A) 1 · B) 4 · **C) 3** · D) 14 · E) 2
   - Çözüm: x − 2 ile bölümden kalan P(2) değeridir: 8 + 0 + 2a + 1 = 15 → a = 3.
+- **tyt-mat:polinomlar** — P(x) = 2x^{4} − x^{3} + 4x − 9 polinomunun derecesi ile baş katsayısının toplamı kaçtır?
+  - A) 4 · B) 7 · **C) 6** · D) 5 · E) 2
+  - Çözüm: Derece 4, baş katsayı 2. Toplam 6.
+- **tyt-mat:polinomlar** — P(x) = 3x² − 2x − 8 polinomunun katsayılar toplamı kaçtır?
+  - A) −8 · B) 1 · C) −3 · D) 48 · **E) −7**
+  - Çözüm: Katsayılar toplamı P(1) = 3 − 2 − 8 = −7.
 - **tyt-mat:ikinci-dereceden-denklemler** — x² − 8x + 16 = 0 denkleminin kökleri x₁ ve x₂ ise {1/x₁} + {1/x₂} kaçtır?
   - **A) {1/2}** · B) 2 · C) {1/4} · D) 24 · E) {1/8}
   - Çözüm: {1/x₁} + {1/x₂} = {x₁ + x₂/x₁ · x₂}. Kökler toplamı 8, çarpımı 16 → {1/2}.
+- **tyt-mat:ikinci-dereceden-denklemler** — x² + 9x + 18 = 0 denkleminin kökler toplamı ile kökler çarpımının toplamı kaçtır?
+  - A) 27 · B) 8 · **C) 9** · D) 10 · E) 18
+  - Çözüm: Kökler toplamı −9, çarpımı 18; toplam 9.
+- **tyt-mat:ikinci-dereceden-denklemler** — x² − 10x + 24 = 0 denkleminin büyük kökü kaçtır?
+  - A) 4 · B) 10 · C) 24 · D) 2 · **E) 6**
+  - Çözüm: (x − 4)(x − 6) = 0 → kökler 4 ve 6; büyük kök 6.
+- **tyt-mat:ikinci-dereceden-denklemler** — x² + 5x + 6 = 0 denkleminin kaç farklı gerçek kökü vardır?
+  - A) 3 · B) 4 · **C) 2** · D) 0 · E) 1
+  - Çözüm: Δ = b² − 4ac = 25 − 24 = 1. Δ > 0: iki farklı kök.
 - **tyt-mat:permutasyon-ve-kombinasyon** — 7 kişilik bir sınıftan 3 kişilik bir temsilci grubu kaç farklı şekilde seçilebilir?
   - **A) 35** · B) 210 · C) 36 · D) 21 · E) 70
   - Çözüm: Sıra önemli değil: C(7, 3) = {210/6} = 35.
 - **tyt-mat:permutasyon-ve-kombinasyon** — 4 farklı kitap bir rafa yan yana dizilecektir. Belirli iki kitabın yan yana olduğu kaç farklı dizilim vardır?
   - A) 24 · B) 13 · C) 4 · D) 6 · **E) 12**
   - Çözüm: İki kitabı tek kitap gibi düşün: 3 nesne 3! = 6 şekilde dizilir; ikisi kendi arasında 2 şekilde yer değiştirir: 2 · 6 = 12.
+- **tyt-mat:permutasyon-ve-kombinasyon** — 6 kişi düz bir sıraya kaç farklı şekilde dizilebilir?
+  - A) 30 · B) 120 · C) 64 · **D) 720** · E) 36
+  - Çözüm: 6! = 720.
+- **tyt-mat:permutasyon-ve-kombinasyon** — 5 kişi yuvarlak bir masa etrafına kaç farklı şekilde oturabilir?
+  - A) 20 · **B) 24** · C) 120 · D) 60 · E) 6
+  - Çözüm: Dairesel sıralamada (n − 1)! = 4! = 24.
+- **tyt-mat:permutasyon-ve-kombinasyon** — 1, 2, 3, 4, 5 rakamları kullanılarak rakamları farklı 3 basamaklı kaç sayı yazılabilir?
+  - A) 20 · B) 120 · **C) 60** · D) 125 · E) 10
+  - Çözüm: İlk basamak 5, ikinci 4, üçüncü 3 seçenek: 60.
 - **tyt-mat:olasilik** — Bir torbada 5 kırmızı ve 5 mavi top vardır. Torbadan rastgele çekilen bir topun kırmızı olma olasılığı kaçtır?
   - **A) {1/2}** · B) 1 · C) {7/12} · D) {1/10} · E) {6/11}
   - Çözüm: İstenen durum 5, bütün durumlar 10: olasılık {1/2}.
 - **tyt-mat:olasilik** — Bir torbada 4 kırmızı ve 2 mavi top vardır. Torbadan art arda, geri atılmadan iki top çekiliyor. İkisinin de kırmızı olma olasılığı kaçtır?
   - A) {4/9} · B) {4/3} · **C) {2/5}** · D) {3/5} · E) {2/3}
   - Çözüm: İlk çekişte {4/6}, ikincide {3/5}: çarpım {2/5}.
+- **tyt-mat:olasilik** — İki zar birlikte atılıyor. Üst yüze gelen sayıların toplamının 8 olma olasılığı kaçtır?
+  - A) {221/1332} · B) {1/12} · C) {1/36} · **D) {5/36}** · E) {1/6}
+  - Çözüm: 36 eşit olası durumdan toplamı 8 olan 5 tane var: {5/36}.
+- **tyt-mat:olasilik** — Bir madeni para 2 kez atılıyor. Hepsinin yazı gelme olasılığı kaçtır?
+  - A) {13/20} · **B) {1/4}** · C) {1/2} · D) {17/20} · E) {9/20}
+  - Çözüm: Her atış {1/2}: ({1/2})^{2} = {1/4}.
 - **tyt-mat:veri-ve-istatistik** — 11, 12, 13, 13, 21 veri grubunun aritmetik ortalaması ile açıklığının toplamı kaçtır?
   - A) 14 · B) 70 · C) 27 · **D) 24** · E) 23
   - Çözüm: Ortalama 70 ÷ 5 = 14; açıklık en büyük − en küçük = 21 − 11 = 10. Toplam 24.
+- **tyt-mat:veri-ve-istatistik** — 3, 29, 5, 1, 21, 9, 18 sayı dizisinin ortancası (medyanı) kaçtır?
+  - **A) 9** · B) 12 · C) 5 · D) 28 · E) 18
+  - Çözüm: Sıralı dizide ortadaki (4.) değer: 9.
+- **tyt-mat:veri-ve-istatistik** — 10, 10, 10, 19, 1, 26 veri grubunun tepe değeri (modu) kaçtır?
+  - A) 19 · B) 25 · C) 13 · D) 11 · **E) 10**
+  - Çözüm: En çok tekrar eden değer 10 (3 kez).
 - **tyt-mat:dogruda-ve-ucgende-acilar** — Bir üçgenin iç açılarının ölçüleri 3x, 4x ve 5x’tir. En büyük açının ölçüsü kaç derecedir?
   - A) 90 · **B) 75** · C) 15 · D) 105 · E) 45
   - Çözüm: 3x + 4x + 5x = 180° → x = 15°. En büyük açı 5 · 15 = 75°.
+- **tyt-mat:dogruda-ve-ucgende-acilar** — Bir doğru üzerinde komşu bütünler iki açıdan biri 41° ise diğeri kaç derecedir?
+  - A) 49 · B) 221 · C) 41 · D) 319 · **E) 139**
+  - Çözüm: Bütünler açıların toplamı 180°: 180 − 41 = 139°.
+- **tyt-mat:dogruda-ve-ucgende-acilar** — Bir üçgenin iki iç açısı 58° ve 48° ise üçüncü açısının dış açısı kaç derecedir?
+  - A) 74 · B) 254 · C) 16 · D) 90 · **E) 106**
+  - Çözüm: Dış açı, kendisine komşu olmayan iki iç açının toplamıdır: 58 + 48 = 106°.
 - **tyt-mat:dik-ve-ozel-ucgenler** — Dik kenarları 14 cm ve 48 cm olan dik üçgenin hipotenüsü kaç cm’dir?
   - **A) 50** · B) 62 · C) 48 · D) 51 · E) 49
   - Çözüm: Pisagor: 14² + 48² = 2500 = 50² → hipotenüs 50 cm.
+- **tyt-mat:dik-ve-ozel-ucgenler** — 30°–60°–90° üçgeninde 30°’nin karşısındaki kenar 4 cm ise hipotenüs kaç cm’dir?
+  - A) 4 · B) 9 · C) 16 · D) 12 · **E) 8**
+  - Çözüm: 30°–60°–90° üçgeninde kenarlar k, k√{3}, 2k oranındadır; hipotenüs 2 · 4 = 8 cm.
+- **tyt-mat:dik-ve-ozel-ucgenler** — İkizkenar dik üçgende dik kenarlardan biri 6 cm ise hipotenüs kaç cm’dir?
+  - A) 6 · B) 6√{3} · C) 12√{2} · **D) 6√{2}** · E) 12
+  - Çözüm: 45°–45°–90° üçgeninde hipotenüs dik kenarın √{2} katıdır: 6√{2} cm.
 - **tyt-mat:ucgende-alan** — Bir kenarı 10 cm ve bu kenara ait yüksekliği 12 cm olan üçgenin alanı kaç cm²’dir?
   - **A) 60** · B) 120 · C) 44 · D) 22 · E) 30
   - Çözüm: Alan = {taban · yükseklik/2} = {10 · 12/2} = 60 cm².
+- **tyt-mat:ucgende-alan** — Dik kenarları 6 cm ve 8 cm olan dik üçgenin alanı kaç cm²’dir?
+  - A) 48 · B) 25 · C) 40 · D) 30 · **E) 24**
+  - Çözüm: Dik üçgende alan = {dik kenarlar çarpımı/2} = {6 · 8/2} = 24 cm².
+- **tyt-mat:ucgende-alan** — Bir kenarı 8 cm olan eşkenar üçgenin alanı kaç cm²’dir?
+  - A) 8√{3} · B) 64 · C) 16 · **D) 16√{3}** · E) 32√{3}
+  - Çözüm: Eşkenar üçgende alan {a²√{3}/4} = {64√{3}/4} = 16√{3} cm².
 - **tyt-mat:ucgende-benzerlik** — Benzerlik oranı {2/4} olan iki üçgenden küçüğünün alanı 20 cm² ise büyüğünün alanı kaç cm²’dir?
   - A) 76 · **B) 80** · C) 40 · D) 84 · E) 36
   - Çözüm: Benzer üçgenlerde alanlar oranı benzerlik oranının karesidir: {4/16}. 20 · {16/4} = 80 cm².
+- **tyt-mat:ucgende-benzerlik** — Benzer iki üçgenden küçüğünün kenarları 3 ve 6 cm’dir. Büyük üçgende 3 cm’lik kenara karşılık gelen kenar 6 cm ise 6 cm’lik kenara karşılık gelen kenar kaç cm’dir?
+  - A) 24 · B) 9 · C) 6 · **D) 12** · E) 8
+  - Çözüm: Benzerlik oranı {6/3} = 2. Karşılık gelen kenar 6 · 2 = 12 cm.
 - **tyt-mat:cokgenler-ve-dortgenler** — Düzgün bir 9-genin bir iç açısı kaç derecedir?
   - **A) 140** · B) 120 · C) 40 · D) 180 · E) 1260
   - Çözüm: İç açılar toplamı (n − 2) · 180° = 1260°. Düzgün çokgende bir iç açı 1260 ÷ 9 = 140°.
 - **tyt-mat:cokgenler-ve-dortgenler** — 7 kenarlı bir çokgenin kaç köşegeni vardır?
   - A) 28 · B) 7 · C) 21 · D) 4 · **E) 14**
   - Çözüm: Köşegen sayısı {n(n − 3)/2} = {7 · 4/2} = 14.
+- **tyt-mat:cokgenler-ve-dortgenler** — Bir kenarı 9 cm ve bu kenara ait yüksekliği 4 cm olan paralelkenarın alanı kaç cm²’dir?
+  - A) 18 · B) 26 · C) 13 · D) 72 · **E) 36**
+  - Çözüm: Paralelkenarın alanı taban · yükseklik = 9 · 4 = 36 cm².
+- **tyt-mat:cokgenler-ve-dortgenler** — Tabanları 7 cm ve 14 cm, yüksekliği 8 cm olan yamuğun alanı kaç cm²’dir?
+  - A) 28 · B) 98 · C) 10,5 · **D) 84** · E) 168
+  - Çözüm: Yamuğun alanı {(a + c) · h/2} = {(7 + 14) · 8/2} = 84 cm².
+- **tyt-mat:cokgenler-ve-dortgenler** — Köşegen uzunlukları 6 cm ve 8 cm olan eşkenar dörtgenin alanı kaç cm²’dir?
+  - A) 28 · B) 12 · **C) 24** · D) 48 · E) 14
+  - Çözüm: Eşkenar dörtgenin alanı köşegenler çarpımının yarısıdır: {6 · 8/2} = 24 cm².
+- **tyt-mat:cokgenler-ve-dortgenler** — Düzgün 9 kenarlı bir çokgenin bir dış açısı kaç derecedir?
+  - A) 360 · B) 1260 · C) 140 · D) 20 · **E) 40**
+  - Çözüm: Dış açılar toplamı 360°: 360 ÷ 9 = 40°.
 - **tyt-mat:cember-ve-daire** — Yarıçapı 6 cm olan bir dairenin alanı kaç cm²’dir? (π = 3 alınız)
   - **A) 108** · B) 216 · C) 36 · D) 54 · E) 18
   - Çözüm: Alan = πr² = 3 · 6² = 108 cm². (Çevre 2πr = 36 cm olurdu.)
+- **tyt-mat:cember-ve-daire** — Bir çemberde aynı yayı gören merkez açı 68° ise çevre açı kaç derecedir?
+  - A) 68 · B) 90 · C) 146 · D) 136 · **E) 34**
+  - Çözüm: Çevre açı, aynı yayı gören merkez açının yarısıdır: 34°.
+- **tyt-mat:cember-ve-daire** — Yarıçapı 7 cm olan çemberin çevresi kaç cm’dir? (π = 3)
+  - A) 294 · B) 21 · C) 84 · **D) 42** · E) 147
+  - Çözüm: Çevre 2πr = 2 · 3 · 7 = 42 cm.
+- **tyt-mat:cember-ve-daire** — Yarıçapı 6 cm olan dairenin 90°’lik dilim alanı kaç cm²’dir? (π = 3)
+  - A) 4,5 · B) 54 · **C) 27** · D) 108 · E) 9
+  - Çözüm: Dilim alanı πr² · {90/360} = 108 · {90/360} = 27 cm².
 - **tyt-mat:noktanin-ve-dogrunun-analitigi** — A(0, 1) ve B(5, 13) noktaları arasındaki uzaklık kaç birimdir?
   - A) 14 · **B) 13** · C) 17 · D) 20 · E) 169
   - Çözüm: |AB| = √{(5)² + (12)²} = √{169} = 13.
 - **tyt-mat:noktanin-ve-dogrunun-analitigi** — A(−1, −3) ve B(3, 1) noktalarından geçen doğrunun eğimi kaçtır?
-  - A) 2 · B) −1 · C) 4 · D) 0 · **E) 1**
+  - A) 3 · B) 4 · C) 2 · D) 5 · **E) 1**
   - Çözüm: Eğim = {y₂ − y₁/x₂ − x₁} = {4/4} = 1.
+- **tyt-mat:noktanin-ve-dogrunun-analitigi** — A(1, −2) ve B(−7, −10) noktalarının orta noktası hangisidir?
+  - A) (−6, −12) · B) (−6, −3) · C) (−4, −4) · D) (−2, −6) · **E) (−3, −6)**
+  - Çözüm: Orta nokta ({x₁ + x₂/2}, {y₁ + y₂/2}) = (−3, −6).
+- **tyt-mat:noktanin-ve-dogrunun-analitigi** — y = 2x − 1 doğrusu üzerindeki apsisi 1 olan noktanın ordinatı kaçtır?
+  - A) 4 · B) 3 · C) 5 · **D) 1** · E) 2
+  - Çözüm: y = 2 · 1 − 1 = 1.
+- **tyt-mat:noktanin-ve-dogrunun-analitigi** — {x/3} + {y/4} = 1 doğrusunun eksenlerle oluşturduğu üçgenin alanı kaç birimkaredir?
+  - A) 24 · B) 3,5 · **C) 6** · D) 12 · E) 7
+  - Çözüm: Doğru eksenleri (3, 0) ve (0, 4) noktalarında keser. Alan {3 · 4/2} = 6.
 - **tyt-mat:kati-cisimler** — Ayrıt uzunlukları 6 cm, 6 cm ve 6 cm olan dikdörtgenler prizmasının yüzey alanı kaç cm²’dir?
   - A) 227 · **B) 216** · C) 108 · D) 432 · E) 72
   - Çözüm: Yüzey alanı = 2(ab + ac + bc) = 2(36 + 36 + 36) = 216 cm². (Hacim 216 cm³ olurdu.)
 - **tyt-mat:kati-cisimler** — Bir ayrıtı 4 cm olan küpün hacmi kaç cm³’tür?
   - A) 96 · B) 12 · C) 48 · D) 16 · **E) 64**
   - Çözüm: Küpün hacmi a³ = 4³ = 64 cm³.
+- **tyt-mat:kati-cisimler** — Taban yarıçapı 3 cm, yüksekliği 5 cm olan dik silindirin hacmi kaç cm³’tür? (π = 3)
+  - A) 45 · B) 90 · C) 270 · D) 142 · **E) 135**
+  - Çözüm: V = πr²h = 3 · 9 · 5 = 135 cm³.
+- **tyt-mat:kati-cisimler** — Taban yarıçapı 3 cm, yüksekliği 6 cm olan dik koninin hacmi kaç cm³’tür? (π = 3)
+  - A) 57 · B) 51 · **C) 54** · D) 162 · E) 18
+  - Çözüm: V = {πr²h/3} = {3 · 9 · 6/3} = 54 cm³.
+- **tyt-mat:kati-cisimler** — Yarıçapı 2 cm olan kürenin hacmi kaç cm³’tür? (π = 3)
+  - A) 10,67 · **B) 32** · C) 16 · D) 24 · E) 48
+  - Çözüm: V = {4/3}πr³ = {4/3} · 3 · 8 = 32 cm³.
 - **ayt-mat:ustel-ve-logaritmik-fonksiyonlar** — log₂ 16 + log₃ 27 toplamı kaçtır?
   - **A) 7** · B) 12 · C) 1 · D) 43 · E) 8
   - Çözüm: log₂ 16 = 4 çünkü 2^{4} = 16; log₃ 27 = 3. Toplam 7.
 - **ayt-mat:ustel-ve-logaritmik-fonksiyonlar** — log x + log 10 = log 30 eşitliğini sağlayan x kaçtır?
   - A) 30 · B) 7 · C) 300 · D) 13 · **E) 3**
   - Çözüm: log a + log b = log(a · b): log(10x) = log(30) → 10x = 30 → x = 3.
+- **ayt-mat:ustel-ve-logaritmik-fonksiyonlar** — log_{4} x = 3 ise x kaçtır?
+  - A) 12 · B) 81 · C) 7 · D) 16 · **E) 64**
+  - Çözüm: log_{4} x = 3 → x = 4^{3} = 64.
+- **ayt-mat:ustel-ve-logaritmik-fonksiyonlar** — log 20 + log 5 ifadesinin değeri kaçtır?
+  - A) 1 · **B) 2** · C) 25 · D) 4 · E) 3
+  - Çözüm: log a + log b = log(a · b) = log 100 = 2 (10^{2} = 100).
 - **ayt-mat:diziler** — İlk terimi 2 ve ortak farkı 4 olan aritmetik dizinin 15. terimi kaçtır?
   - A) 54 · **B) 58** · C) 62 · D) 56 · E) 30
   - Çözüm: aₙ = a₁ + (n − 1)d = 2 + 14 · 4 = 58.
 - **ayt-mat:diziler** — İlk terimi 2, ortak farkı 1 olan aritmetik dizinin ilk 9 teriminin toplamı kaçtır?
   - A) 90 · B) 10 · C) 55 · **D) 54** · E) 52
   - Çözüm: Sₙ = {n · (a₁ + aₙ)/2}; aₙ = 10. S = {9 · 12/2} = 54.
+- **ayt-mat:diziler** — İlk terimi 3, ortak çarpanı 2 olan geometrik dizinin 3. terimi kaçtır?
+  - A) 24 · B) 7 · C) 4 · D) 13 · **E) 12**
+  - Çözüm: aₙ = a₁ · r^{n − 1} = 3 · 2^{2} = 12.
+- **ayt-mat:diziler** — Bir aritmetik dizide a₃ = 14 ve a₇ = 30 ise ortak fark kaçtır?
+  - A) 6 · B) 5 · **C) 4** · D) 16 · E) 8
+  - Çözüm: a₇ − a₃ = 4d → 16 = 4d → d = 4.
 - **ayt-mat:limit-ve-sureklilik** — lim_{x → 5} {x² − 25/x − 5} değeri kaçtır?
-  - **A) 10** · B) 0 · C) 5 · D) 11 · E) 25
+  - **A) 10** · B) 11 · C) 5 · D) 9 · E) 25
   - Çözüm: Pay (x − 5)(x + 5) diye çarpanlara ayrılır, sadeleşince x + 5 kalır. x → 5 için 10.
+- **ayt-mat:limit-ve-sureklilik** — lim_{x → 3} (2x² − 5x + 1) değeri kaçtır?
+  - A) 1 · B) 34 · C) 2 · D) 3 · **E) 4**
+  - Çözüm: Polinomlarda limit, değer yazılarak bulunur: 2 · 9 − 15 + 1 = 4.
+- **ayt-mat:limit-ve-sureklilik** — lim_{x → ∞} {5x² + 5x/4x² − 1} değeri kaçtır?
+  - A) {4/5} · B) 5 · C) 0 · D) {29/20} · **E) {5/4}**
+  - Çözüm: Pay ve paydanın dereceleri eşit: limit baş katsayıların oranıdır, {5/4}.
 - **ayt-mat:turev** — f(x) = 3x³ + 0x² + x + 7 ise f′(1) kaçtır?
   - A) 9 · B) 11 · **C) 10** · D) 17 · E) 12
   - Çözüm: f′(x) = 9x² + 0x + 1. f′(1) = 9 + 0 + 1 = 10.
+- **ayt-mat:turev** — f(x) = x² − 6x + 1 eğrisinin x = 3 noktasındaki teğetinin eğimi kaçtır?
+  - A) −4 · B) −8 · C) −3 · D) 1 · **E) 0**
+  - Çözüm: Teğetin eğimi f′(3): f′(x) = 2x − 6 → 0.
+- **ayt-mat:turev** — f(x) = x² − 2x − 8 fonksiyonunun türevini sıfır yapan x değeri kaçtır?
+  - A) 2 · B) 3 · C) 4 · D) 5 · **E) 1**
+  - Çözüm: f′(x) = 2x − 2 = 0 → x = 1.
+- **ayt-mat:turev** — f(x) = 3x^{5} ise f′(x) hangisidir?
+  - A) 5x^{4} · B) 8x^{4} · **C) 15x^{4}** · D) 3x^{4} · E) 15x^{5}
+  - Çözüm: (axⁿ)′ = a · n · x^{n − 1} = 15x^{4}.
 - **ayt-mat:integral** — ∫_{0}^{3} (6x + 1) dx integralinin değeri kaçtır?
   - A) 31 · **B) 30** · C) 19 · D) 27 · E) 57
   - Çözüm: İlkel: 3x² + x. x = 3 ve x = 0 için farkı: 27 + 3 = 30.
+- **ayt-mat:integral** — ∫ 3x^{2} dx hangisidir?
+  - A) 6x + c · B) 9x^{3} + c · **C) x^{3} + c** · D) x^{2} + c · E) 3x^{3} + c
+  - Çözüm: ∫ axⁿ dx = {a/n + 1} x^{n + 1} + c = x^{3} + c.
+- **ayt-mat:integral** — ∫_{0}^{2} 3x² dx integralinin değeri kaçtır?
+  - A) 9 · B) 4 · C) 24 · **D) 8** · E) 12
+  - Çözüm: İlkel x³: 2³ − 0 = 8.
+- **ayt-mat:integral** — ∫_{2}^{4} 3 dx integralinin değeri kaçtır?
+  - A) 2 · B) 18 · C) 3 · **D) 6** · E) 12
+  - Çözüm: Sabit fonksiyonun integrali: 3 · (4 − 2) = 6.
 - **ayt-mat:trigonometri** — cos 0° − sin 30° ifadesinin değeri kaçtır?
   - **A) {1/2}** · B) {3/2} · C) 1 · D) {3/4} · E) 0
   - Çözüm: cos 0° = 1, sin 30° = {1/2}; fark {1/2}.
+- **ayt-mat:trigonometri** — 60° kaç radyandır?
+  - A) {π/60} · B) {π/2} · C) {60/π} · D) 60π · **E) {π/3}**
+  - Çözüm: Radyan = derece · {π/180}: 60 · {π/180} = {π/3}.
+- **ayt-mat:trigonometri** — Bir dik üçgende x dar açısının karşısındaki dik kenar 8, komşu dik kenar 15 birimdir. cos x kaçtır?
+  - A) {8/17} · B) {8/15} · C) {15/8} · D) {17/15} · **E) {15/17}**
+  - Çözüm: Hipotenüs √{64 + 225} = 17. sin = {karşı/hipotenüs}, cos = {komşu/hipotenüs}, tan = {karşı/komşu}: cos x = {15/17}.
+- **ayt-mat:trigonometri** — x dar açı ve sin x = {5/13} ise cos x kaçtır?
+  - A) {5/12} · **B) {12/13}** · C) {5/13} · D) {12/5} · E) {8/13}
+  - Çözüm: sin²x + cos²x = 1 → cos²x = 1 − {25/169} = {144/169} → cos x = {12/13} (dar açıda pozitif).
 - **ayt-mat:permutasyon-kombinasyon-binom** — (x + y)^{7} ifadesinin açılımında kaç terim vardır?
   - **A) 8** · B) 6 · C) 7 · D) 128 · E) 14
   - Çözüm: (x + y)^{n} açılımında n + 1 terim vardır: 8.
 - **ayt-mat:permutasyon-kombinasyon-binom** — (x + 1)^{4} açılımındaki katsayılar toplamı kaçtır?
   - A) 8 · B) 2 · C) 1 · **D) 16** · E) 17
   - Çözüm: Katsayılar toplamı için x = 1 yazılır: (1 + 1)^{4} = 16.
+- **ayt-mat:permutasyon-kombinasyon-binom** — C(7, 2) + C(7, 5) toplamı kaçtır?
+  - A) 21 · B) 28 · C) 128 · D) 44 · **E) 42**
+  - Çözüm: C(n, k) = C(n, n − k) olduğundan toplam 2 · C(7, 2) = 2 · 21 = 42.
+- **ayt-mat:permutasyon-kombinasyon-binom** — (x + 1)^{5} açılımında x^{2} içeren terimin katsayısı kaçtır?
+  - A) 11 · B) 9 · **C) 10** · D) 5 · E) 20
+  - Çözüm: Binom açılımında xᵏ teriminin katsayısı C(5, 2) = 10.
 - **ayt-mat:karmasik-sayilar** — i² = −1 olmak üzere i^{53} kaçtır?
   - **A) i** · B) −i · C) 1 · D) 0 · E) −1
-  - Çözüm: iⁿ 4’lük döngüdedir. 53 = 4 · 13 + 1 → i^{53} = i^{1} = i.
+  - Çözüm: iⁿ 4’lük döngüdedir (i, −1, −i, 1). 53 sayısının 4 ile bölümünden kalan 1 → i^{53} = i.
+- **ayt-mat:karmasik-sayilar** — z = 6 + 8i karmaşık sayısının modülü (|z|) kaçtır?
+  - A) 14 · B) 11 · **C) 10** · D) 2 · E) 100
+  - Çözüm: |z| = √{6² + 8²} = √{100} = 10.
+- **ayt-mat:karmasik-sayilar** — (4 + 3i)(1 + i) çarpımı hangisidir? (i² = −1)
+  - A) 7 + 7i · B) 4 + 3i · C) 1 − 7i · D) 5 + 4i · **E) 1 + 7i**
+  - Çözüm: 4 + 4i + 3i + 3i² = (4 − 3) + (4 + 3)i = 1 + 7i.
 - **ayt-mat:fonksiyonlar-ileri** — f doğrusal bir fonksiyondur. f(2) = 9 ve f(5) = 21 ise f(12) kaçtır?
   - A) 61 · B) 33 · C) 48 · **D) 49** · E) 47
   - Çözüm: f(x) = ax + b: a = (21 − 9) ÷ (5 − 2) = 4, b = 1. f(12) = 4 · 12 + 1 = 49.
@@ -721,11 +1726,14 @@ Her üreticiden bir örnek; sayılar her testte değişir, cevap kodla hesaplan�
   - A) 15 · B) 4 · C) 10 · D) 9 · **E) 13**
   - Çözüm: Önce g(1) = 6, sonra f(6) = 2 · 6 + 1 = 13.
 - **ayt-mat:polinomlar-ve-denklemler** — P(x) = x³ + 0x² + ax + 1 polinomunun x − 2 ile bölümünden kalan 15 ise a kaçtır?
-  - A) 14 · B) 4 · **C) 3** · D) −3 · E) 1
+  - A) 1 · B) 4 · **C) 3** · D) 14 · E) 2
   - Çözüm: x − 2 ile bölümden kalan P(2) değeridir: 8 + 0 + 2a + 1 = 15 → a = 3.
 - **ayt-mat:ikinci-dereceden-denklemler-ve-esitsizlikler** — x² − 8x + 16 = 0 denkleminin kökleri x₁ ve x₂ ise {1/x₁} + {1/x₂} kaçtır?
   - **A) {1/2}** · B) 2 · C) {1/4} · D) 24 · E) {1/8}
   - Çözüm: {1/x₁} + {1/x₂} = {x₁ + x₂/x₁ · x₂}. Kökler toplamı 8, çarpımı 16 → {1/2}.
+- **ayt-mat:ikinci-dereceden-denklemler-ve-esitsizlikler** — (x + 3)(x − (−1)) < 0 eşitsizliğini sağlayan kaç x tam sayısı vardır?
+  - A) 3 · B) 5 · **C) 1** · D) 4 · E) 2
+  - Çözüm: Kökler −3 ve −1; ifade kökler arasında negatiftir: −3 < x < −1. Tam sayılar 1 tane.
 - **ayt-mat:olasilik** — Bir torbada 5 kırmızı ve 5 mavi top vardır. Torbadan rastgele çekilen bir topun kırmızı olma olasılığı kaçtır?
   - **A) {1/2}** · B) 1 · C) {7/12} · D) {1/10} · E) {6/11}
   - Çözüm: İstenen durum 5, bütün durumlar 10: olasılık {1/2}.
@@ -739,7 +1747,7 @@ Her üreticiden bir örnek; sayılar her testte değişir, cevap kodla hesaplan�
   - A) 14 · **B) 13** · C) 17 · D) 20 · E) 169
   - Çözüm: |AB| = √{(5)² + (12)²} = √{169} = 13.
 - **ayt-mat:dogrunun-analitigi** — A(−1, −3) ve B(3, 1) noktalarından geçen doğrunun eğimi kaçtır?
-  - A) 2 · B) −1 · C) 4 · D) 0 · **E) 1**
+  - A) 3 · B) 4 · C) 2 · D) 5 · **E) 1**
   - Çözüm: Eğim = {y₂ − y₁/x₂ − x₁} = {4/4} = 1.
 - **ayt-mat:kati-cisimler** — Ayrıt uzunlukları 6 cm, 6 cm ve 6 cm olan dikdörtgenler prizmasının yüzey alanı kaç cm²’dir?
   - A) 227 · **B) 216** · C) 108 · D) 432 · E) 72
@@ -753,54 +1761,276 @@ Her üreticiden bir örnek; sayılar her testte değişir, cevap kodla hesaplan�
 - **ayt-mat:cokgenler-ve-dortgenler-tekrar** — 7 kenarlı bir çokgenin kaç köşegeni vardır?
   - A) 28 · B) 7 · C) 21 · D) 4 · **E) 14**
   - Çözüm: Köşegen sayısı {n(n − 3)/2} = {7 · 4/2} = 14.
-- **tyt-fiz:madde-ve-ozellikleri** — Hacmi 40 cm³ olan bir cismin özkütlesi 2,5 g/cm³ ise kütlesi kaç gramdır?
-  - **A) 100** · B) 16 · C) 40 · D) 42,5 · E) 200
-  - Çözüm: m = d · V = 2,5 · 40 = 100 g.
-- **tyt-fiz:basinc-ve-kaldirma-kuvveti** — 100 N ağırlığındaki bir cisim, yere temas alanı 5 m² olan yüzeyiyle duruyor. Yere uyguladığı basınç kaç Pa’dır?
-  - **A) 20** · B) 500 · C) 95 · D) 105 · E) 10
-  - Çözüm: P = {F/A} = {100/5} = 20 Pa.
-- **tyt-fiz:basinc-ve-kaldirma-kuvveti** — Özkütlesi 1000 kg/m³ olan bir sıvının 7 m derinliğindeki sıvı basıncı kaç Pa’dır? (g = 10 N/kg)
-  - A) 7000 · B) 35000 · **C) 70000** · D) 700000 · E) 70
-  - Çözüm: P = h · d · g = 7 · 1000 · 10 = 70000 Pa.
-- **tyt-fiz:isi-sicaklik-ve-genlesme** — 250 g suyun sıcaklığını 30 °C artırmak için kaç kalori ısı gerekir? (c_{su} = 1 cal/g°C)
-  - **A) 7500** · B) 280 · C) 750 · D) 8,33 · E) 15000
-  - Çözüm: Q = m · c · ΔT = 250 · 1 · 30 = 7500 cal.
-- **tyt-fiz:hareket-ve-kuvvet** — Sabit 15 m/s hızla giden bir araç 8 saniyede kaç metre yol alır?
-  - **A) 120** · B) 23 · C) 60 · D) 1,88 · E) 240
-  - Çözüm: x = v · t = 15 · 8 = 120 m.
-- **tyt-fiz:hareket-ve-kuvvet** — Sürtünmesiz yatay düzlemde 4 kg kütleli cisme 8 N’luk net kuvvet uygulanıyor. Cismin ivmesi kaç m/s²’dir?
-  - A) 32 · B) 8 · **C) 2** · D) 3 · E) 4
-  - Çözüm: F = m · a → a = {8/4} = 2 m/s².
-- **tyt-fiz:is-guc-ve-enerji** — 5 kg kütleli bir cisim yerden 10 m yüksekliğe çıkarılıyor. Cismin kazandığı potansiyel enerji kaç J’dür? (g = 10 m/s²)
-  - **A) 500** · B) 50 · C) 5000 · D) 60 · E) 250
-  - Çözüm: E_{p} = m · g · h = 5 · 10 · 10 = 500 J.
-- **tyt-fiz:is-guc-ve-enerji** — 4 kg kütleli bir cisim 2 m/s hızla hareket ediyor. Kinetik enerjisi kaç J’dür?
-  - A) 16 · B) 9 · **C) 8** · D) 6 · E) 4
-  - Çözüm: E_{k} = {1/2} m v² = {1/2} · 4 · 4 = 8 J.
-- **tyt-fiz:elektrik-akimi-ve-devreler** — 6 Ω’luk bir dirençten 3 A akım geçiyor. Direncin uçları arasındaki potansiyel farkı kaç V’tur?
-  - **A) 18** · B) 2 · C) 3 · D) 9 · E) 36
-  - Çözüm: Ohm yasası: V = I · R = 3 · 6 = 18 V.
+- **tyt-mat:mantik** — p ≡ 1 ve q ≡ 0 olduğuna göre aşağıdaki önermelerden hangisinin doğruluk değeri 1’dir?
+  - A) p ⇔ q · **B) p ∧ q′** · C) p′ ∨ q · D) p ∧ q · E) p ⇒ q
+  - Çözüm: p = 1, q = 0 için p ∧ q′ ≡ 1; diğer şıkların değeri 0. (p ⇒ q yalnız 1 ⇒ 0 durumunda 0’dır; p ⇔ q iki taraf aynıysa 1’dir.)
+- **tyt-mat:aciortay-ve-kenarortay** — ABC üçgeninde [AD] A açısının açıortayıdır. |AB| = 8, |AC| = 8 ve |BC| = 32 ise |BD| kaç birimdir?
+  - A) 18 · **B) 16** · C) 8 · D) 15 · E) 17
+  - Çözüm: İç açıortay teoremi: {|BD|/|DC|} = {|AB|/|AC|} = {8/8}. |BD| = 32 · {8/16} = 16.
+- **tyt-mat:aciortay-ve-kenarortay** — Dik üçgende hipotenüs 10 cm ise hipotenüse ait kenarortayın uzunluğu kaç cm’dir?
+  - A) 10 · B) 6 · C) 20 · D) 2,5 · **E) 5**
+  - Çözüm: Dik üçgende hipotenüse ait kenarortay hipotenüsün yarısıdır: 5 cm.
+- **ayt-mat:parabol** — f(x) = 2x² + 0x + 1 parabolünün tepe noktası hangisidir?
+  - A) (0, 3) · **B) (0, 1)** · C) (1, 0) · D) (0, 2) · E) (0, −1)
+  - Çözüm: Tepe noktasının apsisi r = {−b/2a} = 0; ordinatı f(0) = 1.
+- **ayt-mat:parabol** — y = x² + 5x + 6 parabolünün x eksenini kestiği noktaların apsisleri toplamı kaçtır?
+  - A) 6 · B) −4 · **C) −5** · D) 1 · E) 5
+  - Çözüm: x² + 5x + 6 = 0 denkleminin kökleri −3 ve −2; toplam −5.
+- **ayt-mat:cemberin-analitigi** — (x + 0)² + (y + 0)² = 25 çemberinin merkezi ve yarıçapı hangisidir?
+  - A) M(0, 0), r = 8 · **B) M(0, 0), r = 5** · C) M(0, 0), r = 25 · D) M(0, 0), r = 7 · E) M(0, 0), r = 6
+  - Çözüm: (x − a)² + (y − b)² = r² biçiminde merkez (a, b) = (0, 0), r = √{25} = 5.
+- **ayt-mat:donusum-geometrisi** — A(3, −2) noktasının y eksenine göre simetriği hangisidir?
+  - A) (−2, −2) · **B) (−3, −2)** · C) (3, 2) · D) (−2, 3) · E) (−3, 2)
+  - Çözüm: y eksenine göre simetride x işaret değiştirir.
+- **ayt-mat:donusum-geometrisi** — A(−2, −5) noktası x ekseni yönünde 1 birim, y ekseni yönünde 4 birim ötelenirse hangi noktaya gelir?
+  - A) (−1, −9) · B) (−3, −9) · C) (2, −4) · D) (−3, −1) · **E) (−1, −1)**
+  - Çözüm: Öteleme koordinatlara eklenir: (−2 + 1, −5 + 4) = (−1, −1).
+- **tyt-fiz:madde-ve-ozellikleri** — Kütlesi 60 g, hacmi 20 cm³ olan bir cismin özkütlesi kaç g/cm³’tür?
+  - **A) 3** · B) 1200 · C) 6 · D) 0,33 · E) 40
+  - Çözüm: d = {m/V} = {60/20} = 3 g/cm³.
+- **tyt-fiz:madde-ve-ozellikleri** — Özkütlesi 1 g/cm³ olan 10 cm³ sıvı ile özkütlesi 4 g/cm³ olan 30 cm³ sıvı karıştırılıyor (hacim korunuyor). Karışımın özkütlesi kaç g/cm³’tür?
+  - A) 65 · B) 2,5 · C) 5 · D) 4,25 · **E) 3,25**
+  - Çözüm: d = {toplam kütle/toplam hacim} = {10 + 120/40} = 3,25 g/cm³.
+- **tyt-fiz:madde-ve-ozellikleri** — Hacmi 25 cm³ olan bir cismin özkütlesi 2,5 g/cm³ ise kütlesi kaç gramdır?
+  - A) 10 · B) 27,5 · C) 125 · D) 25 · **E) 62,5**
+  - Çözüm: m = d · V = 2,5 · 25 = 62,5 g.
+- **tyt-fiz:basinc-ve-kaldirma-kuvveti** — Hacmi 10 litre olan bir cisim özkütlesi 800 kg/m³ olan sıvıya tamamen batırılıyor. Cisme etki eden kaldırma kuvveti kaç N’dur? (g = 10 m/s², 1 L = 10^{−3} m³)
+  - **A) 80** · B) 8 · C) 100 · D) 800 · E) 40
+  - Çözüm: F_{k} = V_{batan} · d_{sıvı} · g = 10 · 10^{−3} · 800 · 10 = 80 N.
+- **tyt-fiz:basinc-ve-kaldirma-kuvveti** — Bir su cenderesinde küçük pistonun kesit alanı 1 cm², büyük pistonunki 10 cm²’dir. Küçük pistona 10 N kuvvet uygulanırsa büyük pistonda kaç N kuvvet oluşur?
+  - A) 20 · B) 1 · C) 50 · **D) 100** · E) 105
+  - Çözüm: Basınç eşit iletilir: {F₁/A₁} = {F₂/A₂} → F₂ = 10 · {10/1} = 100 N.
+- **tyt-fiz:basinc-ve-kaldirma-kuvveti** — 100 N ağırlığındaki bir cisim, yere temas alanı 4 m² olan yüzeyiyle duruyor. Yere uyguladığı basınç kaç Pa’dır?
+  - A) 400 · B) 104 · C) 12,5 · D) 96 · **E) 25**
+  - Çözüm: P = {F/A} = {100/4} = 25 Pa.
+- **tyt-fiz:basinc-ve-kaldirma-kuvveti** — Özkütlesi 1000 kg/m³ olan bir sıvının 10 m derinliğindeki sıvı basıncı kaç Pa’dır? (g = 10 N/kg)
+  - A) 1000000 · B) 50000 · **C) 100000** · D) 10000 · E) 100
+  - Çözüm: P = h · d · g = 10 · 1000 · 10 = 100000 Pa.
+- **tyt-fiz:isi-sicaklik-ve-genlesme** — 20 °C’deki 200 g su ile 80 °C’deki 200 g su karıştırılıyor. Isı alışverişi yalnız sular arasında olursa denge sıcaklığı kaç °C olur?
+  - A) 100 · B) 60 · **C) 50** · D) 55 · E) 53
+  - Çözüm: Alınan ısı = verilen ısı: 200(T − 20) = 200(80 − T) → T = {4000 + 16000/400} = 50 °C.
+- **tyt-fiz:isi-sicaklik-ve-genlesme** — 20 °C sıcaklık kaç kelvindir?
+  - A) 5460 · B) 308 · C) 253 · D) 120 · **E) 293**
+  - Çözüm: T(K) = t(°C) + 273 = 20 + 273 = 293 K.
+- **tyt-fiz:isi-sicaklik-ve-genlesme** — 250 g suyun sıcaklığını 20 °C artırmak için kaç kalori ısı gerekir? (c_{su} = 1 cal/g°C)
+  - A) 270 · B) 12,5 · C) 10000 · D) 500 · **E) 5000**
+  - Çözüm: Q = m · c · ΔT = 250 · 1 · 20 = 5000 cal.
+- **tyt-fiz:hareket-ve-kuvvet** — İlk hızı 4 m/s olan bir araç 3 m/s² sabit ivmeyle hızlanıyor. 6 saniye sonra hızı kaç m/s olur?
+  - A) 112 · **B) 22** · C) 18 · D) 42 · E) 27
+  - Çözüm: v = v₀ + a · t = 4 + 3 · 6 = 22 m/s.
+- **tyt-fiz:hareket-ve-kuvvet** — Yatay düzlemde duran 4 kg kütleli cisme 40 N yatay kuvvet uygulanıyor. Sürtünme katsayısı 0,1 ise cismin ivmesi kaç m/s²’dir? (g = 10 m/s²)
+  - A) 1 · B) 10 · C) 11 · **D) 9** · E) 8
+  - Çözüm: Sürtünme kuvveti k · m · g = 4 N. Net kuvvet 40 − 4 = 36 N; a = {36/4} = 9 m/s².
+- **tyt-fiz:hareket-ve-kuvvet** — Sabit 15 m/s hızla giden bir araç 6 saniyede kaç metre yol alır?
+  - A) 21 · B) 2,5 · C) 180 · D) 45 · **E) 90**
+  - Çözüm: x = v · t = 15 · 6 = 90 m.
+- **tyt-fiz:hareket-ve-kuvvet** — Sürtünmesiz yatay düzlemde 5 kg kütleli cisme 15 N’luk net kuvvet uygulanıyor. Cismin ivmesi kaç m/s²’dir?
+  - A) 4 · B) 15 · **C) 3** · D) 75 · E) 5
+  - Çözüm: F = m · a → a = {15/5} = 3 m/s².
+- **tyt-fiz:is-guc-ve-enerji** — Bir cisme hareket yönünde 25 N’luk sabit kuvvet uygulanarak cisim 5 m yol alıyor. Kuvvetin yaptığı iş kaç J’dür?
+  - **A) 125** · B) 30 · C) 250 · D) 5 · E) 62,5
+  - Çözüm: W = F · x = 25 · 5 = 125 J.
+- **tyt-fiz:is-guc-ve-enerji** — Bir motor 1200 J’lük işi 10 saniyede yapıyor. Motorun gücü kaç W’tır?
+  - A) 12000 · B) 240 · **C) 120** · D) 1190 · E) 0,01
+  - Çözüm: P = {W/t} = {1200/10} = 120 W.
+- **tyt-fiz:is-guc-ve-enerji** — 5 kg kütleli bir cisim yerden 5 m yüksekliğe çıkarılıyor. Cismin kazandığı potansiyel enerji kaç J’dür? (g = 10 m/s²)
+  - A) 25 · B) 55 · C) 125 · D) 2500 · **E) 250**
+  - Çözüm: E_{p} = m · g · h = 5 · 10 · 5 = 250 J.
+- **tyt-fiz:is-guc-ve-enerji** — 4 kg kütleli bir cisim 4 m/s hızla hareket ediyor. Kinetik enerjisi kaç J’dür?
+  - A) 8 · B) 33 · **C) 32** · D) 16 · E) 64
+  - Çözüm: E_{k} = {1/2} m v² = {1/2} · 4 · 16 = 32 J.
+- **tyt-fiz:elektrostatik** — Yükleri +6q ve −6q olan özdeş iki iletken küre birbirine dokundurulup ayrılıyor. Kürelerden birinin son yükü kaç q olur?
+  - **A) 0** · B) 12 · C) −1 · D) 6 · E) 1
+  - Çözüm: Özdeş kürelerde toplam yük eşit paylaşılır: {6 − 6/2} = 0 (q cinsinden).
+- **tyt-fiz:elektrik-akimi-ve-devreler** — 3 Ω, 5 Ω, 2 Ω’luk üç direnç seri bağlanıyor. Eşdeğer direnç kaç Ω’dur?
+  - A) 8 · **B) 10** · C) 30 · D) 3,33 · E) 5
+  - Çözüm: Seride dirençler toplanır: 3 + 5 + 2 = 10 Ω.
+- **tyt-fiz:elektrik-akimi-ve-devreler** — 24 V’luk gerilime bağlı 2 Ω’luk bir direncin harcadığı güç kaç W’tır?
+  - A) 48 · B) 144 · **C) 288** · D) 6 · E) 12
+  - Çözüm: I = {V/R} = 12 A; P = V · I = 24 · 12 = 288 W.
+- **tyt-fiz:elektrik-akimi-ve-devreler** — Bir iletkenin kesitinden 5 saniyede 30 C yük geçiyor. Akım şiddeti kaç amperdir?
+  - A) 150 · B) 0,17 · C) 25 · D) 12 · **E) 6**
+  - Çözüm: I = {q/t} = {30/5} = 6 A.
+- **tyt-fiz:elektrik-akimi-ve-devreler** — 5 Ω’luk bir dirençten 2 A akım geçiyor. Direncin uçları arasındaki potansiyel farkı kaç V’tur?
+  - A) 20 · B) 2 · **C) 10** · D) 2,5 · E) 7
+  - Çözüm: Ohm yasası: V = I · R = 2 · 5 = 10 V.
 - **tyt-fiz:elektrik-akimi-ve-devreler** — 4 Ω ve 4 Ω’luk iki direnç paralel bağlanıyor. Eşdeğer direnç kaç Ω’dur?
-  - A) 8 · B) 16 · C) 1 · D) 4 · **E) 2**
+  - A) 16 · **B) 2** · C) 1 · D) 8 · E) 4
   - Çözüm: Paralelde {1/R} = {1/4} + {1/4} → R = {4 · 4/4 + 4} = 2 Ω. (Seri bağlansaydı 8 Ω olurdu.)
+- **tyt-fiz:dalgalar** — Frekansı 5 Hz, dalga boyu 2 m olan bir dalganın yayılma hızı kaç m/s’dir?
+  - **A) 10** · B) 2,5 · C) 20 · D) 0,4 · E) 7
+  - Çözüm: v = λ · f = 2 · 5 = 10 m/s.
+- **tyt-fiz:dalgalar** — Periyodu 0,2 s olan bir dalganın frekansı kaç Hz’dir?
+  - A) 0,2 · B) 6 · C) 2 · D) 10 · **E) 5**
+  - Çözüm: f = {1/T} = {1/0,2} = 5 Hz.
+- **tyt-fiz:optik** — Düz aynanın 9 cm önündeki bir cismin görüntüsü cisme kaç cm uzaklıktadır?
+  - **A) 18** · B) 27 · C) 9 · D) 11 · E) 4,5
+  - Çözüm: Düz aynada görüntü, aynanın arkasında cisimle aynı uzaklıktadır (9 cm). Cisim–görüntü arası 18 cm.
+- **tyt-fiz:optik** — Bir ışın düz aynaya yüzeyle 34° açı yapacak şekilde geliyor. Yansıma açısı kaç derecedir?
+  - A) 34 · B) 124 · C) 68 · D) 146 · **E) 56**
+  - Çözüm: Açılar normalle ölçülür: gelme açısı 90 − 34 = 56°. Yansıma açısı gelme açısına eşittir: 56°.
+- **ayt-fiz:vektorler-ve-bagil-hareket** — Büyüklükleri 5 N ve 12 N olan ve aralarında 90° açı bulunan iki kuvvetin bileşkesi kaç N’dur?
+  - **A) 13** · B) 8,5 · C) 17 · D) 169 · E) 7
+  - Çözüm: Dik vektörlerde R = √{5² + 12²} = √{169} = 13 N.
+- **ayt-fiz:vektorler-ve-bagil-hareket** — Aynı doğrultuda zıt yönlerde 50 km/sa ve 20 km/sa hızla giden iki aracın birbirine göre hızlarının büyüklüğü kaç km/sa olur?
+  - A) 35 · B) 30 · C) 50 · **D) 70** · E) 20
+  - Çözüm: Zıt yönde bağıl hız toplamdır: 50 + 20 = 70 km/sa.
+- **ayt-fiz:newton-un-hareket-yasalari** — Sürtünmesiz yatay düzlemde birbirine bağlı 2 kg ve 4 kg kütleli iki cisme 18 N’luk yatay kuvvet uygulanıyor. Sistemin ivmesi kaç m/s²’dir?
+  - A) 6 · **B) 3** · C) 9 · D) 108 · E) 4,5
+  - Çözüm: a = {F/toplam kütle} = {18/6} = 3 m/s².
+- **ayt-fiz:newton-un-hareket-yasalari** — Kütlesi 4 kg olan bir cismin Dünya yüzeyindeki ağırlığı kaç N’dur? (g = 10 m/s²)
+  - A) 4 · B) 14 · C) 400 · D) 0,4 · **E) 40**
+  - Çözüm: G = m · g = 4 · 10 = 40 N. (Kütle kg, ağırlık N ile ölçülür.)
+- **ayt-fiz:bir-boyutta-sabit-ivmeli-hareket** — İlk hızı 4 m/s olan bir cisim 4 m/s² sabit ivmeyle 5 saniye hareket ediyor. Aldığı yol kaç m’dir?
+  - A) 74 · **B) 70** · C) 120 · D) 35 · E) 100
+  - Çözüm: x = v₀t + {1/2}at² = 20 + {1/2} · 4 · 25 = 70 m.
+- **ayt-fiz:atislar** — Serbest bırakılan bir cisim 4 saniyede kaç m düşer? (g = 10 m/s², hava direnci yok)
+  - **A) 80** · B) 20 · C) 40 · D) 84 · E) 160
+  - Çözüm: h = {1/2} g t² = 5 · 16 = 80 m.
+- **ayt-fiz:atislar** — Yerden düşey yukarı 20 m/s hızla atılan bir cisim en fazla kaç m yükselir? (g = 10 m/s², hava direnci yok)
+  - A) 2 · B) 21 · C) 10 · D) 40 · **E) 20**
+  - Çözüm: h_{maks} = {v²/2g} = {400/20} = 20 m.
+- **ayt-fiz:atislar** — Düşey yukarı 30 m/s hızla atılan bir cisim kaç saniyede tepe noktasına ulaşır? (g = 10 m/s²)
+  - A) 45 · B) 30 · C) 1,5 · **D) 3** · E) 6
+  - Çözüm: Tepe noktasında hız sıfırdır: t = {v/g} = {30/10} = 3 s.
+- **ayt-fiz:itme-ve-momentum** — 5 kg kütleli, 6 m/s hızla giden bir cismin momentumu kaç kg·m/s’dir?
+  - **A) 30** · B) 11 · C) 60 · D) 90 · E) 0,83
+  - Çözüm: p = m · v = 5 · 6 = 30 kg·m/s.
+- **ayt-fiz:itme-ve-momentum** — 4 m/s hızla giden 2 kg’lık cisim, duran 3 kg’lık cisme çarpıp kenetleniyor. Ortak hızları kaç m/s olur?
+  - A) 2,67 · B) 4 · C) 2 · **D) 1,6** · E) 3,2
+  - Çözüm: Momentum korunur: 2 · 4 = (2 + 3) · v → v = {8/5} = 1,6 m/s.
+- **ayt-fiz:itme-ve-momentum** — Bir cisme 0,2 saniye boyunca 50 N’luk kuvvet uygulanıyor. Cisme verilen itme kaç N·s’dir?
+  - A) 250 · B) 50,2 · C) 5 · D) 100 · **E) 10**
+  - Çözüm: İtme = F · Δt = 50 · 0,2 = 10 N·s.
+- **ayt-fiz:tork-denge-ve-kutle-merkezi** — Dönme eksenine 1 m uzaklıktan dik olarak 30 N kuvvet uygulanıyor. Kuvvetin torku kaç N·m’dir?
+  - **A) 30** · B) 31 · C) 29 · D) 15 · E) 60
+  - Çözüm: τ = F · d = 30 · 1 = 30 N·m.
+- **ayt-fiz:tork-denge-ve-kutle-merkezi** — Ağırlığı önemsiz bir çubuğun destek noktasının bir tarafında 1 m uzaklıkta 30 N’luk yük asılı. Çubuğun dengede kalması için diğer tarafta 3 m uzaklığa kaç N’luk yük asılmalıdır?
+  - A) 90 · B) 30 · C) 28 · **D) 10** · E) 20
+  - Çözüm: Torklar eşit: 30 · 1 = G · 3 → G = 10 N.
+- **ayt-fiz:basit-makineler** — Ağırlığı ve sürtünmesi önemsiz, 4 ipin yükü taşıdığı bir makara düzeneğiyle 300 N’luk yük dengede tutuluyor. Uygulanması gereken kuvvet kaç N’dur?
+  - **A) 75** · B) 300 · C) 296 · D) 1200 · E) 37,5
+  - Çözüm: Yükü taşıyan 4 ip varsa kuvvet {G/4} = {300/4} = 75 N.
+- **ayt-fiz:elektriksel-kuvvet-alan-ve-potansiyel** — Büyüklüğü 50 N/C olan düzgün elektrik alanına konan 4 coulomb’luk yüke etki eden kuvvet kaç N’dur?
+  - **A) 200** · B) 12,5 · C) 800 · D) 54 · E) 100
+  - Çözüm: F = q · E = 4 · 50 = 200 N.
+- **ayt-fiz:elektriksel-kuvvet-alan-ve-potansiyel** — İki noktasal yük arasındaki uzaklık 2 katına çıkarılırsa aralarındaki elektriksel kuvvet kaç kat küçülür?
+  - A) 2 · B) 5 · C) 1 · D) 8 · **E) 4**
+  - Çözüm: Coulomb yasası: F ∝ {1/d²}. Uzaklık 2 katına çıkınca kuvvet 4 kat küçülür.
+- **ayt-fiz:paralel-levhalar-ve-siga** — Sığası 5 μF olan bir sığaç 20 V’luk üretece bağlanıyor. Sığaçta biriken yük kaç μC’dir?
+  - **A) 100** · B) 4 · C) 2000 · D) 25 · E) 50
+  - Çözüm: Q = C · V = 5 · 20 = 100 μC.
+- **ayt-fiz:alternatif-akim-ve-transformatorler** — İdeal bir transformatörün birincil sargısında 500, ikincil sargısında 400 sarım vardır. Birincile 100 V uygulanırsa ikincilden kaç V alınır?
+  - A) 160 · **B) 80** · C) 125 · D) 40000 · E) 100
+  - Çözüm: {V₁/V₂} = {N₁/N₂} → V₂ = 100 · {400/500} = 80 V.
+- **ayt-fiz:cembersel-hareket** — 4 m yarıçaplı çembersel yörüngede 6 m/s sabit süratle dolanan cismin merkezcil ivmesi kaç m/s²’dir?
+  - **A) 9** · B) 1,5 · C) 144 · D) 24 · E) 4,5
+  - Çözüm: a_{m} = {v²/r} = {36/4} = 9 m/s².
+- **ayt-fiz:cembersel-hareket** — Periyodu 1 s olan düzgün çembersel hareketin frekansı kaç Hz’dir?
+  - A) 2 · B) 5 · C) 4 · D) 3 · **E) 1**
+  - Çözüm: f = {1/T} = 1 Hz.
+- **ayt-fiz:dalga-mekanigi** — Hızı 40 m/s, frekansı 10 Hz olan bir dalganın dalga boyu kaç m’dir?
+  - **A) 4** · B) 400 · C) 8 · D) 0,25 · E) 30
+  - Çözüm: λ = {v/f} = {40/10} = 4 m.
+- **ayt-fiz:atom-fizigi-ve-radyoaktivite** — Yarılanma süresi 5 gün olan radyoaktif bir maddenin 80 g’ından 15 gün sonra kaç g bozunmadan kalır?
+  - A) 5 · **B) 10** · C) 13,33 · D) 40 · E) 70
+  - Çözüm: 15 gün = 3 yarılanma süresi. Kalan 80 · ({1/2})^{3} = 10 g.
+- **tyt-kim:mol-kavrami-ve-kimyasal-hesaplamalar** — 2 mol su molekülünde kaç tane molekül vardır? (N_{A} = 6 · 10^{23})
+  - **A) 12 · 10^{23}** · B) 36 · 10^{23} · C) 2 · 10^{23} · D) 13 · 10^{23} · E) 12 · 10^{22}
+  - Çözüm: Tanecik sayısı = n · N_{A} = 2 · 6 · 10^{23} = 12 · 10^{23}.
+- **tyt-kim:mol-kavrami-ve-kimyasal-hesaplamalar** — Normal koşullarda (0 °C, 1 atm) 1 mol gaz kaç litre hacim kaplar?
+  - A) 24,5 · B) 23,4 · C) 44,8 · D) 11,2 · **E) 22,4**
+  - Çözüm: NK’da 1 mol gaz 22,4 L kaplar: 1 · 22,4 = 22,4 L.
+- **tyt-kim:mol-kavrami-ve-kimyasal-hesaplamalar** — Su oluşumunda hidrojen ile oksijenin kütlece birleşme oranı 1’e 8 olarak bilinir. 12 g hidrojenin tamamen tepkimesi için kaç g oksijen gerekir?
+  - A) 192 · B) 20 · C) 108 · **D) 96** · E) 1,5
+  - Çözüm: Kütlece H : O = 1 : 8. 12 g H için 12 · 8 = 96 g O gerekir; 108 g su oluşur.
+- **tyt-kim:mol-kavrami-ve-kimyasal-hesaplamalar** — 34 gram NH₃ kaç moldür? (H: 1, C: 12, N: 14, O: 16, Na: 23, Mg: 24, Ca: 40)
+  - A) 17 · B) 1 · **C) 2** · D) 34 · E) 4
+  - Çözüm: NH₃ için mol kütlesi 14 + 3 · 1 = 17 g/mol. n = {m/M} = {34/17} = 2 mol.
+- **tyt-kim:kimyanin-temel-kanunlari** — Kapalı bir kapta 28 g A ile 16 g B maddesi artansız tepkimeye girerek yalnız C maddesini oluşturuyor. Oluşan C kaç gramdır?
+  - **A) 44** · B) 12 · C) 22 · D) 448 · E) 28
+  - Çözüm: Kütlenin korunumu kanunu: tepkimeye girenlerin toplam kütlesi ürünlerinkine eşittir: 28 + 16 = 44 g.
+- **tyt-kim:karisimlar** — Kütlece yüzde 25 oranında tuz içeren 400 g tuzlu su çözeltisinde kaç g tuz vardır?
+  - A) 1000 · B) 300 · **C) 100** · D) 16 · E) 25
+  - Çözüm: Tuz = 400 · {25/100} = 100 g.
+- **tyt-kim:karisimlar** — Kütlece yüzde 10 oranında tuz içeren 250 g tuzlu su çözeltisinde kaç g tuz vardır?
+  - A) 225 · B) 26 · **C) 25** · D) 10 · E) 250
+  - Çözüm: Tuz = 250 · {10/100} = 25 g.
+- **tyt-kim:asitler-bazlar-ve-tuzlar** — 25 °C’de [H⁺] = 10^{−4} M olan bir çözeltinin pH değeri kaçtır?
+  - **A) 4** · B) 11 · C) 10 · D) 5 · E) 6
+  - Çözüm: pH = −log[H⁺] = 4. pH < 7 olduğu için çözelti asidiktir.
+- **tyt-kim:asitler-bazlar-ve-tuzlar** — 25 °C’de pH’ı 4 olan bir çözeltinin pOH değeri kaçtır?
+  - A) 4 · B) 6 · C) 11 · D) 3 · **E) 10**
+  - Çözüm: 25 °C’de pH + pOH = 14 → pOH = 10.
+- **tyt-kim:atom-ve-periyodik-sistem** — Atom numarası 20 olan Ca elementinin +2 yüklü iyonunda kaç elektron bulunur?
+  - **A) 18** · B) 19 · C) 20 · D) 17 · E) 22
+  - Çözüm: İyon yükü = proton − elektron → 2 = 20 − e → e = 18.
+- **tyt-kim:atom-ve-periyodik-sistem** — Atom numarası 13, kütle numarası 27 olan Al atomunun çekirdeğinde kaç nötron vardır?
+  - A) 13 · B) 15 · C) 40 · D) 27 · **E) 14**
+  - Çözüm: Nötron sayısı = kütle numarası − proton sayısı = 27 − 13 = 14.
+- **ayt-kim:gazlar** — Sabit sıcaklıkta 3 atm basınçta 6 L hacim kaplayan bir gazın basıncı 4 atm yapılırsa hacmi kaç L olur?
+  - A) 9 · **B) 4,5** · C) 8 · D) 72 · E) 6
+  - Çözüm: Boyle yasası: P₁V₁ = P₂V₂ → V₂ = {3 · 6/4} = 4,5 L.
+- **ayt-kim:gazlar** — Sabit basınçta 200 K’de 3 L olan bir gazın sıcaklığı 600 K yapılırsa hacmi kaç L olur?
+  - A) 1200 · B) 1 · C) 3 · **D) 9** · E) 10
+  - Çözüm: Charles yasası: {V₁/T₁} = {V₂/T₂} → V₂ = 3 · {600/200} = 9 L.
+- **ayt-kim:sivi-cozeltiler-ve-cozunurluk** — 0,5 mol NaOH ile hazırlanan 500 mL çözeltinin derişimi kaç molardır?
+  - **A) 1** · B) 0,25 · C) 4 · D) 2 · E) 3
+  - Çözüm: Molarite = {mol/litre} = {0,5/0,5} = 1 M.
+- **ayt-kim:sivi-cozeltiler-ve-cozunurluk** — 2 M’lık 100 mL çözelti su eklenerek 400 mL’ye seyreltiliyor. Yeni derişim kaç M olur?
+  - A) 2 · B) 8 · C) 1,5 · **D) 0,5** · E) 1
+  - Çözüm: M₁V₁ = M₂V₂ → M₂ = {2 · 100/400} = 0,5 M.
+- **ayt-kim:kimyasal-tepkimelerde-enerji** — I. tepkimenin ΔH değeri −221 kJ, II. tepkimenin ΔH değeri ise −88 kJ. I ve II taraf tarafa toplanarak elde edilen tepkimenin ΔH değeri kaç kJ’dür?
+  - **A) −309** · B) −133 · C) 309 · D) 133 · E) −221
+  - Çözüm: Hess yasası: tepkimeler toplanınca ΔH’ler de toplanır: −221 + (−88) = −309 kJ.
+- **ayt-kim:kimyasal-denge** — A(g) ⇌ 2B(g) tepkimesi dengedeyken [A] = 0,5 M ve [B] = 0,4 M’dir. Derişimler cinsinden denge sabiti K_{c} kaçtır?
+  - **A) 0,32** · B) 0,8 · C) 0,16 · D) 1,6 · E) 3,12
+  - Çözüm: K_{c} = {[B]²/[A]} = {(0,4)²/0,5} = 0,32.
+- **ayt-kim:asit-baz-dengesi** — 25 °C’de 10^{−2} M’lık HCl çözeltisinin pH değeri kaçtır? (HCl kuvvetli asittir.)
+  - **A) 2** · B) 3 · C) 12 · D) 20 · E) 7
+  - Çözüm: Kuvvetli asit tamamen iyonlaşır: [H⁺] = 10^{−2} M → pH = 2.
+- **ayt-kim:asit-baz-dengesi** — 25 °C’de 10^{−1} M’lık NaOH çözeltisinin pH değeri kaçtır? (NaOH kuvvetli bazdır.)
+  - A) 1 · B) 9 · C) 15 · D) 7 · **E) 13**
+  - Çözüm: [OH⁻] = 10^{−1} → pOH = 1 → pH = 14 − 1 = 13.
+- **ayt-kim:organik-bilesikler** — Pentan (alkan) molekülünün formülü hangisidir?
+  - **A) C_{5}H_{12}** · B) C_{6}H_{12} · C) C_{5}H_{10} · D) C_{5}H_{22} · E) C_{5}H_{8}
+  - Çözüm: Alkanların genel formülü CₙH_{2n + 2}: n = 5 → C_{5}H_{12}.
+- **ayt-kim:kimya-ve-elektrik** — Elektrolizde 1 mol Cu²⁺ iyonunun metale indirgenmesi için kaç mol elektron gerekir?
+  - **A) 2** · B) 1 · C) 3 · D) 0,5 · E) 4
+  - Çözüm: Her Cu²⁺ iyonu 2 elektron alır: 1 · 2 = 2 mol e⁻.
+- **tyt-bio:kalitim** — Kan grubu genotipleri AB × 00 olan anne ve babanın bir çocuğunun AB kan grubu olma olasılığı kaçtır?
+  - **A) 0** · B) {3/4} · C) {1/4} · D) 1 · E) {1/2}
+  - Çözüm: AB × 00 → A0 ve B0; AB grubu çocuk olmaz.
+- **tyt-bio:kalitim** — Renk körlüğü X kromozomuna bağlı çekinik bir özelliktir. Taşıyıcı (XᴿXʳ) anne ile sağlıklı (XᴿY) babanın bir kızının renk körü olma olasılığı kaçtır?
+  - A) {1/4} · B) 1 · C) {3/4} · D) {1/2} · **E) 0**
+  - Çözüm: Kızlar babadan Xᴿ alır; renk körü kız olmaz (en çok taşıyıcı olur).
+- **tyt-bio:kalitim** — AA × aa çaprazlamasında oluşan bir yavrunun Aa olma olasılığı kaçtır? (A, a’ya baskın; genler bağımsız)
+  - A) {1/8} · B) {1/2} · C) {3/4} · **D) 1** · E) {1/4}
+  - Çözüm: AA × aa → bütün yavrular Aa.
+- **tyt-bio:canlilarin-temel-bilesenleri** — 1000 nükleotitten oluşan çift zincirli bir DNA molekülündeki nükleotitlerin yüzde 30 oranındaki kısmı adenin içeriyor. Bu DNA’da kaç guanin nükleotiti vardır?
+  - **A) 200** · B) 300 · C) 400 · D) 700 · E) 500
+  - Çözüm: A = T = 300; A + T = 600. Kalan 400 nükleotit G ve C’ye eşit dağılır: G = 200.
+- **tyt-bio:hucre-bolunmeleri** — Bir hücre art arda 4 kez mitoz bölünme geçiriyor. Sonunda kaç hücre oluşur?
+  - **A) 16** · B) 17 · C) 8 · D) 18 · E) 15
+  - Çözüm: Her mitozda hücre sayısı iki katına çıkar: 2^{4} = 16.
+- **tyt-bio:hucre-bolunmeleri** — Mayoz bölünme geçiren 10 tane ana hücreden toplam kaç üreme hücresi oluşur? (Erkeklerde olduğu gibi her bölünme 4 hücre verir.)
+  - A) 20 · B) 5 · C) 80 · D) 10 · **E) 40**
+  - Çözüm: Bir mayoz 4 hücre verir: 10 · 4 = 40.
+- **tyt-bio:hucre-bolunmeleri** — Vücut hücrelerinde 24 kromozom bulunan bir canlının vücut hücresi mitozla bölünüyor. Oluşan yavru hücrelerin her birinde kaç kromozom bulunur?
+  - A) 12 · B) 48 · C) 6 · D) 26 · **E) 24**
+  - Çözüm: Mitozda kromozom sayısı korunur: 2n = 24 → yavru hücreler de 2n = 24.
+- **ayt-bio:genden-proteine** — 150 amino asitlik bir polipeptidi şifreleyen mRNA’da (durdurma kodonu hariç) kaç nükleotit bulunur?
+  - **A) 450** · B) 900 · C) 150 · D) 453 · E) 300
+  - Çözüm: Her amino asit bir kodonla (3 nükleotit) şifrelenir: 150 · 3 = 450.
+- **ayt-bio:genden-proteine** — 50 amino asitten oluşan doğrusal bir polipeptitte kaç peptit bağı vardır?
+  - A) 50 · B) 25 · C) 100 · D) 51 · **E) 49**
+  - Çözüm: n amino asit arasında n − 1 peptit bağı kurulur: 49.
 - **ayt-fiz:is-enerji-ve-guc** — 5 kg kütleli bir cisim yerden 10 m yüksekliğe çıkarılıyor. Cismin kazandığı potansiyel enerji kaç J’dür? (g = 10 m/s²)
   - **A) 500** · B) 50 · C) 5000 · D) 60 · E) 250
   - Çözüm: E_{p} = m · g · h = 5 · 10 · 10 = 500 J.
 - **ayt-fiz:is-enerji-ve-guc** — 4 kg kütleli bir cisim 2 m/s hızla hareket ediyor. Kinetik enerjisi kaç J’dür?
   - A) 16 · B) 9 · **C) 8** · D) 6 · E) 4
   - Çözüm: E_{k} = {1/2} m v² = {1/2} · 4 · 4 = 8 J.
-- **tyt-kim:mol-kavrami-ve-kimyasal-hesaplamalar** — 64 gram O₂ kaç moldür? (H: 1, C: 12, N: 14, O: 16, Na: 23, Mg: 24, Ca: 40)
-  - **A) 2** · B) 64 · C) 1 · D) 4 · E) 32
-  - Çözüm: O₂ için mol kütlesi 2 · 16 = 32 g/mol. n = {m/M} = {64/32} = 2 mol.
-- **tyt-kim:atom-ve-periyodik-sistem** — Atom numarası 19, kütle numarası 39 olan K atomunun çekirdeğinde kaç nötron vardır?
-  - **A) 20** · B) 58 · C) 19 · D) 21 · E) 39
-  - Çözüm: Nötron sayısı = kütle numarası − proton sayısı = 39 − 19 = 20.
-- **tyt-bio:hucre-bolunmeleri** — Vücut hücrelerinde 24 kromozom bulunan bir canlıda mayozla oluşan üreme hücrelerinin her birinde kaç kromozom bulunur?
-  - **A) 12** · B) 24 · C) 13 · D) 48 · E) 6
-  - Çözüm: Mayozda kromozom sayısı yarıya iner: 2n = 24 → n = 12.
-- **tyt-bio:kalitim** — AA × aa çaprazlamasında oluşan bir yavrunun Aa olma olasılığı kaçtır? (A, a’ya baskın; genler bağımsız)
-  - **A) 1** · B) {3/4} · C) {1/4} · D) {1/8} · E) {1/2}
-  - Çözüm: AA × aa → bütün yavrular Aa.
 - **tyt-cog:harita-bilgisi** — 1/250.000 ölçekli bir haritada iki şehir arası 7 cm ise gerçek uzaklık kaç km’dir?
   - **A) 17,5** · B) 175 · C) 18,5 · D) 1,75 · E) 1750
   - Çözüm: Gerçek uzaklık = 7 · 250.000 cm = 1.750.000 cm = 17,5 km (1 km = 100 000 cm).

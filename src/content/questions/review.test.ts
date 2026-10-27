@@ -2,8 +2,7 @@
 import { it } from 'vitest';
 import { writeFileSync } from 'node:fs';
 import { SUBJECTS } from '../subjects';
-import { BANK } from './bank';
-import { GENERATORS, questionById } from './index';
+import { GENERATORS, BANK, questionById } from './index';
 import { LETTERS } from './core';
 
 it.runIf(process.env.REVIEW)('içerik listesi', () => {

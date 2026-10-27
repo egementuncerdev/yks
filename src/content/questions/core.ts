@@ -57,13 +57,25 @@ export const num = (x: number) => {
   return x < 0 ? `−${s}` : s;
 };
 
+/** Üretilen metni düzelt: kayan nokta artığı, eksi işareti, "1x" → "x" */
+export const tidy = (s: string) => s
+  .replace(/-?\d+\.\d{4,}/g, (m) => num(Math.round(Number(m) * 100) / 100))
+  .replace(/(^|[\s(=,{>])-(?=\d)/g, '$1−')
+  .replace(/(^|[^\d,.\p{L}])1(?=[a-z])/gu, '$1')
+  .replace(/([−+·÷] )−(\d[\d,]*)/g, '$1(−$2)')
+  .replace(/([a-z])\^\{1\}/g, '$1')
+  .replace(/(?<![\d.])(\d+)\.(\d{1,2})(?![\d.’])/g, '$1,$2');
+
+export type Generator = (r: Rnd) => Omit<Question, 'id' | 'topicId'>;
+
 /** Doğru cevap + çeldiriciler → 5 farklı şık. Eksik çeldirici yakın değerlerle tamamlanır. */
 export function choices(r: Rnd, correct: string, wrong: string[], filler?: (i: number) => string): { options: string[]; answer: number } {
+  correct = tidy(correct);
   const set: string[] = [correct];
-  for (const w of wrong) if (w && !set.includes(w) && set.length < 5) set.push(w);
+  for (const w0 of wrong) { const w = w0 && tidy(w0); if (w && !set.includes(w) && set.length < 5) set.push(w); }
   for (let i = 1; set.length < 5 && i < 60; i++) {
     const f = filler?.(i);
-    if (f && !set.includes(f)) set.push(f);
+    if (f && !set.includes(tidy(f))) set.push(tidy(f));
   }
   if (set.length < 5) throw new Error(`şık üretilemedi: ${correct}`);
   const options = shuffle(r, set);
@@ -72,16 +84,15 @@ export function choices(r: Rnd, correct: string, wrong: string[], filler?: (i: n
 
 /** Sayısal cevap için kısayol: çeldiriciler sayı, eksikler ±1, ±2 … */
 export function numChoices(r: Rnd, correct: number, wrong: number[]) {
-  const near = (i: number) => num(correct + (i % 2 ? 1 : -1) * Math.ceil(i / 2) * (Math.abs(correct) >= 40 ? Math.max(1, Math.round(Math.abs(correct) / 20)) : 1));
-  return choices(r, num(correct), wrong.filter((w) => Number.isFinite(w)).map(num), near);
+  const step = Math.abs(correct) >= 40 ? Math.max(1, Math.round(Math.abs(correct) / 20)) : Math.abs(correct) < 2 && !Number.isInteger(correct) ? 0.5 : 1;
+  // pozitif cevapta çeldiriciler de pozitif kalsın (−1 Hz, 0 M gibi saçma şıklar olmasın)
+  const ok = (x: number) => Number.isFinite(x) && (correct <= 0 || x > 0) && (correct === 0 || Math.abs(x) >= 0.005);
+  const near: number[] = [];
+  for (let i = 1; near.length < 30 && i < 80; i++) {
+    const x = correct + (i % 2 ? 1 : -1) * Math.ceil(i / 2) * step;
+    if (ok(x)) near.push(x);
+  }
+  return choices(r, num(correct), wrong.filter(ok).map(num), (i) => (near[i - 1] !== undefined ? num(near[i - 1]!) : ''));
 }
 
 export const LETTERS = ['A', 'B', 'C', 'D', 'E'];
-
-/** Üretilen metni düzelt: kayan nokta artığı, eksi işareti, "1x" → "x" */
-export const tidy = (s: string) => s
-  .replace(/-?\d+\.\d{4,}/g, (m) => num(Math.round(Number(m) * 100) / 100))
-  .replace(/(^|[\s(=,{>])-(?=\d)/g, '$1−')
-  .replace(/(^|[^\d,.\p{L}])1(?=[a-z])/gu, '$1');
-
-export type Generator = (r: Rnd) => Omit<Question, 'id' | 'topicId'>;

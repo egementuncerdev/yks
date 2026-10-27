@@ -138,7 +138,7 @@ export const TYT_MAT: Record<string, Generator[]> = {
         const c = (t * (j - 1)) / (k - j);
         if (!Number.isInteger(c) || c < 3 || c > 15) continue;
         const m = k * c;
-        return g(`Bir annenin yaşı çocuğunun yaşının ${k} katıdır. ${t} yıl sonra annenin yaşı çocuğunun yaşının ${j} katı olacaktır. Anne bugün kaç yaşındadır?`, m, [c, m + t, j * c, m - t], `Çocuk x, anne ${k}x: ${k}x + ${t} = ${j}(x + ${t}) → ${k - j}x = ${t * (j - 1)} → x = ${c}; anne ${m}.`, r);
+        return g(`Bir annenin yaşı çocuğunun yaşının ${k} katıdır. ${t} yıl sonra annenin yaşı çocuğunun yaşının ${j} katı olacaktır. Anne bugün kaç yaşındadır?`, m, [c, m + t, j * c, m - t], `Çocuk x, anne ${k}x: ${k}x + ${t} = ${j}(x + ${t}) → ${k}x + ${t} = ${j}x + ${j * t} → x = ${c}; anne ${m}.`, r);
       }
     }
   ],

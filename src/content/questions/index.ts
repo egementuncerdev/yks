@@ -3,7 +3,13 @@ import { SUBJECT_BY_ID, TOPIC_BY_ID } from '../subjects';
 import { rng, shuffle, tidy, type Generator, type Question } from './core';
 import { TYT_MAT } from './tytMat';
 import { AYT_MAT, BIYOLOJI, COGRAFYA, FIZIK, KIMYA } from './science';
-import { BANK } from './bank';
+import { BANK as BANK1 } from './bank';
+import { BANK2 } from './bank2';
+
+/** Bütün elle yazılmış sorular. Yeni sorular yalnız SONA eklenir (kimlikler sıra numarasıdır). */
+export const BANK = [...BANK1, ...BANK2];
+import { MATH_MORE } from './mathMore';
+import { SCIENCE_MORE } from './scienceMore';
 
 export type { Question };
 
@@ -27,6 +33,8 @@ add('ayt-mat', {
   'Çember ve Daire': TYT_MAT['Çember ve Daire']!, 'Doğrunun Analitiği': TYT_MAT['Noktanın ve Doğrunun Analitiği']!, 'Katı Cisimler': TYT_MAT['Katı Cisimler']!,
   'Çokgenler ve Dörtgenler (Tekrar)': TYT_MAT['Çokgenler ve Dörtgenler']!
 });
+for (const [sid, table] of Object.entries({ ...MATH_MORE })) add(sid, table);
+for (const [sid, table] of Object.entries(SCIENCE_MORE)) add(sid, table);
 add('tyt-fiz', FIZIK);
 add('ayt-fiz', { 'İş, Enerji ve Güç': FIZIK['İş, Güç ve Enerji']! });
 add('tyt-kim', KIMYA);
@@ -35,7 +43,29 @@ add('tyt-cog', COGRAFYA);
 
 /** konu id → elle yazılmış soru indeksleri */
 export const BANK_BY_TOPIC = new Map<string, number[]>();
-BANK.forEach(([sid, name], i) => { const id = topicId(sid, name); BANK_BY_TOPIC.set(id, [...(BANK_BY_TOPIC.get(id) ?? []), i]); });
+/* Aynı içerik AYT’de de soruluyor: TYT konusundaki elle yazılmış sorular bu AYT konularında da kullanılır */
+const SHARED: Record<string, string[]> = {
+  'tyt-tar:Tarih ve Zaman': ['ayt-tar:Tarih Bilimi ve İlk Çağ'],
+  'tyt-tar:İnsanlığın İlk Dönemleri': ['ayt-tar:Tarih Bilimi ve İlk Çağ'],
+  'tyt-tar:İlk ve Orta Çağlarda Türk Dünyası': ['ayt-tar:İlk ve Orta Çağlarda Türk Dünyası'],
+  'tyt-tar:İslam Medeniyetinin Doğuşu': ['ayt-tar:İslam Tarihi ve Türk-İslam Devletleri'],
+  'tyt-tar:İlk Türk-İslam Devletleri': ['ayt-tar:İslam Tarihi ve Türk-İslam Devletleri'],
+  'tyt-tar:Selçuklu Türkiyesi': ['ayt-tar:Selçuklu Türkiyesi'],
+  'tyt-tar:Beylikten Devlete Osmanlı': ['ayt-tar:Osmanlı Kuruluş ve Yükselme'],
+  'tyt-tar:Dünya Gücü Osmanlı': ['ayt-tar:Osmanlı Kuruluş ve Yükselme'],
+  'tyt-tar:Değişim Çağında Osmanlı ve Avrupa': ['ayt-tar:Değişen Dünya Dengeleri ve Osmanlı'],
+  'tyt-tar:Milli Mücadele': ['ayt-tar:Milli Mücadele'],
+  'tyt-tar:Atatürkçülük ve Türk İnkılabı': ['ayt-tar:Atatürkçülük ve İnkılaplar'],
+  'tyt-cog:Nüfus ve Göç': ['ayt-cog:Türkiye’de Nüfus ve Yerleşme'],
+  'tyt-cog:Ekonomik Faaliyetler': ['ayt-cog:Türkiye Ekonomisi']
+};
+BANK.forEach(([sid, name], i) => {
+  for (const key of [`${sid}:${name}`, ...(SHARED[`${sid}:${name}`] ?? [])]) {
+    const [s2, ...rest] = key.split(':');
+    const id = topicId(s2!, rest.join(':'));
+    BANK_BY_TOPIC.set(id, [...(BANK_BY_TOPIC.get(id) ?? []), i]);
+  }
+});
 
 export const hasQuestions = (topic: string) => GENERATORS.has(topic) || BANK_BY_TOPIC.has(topic);
 export const questionCount = (topic: string): number | 'sınırsız' => (GENERATORS.has(topic) ? 'sınırsız' : BANK_BY_TOPIC.get(topic)?.length ?? 0);

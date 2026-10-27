@@ -76,7 +76,7 @@ export const AYT_MAT: Record<string, Generator[]> = {
     (r) => {
       const n = int(r, 5, 99); const m = n % 4;
       const val = ['1', 'i', '−1', '−i'][m]!;
-      return { stem: `i² = −1 olmak üzere i^{${n}} kaçtır?`, ...choices(r, val, ['1', 'i', '−1', '−i', '0'].filter((x) => x !== val), () => '2i'), solution: `iⁿ 4’lük döngüdedir. ${n} = 4 · ${(n - m) / 4} + ${m} → i^{${n}} = i^{${m}} = ${val}.` };
+      return { stem: `i² = −1 olmak üzere i^{${n}} kaçtır?`, ...choices(r, val, ['1', 'i', '−1', '−i', '0'].filter((x) => x !== val), () => '2i'), solution: `iⁿ 4’lük döngüdedir (i, −1, −i, 1). ${n} sayısının 4 ile bölümünden kalan ${m} → i^{${n}} = ${m === 0 ? 'i^{4} = 1' : m === 1 ? 'i' : `i^{${m}} = ${val}`}.` };
     }
   ]
 };

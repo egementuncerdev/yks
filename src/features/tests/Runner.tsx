@@ -64,7 +64,7 @@ export function Runner({ questions, source, onDone, onRestart }: { questions: Qu
               {missed.map((r) => (
                 <li key={r.qid} className="px-4 py-4">
                   <p className="text-sm text-muted">{topicName(r.topicId)} · {r.result === 'empty' ? 'boş' : `senin cevabın ${LETTERS[r.picked!]}`}</p>
-                  <p className="mt-1"><MathText text={r.q.stem} /></p>
+                  <p className="mt-1 whitespace-pre-line"><MathText text={r.q.stem} /></p>
                   <p className="mt-2 text-[15px]"><span className="font-medium text-good">Doğru cevap {LETTERS[r.q.answer]}) </span><MathText text={r.q.options[r.q.answer]!} /></p>
                   <p className="mt-1 text-[14.5px] text-ink-2"><MathText text={r.q.solution} /></p>
                 </li>
@@ -88,7 +88,7 @@ export function Runner({ questions, source, onDone, onRestart }: { questions: Qu
         <span className="num text-sm text-muted">{i + 1} / {questions.length}</span>
       </div>
       <p className="text-sm text-muted">{topicName(q.topicId)}</p>
-      <h1 className="mt-2 text-[1.15rem] leading-relaxed"><MathText text={q.stem} /></h1>
+      <h1 className="mt-2 whitespace-pre-line text-[1.15rem] leading-relaxed"><MathText text={q.stem} /></h1>
 
       <div role="radiogroup" aria-label="Şıklar" className="mt-6 grid gap-2">
         {q.options.map((o, k) => {

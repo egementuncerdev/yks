@@ -1,7 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { GENERATORS, BANK_BY_TOPIC, questionsFor, questionById } from './index';
-import { BANK } from './bank';
-import { rng } from './core';
+import { GENERATORS, BANK_BY_TOPIC, BANK, questionsFor, questionById } from './index';
 
 const bad = /NaN|undefined|Infinity|null|\[object/;
 
@@ -9,7 +7,8 @@ describe('soru üreticileri', () => {
   it('her üretici 300 tohumda geçerli soru veriyor: 5 farklı şık, doğru cevap şıklarda', () => {
     for (const [topic, gens] of GENERATORS) gens.forEach((gen, gi) => {
       for (let seed = 1; seed <= 300; seed++) {
-        const q = gen(rng(seed));
+        void gen;
+        const q = questionById(`g|${topic}|${gi}|${seed}`)!;
         const tag = `${topic}#${gi} tohum ${seed}`;
         expect(q.options, tag).toHaveLength(5);
         expect(new Set(q.options).size, tag).toBe(5);
